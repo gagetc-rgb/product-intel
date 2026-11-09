@@ -1,0 +1,322 @@
+{
+ "phrase": "miraiclinical.com",
+ "date": "2026-11-09",
+ "active": 100,
+ "aged30": 49,
+ "aged90": 19,
+ "aged180": 17,
+ "ads": [
+  {
+   "id": "1507196367435098",
+   "page": "Mirai Clinical",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "924900777043961",
+   "page": "Mirai Clinical",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "834339722555244",
+   "page": "Mirai Clinical",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1589878905502289",
+   "page": "Mirai Clinical",
+   "start": "2025-12-22",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "2430312297408836",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "737280825391743",
+   "page": "Mirai Clinical",
+   "start": "2025-06-09",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "2438041889906634",
+   "page": "Koko Face Yoga",
+   "start": "2025-06-17",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "1262466089183209",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "822165330915294",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "1568996474159986",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "713940381490754",
+   "page": "Mirai Clinical",
+   "start": "2025-07-03",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "835720305833511",
+   "page": "Mirai Clinical",
+   "start": "2025-11-24",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "1845649256127419",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "2091443731426307",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "948413994297278",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "26016379811337135",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "1886830278624763",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "1997658094444143",
+   "page": "Mirai Clinical",
+   "start": "2026-06-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1558366446077393",
+   "page": "Mirai Clinical",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1646745037240958",
+   "page": "Mirai Clinical",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1742728093507285",
+   "page": "Koko Face Yoga",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1416799627260056",
+   "page": "Mirai Clinical",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4627755200793605",
+   "page": "Mirai Clinical",
+   "start": "2026-09-11",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "5010621489164581",
+   "page": "Mirai Clinical",
+   "start": "2026-09-11",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1113295021129226",
+   "page": "Mirai Clinical",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3111984675799499",
+   "page": "Mirai Clinical",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1748872743011165",
+   "page": "Mirai Clinical",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1632530171901265",
+   "page": "Jared Brubaker",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1735836134354526",
+   "page": "vintageglamourlife",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1696865428623177",
+   "page": "Koko Face Yoga",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1764059984677979",
+   "page": "Mirai Clinical",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1981429102539009",
+   "page": "Mirai Clinical",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1374417207783475",
+   "page": "Mirai Clinical",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "972522388552448",
+   "page": "Koko Face Yoga",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1923701215260397",
+   "page": "Mirai Clinical",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1408368334343649",
+   "page": "Koko Face Yoga",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1478343807495217",
+   "page": "Mirai Clinical",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1488399309916546",
+   "page": "Mirai Clinical",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1080974624700462",
+   "page": "Mirai Clinical",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "0-30"
+  }
+ ]
+}

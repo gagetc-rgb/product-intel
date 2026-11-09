@@ -1,0 +1,274 @@
+{
+ "luxe.com": {
+  "shop": "luxe-cosmetics-us",
+  "loox": "4kWOkvCs9n",
+  "widgets": [
+   "judge.me",
+   "loox",
+   "trustpilot",
+   "opinew"
+  ],
+  "err": ""
+ },
+ "luxe-cosmetics.com": {
+  "shop": "luxe-cosmetics-us",
+  "loox": "4kWOkvCs9n",
+  "widgets": [
+   "judge.me",
+   "loox",
+   "trustpilot",
+   "opinew"
+  ],
+  "err": ""
+ },
+ "luxeresearchlab.com": {
+  "shop": "luxe-cosmetics-denmark",
+  "loox": null,
+  "widgets": [
+   "loox",
+   "trustpilot",
+   "opinew"
+  ],
+  "err": ""
+ },
+ "primeprometics.com": {
+  "shop": "safeopticss",
+  "loox": null,
+  "widgets": [
+   "stamped"
+  ],
+  "err": ""
+ },
+ "smooche.com": {
+  "shop": "08f531-2",
+  "loox": null,
+  "widgets": [
+   "loox"
+  ],
+  "err": ""
+ },
+ "trylumineskin.com": {
+  "shop": "7iygn0-0k",
+  "loox": null,
+  "widgets": [],
+  "err": ""
+ },
+ "hestiacosmetics.com": {
+  "shop": "7iygn0-0k",
+  "loox": null,
+  "widgets": [],
+  "err": ""
+ },
+ "magnixa.com": {
+  "shop": "17c33f-95",
+  "loox": null,
+  "widgets": [],
+  "err": ""
+ },
+ "terralotus.shop": {
+  "shop": "20e2e7-b6",
+  "loox": null,
+  "widgets": [
+   "judge.me"
+  ],
+  "err": ""
+ },
+ "try-forge.com": {
+  "shop": "2d38e7",
+  "loox": null,
+  "widgets": [
+   "judge.me"
+  ],
+  "err": ""
+ },
+ "ancestralcosmetics.com": {
+  "shop": "ancestral-cosmetics",
+  "loox": null,
+  "widgets": [
+   "judge.me"
+  ],
+  "err": ""
+ },
+ "bare-ritual.com": {
+  "shop": "pdbxmz-hh",
+  "loox": null,
+  "widgets": [
+   "loox",
+   "opinew"
+  ],
+  "err": ""
+ },
+ "byminus.com": {
+  "shop": "903010-d2",
+  "loox": null,
+  "widgets": [
+   "judge.me",
+   "loox",
+   "opinew"
+  ],
+  "err": ""
+ },
+ "wildgoldtallow.com": {
+  "shop": "mvdmxq-fz",
+  "loox": null,
+  "widgets": [
+   "judge.me"
+  ],
+  "err": ""
+ },
+ "goda.co": {
+  "shop": "a248c2-2",
+  "loox": "XURkoa9PLK",
+  "widgets": [
+   "loox",
+   "trustpilot"
+  ],
+  "err": ""
+ },
+ "try-turmskin.com": {
+  "shop": "efdec5-4f",
+  "loox": null,
+  "widgets": [
+   "judge.me",
+   "loox",
+   "opinew"
+  ],
+  "err": ""
+ },
+ "drmtlgy.com": {
+  "shop": "drmtlgy",
+  "loox": null,
+  "widgets": [
+   "judge.me",
+   "okendo",
+   "yotpo",
+   "stamped",
+   "trustpilot"
+  ],
+  "err": ""
+ },
+ "scentifyhome.com": {
+  "shop": "scentify-home",
+  "loox": null,
+  "widgets": [
+   "judge.me"
+  ],
+  "err": ""
+ },
+ "aurahouse.com": {
+  "shop": "aurahouse-8728",
+  "loox": null,
+  "widgets": [
+   "okendo"
+  ],
+  "err": ""
+ },
+ "hotelcollection.com": {
+  "shop": "hotelcollection",
+  "loox": null,
+  "widgets": [
+   "okendo",
+   "stamped",
+   "junip"
+  ],
+  "err": ""
+ },
+ "aroma360.com": {
+  "shop": "new-aroma360",
+  "loox": null,
+  "widgets": [
+   "okendo",
+   "stamped"
+  ],
+  "err": ""
+ },
+ "airscentdiffusers.com": {
+  "shop": null,
+  "loox": null,
+  "widgets": [],
+  "err": ""
+ },
+ "sproos.co": {
+  "shop": "sprooshome",
+  "loox": null,
+  "widgets": [
+   "junip"
+  ],
+  "err": ""
+ },
+ "filterbaby.com": {
+  "shop": "trendywolfy",
+  "loox": null,
+  "widgets": [
+   "judge.me"
+  ],
+  "err": ""
+ },
+ "santevia.com": {
+  "shop": "santevia-markets",
+  "loox": null,
+  "widgets": [
+   "judge.me"
+  ],
+  "err": ""
+ },
+ "aquatru.com": {
+  "shop": "aquatruglobal",
+  "loox": null,
+  "widgets": [
+   "yotpo"
+  ],
+  "err": ""
+ },
+ "mielleorganics.com": {
+  "shop": "mielleorganics",
+  "loox": null,
+  "widgets": [],
+  "err": ""
+ },
+ "imaree.com": {
+  "shop": "testingthemeswhale",
+  "loox": null,
+  "widgets": [
+   "yotpo"
+  ],
+  "err": ""
+ },
+ "officialbodywise.com": {
+  "shop": "w0hpuy-c1",
+  "loox": null,
+  "widgets": [],
+  "err": ""
+ },
+ "miraiclinical.com": {
+  "shop": "mirai-clinical",
+  "loox": null,
+  "widgets": [
+   "yotpo"
+  ],
+  "err": ""
+ },
+ "try-kaori.com": {
+  "shop": "cc0czq-b8",
+  "loox": null,
+  "widgets": [],
+  "err": ""
+ },
+ "earthlyderm.com": {
+  "shop": "ssq4re-gw",
+  "loox": null,
+  "widgets": [
+   "loox",
+   "opinew"
+  ],
+  "err": ""
+ },
+ "vibriance.com": {
+  "shop": "vibriance",
+  "loox": null,
+  "widgets": [
+   "stamped"
+  ],
+  "err": ""
+ }
+}

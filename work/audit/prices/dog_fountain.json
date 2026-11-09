@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B0FPFZ7XFJ",
+  "brand": "veken",
+  "units": 30000,
+  "price_scan": "$27.99",
+  "asin_age_m": 13
+ },
+ {
+  "asin": "B0FJMF2T4J",
+  "brand": "(no brand)",
+  "units": 10000,
+  "price_scan": "$19.98",
+  "asin_age_m": 15
+ },
+ {
+  "asin": "B08NCDBT7Q",
+  "brand": "veken",
+  "units": 10000,
+  "price_scan": "$19.99",
+  "asin_age_m": 66
+ },
+ {
+  "asin": "B0F5BF98CW",
+  "brand": "(no brand)",
+  "units": 8000,
+  "price_scan": "$19.99",
+  "asin_age_m": 20
+ },
+ {
+  "asin": "B0DDPYHHFX",
+  "brand": "(no brand)",
+  "units": 8000,
+  "price_scan": "$19.99",
+  "asin_age_m": 27
+ },
+ {
+  "asin": "B0FBS5L5BY",
+  "brand": "(no brand)",
+  "units": 7000,
+  "price_scan": "$18.99",
+  "asin_age_m": 19
+ },
+ {
+  "asin": "B0FPFZ3C5K",
+  "brand": "veken",
+  "units": 6000,
+  "price_scan": "$39.99",
+  "asin_age_m": 13
+ },
+ {
+  "asin": "B0FJMBNZQ1",
+  "brand": "(no brand)",
+  "units": 5000,
+  "price_scan": "$27.98",
+  "asin_age_m": 15
+ },
+ {
+  "asin": "B0DSFNMG93",
+  "brand": "(no brand)",
+  "units": 4000,
+  "price_scan": "$19.94",
+  "asin_age_m": 22
+ },
+ {
+  "asin": "B0DXPTTKW2",
+  "brand": "(no brand)",
+  "units": 4000,
+  "price_scan": "$60.99",
+  "asin_age_m": 21
+ }
+]

@@ -1,0 +1,290 @@
+{
+ "phrase": "aurahouse.com",
+ "date": "2026-11-09",
+ "active": 150,
+ "aged30": 27,
+ "aged90": 22,
+ "aged180": 3,
+ "ads": [
+  {
+   "id": "1940043790214452",
+   "page": "Aura House",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "180+"
+  },
+  {
+   "id": "1448928159721186",
+   "page": "Aura House",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "988192007099866",
+   "page": "Aura House",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1370141314490480",
+   "page": "Deb and Danelle with Aura House",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1379883527387257",
+   "page": "Aura House",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1413238263979087",
+   "page": "Destination Home with Aura House",
+   "start": "2026-07-24",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4412503472345333",
+   "page": "Aura House",
+   "start": "2026-08-08",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2009129399998429",
+   "page": "Bonnie and Joel with Aura House",
+   "start": "2026-05-14",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1032014722960058",
+   "page": "Aura House",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "27445679191801067",
+   "page": "Aura House",
+   "start": "2026-08-05",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1739828383868203",
+   "page": "Aura House",
+   "start": "2026-06-26",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1432835311865135",
+   "page": "Bonnie and Joel with Aura House",
+   "start": "2026-05-14",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4177397385726363",
+   "page": "Dress Your Decor with Aura House",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1362763672060944",
+   "page": "Aura House",
+   "start": "2026-08-05",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1306132044219943",
+   "page": "Bonnie and Joel with Aura House",
+   "start": "2026-05-14",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1047012941550852",
+   "page": "Heather Ray with Aura House",
+   "start": "2026-06-19",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2197755037665715",
+   "page": "Bonnie and Joel with Aura House",
+   "start": "2026-05-14",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "977706148591269",
+   "page": "Dress Your Decor with Aura House",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2013188750071403",
+   "page": "Heather Ray with Aura House",
+   "start": "2026-07-05",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "846764121204812",
+   "page": "Bonnie and Joel with Aura House",
+   "start": "2026-05-14",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "999432023016711",
+   "page": "Heather Ray with Aura House",
+   "start": "2026-06-19",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1718339316146566",
+   "page": "Aura House",
+   "start": "2026-07-02",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1125774116624606",
+   "page": "Deb and Danelle with Aura House",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1271827375072019",
+   "page": "Deb and Danelle with Aura House",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1829407835103028",
+   "page": "The Bollman Bunch with Aura House",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1072679868452123",
+   "page": "Sarah's Haven with Aura House",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1372542111747965",
+   "page": "Sweet Tea with Madi with Aura House",
+   "start": "2026-08-26",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1394105716045199",
+   "page": "Hip & Humble Style with Aura House",
+   "start": "2026-10-14",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1539799184837139",
+   "page": "Hodinkee with Aura House",
+   "start": "2026-10-22",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "957631297011525",
+   "page": "Lindsay Stewart Dot Com with Aura House",
+   "start": "2026-10-26",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "949416267590298",
+   "page": "Addison's Wonderland Blog with Aura House",
+   "start": "2026-10-18",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1418407633694183",
+   "page": "Hodinkee with Aura House",
+   "start": "2026-10-22",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "3364725973723736",
+   "page": "Hip & Humble Style with Aura House",
+   "start": "2026-10-14",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1808718960303344",
+   "page": "Addison's Wonderland Blog with Aura House",
+   "start": "2026-10-18",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1979625009365846",
+   "page": "Deb and Danelle with Aura House",
+   "start": "2026-10-26",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "0-30"
+  }
+ ]
+}

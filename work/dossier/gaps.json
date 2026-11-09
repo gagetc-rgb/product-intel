@@ -1,0 +1,116 @@
+{
+ "color_foundation": [
+  "photos",
+  "reviews_monthly"
+ ],
+ "body_oil": [
+  "price",
+  "photos",
+  "reviews_monthly"
+ ],
+ "scent_diffuser": [
+  "photos",
+  "reviews_monthly"
+ ],
+ "tallow_balm": [
+  "photos",
+  "reviews_monthly"
+ ],
+ "persimmon_soap": [
+  "photos",
+  "reviews_monthly"
+ ],
+ "shower_filter": [
+  "photos",
+  "reviews_monthly"
+ ],
+ "neck_cream": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "rosemary_oil": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "turmeric_soap": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly"
+ ],
+ "dog_fountain": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "chin_wrap": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "pore_patch": [
+  "meta_brands",
+  "price",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "exfoliating_towel": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "magnesium_spray": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "hair_removal_cream": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "compression_socks": [
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "whitening_powder": [
+  "meta_brands",
+  "price",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "lash_serum": [
+  "amazon",
+  "meta_brands",
+  "price",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "hair_serum": [
+  "amazon",
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ],
+ "prewash_oil": [
+  "amazon",
+  "meta_brands",
+  "photos",
+  "reviews_monthly",
+  "creatives"
+ ]
+}

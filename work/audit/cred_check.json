@@ -1,0 +1,71 @@
+{
+ "bench": {
+  "median": 1.98,
+  "top10": 6.3,
+  "src": "https://littledata.io/average-website-performance",
+  "beauty_cr_max": 5.38,
+  "beauty_src": "https://marketing.dynamicyield.com/benchmarks/conversion-rate/"
+ },
+ "cases": [
+  {
+   "store": "Earthly Derm",
+   "pid": "turmeric_soap",
+   "video": "zRMForJwsy8",
+   "quote": "Just look at the revenue numbers 7 to $14 million a month ... close to a million monthly visitors or 900,000",
+   "claim": [
+    7000000.0,
+    14000000.0
+   ],
+   "visits": [
+    900000.0,
+    913000.0
+   ],
+   "visits_src": "author's own figure (~900K); SimilarWeb Sep 2026: 913K (work/market_system.md)",
+   "tier": "◆",
+   "rpv": [
+    7.67,
+    15.56
+   ],
+   "x_median": [
+    3.9,
+    7.9
+   ],
+   "x_top10": [
+    1.2,
+    2.5
+   ]
+  },
+  {
+   "store": "Skult",
+   "pid": "chin_wrap",
+   "video": "dZRoQlQF9WQ",
+   "quote": "with a 2,000 active ads number we're looking at $8.2 million every single month ... anywhere between 4 to 7 million",
+   "claim": [
+    4000000.0,
+    8200000.0
+   ],
+   "visits": [
+    16000.0,
+    27000.0
+   ],
+   "visits_src": "SimilarWeb Jun-Sep 2026 (work/market_system.md); weak for sites under ~50K visits, so x10 slack is tested",
+   "tier": "◈",
+   "rpv": [
+    148.15,
+    512.5
+   ],
+   "x_median": [
+    74.8,
+    258.8
+   ],
+   "x_top10": [
+    23.5,
+    81.3
+   ],
+   "rpv_if_10x_traffic": [
+    14.81,
+    51.25
+   ]
+  }
+ ]
+}

@@ -1,0 +1,396 @@
+{
+ "exfoliating_towel|mainbasics": {
+  "domain": "mainbasics.com",
+  "registered": "2019-10-27",
+  "wayback_first": "20220301",
+  "home_status": 200,
+  "platform": "",
+  "widgets": [],
+  "myshopify": null,
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "exfoliating_towel|generic": {
+  "domain": "blissal.com",
+  "registered": "2022-12-06",
+  "wayback_first": "20110207",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [],
+  "myshopify": "2d4a9c-2",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "exfoliating_towel|bare": {
+  "domain": "barebotanics.co",
+  "wayback_first": "20230129",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [],
+  "myshopify": "bare-botanics-shop",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "exfoliating_towel|aisen": {
+  "domain": "getaisen.com",
+  "registered": "2026-09-23",
+  "wayback_first": null,
+  "home_status": 200,
+  "platform": "",
+  "widgets": [
+   "loox",
+   "fera"
+  ],
+  "myshopify": null,
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "exfoliating_towel|love": {
+  "domain": "justlovebeing.com",
+  "registered": "2024-11-24",
+  "wayback_first": "20241124",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [],
+  "myshopify": "bidqi7-29",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|livaclean": {
+  "domain": "livaclean.com",
+  "registered": "2018-06-21",
+  "wayback_first": "20240524",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "loox"
+  ],
+  "myshopify": "30e3c1-21",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|southern": {
+  "domain": "southernnaturalsoap.com",
+  "registered": "2010-07-02",
+  "wayback_first": "20141222",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "judge.me",
+   "yotpo"
+  ],
+  "myshopify": "southern-natural-llc",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|monier": {
+  "domain": "trymonier.com",
+  "registered": "2024-03-10",
+  "wayback_first": "20240519",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "loox",
+   "opinew"
+  ],
+  "myshopify": "monier-brand",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|bacneout": {
+  "domain": "ecloura.com",
+  "registered": "2024-01-17",
+  "wayback_first": "20240815",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [],
+  "myshopify": "az0ec2-0i",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|vale": {
+  "domain": "riftvalleystore.com",
+  "registered": "2024-10-23",
+  "wayback_first": "20241221",
+  "home_status": 200,
+  "platform": "",
+  "widgets": [],
+  "myshopify": null,
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|derma": {
+  "domain": "thedermacure.com",
+  "registered": "2024-09-15",
+  "wayback_first": "20211218",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "judge.me"
+  ],
+  "myshopify": "darmacure",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|pyary": {
+  "domain": "pyary.com",
+  "wayback_first": "20021123",
+  "home_status": 200,
+  "platform": "",
+  "widgets": [],
+  "myshopify": null,
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|yafusipe": {
+  "domain": "yafusipe.com",
+  "wayback_first": "20260519",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "judge.me"
+  ],
+  "myshopify": "yafusipe",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|cleanse": {
+  "domain": "hyssopsoap.com",
+  "wayback_first": "20071212",
+  "home_status": 200,
+  "platform": "",
+  "widgets": [],
+  "myshopify": null,
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "turmeric_soap|makari": {
+  "domain": "makari.com",
+  "wayback_first": "20010909",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [],
+  "myshopify": "makarishop",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|dr": {
+  "domain": "drteals.com",
+  "wayback_first": "20091220",
+  "home_status": 200,
+  "platform": "",
+  "widgets": [],
+  "myshopify": null,
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|imatchme": {
+  "domain": "imatchme.com",
+  "wayback_first": "20110131",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "judge.me"
+  ],
+  "myshopify": "imatchme",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|aosorw": {
+  "domain": "aosorw.com",
+  "wayback_first": "20240612",
+  "home_status": 200,
+  "platform": "woocommerce",
+  "widgets": [],
+  "myshopify": null,
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|vitamatic": {
+  "domain": "vitamatic.com",
+  "wayback_first": "20010720",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "judge.me",
+   "trustpilot"
+  ],
+  "myshopify": "vitamaticusa",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|pacifica": {
+  "domain": "pacificabeauty.com",
+  "wayback_first": "20110304",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "judge.me"
+  ],
+  "myshopify": "pcfca",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|pixie": {
+  "domain": "pixiecup.com",
+  "wayback_first": "20130619",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "opinew"
+  ],
+  "myshopify": "pixiecup",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|pura": {
+  "domain": "purador.com",
+  "wayback_first": "20080204",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "loox",
+   "opinew"
+  ],
+  "myshopify": "pura-dor",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|stellevita": {
+  "domain": "stellevita.com",
+  "wayback_first": "20250203",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [],
+  "myshopify": "81f074-d9",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|muscle": {
+  "domain": "musclerehabusa.com",
+  "wayback_first": null,
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "judge.me"
+  ],
+  "myshopify": "muscle-rehab",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|plusone": {
+  "domain": "myplusone.com",
+  "wayback_first": "20110209",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [],
+  "myshopify": "myplusonelive",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|vigority": {
+  "domain": "vigority.com",
+  "wayback_first": "20141218",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "loox",
+   "judge.me",
+   "opinew"
+  ],
+  "myshopify": "9bed0d-e0",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|moonjar": {
+  "domain": "moonjar.com",
+  "wayback_first": "20020707",
+  "home_status": 200,
+  "platform": "woocommerce",
+  "widgets": [],
+  "myshopify": null,
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|wink": {
+  "domain": "winknaturals.com",
+  "wayback_first": "20151130",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [
+   "judge.me"
+  ],
+  "myshopify": "winkwell",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ },
+ "magnesium_spray|omnutra": {
+  "domain": "omnutra.com",
+  "registered": "2013-04-22",
+  "wayback_first": "20130705",
+  "home_status": 200,
+  "platform": "shopify",
+  "widgets": [],
+  "myshopify": "omnutrashop",
+  "trustpilot": {
+   "status": 403,
+   "reviews": null
+  }
+ }
+}

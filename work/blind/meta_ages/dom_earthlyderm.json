@@ -1,0 +1,450 @@
+{
+ "phrase": "earthlyderm.com",
+ "date": "2026-11-09",
+ "active": 530,
+ "aged30": 260,
+ "aged90": 86,
+ "aged180": 44,
+ "ads": [
+  {
+   "id": "2194038344758844",
+   "page": "Earthly Derm",
+   "start": "2026-02-19",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "2178788112896866",
+   "page": "Earthly Derm",
+   "start": "2026-03-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1175882324431838",
+   "page": "Earthly Derm",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "3954182854883764",
+   "page": "Earthly Derm",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1592515852051462",
+   "page": "Earthly Derm",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "26360281963576098",
+   "page": "Earthly Derm",
+   "start": "2026-02-19",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "886815117779642",
+   "page": "Earthly Derm",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1230653982388779",
+   "page": "Earthly Derm",
+   "start": "2026-03-22",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "853949961033294",
+   "page": "Earthly Derm",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "2171287146960371",
+   "page": "Earthly Derm",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1603876787643825",
+   "page": "Earthly Derm",
+   "start": "2026-03-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "4071278943171130",
+   "page": "Earthly Derm",
+   "start": "2026-04-27",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "4176942485951736",
+   "page": "Earthly Derm",
+   "start": "2026-03-03",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "4378130992513852",
+   "page": "Earthly Derm",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1603900364088693",
+   "page": "Earthly Derm",
+   "start": "2026-03-03",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1985144702077649",
+   "page": "Earthly Derm",
+   "start": "2026-03-26",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "3176986735819121",
+   "page": "Earthly Derm",
+   "start": "2026-03-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "3400633893438202",
+   "page": "Earthly Derm",
+   "start": "2026-03-22",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "947123747735298",
+   "page": "Earthly Derm",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1599228374475601",
+   "page": "Earthly Derm",
+   "start": "2026-05-06",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "946163848180775",
+   "page": "Earthly Derm",
+   "start": "2026-03-31",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "684785704680655",
+   "page": "Earthly Derm",
+   "start": "2026-03-03",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1539400394533616",
+   "page": "Earthly Derm",
+   "start": "2026-03-22",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "26560309893560973",
+   "page": "Earthly Derm",
+   "start": "2026-03-03",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1006924045616395",
+   "page": "Earthly Derm",
+   "start": "2026-05-06",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1977045792849706",
+   "page": "Earthly Derm",
+   "start": "2026-03-03",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1458064265856458",
+   "page": "Earthly Derm",
+   "start": "2026-03-25",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1390874376400681",
+   "page": "Earthly Derm",
+   "start": "2026-03-22",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1019034757524636",
+   "page": "Earthly Derm",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1741382290304539",
+   "page": "Earthly Derm",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1048114258114645",
+   "page": "Earthly Derm",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1012785244923526",
+   "page": "Earthly Derm",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "90-180"
+  },
+  {
+   "id": "866334696269977",
+   "page": "Earthly Derm",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3318700828310687",
+   "page": "Earthly Derm",
+   "start": "2026-07-09",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1011954025034688",
+   "page": "Earthly Derm",
+   "start": "2026-06-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1743791146980027",
+   "page": "Earthly Derm",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1774300523613303",
+   "page": "Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1420703386602022",
+   "page": "Product Queen Vicki with Earthly Derm",
+   "start": "2026-09-01",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1632072495294651",
+   "page": "Earthly Derm",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1101976519352114",
+   "page": "Earthly Derm",
+   "start": "2026-09-20",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4649814625251537",
+   "page": "Devon Collins with Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2665828677204612",
+   "page": "cb.the.trainer with Earthly Derm",
+   "start": "2026-09-15",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4197361843888980",
+   "page": "Earthly Derm",
+   "start": "2026-08-13",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1729132048344669",
+   "page": "Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4175697472566322",
+   "page": "datbitchbeaast with Earthly Derm",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3194166737460062",
+   "page": "grindtimemike_ with Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4092789551028397",
+   "page": "mindofmir_ with Earthly Derm",
+   "start": "2026-10-04",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1638730474514581",
+   "page": "Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4441652512762392",
+   "page": "Earthly Derm",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "909330538783327",
+   "page": "Earthly Derm",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2444711796335349",
+   "page": "Earthly Derm",
+   "start": "2026-10-15",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1088744693983751",
+   "page": "Earthly Derm",
+   "start": "2026-10-24",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1154598520326398",
+   "page": "Earthly Derm",
+   "start": "2026-10-26",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1137870275853294",
+   "page": "Earthly Derm",
+   "start": "2026-10-27",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1618698942469688",
+   "page": "Earthly Derm",
+   "start": "2026-10-25",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

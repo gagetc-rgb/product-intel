@@ -1,0 +1,362 @@
+{
+ "phrase": "primeprometics.com",
+ "date": "2026-11-09",
+ "active": 1700,
+ "aged30": 700,
+ "aged90": 380,
+ "aged180": 160,
+ "ads": [
+  {
+   "id": "1344689150019541",
+   "page": "Mature Beauty Reviews",
+   "start": "2025-11-12",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "2851557471855410",
+   "page": "Makeup Hacks for Mature Women",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1275851510681968",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1199412585448434",
+   "page": "Prime Prometics",
+   "start": "2026-04-16",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1250955636503746",
+   "page": "Prime Prometics",
+   "start": "2026-03-05",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "962450572841883",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "2191680941665662",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "955226210394325",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1492298339236049",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "956483213481800",
+   "page": "Prime Prometics",
+   "start": "2026-03-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "802453485519367",
+   "page": "Prime Prometics",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1070595275138711",
+   "page": "Prime Prometics",
+   "start": "2025-07-25",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1904971273483148",
+   "page": "Prime Prometics",
+   "start": "2026-01-21",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1887654075175591",
+   "page": "Prime Prometics",
+   "start": "2026-01-14",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1069503568180621",
+   "page": "Prime Prometics",
+   "start": "2025-07-25",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1645751616791559",
+   "page": "Prime Prometics",
+   "start": "2026-02-18",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1250896047203320",
+   "page": "Prime Prometics",
+   "start": "2026-03-25",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1622854079095575",
+   "page": "Prime Prometics",
+   "start": "2025-12-19",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "941546588465237",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "901207142854444",
+   "page": "Prime Prometics",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1172748518376056",
+   "page": "Makeup Hacks for Mature Women",
+   "start": "2025-12-08",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1228527899320823",
+   "page": "Prime Prometics",
+   "start": "2025-10-11",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1455827229580624",
+   "page": "Prime Prometics",
+   "start": "2026-02-17",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1220691516825857",
+   "page": "Prime Prometics",
+   "start": "2026-02-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1557946708641445",
+   "page": "Prime Prometics",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "796940646433006",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1280194737400644",
+   "page": "Prime Prometics",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "997724362633254",
+   "page": "Prime Prometics",
+   "start": "2026-05-25",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1702753004350835",
+   "page": "Prime Prometics",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1568523675046340",
+   "page": "Prime Prometics",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2239905853442511",
+   "page": "The Glow Up",
+   "start": "2026-07-23",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1558894215788830",
+   "page": "Prime Prometics",
+   "start": "2026-07-24",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1692909525334413",
+   "page": "Prime Prometics",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1332407444949883",
+   "page": "Prime Deals",
+   "start": "2026-06-17",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1406584977984241",
+   "page": "Prime Prometics",
+   "start": "2026-07-31",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1674947813570487",
+   "page": "Makeup Hacks for Mature Women",
+   "start": "2026-08-20",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28657050787314799",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1098251069820343",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3371885796451681",
+   "page": "Prime Prometics",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "927584353239830",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1928709181435506",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1065617646244012",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1770301677429348",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1391671663120310",
+   "page": "Prime Deals",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "0-30"
+  }
+ ]
+}

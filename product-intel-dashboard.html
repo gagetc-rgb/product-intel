@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>US Product Shortlist · Product Intel</title>
+<style>
+:root{
+  color-scheme: light;
+  --page:#f6f5f2; --surface:#fcfcfb; --surface-2:#f0efec;
+  --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --axis:#c3c2b7; --ring:rgba(11,11,11,.10);
+  --s1:#2a78d6; --s2:#eb6834; --s3:#1baf7a; --s4:#eda100; --s5:#e87ba4;
+  --seq1:#86b6ef; --seq2:#3987e5; --seq3:#1c5cab;
+  --hi1:#0b0b0b; --hi2:#fff; --hi3:#fff;
+  --good:#0ca30c; --warn:#fab219; --crit:#d03b3b; --goodtext:#006300;
+  --shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px rgba(0,0,0,.05);
+}
+:root[data-theme="dark"]{
+  color-scheme: dark;
+  --page:#0d0d0d; --surface:#1a1a19; --surface-2:#232321;
+  --ink:#f0efec; --ink-2:#c3c2b7; --muted:#898781;
+  --grid:#2c2c2a; --axis:#383835; --ring:rgba(255,255,255,.10);
+  --s1:#3987e5; --s2:#d95926; --s3:#199e70; --s4:#c98500; --s5:#d55181;
+  --seq1:#184f95; --seq2:#2a78d6; --seq3:#86b6ef;
+  --hi1:#f0efec; --hi2:#fff; --hi3:#0b0b0b;
+  --goodtext:#0ca30c;
+  --shadow:none;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--page);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 24px 64px}
+header.top{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:20px}
+.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+h1{font-size:30px;line-height:1.15;margin:4px 0 6px;letter-spacing:-.01em}
+.lede{color:var(--ink-2);max-width:640px;margin:0}
+.legend-marks{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;color:var(--ink-2);margin-top:10px}
+.legend-marks b{color:var(--ink)}
+.btn{border:1px solid var(--ring);background:var(--surface);color:var(--ink);border-radius:999px;padding:7px 14px;font:inherit;font-size:13px;cursor:pointer}
+.btn:hover{background:var(--surface-2)}
+nav.tabs{display:flex;gap:8px;flex-wrap:wrap;position:sticky;top:0;z-index:5;background:var(--page);padding:10px 0 12px;margin-bottom:8px;border-bottom:1px solid var(--grid)}
+.tab{display:flex;align-items:center;gap:8px;border:1px solid var(--ring);background:var(--surface);color:var(--ink);border-radius:12px;padding:8px 14px;cursor:pointer;font:inherit;font-size:14px;text-align:left}
+.tab small{display:block;color:var(--muted);font-size:11.5px;line-height:1.2}
+.tab .dot{width:10px;height:10px;border-radius:50%;flex:none}
+.tab[aria-selected="true"]{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.tab:hover{background:var(--surface-2)}
+.card{background:var(--surface);border:1px solid var(--ring);border-radius:16px;padding:20px;box-shadow:var(--shadow)}
+.grid{display:grid;gap:16px}
+.g2{grid-template-columns:1fr 1fr}
+.g3{grid-template-columns:repeat(3,1fr)}
+@media (max-width:860px){.g2,.g3{grid-template-columns:1fr}}
+h2{font-size:20px;margin:0 0 4px}
+h3{font-size:15px;margin:0 0 2px}
+.cap{font-size:12.5px;color:var(--muted);margin:0 0 12px}
+.hero{display:grid;grid-template-columns:1.4fr 1fr;gap:20px;align-items:start}
+@media (max-width:860px){.hero{grid-template-columns:1fr}}
+.badge{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;border-radius:999px;padding:4px 10px;border:1px solid var(--ring);background:var(--surface-2)}
+.badge i{width:8px;height:8px;border-radius:50%;display:inline-block}
+.hero h2{font-size:28px;letter-spacing:-.01em;margin:10px 0 2px}
+.hero .model{color:var(--ink-2);margin:0 0 10px}
+.thesis{font-size:16px;margin:0}
+.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.kpi{background:var(--surface-2);border-radius:12px;padding:10px 12px}
+.kpi .l{font-size:12px;color:var(--ink-2)}
+.kpi .v{font-size:22px;font-weight:650;line-height:1.2}
+.kpi .s{font-size:12px;color:var(--muted)}
+.up{color:var(--goodtext)}
+.chart{position:relative}
+.chart svg{display:block;width:100%;height:auto;overflow:visible}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--surface);font-size:12.5px;padding:6px 9px;border-radius:8px;white-space:nowrap;transform:translate(-50%,-110%);opacity:0;transition:opacity .08s}
+.tip b{font-weight:650}
+.ax{font-size:11px;fill:var(--muted);font-variant-numeric:tabular-nums}
+.lbl{font-size:12px;fill:var(--ink-2)}
+.lblb{font-size:12px;fill:var(--ink);font-weight:600}
+.findings{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.findings li{display:grid;grid-template-columns:22px 1fr;gap:8px;padding:10px 12px;border-radius:10px;background:var(--surface-2)}
+.findings .m{font-size:16px;line-height:1.3}
+.findings .src{display:block;font-size:11.5px;color:var(--muted);margin-top:2px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.chip{border:1px solid var(--ring);background:var(--surface);border-radius:999px;padding:4px 10px;font:inherit;font-size:12.5px;cursor:pointer;color:var(--ink-2)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+ul.plain{margin:0;padding-left:18px}
+ul.plain li{margin:4px 0}
+.risk li::marker{color:var(--crit)}
+.cond li::marker{color:var(--good)}
+.status{display:inline-flex;gap:6px;align-items:center;font-weight:600;font-size:13px}
+.big{font-size:30px;font-weight:700;letter-spacing:-.01em}
+.rivals{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.rivals span{font-size:12.5px;background:var(--surface-2);border-radius:8px;padding:4px 8px}
+table{border-collapse:collapse;width:100%;font-size:13.5px}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--grid);vertical-align:top}
+th{font-size:12px;color:var(--muted);font-weight:600}
+td.num{font-variant-numeric:tabular-nums;text-align:right}
+.heat td.h{text-align:center;font-variant-numeric:tabular-nums;border-radius:6px;border:2px solid var(--surface)}
+.econ dt{font-size:12px;color:var(--ink-2)}
+.econ dd{margin:0 0 8px;font-weight:600}
+.section{margin-top:16px}
+.funnel{display:flex;gap:6px;align-items:stretch;flex-wrap:wrap}
+.funnel div{flex:1;min-width:110px;background:var(--surface-2);border-radius:10px;padding:10px 12px}
+.funnel b{display:block;font-size:22px}
+.funnel span{font-size:12px;color:var(--ink-2)}
+details summary{cursor:pointer;font-weight:600}
+.foot{margin-top:28px;font-size:12.5px;color:var(--muted)}
+.hidden{display:none}
+.note{font-size:12.5px;color:var(--ink-2);background:var(--surface-2);border-radius:10px;padding:8px 10px;margin-top:10px}
+.tab .ph{width:30px;height:30px;border-radius:50%;object-fit:cover;flex:none;background:var(--surface-2)}
+.btn.primary{background:var(--ink);color:var(--surface);border-color:var(--ink);text-decoration:none}
+.btn.primary:hover{opacity:.85;background:var(--ink)}
+.hero{grid-template-columns:minmax(260px,380px) 1fr}
+.gallery .main{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:14px;display:block;background:var(--surface-2)}
+.gallery .thumbs{display:flex;gap:8px;margin-top:8px}
+.gallery .thumbs img{width:56px;height:56px;object-fit:cover;border-radius:10px;cursor:pointer;opacity:.6;border:2px solid transparent}
+.gallery .thumbs img[aria-current="true"]{opacity:1;border-color:var(--ink)}
+.kpis.k3{grid-template-columns:repeat(3,1fr);margin-top:16px}
+.more{margin-top:12px}
+.more summary{font-size:13px;color:var(--ink-2);font-weight:600}
+.acc{padding:0}
+.acc>summary{padding:16px 20px;list-style:none;display:flex;align-items:center;gap:10px}
+.acc>summary::-webkit-details-marker{display:none}
+.acc>summary:after{content:"+";margin-left:auto;font-size:20px;color:var(--muted);font-weight:400}
+.acc[open]>summary:after{content:"–"}
+.acc>summary small{font-weight:400;color:var(--muted);font-size:12.5px}
+.acc>.in{padding:0 20px 20px}
+.adstrip{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;margin:12px 0}
+@media (max-width:860px){.adstrip{grid-template-columns:repeat(3,1fr)}}
+.adstrip a{position:relative;display:block;border-radius:10px;overflow:hidden;aspect-ratio:4/5;background:var(--surface-2)}
+.adstrip img{width:100%;height:100%;object-fit:cover;display:block}
+.adstrip span{position:absolute;left:6px;bottom:6px;font-size:11.5px;font-weight:700;background:rgba(0,0,0,.65);color:#fff;border-radius:999px;padding:2px 8px}
+.adstrip i{position:absolute;right:6px;top:6px;font-style:normal;font-size:11px;background:rgba(0,0,0,.55);color:#fff;border-radius:999px;padding:1px 6px}
+.adhead{display:flex;align-items:flex-end;gap:12px;flex-wrap:wrap}
+.adhead .grow{flex:1}
+.pcards{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+@media (max-width:1000px){.pcards{grid-template-columns:repeat(2,1fr)}}
+.pcard{background:var(--surface);border:1px solid var(--ring);border-radius:16px;overflow:hidden;box-shadow:var(--shadow);cursor:pointer;text-align:left;padding:0;font:inherit;color:inherit;display:flex;flex-direction:column}
+.pcard:hover{border-color:var(--ink)}
+.pcard img{width:100%;aspect-ratio:1/1;object-fit:cover;display:block}
+.pcard .b{padding:12px 14px 14px}
+.pcard h3{font-size:15px;margin:6px 0 8px}
+.pcard dl{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;margin:0;font-size:12.5px}
+.pcard dt{color:var(--muted)}
+.pcard dd{margin:0;font-weight:600;text-align:right;font-variant-numeric:tabular-nums}
+.ver{font-size:14px;font-weight:600;vertical-align:middle;background:var(--ink);color:var(--surface);border-radius:999px;padding:3px 10px;letter-spacing:0}
+h2.sec{font-size:20px;margin:28px 0 4px;letter-spacing:-.01em}
+p.sec{color:var(--ink-2);margin:0 0 12px;font-size:14px}
+.fcards{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.fcards.c3{grid-template-columns:repeat(3,1fr)}
+@media (max-width:1000px){.fcards,.fcards.c3{grid-template-columns:1fr 1fr}}
+@media (max-width:560px){.fcards,.fcards.c3{grid-template-columns:1fr}}
+.fcard{background:var(--surface);border:1px solid var(--ring);border-radius:16px;overflow:hidden;box-shadow:var(--shadow);display:flex;flex-direction:column;text-align:left;padding:0;font:inherit;color:inherit}
+button.fcard{cursor:pointer}
+button.fcard:hover{border-color:var(--ink)}
+.fcard .top{display:flex;align-items:center;gap:10px;padding:10px 14px;background:var(--surface-2);font-size:12px;color:var(--ink-2);min-height:60px}
+.fcard .top img{width:40px;height:40px;border-radius:10px;object-fit:cover;display:block}
+.fcard .rank{background:var(--ink);color:var(--surface);font-weight:700;font-size:13px;border-radius:999px;width:26px;height:26px;display:flex;align-items:center;justify-content:center;flex:none}
+.fcard .b{padding:12px 14px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.fcard h3{font-size:15px;margin:0}
+.fcard .why{font-size:13px;margin:0}
+.fcard .rk{font-size:12.5px;color:var(--ink-2);margin:0;border-left:3px solid var(--crit);padding-left:8px}
+.fcard dl{display:grid;grid-template-columns:auto 1fr;gap:2px 10px;margin:0;font-size:12.5px}
+.fcard dt{color:var(--muted)}
+.fcard dd{margin:0;font-weight:600;text-align:right;font-variant-numeric:tabular-nums}
+.fcard .go{font-size:12.5px;font-weight:600;margin-top:auto;color:var(--ink)}
+.fcard .go.muted{color:var(--muted);font-weight:500}
+.meter{height:6px;border-radius:3px;background:var(--surface-2);overflow:hidden;margin-top:3px}
+.meter i{display:block;height:100%;background:var(--seq2)}
+.changes{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.changes li{display:grid;grid-template-columns:64px 1fr;gap:10px;align-items:start;font-size:13.5px}
+.changes .t{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;border-radius:6px;padding:3px 0;text-align:center}
+.changes .t.out{background:var(--crit);color:#fff}
+.changes .t.kept{background:var(--surface-2);color:var(--ink)}
+.changes .t.new{background:var(--good);color:#fff}
+.changes .s{display:block;color:var(--ink-2);font-size:12.5px}
+table.sl th{cursor:pointer;white-space:nowrap}
+table.sl th[aria-sort]::after{content:" ↓";color:var(--ink)}
+table.sl td{white-space:nowrap}
+table.sl td.n{white-space:normal;color:var(--ink-2);font-size:12.5px;min-width:200px}
+table.sl tr.fav td:first-child{font-weight:650}
+table.sl tr.grp td{background:var(--surface-2);font-weight:650;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--ink-2)}
+.star{color:var(--s4)}
+.catstrip{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+@media (max-width:860px){.catstrip{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <div class="eyebrow">Product Intel · US launch research · <span id="date"></span></div>
+      <h1>US Product Shortlist <span class="ver" id="ver"></span></h1>
+      <p class="lede" id="lede"></p>
+      <div class="legend-marks"><span><b>◆</b> confirmed in a primary source</span><span><b>◈</b> likely / indirect</span><span><b>◇</b> estimate or disputed</span></div>
+    </div>
+    <div style="display:flex;gap:8px"><a class="btn primary" href="long-running-ads.html">Long-running ads →</a><button class="btn" id="theme" type="button">Dark mode</button></div>
+  </header>
+
+  <nav class="tabs" role="tablist" id="tabs"></nav>
+  <main id="view"></main>
+
+  <p class="foot">All numbers come from our research files (work/blind/BLIND_PASS.md, shortlist.json and openness_raw.txt for the shortlist; CONCLUSIONS.md, work/market_system.md, work/full_list_analysis.md, work/market_check.md, work/reviews/RESULTS.md). Traffic = SimilarWeb monthly visits; ad counts = Meta Ad Library hits (US, active); LTV, max CAC and revenue bands are models, not measurements.</p>
+</div>
+<div class="tip" id="tip"></div>
+
+<script>
+const DATA = {"meta": {"title": "US Product Shortlist", "date": "2026-11-07", "funnel": [["Videos processed", 177], ["Products found (incl. 30 supplements)", 124], ["Pass all gates, three witnesses (tier A)", 19], ["Favourites", 8]], "signals": [["Amazon", "'Bought in past month' badges summed over on-target top-20 listings; listings selling 1K+/mo = sellers that actually sell."], ["TikTok Shop", "Lifetime 'sold' of the top on-target product (keyword pages, cached)."], ["Meta ad age", "Active US ads started 180+ days ago (category phrase or the leader's domain): someone keeps paying."], ["Openness", "Share of Amazon top-20 units held by newcomers (listings under 500 reviews), and how many newcomers sell at all."], ["Leader depth", "For the soap and sock leaders only: site traffic Jun-Sep, dated review curves, offers and economics."]], "version": "v3", "lede": "124 products from the corpus re-ranked by category sales on Amazon, TikTok Shop and Meta. 14 products and 5 supplements pass every gate; 5 + 3 of them are our favourites."}, "products": [{"id": "turmeric", "name": "Turmeric glow soap", "sub": "For melanin-rich skin", "model": "Earthly Derm", "domain": "earthlyderm.com", "verdict": "Favourite · soap brand SKU 1", "verdictKind": "take", "thesis": "Established ads, traffic up 3.4× in four months, a consumable with near-zero unit cost. Reviews and traffic rise together.", "traffic": [269, 219, 348, 913], "us": 96, "ads": {"total": 468, "d90": 89, "d180": 44, "note": "Top-impression ad running since 19 Feb 2026."}, "aov": 45, "aovEst": false, "repeats": "~3 / yr (1 bar ≈ 1 month)", "ltv": 92, "maxCac": "~$23 + repeat", "search": {"category": "21% ('turmeric soap')", "brand": "2.2%"}, "price": "1 bar $42 · 3 for $49 · 5 for $69 (store, 7 Nov 2026)", "unitCost": "$0.55-1.3 per bar ◈", "duty": "37.5% (China) ◆", "reviews": {"kind": "loox", "key": "earthlyderm_turmeric", "label": "Loox reviews per month (6,860 dated reviews, main product)", "trust": {"total": 367, "score": 4.8, "neg": null}}, "clones": {"count": "~320", "phrase": "active US ads with 'turmeric soap'; ~1,000 with kojic + soap", "rivals": ["Kaoli (trykaoli.com) ~96 ads, launched 28 Oct 2026", "Stem & Soul", "Herb'N Eden", "GloMelanin", "Honey Glow"], "read": "Clones are only now arriving."}, "findings": [["◆", "Loox reviews per month: Mar 209 → Jun 484 → Sep 957 → Oct 853. The curve tracks traffic (Sep peak 913K).", "Loox, full set"], ["◆", "44 ads still running after 180+ days; 89 after 90+ days.", "Meta Ad Library"], ["◆", "96% of visitors are in the US.", "SimilarWeb"], ["◆", "Real search demand beyond ads: 'turmeric soap' 21% of 'ski boots', 'kojic acid soap' 13%.", "Google Trends"], ["◈", "October is ~11% below September: possibly the start of a plateau.", "Loox"], ["◈", "Trustpilot 4.8 on 367 reviews, but complaint themes are billing: double charges, held funds.", "Trustpilot"], ["◇", "Revenue band $0.8-1.2M/mo (visits × 2-3% conversion × AOV), vs the YouTuber's $7-14M claim (~11× inflated).", "Our model"]], "risks": ["'Fades / blocks pigment' is a drug claim (FDA warning letters on skin lighteners, 2022)", "Meta personal-attributes policy: no 'your Black skin…'", "Turmeric/kojic bars can irritate: the leader attacks 'copycats that burn'", "MoCRA cosmetic duties (registration, listing, adverse events)"], "conditions": ["Cosmetic-only claims: brightens, evens the look of tone", "A gentle, tested formula", "Product-statement copy ('made for melanin-rich skin')", "Bundles of 3-5 bars, results timeline"], "heroIdx": 0, "catId": "turmeric_soap", "photos": ["dashboard/ads_media/a0c4cd36a09f24c4.jpg", "dashboard/ads_media/a19c17c89df84dc9.jpg", "dashboard/ads_media/0b4b673b20328305.jpg", "dashboard/ads_media/1df63032c8c7b090.jpg"], "productUrl": "https://earthlyderm.com/products/turmeric-glow-soap", "adTeaser": {"minDays": 180, "total": "44", "loaded": 28, "oldest": 261, "top": [{"id": "2194038344758844", "img": "dashboard/ads_media/4a1bad65b718f31a.jpg", "days": 261, "video": false}, {"id": "26360281963576098", "img": "dashboard/ads_media/f2eaeb851592f6fd.jpg", "days": 261, "video": false}, {"id": "1175882324431838", "img": "dashboard/ads_media/b5e68e7caa0440b2.jpg", "days": 253, "video": true}, {"id": "1592515852051462", "img": "dashboard/ads_media/883087aeec6a5477.jpg", "days": 253, "video": true}, {"id": "853949961033294", "img": "dashboard/ads_media/d45d1eb96dd3a093.jpg", "days": 253, "video": true}, {"id": "947123747735298", "img": "dashboard/ads_media/0db59ee9d8e0a8dd.jpg", "days": 253, "video": true}]}, "cat": {"id": "turmeric_soap", "name": "Turmeric soap (glow / dark spots)", "block": "MAIN", "tier": "A", "flag": "", "amz": 57800.0, "amz1k": 11, "tt": 819.0, "meta": 44, "price": 11.99, "trust": 3, "total": 12, "top3": 0.69, "newShare": 0.04, "newHit": "2/2"}}, {"id": "socks", "name": "Compression socks", "sub": "Bamboo, multi-pair packs", "model": "Everstride", "domain": "everstridesocks.com", "verdict": "Favourite #1", "verdictKind": "take", "thesis": "The most proven business on the list: 190 ads alive 180+ days and two years of rising reviews. The category is huge and crowded, so we win on an angle.", "traffic": [376, 387, 226, 330], "us": 73, "ads": {"total": 1423, "d90": 460, "d180": 190, "note": "Advertising nonstop since 2024."}, "aov": 50, "aovEst": true, "repeats": "~1 / yr (socks wear out)", "ltv": 68, "maxCac": "~$28 ◇", "search": {"category": "289% ('compression socks')", "brand": "5.0%"}, "price": "Main product $34; bundles up to 8 pairs", "unitCost": "n/a", "duty": "n/a", "reviews": {"kind": "loox", "key": "everstride_main", "label": "Loox reviews per month (29,358 dated reviews, main product)", "trust": {"total": 1865, "score": 4.7, "neg": 5.6}, "snapshots": [["Jun 2025", 173], ["Sep 2025", 307], ["Nov 2025", 404], ["Nov 2026", 1865]]}, "clones": {"count": "~15,000", "phrase": "active US ads with the exact phrase 'compression socks' (~610 of them 180+ days old)", "rivals": ["Medical and athletic brands share the phrase"], "read": "Crowded category: the opening is an angle, not the product."}, "angles": [["Baseline: compression socks", 15000, 610], ["+ wide calf", 860, 30], ["+ nurse", 2000, 55], ["+ flight", 1000, 16], ["+ men", 830, 10], ["+ standing", 4100, 47], ["+ plus size", 330, 3], ["+ pregnancy", 370, 0]], "findings": [["◆", "Reviews grew from ≤350/mo (2024) to 2,100-2,300/mo in Jul-Sep 2026: a two-year business, not a spike.", "Loox, full set"], ["◆", "The June 2026 review dip matches the traffic dip (387K → 226K): reviews and traffic agree.", "Loox + SimilarWeb"], ["◆", "Trustpilot count 173 (Jun 2025) → 1,865 (Nov 2026).", "Wayback + Trustpilot"], ["◆", "190 ads still running after 180+ days, the most on our list.", "Meta Ad Library"], ["◈", "Wide calf and nurse are proven angles: their ads survive about as long as the category average.", "Ad Library angle scan"], ["◇", "Men, plus size and pregnancy get tested but almost never survive 180 days: open but unproven.", "Ad Library angle scan"], ["◇", "October reviews −36% vs September: review-request lag or a real slowdown. Re-check in December.", "Loox"]], "risks": ["Crowded category (~15,000 active ads on the phrase)", "Lymphedema / lipedema wording = medical claims", "Sizing and fit complaints (slipping, tight bands) on Trustpilot", "Returns and durability complaints"], "conditions": ["A niche angle: wide calf, nurses / 12-hour shifts, men's dress", "Multi-pair packs", "No medical claims: 'tired, swollen-feeling legs' only", "Fit as a selling point"], "heroIdx": 3, "catId": "compression_socks", "photos": ["dashboard/ads_media/90fbc0b44dbc29bc.jpg", "dashboard/ads_media/12431e63bf468e6c.jpg", "dashboard/ads_media/f5c7e93029575052.jpg", "dashboard/ads_media/b501fb81914fb34e.jpg"], "productUrl": "https://everstridesocks.com/products/originals", "adTeaser": {"minDays": 180, "total": "190", "loaded": 29, "oldest": 789, "top": [{"id": "1197914664823726", "img": "dashboard/ads_media/970adb96a83aa50a.jpg", "days": 789, "video": false}, {"id": "508669578445820", "img": "dashboard/ads_media/3f3bec3cf87bdc80.jpg", "days": 789, "video": false}, {"id": "604598305469201", "img": "dashboard/ads_media/8da1c9a1ec7b7859.jpg", "days": 723, "video": false}, {"id": "1578316903556874", "img": "dashboard/ads_media/ef73a93698b0c9e3.jpg", "days": 645, "video": true}, {"id": "670358822236556", "img": "dashboard/ads_media/262fca3ecbecc66b.jpg", "days": 616, "video": true}, {"id": "987603642882107", "img": "dashboard/ads_media/94d8e311a0f701fc.jpg", "days": 611, "video": false}]}, "cat": {"id": "compression_socks", "name": "Compression socks", "block": "MAIN", "tier": "A", "flag": "", "amz": 109900.0, "amz1k": 16, "tt": 70.9, "meta": 610.0, "price": 15.57, "trust": 3, "total": 14, "top3": 0.33, "newShare": 0.0, "newHit": "1/2"}}, {"id": "persimmon", "name": "Persimmon soap", "sub": "For age-related body odor", "model": "Kaori", "domain": "try-kaori.com", "verdict": "Soap brand SKU 2", "verdictKind": "second", "thesis": "Real, rising demand and consumable economics, but the most cloned niche on the list. Worth it only as a second bar sharing supplier, funnel and compliance with the turmeric soap.", "traffic": [49, 246, 653, 556], "us": 34, "ads": {"total": 747, "d90": 200, "d180": 53, "note": "Swarva, the earlier leader, has 0 ads past 90 days (fading)."}, "aov": 40, "aovEst": true, "repeats": "~3 / yr (consumable, subscriptions)", "ltv": 82, "maxCac": "~$22 + repeat", "search": {"category": "13% ('persimmon soap', peak Oct 2026)", "brand": "2.1%"}, "price": "Bar $19.95; deodorant $14.99; body wash $19.99 (store)", "unitCost": "~$0.5-1.6 per bar ◈", "duty": "37.5% (China) ◆", "reviews": {"kind": "trust", "label": "Trustpilot new reviews per month (recent)", "trust": {"total": 750, "score": 4.7, "neg": 2.0}, "recent": [["Sep 2026", 74], ["Oct 2026", 108]]}, "geo": [["SimilarWeb, Sep 2026", 34], ["Hypestat, Jun-Jul 2026", 71]], "clones": {"count": "~2,600", "phrase": "active US ads mentioning 'persimmon soap'", "rivals": ["Kaori ~750 ads", "Swarva ~354 ads (fading)", "Mirai Clinical (Shark Tank, HuffPost)", "Kakiyu ~830 ads, ~13K visits", "Grandma's Glow"], "read": "Most crowded niche on the list; fake-persona pages everywhere."}, "findings": [["◆", "Traffic 49K → 246K → 653K → 556K (Jun-Sep).", "SimilarWeb"], ["◆", "53 ads still running after 180+ days.", "Meta Ad Library"], ["◆", "Trustpilot 4.7 on 750 reviews; 1-2★ only 2%; ~108 new reviews in Oct 2026.", "Trustpilot"], ["◆", "Search for 'persimmon soap' peaked in Oct 2026.", "Google Trends"], ["◇", "US share unresolved: 34% (SimilarWeb, Sep) vs 71% (Hypestat, Jun-Jul).", "Two traffic estimators"], ["◇", "The '97% nonenal removal' claim rests on weak public science: a 2001 Shiseido study on 22 people, a 2012 trial on 20 men.", "Osmia review, HuffPost"]], "risks": ["Clone flood (~2,600 ads), comparison ads already running", "Fake-persona playbook is the norm", "Unclear real US share", "Customers say: too expensive, small bars, subscription cancellations"], "conditions": ["Only as the 2nd SKU of the turmeric soap brand", "Honest claims as a differentiator", "Possible angle: unscented or larger bars, price per wash", "Check AU / CA / EU demand separately"], "heroIdx": 0, "catId": "persimmon_soap", "photos": ["dashboard/ads_media/827e0fbeb390bb49.jpg", "dashboard/ads_media/eebb1eea651341e9.jpg", "dashboard/ads_media/1cffd251420a900c.jpg", "dashboard/ads_media/620fa4e505b98c51.jpg"], "productUrl": "https://try-kaori.com/products/deodorizing-persimmon-soap", "adTeaser": {"minDays": 180, "total": "53", "loaded": 30, "oldest": 232, "top": [{"id": "2330372864056320", "img": "dashboard/ads_media/78c4bc932f710b9a.jpg", "days": 232, "video": false}, {"id": "949368220884779", "img": "dashboard/ads_media/042a2297c820e30e.jpg", "days": 232, "video": false}, {"id": "3351762968320526", "img": "dashboard/ads_media/2a8dd1f0ffa655bb.jpg", "days": 232, "video": false}, {"id": "2094415481392000", "img": "dashboard/ads_media/1b0b86f1a89d8088.jpg", "days": 232, "video": false}, {"id": "3068470856674003", "img": "dashboard/ads_media/71032567ea8e0135.jpg", "days": 231, "video": false}, {"id": "1159318819556156", "img": "dashboard/ads_media/02219d70cd27e1e4.jpg", "days": 218, "video": false}]}, "cat": {"id": "persimmon_soap", "name": "Persimmon soap (aging odor)", "block": "MAIN", "tier": "A", "flag": "", "amz": 59700.0, "amz1k": 11, "tt": 12.1, "meta": 53, "price": 14.99, "trust": 3, "total": 11, "top3": 0.64, "newShare": 0.12, "newHit": "9/9"}}], "dropped": [["Men's leak-proof boxers (Menvault)", "Small category demand on Amazon and TikTok; young ads; 1-2★ share 9.5%; FDA fee"], ["2-in-1 carry-on duffel (Luhxe)", "One-off purchase; fewer than 5 Amazon sellers at 1K+/mo; duty ~55%"], ["Tennis bracelet (MLMT)", "TikTok 65K sold (PAVOI) but no Amazon sellers with badges; one-off gift; leader ~11K visits"], ["Brand-owned categories", "Collagen multi-balm, retinol cream, collagen night mask (medicube, Anua), ceramide cleanser (CeraVe), work insoles (Dr. Scholl's)"], ["Seat cushion (Travlr)", "Small traffic (~27K); category ~8K units/mo on Amazon"], ["Ski sleeve (SkiGuards)", "No category demand found; seasonal (judge in Dec-Feb)"], ["Silvervine cat sticks (Purriq)", "Small traffic, falling; no Amazon seller at 1K+"], ["16-head massager (Alythera)", "~2K visits; category ~2K units/mo"], ["Men's compression tank (North Alpine)", "Traffic falling 1.9M → 1.1M; category ~9.5K units/mo on Amazon"], ["Rodent repellent pouches (Sofyre)", "All ads under 90 days; only 2 Amazon sellers at 1K+; EPA + state registration"], ["Needs a compliance route (tier B)", "Lash serum, hair-growth serum, LED mask: strong demand, parked until a compliant formula or FDA-cleared OEM"]], "blind": [["One snapshot", "Amazon, TikTok and Meta were read once (7 Nov 2026). No trend except for the soap and sock leaders."], ["Openness from Amazon only", "'Newcomer' = listing under 500 reviews in the top 20; DTC newcomers on Meta are not measured yet."], ["TikTok counts are lifetime", "Cached keyword pages, date unknown; one wrong page made turmeric soap look dead."], ["Economics only for 3 leaders", "AOV, LTV and max CAC exist for the soaps and socks; the new favourites have none yet."], ["Ads ≠ profit", "Refunds, chargebacks and real margins are unknown."]], "next": ["Unit economics for every favourite: landed cost, margin, AOV, LTV, max ad cost per order", "Research the leader brand for magnesium spray, scent diffuser and tallow balm (traffic, aged ads by domain, review curve)", "Finish the newcomer-survival check for all favourites (Amazon blocked the run after magnesium spray)", "Owner decision: supplements in or out", "Samples and supplier quotes; claims review for the soaps, tallow and magnesium", "$200-500 Meta demand test per product, pass threshold set in advance from margin and LTV"], "favs": [{"id": "compression_socks", "tab": "socks", "mark": "◆", "why": "Strongest proof of all: 610 category ads aged 180+ days, 16 Amazon sellers at 1K+/mo, leader growing for two years.", "risk": "Mature category; newcomers hold ~0% of Amazon units, so sell DTC through a proven angle (wide calf, nurses) and multi-packs."}, {"id": "turmeric_soap", "tab": "turmeric", "mark": "◆", "why": "Leader's traffic and reviews rose together (Earthly Derm 269K → 913K visits); category confirmed: 819K sold on TikTok, Amazon 58-131K/mo. Persimmon soap = SKU 2 of the same brand.", "risk": "Execution bet on a brand, not a category wave; cosmetic claims only."}, {"id": "magnesium_spray", "tab": null, "mark": "◈", "why": "Most open market we measured: newcomers hold 41% of Amazon units and 4 of 5 newcomers sell. Consumable, simple formula, can be made in the US.", "risk": "Sleep and cramp wording is a claims risk; leader brand not researched yet."}, {"id": "scent_diffuser", "tab": null, "mark": "◈", "why": "Device + refill oils at ~$80: the best repeat model on the list. Newcomers hold 27% of Amazon units; 6 of 10 sell.", "risk": "Only 17 Meta ads aged 180+ days: the weakest proof of the five."}, {"id": "tallow_balm", "tab": null, "mark": "◈", "why": "Strong in all three channels (TikTok 663K sold, 52 aged Meta ads); consumable; raw material available in the US.", "risk": "Trend may be late-stage (not checked); newcomers hold only 2% of Amazon units."}], "suppFavs": [{"id": "s_shilajit_gummies", "mark": "◆", "why": "Strongest supplement evidence: TikTok 411K sold, 210 Meta ads aged 180+ days; 9 of 10 Amazon newcomers sell.", "risk": "Heavy-metal (lead) testing and a Prop 65 warning are a must."}, {"id": "s_pumpkin_oil", "mark": "◆", "why": "Broadest open market: Amazon 82K/mo with 15 sellers at 1K+, TikTok 184K sold; 8 of 9 newcomers sell.", "risk": "Low price (~$25): needs bundles or a subscription."}, {"id": "s_moringa", "mark": "◈", "why": "Corpus brand Rosabella sold 171K on TikTok; 10 Amazon sellers at 1K+; 4 of 4 newcomers sell.", "risk": "Newcomers hold only 6% of units; claims discipline."}], "suppGate": "Supplements were outside our filters until now. To sell them: a cGMP contract manufacturer, third-party testing (Amazon requires it), and structure/function wording only. Owner decides whether this block is in.", "notes": {"color_foundation": "Concentrated: top 3 hold 79% of Amazon units", "neck_cream": "Brand-led (GoPure 653K on TikTok)", "rosemary_oil": "No newcomer sells in the Amazon top 20", "hair_removal_cream": "Top 3 hold 78%; no newcomer share", "exfoliating_towel": "Category passes; model brand Blissal is fading", "chin_wrap": "Category passes; model brand Skult has ~16K visits", "persimmon_soap": "SKU 2 of the soap brand; 9 of 9 newcomers sell", "shower_filter": "Refill cartridges", "dog_fountain": "Refill filters", "s_menopause": "Crowded (19 aged advertisers); hormone claims", "s_beef_liver": "Few newcomers"}, "changes": [["out", "Men's leak-proof boxers", "Category demand is small (Amazon ~2.5-3.6K units/mo, no TikTok hit); only 8 of 234 leader ads aged 180+ days."], ["out", "2-in-1 carry-on duffel", "One-off purchase; fewer than 5 Amazon sellers at 1K+/mo; a TikTok-only wave."], ["kept", "Compression socks", "Held up in every version and in all three channels."], ["kept", "Turmeric + persimmon soap", "Turmeric briefly fell to #60 because one TikTok page was wrong (888 vs 819K sold); back in tier A."], ["new", "Magnesium spray, scent diffuser, tallow balm", "Found by the blind category pass; strongest openness or repeat economics in tier A."], ["new", "Supplements block", "Ranked separately: shilajit gummies, pumpkin seed oil, moringa."]], "tierA": [{"id": "compression_socks", "name": "Compression socks", "block": "MAIN", "tier": "A", "flag": "", "amz": 109900.0, "amz1k": 16, "tt": 70.9, "meta": 610.0, "price": 15.57, "trust": 3, "total": 14, "top3": 0.33, "newShare": 0.0, "newHit": "1/2"}, {"id": "color_foundation", "name": "Color-changing foundation stick", "block": "MAIN", "tier": "A", "flag": "", "amz": 267400.0, "amz1k": 8, "tt": 68.4, "meta": 120.0, "price": 30.49, "trust": 3, "total": 13, "top3": 0.79, "newShare": 0.03, "newHit": "1/4"}, {"id": "tallow_balm", "name": "Beef tallow balm", "block": "MAIN", "tier": "A", "flag": "", "amz": 49900.0, "amz1k": 8, "tt": 662.5, "meta": 52.0, "price": 19.95, "trust": 3, "total": 13, "top3": 0.64, "newShare": 0.02, "newHit": "3/3"}, {"id": "neck_cream", "name": "Neck firming cream", "block": "MAIN", "tier": "A", "flag": "", "amz": 70050.0, "amz1k": 7, "tt": 653.0, "meta": 83.0, "price": 98.0, "trust": 3, "total": 13, "top3": 0.7, "newShare": 0.01, "newHit": "3/9"}, {"id": "rosemary_oil", "name": "Rosemary hair oil (roller)", "block": "MAIN", "tier": "A", "flag": "", "amz": 46200.0, "amz1k": 13, "tt": 598.0, "meta": 60.0, "price": 14.99, "trust": 3, "total": 13, "top3": 0.46, "newShare": 0.0, "newHit": "0/0"}, {"id": "s_shilajit_gummies", "name": "Shilajit gummies", "block": "SUPP", "tier": "A", "flag": "", "amz": 15900.0, "amz1k": 6, "tt": 411.2, "meta": 210.0, "price": 29.98, "trust": 3, "total": 13, "top3": 0.63, "newShare": 0.12, "newHit": "9/10"}, {"id": "hair_removal_cream", "name": "Men's body hair removal cream", "block": "MAIN", "tier": "A", "flag": "", "amz": 64350.0, "amz1k": 8, "tt": 135.0, "meta": 54.0, "price": 18.99, "trust": 3, "total": 12, "top3": 0.78, "newShare": 0.0, "newHit": "1/4"}, {"id": "exfoliating_towel", "name": "Exfoliating shower towel", "block": "MAIN", "tier": "A", "flag": "", "amz": 37100.0, "amz1k": 12, "tt": 79.5, "meta": 64.0, "price": 17.74, "trust": 3, "total": 12, "top3": 0.49, "newShare": 0.1, "newHit": "6/8"}, {"id": "s_menopause", "name": "Menopause / hormone-balance supplement", "block": "SUPP", "tier": "A", "flag": "", "amz": 48050.0, "amz1k": 6, "tt": 99.3, "meta": 85.0, "price": 27.11, "trust": 3, "total": 12, "top3": 0.81, "newShare": 0.04, "newHit": "4/5"}, {"id": "s_moringa", "name": "Moringa capsules", "block": "SUPP", "tier": "A", "flag": "", "amz": 32800.0, "amz1k": 10, "tt": 184.0, "meta": 83.0, "price": 24.97, "trust": 3, "total": 12, "top3": 0.64, "newShare": 0.06, "newHit": "4/4"}, {"id": "turmeric_soap", "name": "Turmeric soap (glow / dark spots)", "block": "MAIN", "tier": "A", "flag": "", "amz": 57800.0, "amz1k": 11, "tt": 819.0, "meta": 44, "price": 11.99, "trust": 3, "total": 12, "top3": 0.69, "newShare": 0.04, "newHit": "2/2"}, {"id": "chin_wrap", "name": "Collagen chin / V-line wrap", "block": "MAIN", "tier": "A", "flag": "", "amz": 21250.0, "amz1k": 6, "tt": 84.4, "meta": 160, "price": 15.44, "trust": 3, "total": 12, "top3": 0.75, "newShare": 0.16, "newHit": "2/4"}, {"id": "s_pumpkin_oil", "name": "Pumpkin seed oil softgels", "block": "SUPP", "tier": "A", "flag": "", "amz": 81800.0, "amz1k": 15, "tt": 183.9, "meta": 32.0, "price": 24.99, "trust": 3, "total": 11, "top3": 0.49, "newShare": 0.13, "newHit": "8/9"}, {"id": "magnesium_spray", "name": "Topical magnesium oil spray", "block": "MAIN", "tier": "A", "flag": "", "amz": 24700.0, "amz1k": 7, "tt": 105.4, "meta": 53.0, "price": 20.45, "trust": 3, "total": 11, "top3": 0.66, "newShare": 0.41, "newHit": "4/5"}, {"id": "persimmon_soap", "name": "Persimmon soap (aging odor)", "block": "MAIN", "tier": "A", "flag": "", "amz": 59700.0, "amz1k": 11, "tt": 12.1, "meta": 53, "price": 14.99, "trust": 3, "total": 11, "top3": 0.64, "newShare": 0.12, "newHit": "9/9"}, {"id": "shower_filter", "name": "Filtered shower head (+ cartridges)", "block": "MAIN", "tier": "A", "flag": "", "amz": 46450.0, "amz1k": 14, "tt": 14.9, "meta": 42.0, "price": 49.95, "trust": 3, "total": 10, "top3": 0.44, "newShare": 0.08, "newHit": "4/7"}, {"id": "dog_fountain", "name": "Stainless-steel pet water fountain", "block": "MAIN", "tier": "A", "flag": "", "amz": 61800.0, "amz1k": 12, "tt": 35.1, "meta": 22.0, "price": 42.99, "trust": 3, "total": 10, "top3": 0.38, "newShare": 0.04, "newHit": "3/6"}, {"id": "scent_diffuser", "name": "Waterless luxury scent diffuser (+ oils)", "block": "MAIN", "tier": "A", "flag": "", "amz": 28900.0, "amz1k": 8, "tt": 87.2, "meta": 17.0, "price": 79.99, "trust": 3, "total": 10, "top3": 0.59, "newShare": 0.27, "newHit": "6/10"}, {"id": "s_beef_liver", "name": "Beef liver capsules", "block": "SUPP", "tier": "A", "flag": "", "amz": 55200.0, "amz1k": 11, "tt": 48.0, "meta": 32.0, "price": 38.0, "trust": 3, "total": 10, "top3": 0.67, "newShare": 0.03, "newHit": "3/3"}], "cat": {"compression_socks": {"id": "compression_socks", "name": "Compression socks", "block": "MAIN", "tier": "A", "flag": "", "amz": 109900.0, "amz1k": 16, "tt": 70.9, "meta": 610.0, "price": 15.57, "trust": 3, "total": 14, "top3": 0.33, "newShare": 0.0, "newHit": "1/2"}, "color_foundation": {"id": "color_foundation", "name": "Color-changing foundation stick", "block": "MAIN", "tier": "A", "flag": "", "amz": 267400.0, "amz1k": 8, "tt": 68.4, "meta": 120.0, "price": 30.49, "trust": 3, "total": 13, "top3": 0.79, "newShare": 0.03, "newHit": "1/4"}, "tallow_balm": {"id": "tallow_balm", "name": "Beef tallow balm", "block": "MAIN", "tier": "A", "flag": "", "amz": 49900.0, "amz1k": 8, "tt": 662.5, "meta": 52.0, "price": 19.95, "trust": 3, "total": 13, "top3": 0.64, "newShare": 0.02, "newHit": "3/3"}, "neck_cream": {"id": "neck_cream", "name": "Neck firming cream", "block": "MAIN", "tier": "A", "flag": "", "amz": 70050.0, "amz1k": 7, "tt": 653.0, "meta": 83.0, "price": 98.0, "trust": 3, "total": 13, "top3": 0.7, "newShare": 0.01, "newHit": "3/9"}, "rosemary_oil": {"id": "rosemary_oil", "name": "Rosemary hair oil (roller)", "block": "MAIN", "tier": "A", "flag": "", "amz": 46200.0, "amz1k": 13, "tt": 598.0, "meta": 60.0, "price": 14.99, "trust": 3, "total": 13, "top3": 0.46, "newShare": 0.0, "newHit": "0/0"}, "s_shilajit_gummies": {"id": "s_shilajit_gummies", "name": "Shilajit gummies", "block": "SUPP", "tier": "A", "flag": "", "amz": 15900.0, "amz1k": 6, "tt": 411.2, "meta": 210.0, "price": 29.98, "trust": 3, "total": 13, "top3": 0.63, "newShare": 0.12, "newHit": "9/10"}, "hair_removal_cream": {"id": "hair_removal_cream", "name": "Men's body hair removal cream", "block": "MAIN", "tier": "A", "flag": "", "amz": 64350.0, "amz1k": 8, "tt": 135.0, "meta": 54.0, "price": 18.99, "trust": 3, "total": 12, "top3": 0.78, "newShare": 0.0, "newHit": "1/4"}, "exfoliating_towel": {"id": "exfoliating_towel", "name": "Exfoliating shower towel", "block": "MAIN", "tier": "A", "flag": "", "amz": 37100.0, "amz1k": 12, "tt": 79.5, "meta": 64.0, "price": 17.74, "trust": 3, "total": 12, "top3": 0.49, "newShare": 0.1, "newHit": "6/8"}, "s_menopause": {"id": "s_menopause", "name": "Menopause / hormone-balance supplement", "block": "SUPP", "tier": "A", "flag": "", "amz": 48050.0, "amz1k": 6, "tt": 99.3, "meta": 85.0, "price": 27.11, "trust": 3, "total": 12, "top3": 0.81, "newShare": 0.04, "newHit": "4/5"}, "s_moringa": {"id": "s_moringa", "name": "Moringa capsules", "block": "SUPP", "tier": "A", "flag": "", "amz": 32800.0, "amz1k": 10, "tt": 184.0, "meta": 83.0, "price": 24.97, "trust": 3, "total": 12, "top3": 0.64, "newShare": 0.06, "newHit": "4/4"}, "turmeric_soap": {"id": "turmeric_soap", "name": "Turmeric soap (glow / dark spots)", "block": "MAIN", "tier": "A", "flag": "", "amz": 57800.0, "amz1k": 11, "tt": 819.0, "meta": 44, "price": 11.99, "trust": 3, "total": 12, "top3": 0.69, "newShare": 0.04, "newHit": "2/2"}, "chin_wrap": {"id": "chin_wrap", "name": "Collagen chin / V-line wrap", "block": "MAIN", "tier": "A", "flag": "", "amz": 21250.0, "amz1k": 6, "tt": 84.4, "meta": 160, "price": 15.44, "trust": 3, "total": 12, "top3": 0.75, "newShare": 0.16, "newHit": "2/4"}, "s_pumpkin_oil": {"id": "s_pumpkin_oil", "name": "Pumpkin seed oil softgels", "block": "SUPP", "tier": "A", "flag": "", "amz": 81800.0, "amz1k": 15, "tt": 183.9, "meta": 32.0, "price": 24.99, "trust": 3, "total": 11, "top3": 0.49, "newShare": 0.13, "newHit": "8/9"}, "magnesium_spray": {"id": "magnesium_spray", "name": "Topical magnesium oil spray", "block": "MAIN", "tier": "A", "flag": "", "amz": 24700.0, "amz1k": 7, "tt": 105.4, "meta": 53.0, "price": 20.45, "trust": 3, "total": 11, "top3": 0.66, "newShare": 0.41, "newHit": "4/5"}, "persimmon_soap": {"id": "persimmon_soap", "name": "Persimmon soap (aging odor)", "block": "MAIN", "tier": "A", "flag": "", "amz": 59700.0, "amz1k": 11, "tt": 12.1, "meta": 53, "price": 14.99, "trust": 3, "total": 11, "top3": 0.64, "newShare": 0.12, "newHit": "9/9"}, "shower_filter": {"id": "shower_filter", "name": "Filtered shower head (+ cartridges)", "block": "MAIN", "tier": "A", "flag": "", "amz": 46450.0, "amz1k": 14, "tt": 14.9, "meta": 42.0, "price": 49.95, "trust": 3, "total": 10, "top3": 0.44, "newShare": 0.08, "newHit": "4/7"}, "dog_fountain": {"id": "dog_fountain", "name": "Stainless-steel pet water fountain", "block": "MAIN", "tier": "A", "flag": "", "amz": 61800.0, "amz1k": 12, "tt": 35.1, "meta": 22.0, "price": 42.99, "trust": 3, "total": 10, "top3": 0.38, "newShare": 0.04, "newHit": "3/6"}, "scent_diffuser": {"id": "scent_diffuser", "name": "Waterless luxury scent diffuser (+ oils)", "block": "MAIN", "tier": "A", "flag": "", "amz": 28900.0, "amz1k": 8, "tt": 87.2, "meta": 17.0, "price": 79.99, "trust": 3, "total": 10, "top3": 0.59, "newShare": 0.27, "newHit": "6/10"}, "s_beef_liver": {"id": "s_beef_liver", "name": "Beef liver capsules", "block": "SUPP", "tier": "A", "flag": "", "amz": 55200.0, "amz1k": 11, "tt": 48.0, "meta": 32.0, "price": 38.0, "trust": 3, "total": 10, "top3": 0.67, "newShare": 0.03, "newHit": "3/3"}, "lash_serum": {"id": "lash_serum", "name": "Eyelash growth serum (cosmetic)", "block": "MAIN", "tier": "B", "flag": "COMPLIANCE", "amz": 86700.0, "amz1k": 11, "tt": 343.7, "meta": 90.0, "price": null, "trust": 3, "total": 13, "top3": 0.45, "newShare": 0.1, "newHit": "6/11"}, "hair_serum": {"id": "hair_serum", "name": "Hair-growth scalp serum", "block": "MAIN", "tier": "B", "flag": "COMPLIANCE", "amz": 133000.0, "amz1k": 9, "tt": 111.8, "meta": 62.0, "price": 33.33, "trust": 3, "total": 13, "top3": 0.83, "newShare": 0.11, "newHit": "4/5"}, "s_magnesium": {"id": "s_magnesium", "name": "Magnesium glycinate gummies", "block": "SUPP", "tier": "B", "flag": "", "amz": 226000.0, "amz1k": 18, "tt": 9.0, "meta": 140.0, "price": 23.16, "trust": 2, "total": 11, "top3": 0.58, "newShare": 0.02, "newHit": "3/3"}, "s_creatine_women": {"id": "s_creatine_women", "name": "Creatine for women", "block": "SUPP", "tier": "B", "flag": "", "amz": 175500.0, "amz1k": 18, "tt": 162.0, "meta": 1.0, "price": 34.98, "trust": 2, "total": 10, "top3": 0.59, "newShare": 0.14, "newHit": "10/10"}, "pet_hair_roller": {"id": "pet_hair_roller", "name": "Pet hair remover roller", "block": "MAIN", "tier": "B", "flag": "", "amz": 73300.0, "amz1k": 5, "tt": 5.0, "meta": 95.0, "price": null, "trust": 2, "total": 10, "top3": 0.82, "newShare": 0.0, "newHit": "0/3"}, "pore_patch": {"id": "pore_patch", "name": "Hydrocolloid nose pore / sebaceous filament patches", "block": "MAIN", "tier": "B", "flag": "", "amz": 42300.0, "amz1k": 7, "tt": 209.3, "meta": 0, "price": null, "trust": 2, "total": 9, "top3": 0.61, "newShare": 0.13, "newHit": "4/7"}, "prewash_oil": {"id": "prewash_oil", "name": "Pre-wash hair oil (squeeze bottle)", "block": "MAIN", "tier": "B", "flag": "", "amz": 83200.0, "amz1k": 10, "tt": 46.9, "meta": 10.0, "price": 31.9, "trust": 2, "total": 9, "top3": 0.55, "newShare": 0.0, "newHit": "0/2"}, "whitening_powder": {"id": "whitening_powder", "name": "Teeth whitening powder", "block": "MAIN", "tier": "B", "flag": "", "amz": 17100.0, "amz1k": 5, "tt": 292.5, "meta": 0, "price": null, "trust": 2, "total": 8, "top3": 0.7, "newShare": 0.17, "newHit": "6/8"}, "s_parasite": {"id": "s_parasite", "name": "Parasite cleanse drops (black walnut/wormwood)", "block": "SUPP", "tier": "B", "flag": "", "amz": 90600.0, "amz1k": 9, "tt": null, "meta": 53.0, "price": 23.96, "trust": 2, "total": 8, "top3": 0.67, "newShare": 0.01, "newHit": "2/4"}, "body_mousse": {"id": "body_mousse", "name": "Body mousse-to-oil", "block": "MAIN", "tier": "B", "flag": "", "amz": 125750.0, "amz1k": 10, "tt": 7.3, "meta": 4.0, "price": 15.95, "trust": 1, "total": 8, "top3": 0.64, "newShare": 0.02, "newHit": "1/4"}, "body_oil": {"id": "body_oil", "name": "Body oil for crepey skin", "block": "MAIN", "tier": "B", "flag": "", "amz": 79900.0, "amz1k": 8, "tt": 16.5, "meta": 85.0, "price": null, "trust": 2, "total": 7, "top3": 0.63, "newShare": 0.02, "newHit": "4/5"}, "s_oregano": {"id": "s_oregano", "name": "Oregano + black seed oil softgels", "block": "SUPP", "tier": "B", "flag": "", "amz": 126600.0, "amz1k": 8, "tt": 3.9, "meta": 8.0, "price": 27.74, "trust": 1, "total": 7, "top3": 0.71, "newShare": 0.0, "newHit": "0/0"}, "s_dht": {"id": "s_dht", "name": "DHT blocker (hair loss)", "block": "SUPP", "tier": "B", "flag": "", "amz": 35200.0, "amz1k": 7, "tt": null, "meta": 9.0, "price": 27.99, "trust": 1, "total": 6, "top3": 0.74, "newShare": 0.08, "newHit": "4/4"}, "s_methylfolate": {"id": "s_methylfolate", "name": "Methylfolate drops", "block": "SUPP", "tier": "B", "flag": "", "amz": 51800.0, "amz1k": 7, "tt": null, "meta": 12.0, "price": 23.96, "trust": 1, "total": 6, "top3": 0.81, "newShare": 0.07, "newHit": "7/8"}, "s_nac": {"id": "s_nac", "name": "NAC (N-acetyl cysteine)", "block": "SUPP", "tier": "B", "flag": "", "amz": 74400.0, "amz1k": 10, "tt": 0.92, "meta": 3.0, "price": 24.0, "trust": 1, "total": 6, "top3": 0.67, "newShare": 0.05, "newHit": "6/6"}, "s_energy_gummies": {"id": "s_energy_gummies", "name": "Caffeine energy gummies", "block": "SUPP", "tier": "B", "flag": "", "amz": 39350.0, "amz1k": 8, "tt": 1.6, "meta": 4.0, "price": 29.99, "trust": 1, "total": 6, "top3": 0.81, "newShare": 0.16, "newHit": "11/15"}, "s_acne_gummies": {"id": "s_acne_gummies", "name": "Acne / clear-skin gummies", "block": "SUPP", "tier": "B", "flag": "", "amz": 36200.0, "amz1k": 8, "tt": 0.15, "meta": 7.0, "price": 26.99, "trust": 1, "total": 6, "top3": 0.77, "newShare": 0.16, "newHit": "6/9"}, "s_men_metabolism": {"id": "s_men_metabolism", "name": "Men's metabolism / belly-fat supplement", "block": "SUPP", "tier": "B", "flag": "", "amz": 36800.0, "amz1k": 9, "tt": null, "meta": 5700.0, "price": 25.99, "trust": 1, "total": 4, "top3": 0.6, "newShare": 0.05, "newHit": "2/3"}, "wrinkle_primer": {"id": "wrinkle_primer", "name": "Instant line-blur primer / wrinkle filler", "block": "MAIN", "tier": "B", "flag": "", "amz": 42050.0, "amz1k": 8, "tt": 0.22, "meta": 0, "price": 34.0, "trust": 1, "total": 4, "top3": 0.64, "newShare": 0.02, "newHit": "2/3"}, "s_cinnamon": {"id": "s_cinnamon", "name": "Ceylon cinnamon capsules (blood sugar)", "block": "SUPP", "tier": "B", "flag": "", "amz": 46700.0, "amz1k": 15, "tt": 0.1, "meta": 73.0, "price": 20.49, "trust": 1, "total": 4, "top3": 0.54, "newShare": 0.14, "newHit": "6/6"}}};
+const CURVES = {"earthlyderm_turmeric": [["2024-09", 84], ["2024-10", 66], ["2024-11", 104], ["2024-12", 120], ["2025-01", 142], ["2025-02", 161], ["2025-03", 163], ["2025-04", 250], ["2025-05", 179], ["2025-06", 166], ["2025-07", 150], ["2025-08", 129], ["2025-09", 110], ["2025-10", 95], ["2025-11", 2], ["2025-12", 123], ["2026-01", 135], ["2026-02", 31], ["2026-03", 209], ["2026-04", 294], ["2026-05", 324], ["2026-06", 484], ["2026-07", 582], ["2026-08", 743], ["2026-09", 957], ["2026-10", 853], ["2026-11", 134]], "everstride_main": [["2024-09", 18], ["2024-10", 78], ["2024-11", 330], ["2024-12", 343], ["2025-01", 353], ["2025-02", 347], ["2025-03", 478], ["2025-04", 505], ["2025-05", 684], ["2025-06", 826], ["2025-07", 1003], ["2025-08", 1162], ["2025-09", 1362], ["2025-10", 1724], ["2025-11", 1724], ["2025-12", 1455], ["2026-01", 1295], ["2026-02", 1665], ["2026-03", 2017], ["2026-04", 1668], ["2026-05", 1096], ["2026-06", 589], ["2026-07", 2100], ["2026-08", 2281], ["2026-09", 2152], ["2026-10", 1376], ["2026-11", 10]]};
+const COLORS = ['--s1','--s2','--s3','--s4','--s5'];
+const $ = (s, el=document) => el.querySelector(s);
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const fmtK = v => v >= 1000 ? (v/1000).toFixed(v>=10000?0:1).replace(/\.0$/,'')+'M' : v+'K';
+const fmtN = v => v.toLocaleString('en-US');
+const fmtU = v => v==null ? 'n/a' : v>=1e6 ? (v/1e6).toFixed(1).replace(/\.0$/,'')+'M' : v>=1000 ? Math.round(v/1000)+'K' : String(Math.round(v));
+const pct = v => v==null ? 'n/a' : Math.round(100*v)+'%';
+const MONTHS = ['Jun','Jul','Aug','Sep'];
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const tip = $('#tip');
+function showTip(e, html){ tip.innerHTML = html; tip.style.opacity = 1; tip.style.left = e.clientX + 'px'; tip.style.top = (e.clientY + window.scrollY - 8) + 'px'; tip.style.position='absolute'; }
+function hideTip(){ tip.style.opacity = 0; }
+document.addEventListener('scroll', hideTip, {passive:true});
+
+/* ---------- charts ---------- */
+function niceMax(v){ const p = Math.pow(10, Math.floor(Math.log10(v))); const n = v/p; return (n<=1?1:n<=2?2:n<=2.5?2.5:n<=5?5:10)*p; }
+function svgEl(w,h){ return `<svg viewBox="0 0 ${w} ${h}" role="img">`; }
+
+function lineChart(el, points, color, unitFmt, label){
+  const W=520,H=220,L=44,R=16,T=18,B=28, max=niceMax(Math.max(...points.map(p=>p[1])));
+  const x=i=>L+i*(W-L-R)/(points.length-1), y=v=>T+(H-T-B)*(1-v/max);
+  let s=svgEl(W,H);
+  for(let i=0;i<=4;i++){ const v=max*i/4, yy=y(v); s+=`<line x1="${L}" x2="${W-R}" y1="${yy}" y2="${yy}" stroke="var(${i?'--grid':'--axis'})" stroke-width="1"/><text class="ax" x="${L-8}" y="${yy+4}" text-anchor="end">${unitFmt(v)}</text>`; }
+  const d=points.map((p,i)=>`${i?'L':'M'}${x(i)},${y(p[1])}`).join('');
+  s+=`<path d="${d} L${x(points.length-1)},${y(0)} L${x(0)},${y(0)}Z" fill="var(${color})" opacity=".10"/>`;
+  s+=`<path d="${d}" fill="none" stroke="var(${color})" stroke-width="2.5" stroke-linejoin="round"/>`;
+  points.forEach((p,i)=>{ s+=`<text class="ax" x="${x(i)}" y="${H-8}" text-anchor="middle">${p[0]}</text><circle cx="${x(i)}" cy="${y(p[1])}" r="5" fill="var(${color})" stroke="var(--surface)" stroke-width="2"/>`; });
+  const last=points[points.length-1]; s+=`<text class="lblb" x="${x(points.length-1)-8}" y="${y(last[1])-12}" text-anchor="end">${unitFmt(last[1])}</text>`;
+  points.forEach((p,i)=>{ const w=(W-L-R)/(points.length-1); s+=`<rect data-i="${i}" x="${x(i)-w/2}" y="${T}" width="${w}" height="${H-T-B}" fill="transparent"/>`; });
+  s+='</svg>'; el.innerHTML=s;
+  el.querySelectorAll('rect[data-i]').forEach(r=>{ r.addEventListener('mousemove',e=>{const p=points[+r.dataset.i]; showTip(e,`<b>${p[0]} 2026</b> · ${unitFmt(p[1])} ${label}`);}); r.addEventListener('mouseleave',hideTip); });
+}
+
+function barChart(el, rows, color, opts={}){
+  const W=1040,H=240,L=46,R=10,T=14,B=30, max=niceMax(Math.max(...rows.map(r=>r[1])));
+  const n=rows.length, bw=(W-L-R)/n, y=v=>T+(H-T-B)*(1-v/max);
+  let s=svgEl(W,H);
+  for(let i=0;i<=4;i++){ const v=max*i/4, yy=y(v); s+=`<line x1="${L}" x2="${W-R}" y1="${yy}" y2="${yy}" stroke="var(${i?'--grid':'--axis'})"/><text class="ax" x="${L-8}" y="${yy+4}" text-anchor="end">${fmtN(v)}</text>`; }
+  rows.forEach((r,i)=>{ const x0=L+i*bw+1, w=Math.max(2,bw-2), h=Math.max(0,y(0)-y(r[1])), lag=opts.lagFrom && r[0]>=opts.lagFrom;
+    const rx=Math.min(4,w/2,h); const top=y(r[1]);
+    s+= h>0 ? `<path d="M${x0},${y(0)} V${top+rx} Q${x0},${top} ${x0+rx},${top} H${x0+w-rx} Q${x0+w},${top} ${x0+w},${top+rx} V${y(0)}Z" fill="var(${color})" opacity="${lag?.35:1}"/>` : '';
+    const [yy,mm]=r[0].split('-'); if(mm==='01'||i===0) s+=`<text class="ax" x="${x0}" y="${H-10}">${mm==='01'?yy:r[0]}</text>`;
+    s+=`<rect data-i="${i}" x="${x0-1}" y="${T}" width="${bw}" height="${H-T-B}" fill="transparent"/>`; });
+  s+='</svg>'; el.innerHTML=s;
+  el.querySelectorAll('rect[data-i]').forEach(rc=>{ rc.addEventListener('mousemove',e=>{const r=rows[+rc.dataset.i]; const d=new Date(r[0]+'-01'); showTip(e,`<b>${d.toLocaleString('en-US',{month:'short',year:'numeric'})}</b> · ${fmtN(r[1])} reviews${opts.lagFrom&&r[0]>=opts.lagFrom?' (incomplete: review lag)':''}`);}); rc.addEventListener('mouseleave',hideTip); });
+}
+
+function adAge(el, a){
+  const parts=[['Under 90 days',a.total-a.d90,'--seq1'],['90-180 days',a.d90-a.d180,'--seq2'],['180+ days',a.d180,'--seq3']];
+  const W=520,H=86,L=0,R=0; let x=0; let s=svgEl(W,H);
+  parts.forEach((p,i)=>{ const w=(W-L-R)*p[1]/a.total; if(w>0){ s+=`<rect data-i="${i}" x="${x}" y="8" width="${Math.max(w-2,1.5)}" height="34" rx="4" fill="var(${p[2]})"/>`; } x+=w; });
+  let lx=0; parts.forEach((p,i)=>{ s+=`<rect x="${lx}" y="58" width="10" height="10" rx="2" fill="var(${p[2]})"/><text class="lbl" x="${lx+15}" y="67">${p[0]}: <tspan class="lblb">${fmtN(p[1])}</tspan></text>`; lx+=175; });
+  s+='</svg>'; el.innerHTML=s;
+  el.querySelectorAll('rect[data-i]').forEach(r=>{ r.addEventListener('mousemove',e=>{const p=parts[+r.dataset.i]; showTip(e,`<b>${p[0]}</b> · ${fmtN(p[1])} ads (${Math.round(100*p[1]/a.total)}%)`);}); r.addEventListener('mouseleave',hideTip); });
+}
+
+function hbars(el, rows, fmt, color, max){
+  const W=520,rowH=30,L=170,R=60,H=rows.length*rowH+6; max=max||Math.max(...rows.map(r=>r[1]));
+  let s=svgEl(W,H);
+  rows.forEach((r,i)=>{ const y=i*rowH+4, w=Math.max(2,(W-L-R)*r[1]/max);
+    s+=`<text class="lbl" x="${L-10}" y="${y+16}" text-anchor="end">${esc(r[0])}</text><rect x="${L}" y="${y+4}" width="${w}" height="18" rx="4" fill="var(${r[2]||color})"/><text class="lblb" x="${L+w+6}" y="${y+17}">${fmt(r[1],r)}</text>`; });
+  s+='</svg>'; el.innerHTML=s;
+}
+
+function compareLines(el, prods){
+  const W=1040,H=300,L=46,R=150,T=16,B=30;
+  const series=prods.map((p,i)=>({p, c:COLORS[i], v:p.traffic.map(t=>100*t/p.traffic[0])}));
+  const max=niceMax(Math.max(...series.flatMap(s=>s.v)));
+  const ymap=v=>T+(H-T-B)*(1-Math.log10(v/50)/Math.log10(max/50));
+  const x=i=>L+i*(W-L-R)/3;
+  let s=svgEl(W,H);
+  [50,100,200,500,1000].filter(v=>v<=max).forEach(v=>{ const yy=ymap(v); s+=`<line x1="${L}" x2="${W-R}" y1="${yy}" y2="${yy}" stroke="var(${v===100?'--axis':'--grid'})"/><text class="ax" x="${L-8}" y="${yy+4}" text-anchor="end">${v===100?'Jun':v/100+'×'}</text>`; });
+  MONTHS.forEach((m,i)=>{ s+=`<text class="ax" x="${x(i)}" y="${H-8}" text-anchor="middle">${m}</text>`; });
+  const ends=series.map(se=>({se,y:ymap(se.v[3])})).sort((a,b)=>a.y-b.y);
+  for(let i=1;i<ends.length;i++) if(ends[i].y-ends[i-1].y<16) ends[i].y=ends[i-1].y+16;
+  series.forEach(se=>{ s+=`<path d="${se.v.map((v,i)=>`${i?'L':'M'}${x(i)},${ymap(v)}`).join('')}" fill="none" stroke="var(${se.c})" stroke-width="2.5" stroke-linejoin="round"/>`;
+    se.v.forEach((v,i)=>{ s+=`<circle cx="${x(i)}" cy="${ymap(v)}" r="4.5" fill="var(${se.c})" stroke="var(--surface)" stroke-width="2"/>`; }); });
+  ends.forEach(e=>{ s+=`<text class="lbl" x="${x(3)+10}" y="${e.y+4}"><tspan class="lblb">${(e.se.v[3]/100).toFixed(1)}×</tspan> ${esc(e.se.p.name)}</text>`; });
+  for(let i=0;i<4;i++){ const w=(W-L-R)/3; s+=`<rect data-i="${i}" x="${x(i)-w/2}" y="${T}" width="${w}" height="${H-T-B}" fill="transparent"/>`; }
+  s+='</svg>'; el.innerHTML=s;
+  el.querySelectorAll('rect[data-i]').forEach(r=>{ r.addEventListener('mousemove',e=>{ const i=+r.dataset.i; showTip(e,`<b>${MONTHS[i]} 2026</b><br>`+series.map(se=>`${esc(se.p.name)}: ${fmtK(se.p.traffic[i])} visits (${(se.v[i]/100).toFixed(1)}× Jun)`).join('<br>')); }); r.addEventListener('mouseleave',hideTip); });
+}
+
+/* ---------- views ---------- */
+function verdictBadge(p,i){ return `<span class="badge"><i style="background:var(${COLORS[i]})"></i>${esc(p.verdict)}</span>`; }
+
+function renderProduct(p, i){
+  const c=COLORS[i], t=p.traffic, growth=t[3]/t[0];
+  const v=$('#view');
+  const ph=p.photos||[], hi=p.heroIdx||0, at=p.adTeaser;
+  const acc=(title,sub,body,open)=>`<details class="card acc section"${open?' open':''}><summary><h3>${title}</h3><small>${sub}</small></summary><div class="in">${body}</div></details>`;
+  v.innerHTML = `
+  <section class="card hero">
+    <div class="gallery">${ph.length?`<a href="${esc(p.productUrl)}" target="_blank" rel="noopener"><img class="main" id="ph-main" src="${esc(ph[hi])}" alt="${esc(p.name)}"></a>
+      <div class="thumbs">${ph.map((u,k)=>`<img src="${esc(u)}" data-k="${k}" aria-current="${k===hi}" alt="">`).join('')}</div>`:''}</div>
+    <div>
+      ${verdictBadge(p,i)}
+      <h2>${esc(p.name)}</h2>
+      <p class="model">${esc(p.sub)} · model: <b>${esc(p.model)}</b> (<a href="${esc(p.productUrl||'https://'+p.domain)}" target="_blank" rel="noopener">${esc(p.domain)}</a>)</p>
+      <p class="thesis">${esc(p.thesis)}</p>
+      <div class="kpis k3">
+        <div class="kpi"><div class="l">Visits, Sep 2026</div><div class="v">${fmtK(t[3])}</div><div class="s ${growth>=1?'up':''}">${growth>=1?'▲':'▼'} ${growth.toFixed(1)}× vs Jun</div></div>
+        <div class="kpi"><div class="l">Ads alive 180+ days</div><div class="v">${fmtN(p.ads.d180)}</div><div class="s">of ${fmtN(p.ads.total)} active</div></div>
+        <div class="kpi"><div class="l">LTV ◇</div><div class="v">$${p.ltv}</div><div class="s">${esc(p.repeats)}</div></div>
+      </div>
+      <details class="more"><summary>More numbers</summary>
+        <div class="kpis k3">
+          <div class="kpi"><div class="l">US share</div><div class="v">${p.us}%</div><div class="s">of visitors</div></div>
+          <div class="kpi"><div class="l">AOV</div><div class="v">$${p.aov}${p.aovEst?' ◇':''}</div><div class="s">average order</div></div>
+          <div class="kpi"><div class="l">Max CAC ◇</div><div class="v" style="font-size:18px">${esc(p.maxCac)}</div><div class="s">ad cost per order we can pay</div></div>
+        </div></details>
+    </div>
+  </section>
+
+  ${p.cat?`<section class="card section"><h3>Category level, all sellers</h3><p class="cap">Blind pass across Amazon, TikTok Shop and Meta, 7 Nov 2026: the whole category, not only ${esc(p.model)} ◆</p>
+    <div class="catstrip">
+      <div class="kpi"><div class="l">Amazon units / mo</div><div class="v">${fmtU(p.cat.amz)}</div><div class="s">top-20 badges, floor</div></div>
+      <div class="kpi"><div class="l">Amazon sellers 1K+</div><div class="v">${p.cat.amz1k}</div><div class="s">listings selling 1K+/mo</div></div>
+      <div class="kpi"><div class="l">TikTok top sold</div><div class="v">${p.cat.tt!=null?fmtU(p.cat.tt*1000):'n/a'}</div><div class="s">lifetime, top product</div></div>
+      <div class="kpi"><div class="l">Meta ads 180+ d</div><div class="v">${fmtN(p.cat.meta)}</div><div class="s">phrase or leader domain</div></div>
+      <div class="kpi"><div class="l">Newcomers' share</div><div class="v">${pct(p.cat.newShare)}</div><div class="s">${p.cat.newHit||'n/a'} newcomers selling</div></div>
+    </div></section>`:''}
+
+  ${at?`<section class="card section"><div class="adhead"><div class="grow"><h3>Their longest-running ads</h3><p class="cap" style="margin:0">${at.total??at.loaded} active US ads started ${at.minDays}+ days ago; the oldest has run ${at.oldest} days. Click a preview to open it in Meta Ad Library ◆</p></div>
+    <a class="btn primary" href="long-running-ads.html#${p.id}">See all ${at.loaded} as cards →</a></div>
+    <div class="adstrip">${at.top.map(a=>`<a href="https://www.facebook.com/ads/library/?id=${a.id}" target="_blank" rel="noopener" title="Library ID ${a.id}"><img loading="lazy" src="${esc(a.img)}" alt=""><span>${a.days} d</span>${a.video?'<i>▶ video</i>':''}</a>`).join('')}</div></section>`:''}
+
+  <div class="grid g2 section">
+    <section class="card"><h3>Traffic history</h3><p class="cap">Monthly visits to ${esc(p.domain)}, SimilarWeb, Jun-Sep 2026 ◆</p><div class="chart" id="c-traffic"></div></section>
+    <section class="card"><h3>Ad history: how long ads survive</h3><p class="cap">Active US ads by start date, Meta Ad Library ◆</p><div class="chart" id="c-ads"></div><div class="note">${esc(p.ads.note)}</div></section>
+  </div>
+
+  <div class="grid g2 section">
+    <section class="card"><h3>Risks</h3><ul class="plain risk">${p.risks.map(r=>`<li>${esc(r)}</li>`).join('')}</ul></section>
+    <section class="card"><h3>How we would enter</h3><ul class="plain cond">${p.conditions.map(r=>`<li>${esc(r)}</li>`).join('')}</ul></section>
+  </div>
+
+  ${acc('Review curve','how fast reviews pile up',`<p class="cap" id="rev-cap"></p><div class="chart" id="c-rev"></div><div id="rev-extra"></div>`)}
+  ${acc('Clones and competition', esc(p.clones.count)+' · '+esc(p.clones.phrase), `
+      <div class="rivals" style="margin-top:0">${p.clones.rivals.map(r=>`<span>${esc(r)}</span>`).join('')}</div>
+      <div class="note">${esc(p.clones.read)}</div><div id="extra-comp"></div>`)}
+  ${acc('Demand and economics', esc(p.price)+' · unit cost '+esc(p.unitCost), `<p class="cap">Search as % of 'ski boots' (Google Trends, US, 12 mo); costs from Alibaba listings and US tariff tables</p>
+      <dl class="econ grid g3" style="gap:0 16px">
+        <div><dt>Category search</dt><dd>${esc(p.search.category)}</dd></div>
+        <div><dt>Brand search</dt><dd>${esc(p.search.brand)}</dd></div>
+        <div><dt>Leader's price</dt><dd>${esc(p.price)}</dd></div>
+        <div><dt>Unit cost</dt><dd>${esc(p.unitCost)}</dd></div>
+        <div><dt>Import duty</dt><dd>${esc(p.duty)}</dd></div>
+        <div><dt>Repeat cycle</dt><dd>${esc(p.repeats)}</dd></div>
+      </dl>`)}
+  ${acc('All findings and sources', p.findings.length+' findings, filter by confidence', `<div class="chips" id="chips"></div><ul class="findings" id="findings"></ul>`)}`;
+
+  v.querySelectorAll('.thumbs img').forEach(im=>im.onclick=()=>{ $('#ph-main').src=im.src; v.querySelectorAll('.thumbs img').forEach(x=>x.setAttribute('aria-current', x===im)); });
+
+  lineChart($('#c-traffic'), MONTHS.map((m,k)=>[m,t[k]]), c, fmtK, 'visits');
+  adAge($('#c-ads'), p.ads);
+
+  const r=p.reviews, cap=$('#rev-cap'), extra=$('#rev-extra');
+  const tr=r.trust;
+  const trustLine = tr ? `<div class="note">Trustpilot: <b>${fmtN(tr.total)}</b> reviews, score <b>${tr.score}</b>${tr.neg!=null?`, 1-2★ share <b>${tr.neg}%</b>`:''} ◆</div>` : '';
+  if(r.kind==='loox'){
+    cap.textContent = r.label + ' ◆. Faded bars = the last weeks, still filling up because reviews arrive weeks after delivery.';
+    barChart($('#c-rev'), CURVES[r.key], c, {lagFrom:'2026-10'});
+    extra.innerHTML = trustLine + (r.snapshots?`<div class="note">Trustpilot count over time (Wayback snapshots): ${r.snapshots.map(s=>`${s[0]} <b>${fmtN(s[1])}</b>`).join(' → ')}</div>`:'');
+  } else if(r.kind==='trust'){
+    cap.textContent = 'Trustpilot (public view shows only the latest ~200 reviews, so the history comes from Wayback snapshots) ◆';
+    $('#c-rev').style.maxWidth='560px';
+    hbars($('#c-rev'), (r.recent||[]).map(s=>['New reviews, '+s[0], s[1]]), v=>fmtN(v), c);
+    extra.innerHTML = trustLine + (r.snapshots?`<div class="note">Trustpilot count over time (Wayback snapshots): ${r.snapshots.map(s=>`${s[0]} <b>${fmtN(s[1])}</b>`).join(' → ')}</div>`:'');
+  } else {
+    cap.textContent = r.label + '. Next step: pull the store\'s review widget history.';
+    $('#c-rev').innerHTML = '<div class="note">No review data collected for this product yet.</div>';
+  }
+
+  const ec=$('#extra-comp');
+  if(p.angles){
+    ec.innerHTML = `<h3 style="margin-top:18px">Angle scan: which angles survive</h3><p class="cap">Share of active ads (all words match) that are 180+ days old. Near the baseline = proven angle; near zero = tried but not cracked. Rough counts ◈</p><div class="chart" id="c-ang"></div>`;
+    hbars($('#c-ang'), p.angles.map(a=>[a[0], 100*a[2]/a[1], null, a]), (v,r)=>`${v.toFixed(1)}% · ${fmtN(r[3][2])}/${fmtN(r[3][1])}`, '--seq2', 4.5);
+  }
+  if(p.geo){
+    ec.innerHTML = `<h3 style="margin-top:18px">Where do visitors come from? Sources disagree ◇</h3><p class="cap">US share of visitors by estimator</p><div class="chart" id="c-geo"></div><div class="note">Hypestat also lists Australia ~4%, Germany ~3.5%, Canada ~3%, Netherlands ~2.7%. Kaori ships worldwide.</div>`;
+    hbars($('#c-geo'), p.geo.map(g=>[g[0],g[1]]), v=>v+'% US', '--seq2', 100);
+  }
+
+  const marks=['All','◆','◈','◇']; let cur='All';
+  const draw=()=>{ $('#findings').innerHTML = p.findings.filter(f=>cur==='All'||f[0]===cur).map(f=>`<li><span class="m">${f[0]}</span><span>${esc(f[1])}<span class="src">Source: ${esc(f[2])}</span></span></li>`).join(''); $('#chips').innerHTML = marks.map(m=>`<button class="chip" aria-pressed="${m===cur}" data-m="${m}">${m==='All'?'All':m+' '+({'◆':'confirmed','◈':'likely','◇':'estimate / disputed'})[m]} (${m==='All'?p.findings.length:p.findings.filter(f=>f[0]===m).length})</button>`).join(''); $('#chips').querySelectorAll('.chip').forEach(b=>b.onclick=()=>{cur=b.dataset.m;draw();}); };
+  draw();
+}
+
+function renderOverview(){
+  const P=DATA.products, v=$('#view');
+  const rows=[
+    ['Verdict', p=>p.verdict, null],
+    ['Visits, Sep 2026', p=>fmtK(p.traffic[3]), p=>p.traffic[3]],
+    ['Growth Jun → Sep', p=>(p.traffic[3]/p.traffic[0]).toFixed(1)+'×', p=>p.traffic[3]/p.traffic[0]],
+    ['US share', p=>p.us+'%', p=>p.us],
+    ['Ads alive 180+ days', p=>fmtN(p.ads.d180), p=>p.ads.d180],
+    ['AOV', p=>'$'+p.aov, p=>p.aov],
+    ['LTV ◇', p=>'$'+p.ltv, p=>p.ltv],
+    ['Brand search', p=>p.search.brand, p=>parseFloat(p.search.brand)],
+    ['Trustpilot 1-2★', p=>p.reviews.trust&&p.reviews.trust.neg!=null?p.reviews.trust.neg+'%':'n/a', p=>p.reviews.trust&&p.reviews.trust.neg!=null?-p.reviews.trust.neg:null],
+    ['Clone ads (phrase)', p=>p.clones.count, null],
+    ['Main risk', p=>p.risks[0], null]
+  ];
+  const shade=(vals,val)=>{ const xs=vals.filter(x=>x!=null).sort((a,b)=>a-b); if(val==null||xs.length<2) return ''; const r=xs.indexOf(val)/(xs.length-1); const steps=['--surface-2','--seq1','--seq2','--seq3']; const k=Math.min(3,Math.round(r*3)); return `background:var(${steps[k]});color:${k?`var(--hi${k})`:'var(--ink)'}`; };
+  const acc=(title,sub,body)=>`<details class="card acc section"><summary><h3>${title}</h3><small>${sub}</small></summary><div class="in">${body}</div></details>`;
+  const C=DATA.cat, favIds=new Set([...DATA.favs,...DATA.suppFavs].map(f=>f.id));
+  const card=(f,rank)=>{ const c=C[f.id], pi=f.tab?P.findIndex(p=>p.id===f.tab):-1, p=P[pi], img=p?(p.photos||[])[p.heroIdx||0]:null, tag=pi>=0?'button':'div';
+    return `<${tag} class="fcard"${pi>=0?` data-go="${pi}"`:''}><div class="top"><span class="rank">${rank}</span>${img?`<img src="${esc(img)}" alt="">`:''}<span>${img?'Deep dive available':'Category evidence only'}</span></div>
+    <div class="b"><h3>${esc(c.name)} <span title="${({'◆':'confirmed','◈':'likely','◇':'estimate'})[f.mark]}">${f.mark}</span></h3>
+    <dl><dt>Amazon units / mo</dt><dd>${fmtU(c.amz)}</dd><dt>Amazon sellers 1K+</dt><dd>${c.amz1k}</dd><dt>TikTok top sold</dt><dd>${c.tt!=null?fmtU(c.tt*1000):'n/a'}</dd><dt>Meta ads 180+ d</dt><dd>${fmtN(c.meta)}</dd><dt>Newcomers' share</dt><dd>${pct(c.newShare)}</dd></dl>
+    <div class="meter" title="Share of Amazon top-20 units held by listings under 500 reviews"><i style="width:${Math.max(2,100*(c.newShare||0))}%"></i></div>
+    <p class="why">${esc(f.why)}</p><p class="rk">${esc(f.risk)}</p>
+    <span class="go${pi>=0?'':' muted'}">${pi>=0?'Open the deep dive →':'Leader brand not researched yet'}</span></div></${tag}>`; };
+  const cols=[['Product',r=>r.name],['Amazon units/mo',r=>r.amz],['Sellers 1K+',r=>r.amz1k],['TikTok top sold',r=>r.tt],['Meta ads 180+ d',r=>r.meta],["Newcomers' share",r=>r.newShare],['Newcomers selling',r=>r.newHit?+r.newHit.split('/')[0]/+r.newHit.split('/')[1]:null],['Price',r=>r.price]];
+  v.innerHTML = `
+  <h2 class="sec" style="margin-top:8px">Top 5 products</h2><p class="sec">Chosen from tier A by proof, open room for newcomers, and repeat purchases. Numbers are category-level, from Amazon, TikTok Shop and Meta on 7 Nov 2026.</p>
+  <div class="fcards">${DATA.favs.map((f,i)=>card(f,i+1)).join('')}</div>
+  <h2 class="sec">Top 3 supplements</h2><p class="sec">${esc(DATA.suppGate)}</p>
+  <div class="fcards c3">${DATA.suppFavs.map((f,i)=>card(f,i+1)).join('')}</div>
+  <div class="grid g2 section">
+    <section class="card"><h3>What changed since the previous version</h3><ul class="changes">${DATA.changes.map(c=>`<li><span class="t ${c[0]}">${c[0]}</span><span><b>${esc(c[1])}</b><span class="s">${esc(c[2])}</span></span></li>`).join('')}</ul></section>
+    <section class="card"><h3>Next steps before buying stock</h3><ol class="plain" style="padding-left:20px">${DATA.next.map(n=>`<li>${esc(n)}</li>`).join('')}</ol></section>
+  </div>
+  <h2 class="sec">Full shortlist: tier A</h2><p class="sec">Every product here passes all four gates (demand, room for newcomers, repeat or $40+, legal) and is confirmed by all three channels. Order inside tier A is within the noise. <span class="star">★</span> = favourite. Click a column to sort.</p>
+  <section class="card"><div style="overflow-x:auto"><table class="sl" id="sl"></table></div>
+    <div class="note">Newcomers = Amazon listings with under 500 reviews in the on-target top 20. "Newcomers selling" = how many of them carry a "bought in past month" badge. Meta = max of the category phrase and the leader's own domain. TikTok = lifetime sold of the top product.</div></section>
+  <h2 class="sec">Deep dives: the soap and sock leaders</h2><p class="sec">Only these leaders have traffic history, review curves and economics so far. Click a card to open it.</p>
+  <div class="pcards" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">${P.map((p,i)=>`<button class="pcard" data-go="${i}"><img src="${esc((p.photos||[])[p.heroIdx||0]||'')}" alt=""><div class="b">${verdictBadge(p,i)}<h3>${esc(p.name)}</h3>
+    <dl><dt>Visits, Sep</dt><dd>${fmtK(p.traffic[3])} <span class="${p.traffic[3]>=p.traffic[0]?'up':''}">${(p.traffic[3]/p.traffic[0]).toFixed(1)}×</span></dd><dt>Ads 180+ d</dt><dd>${fmtN(p.ads.d180)}</dd><dt>LTV ◇</dt><dd>$${p.ltv}</dd></dl></div></button>`).join('')}</div>
+
+  <section class="card section"><h3>Traffic momentum, indexed to June</h3><p class="cap">Each line = one leader's monthly visits ÷ its June visits (log scale). Hover for absolute numbers ◆</p><div class="chart" id="c-cmp"></div></section>
+
+  ${acc('Side by side, all metrics','heat table across the deep dives', `<p class="cap">Bolder blue = stronger within this shortlist on that row (relative ranking, not a score). Click a product name to open it.</p>
+    <div style="overflow-x:auto"><table class="heat"><thead><tr><th></th>${P.map((p,i)=>`<th><a href="#${p.id}" data-go="${i}" style="text-decoration:none"><span class="badge"><i style="background:var(${COLORS[i]})"></i>${esc(p.name)}</span></a></th>`).join('')}</tr></thead>
+    <tbody>${rows.map(r=>{ const vals=P.map(p=>r[2]?r[2](p):null); return `<tr><th>${r[0]}</th>${P.map((p,i)=>`<td class="${r[2]?'h':''}" style="${r[2]?shade(vals,vals[i]):''}">${esc(r[1](p))}</td>`).join('')}</tr>`; }).join('')}</tbody></table></div>`)}
+  ${acc('How we got here', DATA.meta.funnel.map(f=>f[1]+' '+f[0].toLowerCase()).join(' → '), `<div class="funnel">${DATA.meta.funnel.map(f=>`<div><b>${f[1]}</b><span>${esc(f[0])}</span></div>`).join('')}</div>
+    <div class="grid section" style="grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px">${DATA.meta.signals.map(s=>`<div class="kpi"><div class="v" style="font-size:15px">${esc(s[0])}</div><div class="s" style="color:var(--ink-2)">${esc(s[1])}</div></div>`).join('')}</div>`)}
+  ${acc('What our method cannot see', DATA.blind.length+' blind spots', `<ul class="plain">${DATA.blind.map(b=>`<li><b>${esc(b[0])}.</b> ${esc(b[1])}</li>`).join('')}</ul>`)}
+  ${acc('Checked and dropped', DATA.dropped.length+' products', `<table><thead><tr><th>Product</th><th>Why not</th></tr></thead><tbody>${DATA.dropped.map(d=>`<tr><td>${esc(d[0])}</td><td>${esc(d[1])}</td></tr>`).join('')}</tbody></table>`)}`;
+  compareLines($('#c-cmp'), P);
+  let sortK=null;
+  const drawTable=()=>{ const rows=DATA.tierA.slice(), get=sortK!=null?cols[sortK][1]:null;
+    if(get) rows.sort((a,b)=> sortK===0 ? String(get(a)).localeCompare(get(b)) : (get(b)??-1)-(get(a)??-1));
+    const grp=(b,label)=>{ const rs=rows.filter(r=>r.block===b); return `<tr class="grp"><td colspan="${cols.length+1}">${label} (${rs.length})</td></tr>`+rs.map(r=>`<tr class="${favIds.has(r.id)?'fav':''}">
+      <td>${favIds.has(r.id)?'<span class="star">★</span> ':''}${esc(r.name)}</td><td class="num">${fmtU(r.amz)}</td><td class="num">${r.amz1k}</td><td class="num">${r.tt!=null?fmtU(r.tt*1000):'n/a'}</td><td class="num">${fmtN(r.meta)}</td>
+      <td class="num">${pct(r.newShare)}<div class="meter"><i style="width:${Math.max(2,100*(r.newShare||0))}%"></i></div></td><td class="num">${r.newHit||'n/a'}</td><td class="num">${r.price!=null?'$'+r.price.toFixed(0):'n/a'}</td><td class="n">${esc(DATA.notes[r.id]||'')}</td></tr>`).join(''); };
+    $('#sl').innerHTML=`<thead><tr>${cols.map((c,k)=>`<th data-k="${k}"${k===sortK?' aria-sort="descending"':''}>${c[0]}</th>`).join('')}<th>Note</th></tr></thead><tbody>${grp('MAIN','Products')}${grp('SUPP','Supplements')}</tbody>`;
+    $('#sl').querySelectorAll('th[data-k]').forEach(th=>th.onclick=()=>{ sortK=+th.dataset.k; drawTable(); }); };
+  drawTable();
+  v.querySelectorAll('[data-go]').forEach(a=>a.onclick=e=>{e.preventDefault(); select(+a.dataset.go+1);});
+}
+
+/* ---------- shell ---------- */
+const tabs=$('#tabs');
+$('#ver').textContent = DATA.meta.version||'';
+$('#lede').textContent = DATA.meta.lede||'';
+const items=[{name:'Overview',sub:'Shortlist and favourites',color:'--ink'}, ...DATA.products.map((p,i)=>({name:p.name,sub:p.verdict,color:COLORS[i],img:(p.photos||[])[p.heroIdx||0]}))];
+tabs.innerHTML = items.map((t,i)=>`<button class="tab" role="tab" data-i="${i}">${t.img?`<img class="ph" src="${esc(t.img)}" alt="" style="box-shadow:0 0 0 2px var(${t.color})">`:`<span class="dot" style="background:var(${t.color})"></span>`}<span>${esc(t.name)}<small>${esc(t.sub)}</small></span></button>`).join('');
+function select(i){
+  tabs.querySelectorAll('.tab').forEach(b=>b.setAttribute('aria-selected', +b.dataset.i===i));
+  hideTip();
+  if(i===0) renderOverview(); else renderProduct(DATA.products[i-1], i-1);
+  history.replaceState(null,'','#'+(i===0?'overview':DATA.products[i-1].id));
+}
+tabs.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{ select(+b.dataset.i); window.scrollTo({top:0,behavior:'smooth'}); });
+$('#date').textContent = DATA.meta.date;
+const h=location.hash.slice(1), idx=DATA.products.findIndex(p=>p.id===h);
+const themeBtn=$('#theme');
+function setTheme(t){ document.documentElement.dataset.theme=t; themeBtn.textContent = t==='dark'?'Light mode':'Dark mode'; }
+setTheme(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');
+themeBtn.onclick=()=>{ setTheme(document.documentElement.dataset.theme==='dark'?'light':'dark'); };
+select(idx>=0?idx+1:0);
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+ "phrase": "pore patches",
+ "date": "2026-11-08",
+ "active": 1,
+ "aged30": 1,
+ "aged90": 1,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "996650222704976",
+   "page": "Vue Skin",
+   "start": "2026-05-13",
+   "n": 1,
+   "domain": "vueswiss.com",
+   "window": "90-180"
+  }
+ ]
+}

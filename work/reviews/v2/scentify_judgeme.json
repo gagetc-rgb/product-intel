@@ -1,0 +1,289 @@
+{
+ "label": "scentify",
+ "shop": "scentify-home.myshopify.com",
+ "total_product_reviews": 2104,
+ "all_feed_n": 1000,
+ "all_feed_capped": true,
+ "all_window_from": "2025-06-13",
+ "non5_n": 358,
+ "non5_from": "2022-09-12",
+ "k_all_per_non5": 5.88,
+ "k_recent": 6.38,
+ "non5_capped": false,
+ "calib_months": [
+  "2025-07",
+  "2025-08",
+  "2025-09",
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-06",
+  "2026-07",
+  "2026-08",
+  "2026-09",
+  "2026-10"
+ ],
+ "monthly": {
+  "2022-09": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 18
+  },
+  "2022-10": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 29
+  },
+  "2022-11": {
+   "all_exact": null,
+   "non5": 6,
+   "est": 35
+  },
+  "2022-12": {
+   "all_exact": null,
+   "non5": 7,
+   "est": 41
+  },
+  "2023-01": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 12
+  },
+  "2023-02": {
+   "all_exact": null,
+   "non5": 8,
+   "est": 47
+  },
+  "2023-03": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 24
+  },
+  "2023-04": {
+   "all_exact": null,
+   "non5": 1,
+   "est": 6
+  },
+  "2023-05": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 12
+  },
+  "2023-06": {
+   "all_exact": null,
+   "non5": 18,
+   "est": 106
+  },
+  "2023-07": {
+   "all_exact": null,
+   "non5": 7,
+   "est": 41
+  },
+  "2023-08": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 24
+  },
+  "2023-09": {
+   "all_exact": null,
+   "non5": 8,
+   "est": 47
+  },
+  "2023-10": {
+   "all_exact": null,
+   "non5": 13,
+   "est": 76
+  },
+  "2023-11": {
+   "all_exact": null,
+   "non5": 7,
+   "est": 41
+  },
+  "2023-12": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 24
+  },
+  "2024-01": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 12
+  },
+  "2024-02": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 18
+  },
+  "2024-03": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 18
+  },
+  "2024-04": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 24
+  },
+  "2024-05": {
+   "all_exact": null,
+   "non5": 6,
+   "est": 35
+  },
+  "2024-06": {
+   "all_exact": null,
+   "non5": 8,
+   "est": 47
+  },
+  "2024-07": {
+   "all_exact": null,
+   "non5": 16,
+   "est": 94
+  },
+  "2024-08": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 29
+  },
+  "2024-09": {
+   "all_exact": null,
+   "non5": 10,
+   "est": 59
+  },
+  "2024-10": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 24
+  },
+  "2024-11": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 29
+  },
+  "2024-12": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 18
+  },
+  "2025-01": {
+   "all_exact": null,
+   "non5": 6,
+   "est": 35
+  },
+  "2025-02": {
+   "all_exact": null,
+   "non5": 7,
+   "est": 41
+  },
+  "2025-03": {
+   "all_exact": null,
+   "non5": 11,
+   "est": 65
+  },
+  "2025-04": {
+   "all_exact": null,
+   "non5": 8,
+   "est": 47
+  },
+  "2025-05": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 29
+  },
+  "2025-06": {
+   "all_exact": null,
+   "non5": 6,
+   "est": 35
+  },
+  "2025-07": {
+   "all_exact": 56,
+   "non5": 6,
+   "est": 56
+  },
+  "2025-08": {
+   "all_exact": 55,
+   "non5": 8,
+   "est": 55
+  },
+  "2025-09": {
+   "all_exact": 23,
+   "non5": 1,
+   "est": 23
+  },
+  "2025-10": {
+   "all_exact": 45,
+   "non5": 8,
+   "est": 45
+  },
+  "2025-11": {
+   "all_exact": 53,
+   "non5": 8,
+   "est": 53
+  },
+  "2025-12": {
+   "all_exact": 53,
+   "non5": 5,
+   "est": 53
+  },
+  "2026-01": {
+   "all_exact": 44,
+   "non5": 5,
+   "est": 44
+  },
+  "2026-02": {
+   "all_exact": 37,
+   "non5": 4,
+   "est": 37
+  },
+  "2026-03": {
+   "all_exact": 61,
+   "non5": 8,
+   "est": 61
+  },
+  "2026-04": {
+   "all_exact": 76,
+   "non5": 2,
+   "est": 76
+  },
+  "2026-05": {
+   "all_exact": 53,
+   "non5": 8,
+   "est": 53
+  },
+  "2026-06": {
+   "all_exact": 65,
+   "non5": 12,
+   "est": 65
+  },
+  "2026-07": {
+   "all_exact": 66,
+   "non5": 13,
+   "est": 66
+  },
+  "2026-08": {
+   "all_exact": 73,
+   "non5": 19,
+   "est": 73
+  },
+  "2026-09": {
+   "all_exact": 68,
+   "non5": 15,
+   "est": 68
+  },
+  "2026-10": {
+   "all_exact": 104,
+   "non5": 24,
+   "est": 104
+  },
+  "2026-11": {
+   "all_exact": 32,
+   "non5": 1,
+   "est": 32
+  }
+ },
+ "partial_month": "2026-11"
+}

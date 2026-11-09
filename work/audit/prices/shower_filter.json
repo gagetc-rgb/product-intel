@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B07Q4MYZNC",
+  "brand": "feelso",
+  "units": 10000,
+  "price_scan": "$19.79",
+  "asin_age_m": 74
+ },
+ {
+  "asin": "B0F6BPJZLW",
+  "brand": "feelso",
+  "units": 8000,
+  "price_scan": "$20.99",
+  "asin_age_m": 20
+ },
+ {
+  "asin": "B0CL4SVJQ3",
+  "brand": "srsun",
+  "units": 6000,
+  "price_scan": "$22.98",
+  "asin_age_m": 37
+ },
+ {
+  "asin": "B0H392GY5R",
+  "brand": "(no brand)",
+  "units": 6000,
+  "price_scan": "$35.98",
+  "asin_age_m": 5
+ },
+ {
+  "asin": "B0CCTNWYDH",
+  "brand": "makefit",
+  "units": 5000,
+  "price_scan": "$22.99",
+  "asin_age_m": 41
+ },
+ {
+  "asin": "B0FNWXG9Q7",
+  "brand": "magichome",
+  "units": 5000,
+  "price_scan": "$18.99",
+  "asin_age_m": 13
+ },
+ {
+  "asin": "B0BJDPJNN3",
+  "brand": "cobbe",
+  "units": 5000,
+  "price_scan": "$21.65",
+  "asin_age_m": 51
+ },
+ {
+  "asin": "B0G6DYFPB2",
+  "brand": "srsun",
+  "units": 4000,
+  "price_scan": "$21.99",
+  "asin_age_m": 10
+ },
+ {
+  "asin": "B0H7WSS741",
+  "brand": "veken",
+  "units": 3000,
+  "price_scan": "$52.99",
+  "asin_age_m": 3
+ },
+ {
+  "asin": "B0BNPMJDB6",
+  "brand": "makefit",
+  "units": 2000,
+  "price_scan": "$18.97",
+  "asin_age_m": 51
+ }
+]

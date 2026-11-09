@@ -1,0 +1,515 @@
+{
+ "phrase": "crepey skin",
+ "date": "2026-11-07",
+ "active": 11000,
+ "aged90": 1100,
+ "aged180": 84,
+ "ads": [
+  {
+   "id": "1998108007419317",
+   "page": "TurmSkin",
+   "start": "2025-12-31",
+   "n": 1,
+   "domain": "try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1592838405058798",
+   "page": "TurmSkin",
+   "start": "2025-12-31",
+   "n": 1,
+   "domain": "try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1466019292202203",
+   "page": "Beauty From Bees",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1829736597714593",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-02-03",
+   "n": 1,
+   "domain": "quiz.try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "931660769615292",
+   "page": "Emily Weston",
+   "start": "2026-03-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "912215001566762",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "quiz.try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1632068514625668",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-01-21",
+   "n": 1,
+   "domain": "quiz.try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1282710480559660",
+   "page": "Amanda Grace",
+   "start": "2025-12-19",
+   "n": 1,
+   "domain": "try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1465668275290080",
+   "page": "My Skin Dealer",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "myskindealer.com",
+   "window": "180+"
+  },
+  {
+   "id": "1638401180936893",
+   "page": "Flawless Medspa",
+   "start": "2026-02-05",
+   "n": 1,
+   "domain": "offer.beflawlessmn.com",
+   "window": "180+"
+  },
+  {
+   "id": "1820384665586844",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-04-28",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1502117228251082",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-04-19",
+   "n": 1,
+   "domain": "quiz.try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "781755004250590",
+   "page": "The Health Carpenter",
+   "start": "2025-08-25",
+   "n": 1,
+   "domain": "www.thehealthcarpenter.com",
+   "window": "180+"
+  },
+  {
+   "id": "1907547790641754",
+   "page": "TurmSkin",
+   "start": "2026-01-01",
+   "n": 1,
+   "domain": "try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "978962151189602",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1383374942953470",
+   "page": "Flawless Injector",
+   "start": "2026-01-31",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "925939950169403",
+   "page": "SeraVita",
+   "start": "2026-03-21",
+   "n": 1,
+   "domain": "offer.shopseravita.com",
+   "window": "180+"
+  },
+  {
+   "id": "1535579050844386",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-02-18",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1978424733066632",
+   "page": "Peak Physical Medicine Visalia",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "peakphysicalmedicine.spaoffers.co",
+   "window": "180+"
+  },
+  {
+   "id": "816342801038721",
+   "page": "Lauren Watts",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2143434579803977",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-02-18",
+   "n": 1,
+   "domain": "quiz.try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1305122008142527",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-04-06",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "628927770315306",
+   "page": "Joanna Woodley",
+   "start": "2026-03-08",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1234530628889178",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-02-03",
+   "n": 1,
+   "domain": "quiz.try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1525227962536826",
+   "page": "SeraVita",
+   "start": "2026-03-13",
+   "n": 1,
+   "domain": "shopseravita.com",
+   "window": "180+"
+  },
+  {
+   "id": "2041666223061316",
+   "page": "Korean Glow Skin Club",
+   "start": "2026-04-06",
+   "n": 1,
+   "domain": "try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1192925083045889",
+   "page": "Korean Glow Skin Club",
+   "start": "2025-12-19",
+   "n": 1,
+   "domain": "try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1312275397373595",
+   "page": "TurmSkin",
+   "start": "2025-12-31",
+   "n": 1,
+   "domain": "try-turmskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1569611851471085",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "2549374265526310",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-21",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "27045453845076365",
+   "page": "Vitality Extracts Essential Oils",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2428738407605159",
+   "page": "Vitality Extracts Essential Oils",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "26718540777849099",
+   "page": "Vitality Extracts Essential Oils",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "866991852497319",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2087011815525278",
+   "page": "DRMTLGY",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1643987007351548",
+   "page": "DRMTLGY",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "www.drmtlgy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2160943787783535",
+   "page": "Miami MD",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "offer.trymiamimd.com",
+   "window": "90-180"
+  },
+  {
+   "id": "971797409196429",
+   "page": "Body Confidence Daily",
+   "start": "2026-07-13",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1017565504345443",
+   "page": "Goda Perfume",
+   "start": "2026-06-28",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1645967020007809",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-26",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1064770309834903",
+   "page": "Eight Saints",
+   "start": "2026-07-10",
+   "n": 1,
+   "domain": "eightsaintsskincare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3427445204106285",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-14",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1968823853726878",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-25",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1339785137569451",
+   "page": "NØRD BODY",
+   "start": "2026-07-05",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2208901776543074",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1520547286356724",
+   "page": "DRMTLGY",
+   "start": "2026-05-15",
+   "n": 3,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "985067414115491",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-06-06",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1770217314143645",
+   "page": "Oak Essentials",
+   "start": "2026-05-18",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1989281645058808",
+   "page": "VitaeCharm",
+   "start": "2026-08-02",
+   "n": 1,
+   "domain": "vitaecharm.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2283664175785800",
+   "page": "Dr Lila Merrit",
+   "start": "2026-06-28",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "27555911767380270",
+   "page": "Dr Lila Merrit",
+   "start": "2026-06-29",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "992681763392950",
+   "page": "NØRD BODY",
+   "start": "2026-06-20",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1778425506493763",
+   "page": "DRMTLGY",
+   "start": "2026-08-20",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28191372747167970",
+   "page": "Beekman 1802",
+   "start": "2026-08-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28137701085914169",
+   "page": "DRMTLGY",
+   "start": "2026-08-18",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1745398809846410",
+   "page": "Beauty From Bees",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1626194545789428",
+   "page": "Stripes Beauty",
+   "start": "2026-08-17",
+   "n": 1,
+   "domain": "stripesbeauty.us",
+   "window": "30-90"
+  },
+  {
+   "id": "1737705024126456",
+   "page": "Besque",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "besque.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1596418601837995",
+   "page": "YiayiaEleni",
+   "start": "2026-08-17",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "2301256137299120",
+   "page": "Prime Time Women",
+   "start": "2026-10-01",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1293436077185263",
+   "page": "NØRD BODY",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "nordbody.com",
+   "window": "30-90"
+  },
+  {
+   "id": "984402124676649",
+   "page": "DRMTLGY",
+   "start": "2026-10-08",
+   "n": 4,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "28809259365368964",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-10-08",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  }
+ ],
+ "aged30": 2900,
+ "aged30_date": "2026-11-08"
+}

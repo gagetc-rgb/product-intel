@@ -1,0 +1,26 @@
+{
+ "phrase": "scentfinity.com",
+ "date": "2026-11-09",
+ "active": 2,
+ "aged30": 2,
+ "aged90": 2,
+ "aged180": 2,
+ "ads": [
+  {
+   "id": "1901837193984172",
+   "page": "Scentfinity",
+   "start": "2025-05-21",
+   "n": 1,
+   "domain": "scentfinity.com",
+   "window": "180+"
+  },
+  {
+   "id": "1347197866571366",
+   "page": "Scentfinity",
+   "start": "2025-05-21",
+   "n": 1,
+   "domain": "scentfinity.com",
+   "window": "180+"
+  }
+ ]
+}

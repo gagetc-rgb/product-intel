@@ -1,0 +1,310 @@
+{
+ "pid": "hair_removal_cream",
+ "name": "Men's body hair removal cream",
+ "verdict_row": {
+  "pid": "hair_removal_cream",
+  "name": "Men's body hair removal cream",
+  "flag": "",
+  "shelf": 85550,
+  "nb": 9700,
+  "gen": 2650,
+  "winB": 2,
+  "winG": 0,
+  "price": 16.99,
+  "act": 2600,
+  "a30": 1300,
+  "a90": 630,
+  "a180": 76,
+  "stores": 23,
+  "stores90": 15,
+  "trend": 0.96,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 3800
+ },
+ "amazon_us": {
+  "listings_on_target": 89,
+  "shelf_units": 85550,
+  "units_by_brand_age": {
+   "24+": 73200,
+   "0-6": 2250,
+   "6-12": 850,
+   "12-24": 9250
+  },
+  "units_by_kind": {
+   "old_brand": 73200,
+   "new_brand": 9700,
+   "generic_new": 2650,
+   "generic_old": 0
+  },
+  "top_brands": [
+   {
+    "key": "veet",
+    "units": 37350,
+    "listings": 7,
+    "best": {
+     "asin": "B0BG1T2DTZ",
+     "title": "Veet Professional 2 Min Hair Removal Cream, Full Body & Bikini, 13.5 FL OZ",
+     "units": 30000,
+     "price": "$11.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61hD6G7bhcL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "nair",
+    "units": 35400,
+    "listings": 17,
+    "best": {
+     "asin": "B0CKZWMC3Y",
+     "title": "Nair Men Hair Remover Body Cream, 12 Oz",
+     "units": 10000,
+     "price": "$10.47",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/714zbT8mhOL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "phofay",
+    "units": 7150,
+    "listings": 4,
+    "best": {
+     "asin": "B0G3GKPX5L",
+     "title": "PHOFAY Smooth Hair Removal Cream for Women and Men Body hair removal spray",
+     "units": 6000,
+     "price": "$22.99",
+     "stars": "3.6",
+     "img": "https://m.media-amazon.com/images/I/613YLtIZBIL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 15,
+    "status": "NEW"
+   },
+   {
+    "key": "gentle",
+    "units": 1350,
+    "listings": 3,
+    "best": {
+     "asin": "B0F5QB9764",
+     "title": "Gentle Body Hair Removal Cream-Pain free Hairs Removal Cream for Sensitive Skin with a Neutral Formula for Hai",
+     "units": 1000,
+     "price": "$9.99",
+     "stars": "3.2",
+     "img": "https://m.media-amazon.com/images/I/51P8nvI-PeL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 20,
+    "status": "NEW"
+   },
+   {
+    "key": "shinemore",
+    "units": 400,
+    "listings": 1,
+    "best": {
+     "asin": "B0HGXKJG57",
+     "title": "SHINEMORE Facial Hair Removal Cream Kit, 2.03 Fl Oz",
+     "units": 400,
+     "price": "$21.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61FwbrWLcZL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 2,
+    "status": "NEW"
+   },
+   {
+    "key": "icecooling",
+    "units": 300,
+    "listings": 1,
+    "best": {
+     "asin": "B0HH49J3P5",
+     "title": "Ice-Cooling Hair Removal Cream for Sensitive Skin,100g",
+     "units": 300,
+     "price": "$19.59",
+     "stars": "2.5",
+     "img": "https://m.media-amazon.com/images/I/71HU7q6fCLL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 2,
+    "status": "NEW"
+   },
+   {
+    "key": "intimate",
+    "units": 200,
+    "listings": 4,
+    "best": {
+     "asin": "B0HN1XR24L",
+     "title": "Intimate Hair Removal Cream for Men, 5-Minute Painless Coarse Hair Removal",
+     "units": 200,
+     "price": "$7.99",
+     "stars": "2.0",
+     "img": "https://m.media-amazon.com/images/I/61P00sNh-HL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 1,
+    "status": "NEW"
+   },
+   {
+    "key": "bare",
+    "units": 100,
+    "listings": 1,
+    "best": {
+     "asin": "B079S1MYGN",
+     "title": "Bare Balm Intimate Body Hair Removal Cream",
+     "units": 100,
+     "price": "$12.74",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/61KwlifAwGL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "epify",
+    "units": 100,
+    "listings": 1,
+    "best": {
+     "asin": "B097C6N8J1",
+     "title": "Epify Intimate Hair Removal Cream for Men and Women - Pubic, Bikini Line, Sensitive Areas - 8.45 Fl Oz",
+     "units": 100,
+     "price": "$29.90",
+     "stars": "3.7",
+     "img": "https://m.media-amazon.com/images/I/41pAYHqKTqL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 65,
+    "status": "old"
+   },
+   {
+    "key": "avon",
+    "units": 100,
+    "listings": 1,
+    "best": {
+     "asin": "B01JNPMO0G",
+     "title": "AVON Skin So Soft Fresh & Smooth Body Hair Removal Cream - 4.2 oz",
+     "units": 100,
+     "price": "$16.50",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61CT2PsQldL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    600,
+    "B0HC6HDTD7",
+    "Hair Removal Cream for Women & Men, 7–10 Minute Formula, 4.2 oz",
+    "$25.99",
+    null
+   ],
+   [
+    500,
+    "B0GZJC74BV",
+    "Hair Removal Spray & Cream Set, 120ml Tube + 150ml Spray",
+    "$29.99",
+    null
+   ],
+   [
+    300,
+    "B0F47L84KG",
+    "2 PCS Gentle Body Hair Removal Cream for Man & Women, 6.76 Fl Oz, Painless",
+    "$13.97",
+    null
+   ],
+   [
+    200,
+    "B0HFGQ4HG9",
+    "2026New Botane Man Hair Removal, Botane Hair Removal Cream (2Pack)",
+    "$26.99",
+    null
+   ]
+  ],
+  "winners_1k": 9
+ },
+ "price_us": {
+  "price_usd_median": 16.99,
+  "price_usd_p25_p75": [
+   10.47,
+   22.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "hair removal cream",
+  "active": 2600,
+  "aged30": 1300,
+  "aged90": 630,
+  "aged180": 76,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "shopluuma.com",
+   12,
+   500,
+   1
+  ],
+  [
+   "bumzzy.com",
+   4,
+   414,
+   1
+  ],
+  [
+   "page:savannah grace",
+   1,
+   277,
+   1
+  ],
+  [
+   "aurlux.co",
+   6,
+   267,
+   1
+  ],
+  [
+   "page:pcos and me",
+   1,
+   267,
+   1
+  ],
+  [
+   "page:the pcos doctor",
+   2,
+   265,
+   1
+  ],
+  [
+   "simplesnatched.com",
+   2,
+   241,
+   1
+  ],
+  [
+   "anrdre.com",
+   1,
+   240,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "hair removal cream",
+  "rel_yoy": 0.96,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "135.0",
+ "creatives": []
+}

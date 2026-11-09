@@ -1,0 +1,10 @@
+lash_serum|borboleta.com|/serum|lash/|
+hair_serum|officialbodywise.com|/hair|serum|oil/|
+hair_serum|jcsmiracleproducts.com|/hair|oil|serum/|
+prewash_oil|ekmiveda.com|/oil/|
+hair_removal_cream|shopluuma.com|/hair|cream/|90
+hair_removal_cream|bumzzy.com|/hair|cream/|90
+neck_cream|vibriance.com|/neck|serum|cream/|
+neck_cream|particleformen.com|/neck|cream/|
+compression_socks|everstridesocks.com|originals|
+compression_socks|hushedsocks.com|/sock/|

@@ -1,0 +1,234 @@
+{
+ "color_foundation": {
+  "shelf_usd": 9971676,
+  "top": [
+   [
+    "luxe",
+    4119300
+   ],
+   [
+    "solo",
+    2549382
+   ],
+   [
+    "smooche",
+    1960000
+   ],
+   [
+    "prime",
+    880000
+   ],
+   [
+    "luminess",
+    268910
+   ],
+   [
+    "loreal",
+    98730
+   ]
+  ]
+ },
+ "body_oil": {
+  "shelf_usd": 4004290,
+  "top": [
+   [
+    "goda",
+    629800
+   ],
+   [
+    "palmer",
+    611389
+   ],
+   [
+    "osea",
+    563600
+   ],
+   [
+    "neutrogena",
+    474480
+   ],
+   [
+    "besque",
+    259960
+   ],
+   [
+    "saltair",
+    252950
+   ]
+  ]
+ },
+ "scent_diffuser": {
+  "shelf_usd": 4106464,
+  "top": [
+   [
+    "solo",
+    1800510
+   ],
+   [
+    "airscent",
+    1070889
+   ],
+   [
+    "airversa",
+    518381
+   ],
+   [
+    "vinevida",
+    125336
+   ],
+   [
+    "tower",
+    89990
+   ],
+   [
+    "anzwaterless",
+    83033
+   ]
+  ]
+ },
+ "tallow_balm": {
+  "shelf_usd": 2835963,
+  "top": [
+   [
+    "hearth",
+    573460
+   ],
+   [
+    "solo",
+    538587
+   ],
+   [
+    "terra",
+    499780
+   ],
+   [
+    "forge",
+    421960
+   ],
+   [
+    "richgrand",
+    195614
+   ],
+   [
+    "santa",
+    121062
+   ]
+  ]
+ },
+ "persimmon_soap": {
+  "shelf_usd": 1222400,
+  "top": [
+   [
+    "mirai",
+    628531
+   ],
+   [
+    "solo",
+    482130
+   ],
+   [
+    "kakiyu",
+    32188
+   ],
+   [
+    "kaori",
+    29356
+   ],
+   [
+    "morovan",
+    10989
+   ],
+   [
+    "pelican",
+    10490
+   ]
+  ]
+ },
+ "shower_filter": {
+  "shelf_usd": 3864894,
+  "top": [
+   [
+    "solo",
+    1119762
+   ],
+   [
+    "feelso",
+    534920
+   ],
+   [
+    "srsun",
+    307914
+   ],
+   [
+    "makefit",
+    287335
+   ],
+   [
+    "afina",
+    193500
+   ],
+   [
+    "cobbe",
+    187070
+   ]
+  ]
+ },
+ "lash_serum": {
+  "shelf_usd": 6986860,
+  "top": [
+   [
+    "grande",
+    1801800
+   ],
+   [
+    "obagi",
+    675000
+   ],
+   [
+    "solo",
+    523320
+   ],
+   [
+    "revitalash",
+    375200
+   ],
+   [
+    "nuna",
+    343920
+   ],
+   [
+    "rodan",
+    310000
+   ]
+  ]
+ },
+ "hair_serum": {
+  "shelf_usd": 4759648,
+  "top": [
+   [
+    "bare",
+    852290
+   ],
+   [
+    "lilyeve",
+    432000
+   ],
+   [
+    "botanic",
+    418760
+   ],
+   [
+    "solo",
+    403106
+   ],
+   [
+    "divi",
+    294400
+   ],
+   [
+    "bask",
+    279800
+   ]
+  ]
+ }
+}

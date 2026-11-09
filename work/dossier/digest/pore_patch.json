@@ -1,0 +1,267 @@
+{
+ "pid": "pore_patch",
+ "name": "Hydrocolloid nose pore / sebaceous filament patches",
+ "verdict_row": {
+  "pid": "pore_patch",
+  "name": "Hydrocolloid nose pore / sebaceous filament patches",
+  "flag": "",
+  "shelf": 50900,
+  "nb": 5000,
+  "gen": 1100,
+  "winB": 1,
+  "winG": 1,
+  "price": 14.48,
+  "act": 1,
+  "a30": 1,
+  "a90": 1,
+  "a180": 0,
+  "stores": 1,
+  "stores90": 1,
+  "trend": 0.81,
+  "zeros": 0.3,
+  "kill": "",
+  "note": "phrase 'pore patches' finds 1 ad",
+  "nb_id": 5300
+ },
+ "amazon_us": {
+  "listings_on_target": 32,
+  "shelf_units": 50900,
+  "units_by_brand_age": {
+   "6-12": 5100,
+   "12-24": 1000,
+   "24+": 44800,
+   "0-6": 0
+  },
+  "units_by_kind": {
+   "new_brand": 5000,
+   "generic_new": 1100,
+   "old_brand": 44800
+  },
+  "top_brands": [
+   {
+    "key": "biore",
+    "units": 26000,
+    "listings": 2,
+    "best": {
+     "asin": "B0009EILKS",
+     "title": "Bioré Original Blackhead Remover Strips, Deep Cleansing Nose Strips With Instant Pore Unclogging, Features C-B",
+     "units": 20000,
+     "price": "$10.97",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61eyGuqhgOL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "mighty",
+    "units": 9000,
+    "listings": 2,
+    "best": {
+     "asin": "B09NNF2DXX",
+     "title": "Mighty Patch Hero Cosmetics Nose Large Hydrocolloid Pore Strips, 10 Ct",
+     "units": 9000,
+     "price": "$14.97",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61sXdu9rJiL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 59,
+    "status": "old"
+   },
+   {
+    "key": "peach",
+    "units": 6000,
+    "listings": 1,
+    "best": {
+     "asin": "B0C1TZ73G3",
+     "title": "Peach Slices - Nose Pore Patches (7 ct) - Overnight Blackhead Remover - Pore Strips - Absorbs Gunk - Thin, Fle",
+     "units": 6000,
+     "price": "$9.88",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61+EkGBFloL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 45,
+    "status": "old"
+   },
+   {
+    "key": "vuehydrocolloid",
+    "units": 5000,
+    "listings": 1,
+    "best": {
+     "asin": "B0G46H8P13",
+     "title": "Vue Hydrocolloid Nose Patches - Nose Pore Strips for Blackheads, Sebum and Oil Control, Gentle for All Skin Ty",
+     "units": 5000,
+     "price": "$19.35",
+     "stars": "3.8",
+     "img": "https://m.media-amazon.com/images/I/81iikDX04QL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 10,
+    "status": "NEW"
+   },
+   {
+    "key": "starface",
+    "units": 1000,
+    "listings": 2,
+    "best": {
+     "asin": "B0GSBQGRYQ",
+     "title": "Starface Star Strips® Blackhead Pore Strips for Nose, Extra Strength, 16 ct",
+     "units": 1000,
+     "price": "$14.98",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/61oH+fSCJ8L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 29,
+    "status": "old"
+   },
+   {
+    "key": "rael",
+    "units": 1000,
+    "listings": 1,
+    "best": {
+     "asin": "B0BBSPCH3J",
+     "title": "Rael Miracle Melting Pack, Gentle Blackhead Remover, Nose Strips (6 Count)",
+     "units": 1000,
+     "price": "$17.94",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/71DEBFBuU4L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 51,
+    "status": "old"
+   },
+   {
+    "key": "ilso",
+    "units": 800,
+    "listings": 1,
+    "best": {
+     "asin": "B0CGX1R6T9",
+     "title": "ilso Clear Nose Patch, Mild Blackhead & Sebaceous Filament Strip (5 pcs)",
+     "units": 800,
+     "price": "$16.65",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/71NNm7RUwUL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 40,
+    "status": "old"
+   },
+   {
+    "key": "peace",
+    "units": 400,
+    "listings": 1,
+    "best": {
+     "asin": "B084T7622L",
+     "title": "PEACE OUT Pore Minimizing Hydrocolloid Strips with Retinol & DMAE (8 count)",
+     "units": 400,
+     "price": "$19.00",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/714KBafNZGL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 71,
+    "status": "old"
+   },
+   {
+    "key": "genda",
+    "units": 300,
+    "listings": 1,
+    "best": {
+     "asin": "B0CWRVCC6T",
+     "title": "GENDA Blackhead Remover Nose Pore Strips for Deep Cleansing, Hydrocolloid Nose Patches, Clears Black head and ",
+     "units": 300,
+     "price": "$5.45",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/61Gi+V3Pu6L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 32,
+    "status": "old"
+   },
+   {
+    "key": "mediheal",
+    "units": 200,
+    "listings": 1,
+    "best": {
+     "asin": "B0CDBX6YBB",
+     "title": "MEDIHEAL Blackhead Melting Clear Nose Patch (4 Pack)",
+     "units": 200,
+     "price": "$16.50",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61qoQDj3MbL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 41,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    1000,
+    "B0FGCXYB5S",
+    "30 Count Hydrocolloid Nose Pore Patches",
+    "$8.99",
+    null
+   ],
+   [
+    100,
+    "B0GQS2P7BZ",
+    "Pore Strips,Natural Charcoal Blackhead Strips for All Skin Type,Nose Strips for ",
+    "$7.99",
+    null
+   ],
+   [
+    0,
+    "B0H8XTDM4Y",
+    "Hydrocolloid Nose Patches for Blackheads – 10 Nose Pore Patches That Absorb Oil,",
+    "$15.97",
+    null
+   ],
+   [
+    0,
+    "B0GX2HT6QC",
+    "Hydrocolloid Nose Patch – pore strips nose, hydrocolloid nose patches, nose stri",
+    "$11.70",
+    null
+   ]
+  ],
+  "winners_1k": 8
+ },
+ "price_us": {
+  "price_usd_median": 14.48,
+  "price_usd_p25_p75": [
+   9.99,
+   18.74
+  ]
+ },
+ "meta_category": {
+  "phrase": "pore patches",
+  "active": 1,
+  "aged30": 1,
+  "aged90": 1,
+  "aged180": 0,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "vueswiss.com",
+   1,
+   178,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "pore patches",
+  "rel_yoy": 0.81,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.3
+ },
+ "tiktok_top_item_sold_k": "209.3",
+ "creatives": []
+}

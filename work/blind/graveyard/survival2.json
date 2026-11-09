@@ -1,0 +1,724 @@
+{
+ "body_oil": {
+  "listings": 138,
+  "units": 178850,
+  "entities": 74,
+  "new_entities": 52,
+  "new_share": 0.179,
+  "new_win1k": 4,
+  "new_win100": 27,
+  "coh": 39,
+  "coh_s100": 17,
+  "coh_s1k": 3,
+  "known_brand": 0.83,
+  "top_new": [
+   [
+    20000,
+    "goda",
+    18
+   ],
+   [
+    2000,
+    "forchics",
+    9
+   ],
+   [
+    1000,
+    "celmor",
+    7
+   ],
+   [
+    1000,
+    "botanical",
+    4
+   ],
+   [
+    700,
+    "undaria",
+    7
+   ]
+  ]
+ },
+ "chin_wrap": {
+  "listings": 199,
+  "units": 40850,
+  "entities": 74,
+  "new_entities": 50,
+  "new_share": 0.226,
+  "new_win1k": 3,
+  "new_win100": 13,
+  "coh": 47,
+  "coh_s100": 13,
+  "coh_s1k": 2,
+  "known_brand": 0.86,
+  "top_new": [
+   [
+    3000,
+    "graphene",
+    2
+   ],
+   [
+    2000,
+    "drmelaxin",
+    10
+   ],
+   [
+    1000,
+    "skult",
+    9
+   ],
+   [
+    800,
+    "plantifique",
+    22
+   ],
+   [
+    300,
+    "strivectin",
+    10
+   ]
+  ]
+ },
+ "color_foundation": {
+  "listings": 204,
+  "units": 309250,
+  "entities": 97,
+  "new_entities": 86,
+  "new_share": 0.839,
+  "new_win1k": 14,
+  "new_win100": 48,
+  "coh": 16,
+  "coh_s100": 13,
+  "coh_s1k": 8,
+  "known_brand": 0.64,
+  "top_new": [
+   [
+    80000,
+    "luxe",
+    10
+   ],
+   [
+    70000,
+    "luxe",
+    10
+   ],
+   [
+    40000,
+    "smooche",
+    9
+   ],
+   [
+    20000,
+    "prime",
+    10
+   ],
+   [
+    9000,
+    "solo:B0HDHZ35FT",
+    2
+   ]
+  ]
+ },
+ "compression_socks": {
+  "listings": 228,
+  "units": 172000,
+  "entities": 116,
+  "new_entities": 32,
+  "new_share": 0.035,
+  "new_win1k": 1,
+  "new_win100": 18,
+  "coh": 18,
+  "coh_s100": 13,
+  "coh_s1k": 1,
+  "known_brand": 0.87,
+  "top_new": [
+   [
+    1000,
+    "benirap",
+    7
+   ],
+   [
+    800,
+    "solo:B0GKP6215H",
+    9
+   ],
+   [
+    600,
+    "solo:B0H8GRL617",
+    3
+   ],
+   [
+    500,
+    "silky",
+    7
+   ],
+   [
+    400,
+    "momcozy",
+    10
+   ]
+  ]
+ },
+ "dog_fountain": {
+  "listings": 224,
+  "units": 156600,
+  "entities": 92,
+  "new_entities": 72,
+  "new_share": 0.185,
+  "new_win1k": 9,
+  "new_win100": 54,
+  "coh": 60,
+  "coh_s100": 50,
+  "coh_s1k": 9,
+  "known_brand": 0.83,
+  "top_new": [
+   [
+    4000,
+    "solo:B0DXPTTKW2",
+    21
+   ],
+   [
+    1000,
+    "water",
+    7
+   ],
+   [
+    1000,
+    "solo:B0GVYF39LT",
+    7
+   ],
+   [
+    1000,
+    "solo:B0GQ3LMMPT",
+    9
+   ],
+   [
+    1000,
+    "solo:B0GJD2LHVQ",
+    9
+   ]
+  ]
+ },
+ "exfoliating_towel": {
+  "listings": 155,
+  "units": 67950,
+  "entities": 112,
+  "new_entities": 68,
+  "new_share": 0.152,
+  "new_win1k": 3,
+  "new_win100": 13,
+  "coh": 53,
+  "coh_s100": 14,
+  "coh_s1k": 3,
+  "known_brand": 0.72,
+  "top_new": [
+   [
+    2000,
+    "mainbasics",
+    21
+   ],
+   [
+    1000,
+    "vzvvzp",
+    7
+   ],
+   [
+    1000,
+    "alorin",
+    10
+   ],
+   [
+    900,
+    "mainbasics",
+    21
+   ],
+   [
+    900,
+    "blissal",
+    23
+   ]
+  ]
+ },
+ "hair_removal_cream": {
+  "listings": 95,
+  "units": 76250,
+  "entities": 47,
+  "new_entities": 34,
+  "new_share": 0.064,
+  "new_win1k": 1,
+  "new_win100": 13,
+  "coh": 15,
+  "coh_s100": 6,
+  "coh_s1k": 1,
+  "known_brand": 0.82,
+  "top_new": [
+   [
+    1000,
+    "gentle",
+    20
+   ],
+   [
+    900,
+    "phofay",
+    15
+   ],
+   [
+    400,
+    "shinemore",
+    2
+   ],
+   [
+    300,
+    "solo:B0F47L84KG",
+    20
+   ],
+   [
+    300,
+    "plot",
+    2
+   ]
+  ]
+ },
+ "hair_serum": {
+  "listings": 0,
+  "units": 1,
+  "entities": 0,
+  "new_entities": 0,
+  "new_share": 0.0,
+  "new_win1k": 0,
+  "new_win100": 0,
+  "coh": 0,
+  "coh_s100": 0,
+  "coh_s1k": 0,
+  "known_brand": 0.0,
+  "top_new": []
+ },
+ "lash_serum": {
+  "listings": 0,
+  "units": 1,
+  "entities": 0,
+  "new_entities": 0,
+  "new_share": 0.0,
+  "new_win1k": 0,
+  "new_win100": 0,
+  "coh": 0,
+  "coh_s100": 0,
+  "coh_s1k": 0,
+  "known_brand": 0.0,
+  "top_new": []
+ },
+ "magnesium_spray": {
+  "listings": 170,
+  "units": 44000,
+  "entities": 120,
+  "new_entities": 67,
+  "new_share": 0.444,
+  "new_win1k": 3,
+  "new_win100": 18,
+  "coh": 59,
+  "coh_s100": 17,
+  "coh_s1k": 5,
+  "known_brand": 0.91,
+  "top_new": [
+   [
+    8000,
+    "drteal",
+    7
+   ],
+   [
+    4000,
+    "drteal",
+    13
+   ],
+   [
+    2000,
+    "qungco",
+    10
+   ],
+   [
+    1000,
+    "plusone",
+    15
+   ],
+   [
+    1000,
+    "drteal",
+    7
+   ]
+  ]
+ },
+ "neck_cream": {
+  "listings": 149,
+  "units": 210750,
+  "entities": 85,
+  "new_entities": 33,
+  "new_share": 0.333,
+  "new_win1k": 8,
+  "new_win100": 25,
+  "coh": 24,
+  "coh_s100": 16,
+  "coh_s1k": 7,
+  "known_brand": 0.97,
+  "top_new": [
+   [
+    30000,
+    "medicube",
+    7
+   ],
+   [
+    10000,
+    "abib",
+    9
+   ],
+   [
+    7000,
+    "cetaphil",
+    20
+   ],
+   [
+    6000,
+    "remedy",
+    4
+   ],
+   [
+    3000,
+    "retinol",
+    18
+   ]
+  ]
+ },
+ "persimmon_soap": {
+  "listings": 126,
+  "units": 57500,
+  "entities": 61,
+  "new_entities": 55,
+  "new_share": 0.361,
+  "new_win1k": 6,
+  "new_win100": 27,
+  "coh": 35,
+  "coh_s100": 19,
+  "coh_s1k": 3,
+  "known_brand": 0.65,
+  "top_new": [
+   [
+    4000,
+    "solo:B0GJ6N1VYS",
+    9
+   ],
+   [
+    1000,
+    "solo:B0HDQXZWWW",
+    2
+   ],
+   [
+    1000,
+    "persimmon",
+    3
+   ],
+   [
+    1000,
+    "morovan",
+    13
+   ],
+   [
+    1000,
+    "kaori",
+    5
+   ]
+  ]
+ },
+ "pore_patch": {
+  "listings": 92,
+  "units": 82700,
+  "entities": 48,
+  "new_entities": 24,
+  "new_share": 0.093,
+  "new_win1k": 1,
+  "new_win100": 6,
+  "coh": 26,
+  "coh_s100": 7,
+  "coh_s1k": 1,
+  "known_brand": 0.89,
+  "top_new": [
+   [
+    5000,
+    "vuehydrocolloid",
+    10
+   ],
+   [
+    800,
+    "pore",
+    14
+   ],
+   [
+    600,
+    "solo:B0F3XNTMFF",
+    20
+   ],
+   [
+    300,
+    "solo:B0GC32T1MH",
+    10
+   ],
+   [
+    300,
+    "pore",
+    6
+   ]
+  ]
+ },
+ "prewash_oil": {
+  "listings": 0,
+  "units": 1,
+  "entities": 0,
+  "new_entities": 0,
+  "new_share": 0.0,
+  "new_win1k": 0,
+  "new_win100": 0,
+  "coh": 0,
+  "coh_s100": 0,
+  "coh_s1k": 0,
+  "known_brand": 0.0,
+  "top_new": []
+ },
+ "rosemary_oil": {
+  "listings": 166,
+  "units": 181100,
+  "entities": 99,
+  "new_entities": 44,
+  "new_share": 0.186,
+  "new_win1k": 7,
+  "new_win100": 28,
+  "coh": 40,
+  "coh_s100": 24,
+  "coh_s1k": 5,
+  "known_brand": 0.88,
+  "top_new": [
+   [
+    10000,
+    "aveya",
+    15
+   ],
+   [
+    6000,
+    "lebanta",
+    20
+   ],
+   [
+    5000,
+    "medicube",
+    4
+   ],
+   [
+    3000,
+    "zova",
+    8
+   ],
+   [
+    1000,
+    "vedix",
+    7
+   ]
+  ]
+ },
+ "scent_diffuser": {
+  "listings": 186,
+  "units": 50500,
+  "entities": 52,
+  "new_entities": 40,
+  "new_share": 0.414,
+  "new_win1k": 4,
+  "new_win100": 21,
+  "coh": 25,
+  "coh_s100": 16,
+  "coh_s1k": 4,
+  "known_brand": 0.95,
+  "top_new": [
+   [
+    8000,
+    "solo:B0DXHGTMQL",
+    21
+   ],
+   [
+    3000,
+    "anzwaterless",
+    13
+   ],
+   [
+    2000,
+    "solo:B0DXHSDLVD",
+    21
+   ],
+   [
+    1000,
+    "tower",
+    10
+   ],
+   [
+    900,
+    "metal",
+    9
+   ]
+  ]
+ },
+ "shower_filter": {
+  "listings": 179,
+  "units": 77400,
+  "entities": 78,
+  "new_entities": 37,
+  "new_share": 0.217,
+  "new_win1k": 3,
+  "new_win100": 20,
+  "coh": 30,
+  "coh_s100": 15,
+  "coh_s1k": 2,
+  "known_brand": 0.9,
+  "top_new": [
+   [
+    6000,
+    "handheld",
+    5
+   ],
+   [
+    5000,
+    "magichome",
+    13
+   ],
+   [
+    1000,
+    "solo:B0GQLV8JPT",
+    9
+   ],
+   [
+    500,
+    "veken",
+    3
+   ],
+   [
+    500,
+    "solo:B0GHM37FH6",
+    10
+   ]
+  ]
+ },
+ "tallow_balm": {
+  "listings": 220,
+  "units": 102200,
+  "entities": 76,
+  "new_entities": 59,
+  "new_share": 0.515,
+  "new_win1k": 11,
+  "new_win100": 29,
+  "coh": 76,
+  "coh_s100": 42,
+  "coh_s1k": 14,
+  "known_brand": 0.93,
+  "top_new": [
+   [
+    10000,
+    "terra",
+    18
+   ],
+   [
+    7000,
+    "richgrand",
+    22
+   ],
+   [
+    4000,
+    "terra",
+    18
+   ],
+   [
+    3000,
+    "terra",
+    18
+   ],
+   [
+    3000,
+    "terra",
+    18
+   ]
+  ]
+ },
+ "turmeric_soap": {
+  "listings": 204,
+  "units": 98550,
+  "entities": 166,
+  "new_entities": 105,
+  "new_share": 0.256,
+  "new_win1k": 7,
+  "new_win100": 31,
+  "coh": 88,
+  "coh_s100": 32,
+  "coh_s1k": 7,
+  "known_brand": 0.49,
+  "top_new": [
+   [
+    4000,
+    "treeroot",
+    13
+   ],
+   [
+    4000,
+    "qooq",
+    21
+   ],
+   [
+    2000,
+    "solo:B0H41QPZXX",
+    5
+   ],
+   [
+    2000,
+    "drmelaxin",
+    8
+   ],
+   [
+    1000,
+    "treeroot",
+    10
+   ]
+  ]
+ },
+ "whitening_powder": {
+  "listings": 92,
+  "units": 13500,
+  "entities": 45,
+  "new_entities": 21,
+  "new_share": 0.241,
+  "new_win1k": 1,
+  "new_win100": 8,
+  "coh": 14,
+  "coh_s100": 5,
+  "coh_s1k": 1,
+  "known_brand": 0.87,
+  "top_new": [
+   [
+    1000,
+    "living",
+    16
+   ],
+   [
+    600,
+    "enamel",
+    8
+   ],
+   [
+    500,
+    "updated",
+    3
+   ],
+   [
+    200,
+    "enamel",
+    3
+   ],
+   [
+    200,
+    "enamel",
+    2
+   ]
+  ]
+ }
+}

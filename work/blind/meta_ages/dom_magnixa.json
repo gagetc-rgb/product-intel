@@ -1,0 +1,66 @@
+{
+ "phrase": "magnixa.com",
+ "date": "2026-11-09",
+ "active": 7,
+ "aged30": 7,
+ "aged90": 7,
+ "aged180": 7,
+ "ads": [
+  {
+   "id": "1449796226169460",
+   "page": "Magnixa",
+   "start": "2025-07-14",
+   "n": 1,
+   "domain": "magnixa.com",
+   "window": "180+"
+  },
+  {
+   "id": "1931175697500120",
+   "page": "Everyday Beauty",
+   "start": "2026-01-27",
+   "n": 1,
+   "domain": "magnixa.com",
+   "window": "180+"
+  },
+  {
+   "id": "2072169593573770",
+   "page": "Everyday Beauty",
+   "start": "2026-03-05",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "905760428798261",
+   "page": "Everyday Beauty",
+   "start": "2026-01-26",
+   "n": 1,
+   "domain": "magnixa.com",
+   "window": "180+"
+  },
+  {
+   "id": "1043713554350814",
+   "page": "Magnixa",
+   "start": "2025-08-22",
+   "n": 1,
+   "domain": "magnixa.com",
+   "window": "180+"
+  },
+  {
+   "id": "1101783548540971",
+   "page": "Magnixa",
+   "start": "2025-07-13",
+   "n": 1,
+   "domain": "magnixa.com",
+   "window": "180+"
+  },
+  {
+   "id": "950773067864749",
+   "page": "Tiffany Smith",
+   "start": "2026-05-08",
+   "n": 1,
+   "domain": "magnixa.com",
+   "window": "180+"
+  }
+ ]
+}

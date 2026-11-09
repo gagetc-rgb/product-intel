@@ -1,0 +1,12 @@
+{
+ "_note": "Leaders per category (Amazon top brands + Meta long-lived shops). One brand may run several domains (landers, checkout); traffic must be summed per brand. Similarweb is weak under ~50-100K visits/mo (NEXT_TASK.md, METHOD.md), so small shops get review-curve checks instead.",
+ "color_foundation": {"Luxe": ["luxe.com", "luxe-cosmetics.com", "luxeresearchlab.com"], "Prime Prometics": ["primeprometics.com"], "Smooche": ["smooche.com"], "Lumine Skin": ["trylumineskin.com", "hestiacosmetics.com"], "Magnixa": ["magnixa.com"]},
+ "tallow_balm": {"Terra Lotus": ["terralotus.shop"], "Forge": ["try-forge.com"], "Ancestral Cosmetics": ["ancestralcosmetics.com"], "Bare Ritual": ["bare-ritual.com"], "byminus": ["byminus.com"], "Wild Gold": ["wildgoldtallow.com"]},
+ "body_oil": {"GODA": ["goda.co"], "TurmSkin": ["try-turmskin.com"], "DRMTLGY": ["drmtlgy.com"]},
+ "scent_diffuser": {"Scentify": ["scentifyhome.com"], "Aura House": ["aurahouse.com"], "Hotel Collection": ["hotelcollection.com"], "Aroma360": ["aroma360.com"], "AirScent": ["airscentdiffusers.com"]},
+ "shower_filter": {"sproos": ["sproos.co"], "Filterbaby": ["filterbaby.com"], "Santevia": ["santevia.com"], "AquaTru": ["aquatru.com"]},
+ "rosemary_oil": {"Mielle": ["mielleorganics.com"], "Maree": ["imaree.com"], "BodyWise": ["officialbodywise.com"]},
+ "persimmon_soap": {"Mirai Clinical": ["miraiclinical.com"], "Kaori": ["try-kaori.com"]},
+ "turmeric_soap": {"Earthly Derm": ["earthlyderm.com"]},
+ "neck_cream": {"Vibriance": ["vibriance.com"]}
+}

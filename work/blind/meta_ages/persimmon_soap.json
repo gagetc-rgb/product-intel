@@ -1,0 +1,387 @@
+{
+ "phrase": "persimmon soap",
+ "date": "2026-11-07",
+ "active": 2700,
+ "aged90": 130,
+ "aged180": 11,
+ "ads": [
+  {
+   "id": "1507196367435098",
+   "page": "Mirai Clinical",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "924900777043961",
+   "page": "Mirai Clinical",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "834339722555244",
+   "page": "Mirai Clinical",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1589878905502289",
+   "page": "Mirai Clinical",
+   "start": "2025-12-22",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "2389156421581461",
+   "page": "Grandma's Glow",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1262466089183209",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "713940381490754",
+   "page": "Mirai Clinical",
+   "start": "2025-07-03",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "835720305833511",
+   "page": "Mirai Clinical",
+   "start": "2025-11-24",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "956685357109166",
+   "page": "Grandma's Glow",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "948413994297278",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "26016379811337135",
+   "page": "Mirai Clinical",
+   "start": "2026-03-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "180+"
+  },
+  {
+   "id": "1997658094444143",
+   "page": "Mirai Clinical",
+   "start": "2026-06-19",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1621971626261673",
+   "page": "Margaret Whittaker",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "967935396231214",
+   "page": "Kaori",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1804257660950823",
+   "page": "Sara Garret",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1565581295012773",
+   "page": "Kaori",
+   "start": "2026-07-29",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2789922944722784",
+   "page": "Grandma's Glow",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "983716060727547",
+   "page": "Grandma's Glow",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "991794330383847",
+   "page": "Linda Doxey",
+   "start": "2026-05-27",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1025671480393101",
+   "page": "Kaori",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1639887427697405",
+   "page": "Kaori Shop",
+   "start": "2026-07-24",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1558366446077393",
+   "page": "Mirai Clinical",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1739235567095325",
+   "page": "Kaori",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "996639212815200",
+   "page": "Grandma's Glow",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1335869718681520",
+   "page": "Sara Garret",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3091965810973725",
+   "page": "Kaori",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1820629072237859",
+   "page": "Kaori",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2608073929624891",
+   "page": "Margaret Whittaker",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1377178010919161",
+   "page": "Grandma's Care Journal",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1502590001354906",
+   "page": "Grandma's Glow",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "980798198271512",
+   "page": "Linda Doxey",
+   "start": "2026-05-27",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1769391397845733",
+   "page": "Kaori Shop",
+   "start": "2026-07-24",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1314359264134182",
+   "page": "Grandma's Care Journal",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "992070430102584",
+   "page": "Kaori",
+   "start": "2026-06-19",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2271321847007537",
+   "page": "Kaori",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2063415888395055",
+   "page": "Grandma's Glow",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "27026559710312588",
+   "page": "Kaori",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "27765797943114338",
+   "page": "Over 60 & Thriving",
+   "start": "2026-08-15",
+   "n": 1,
+   "domain": "swarva.com",
+   "window": "30-90"
+  },
+  {
+   "id": "884291427885730",
+   "page": "Mari Tanaka",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "kakiyucare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1646745037240958",
+   "page": "Mirai Clinical",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "miraiclinical.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1950728765601446",
+   "page": "Over 60 & Thriving",
+   "start": "2026-09-03",
+   "n": 1,
+   "domain": "swarva.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1783155686156967",
+   "page": "Kakiyu",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "kakiyucare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1065123552922572",
+   "page": "Kakiyu",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "kakiyucare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3035513416817725",
+   "page": "Over 60 & Thriving",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "swarva.com",
+   "window": "30-90"
+  },
+  {
+   "id": "973984399044173",
+   "page": "Dr. Margaret Ellis",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2087244121898662",
+   "page": "Sara Garret",
+   "start": "2026-08-26",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2220660138831286",
+   "page": "Minnesota Health Center",
+   "start": "2026-08-21",
+   "n": 1,
+   "domain": "kakiyucare.com",
+   "window": "30-90"
+  }
+ ],
+ "aged30": 830,
+ "aged30_date": "2026-11-08"
+}

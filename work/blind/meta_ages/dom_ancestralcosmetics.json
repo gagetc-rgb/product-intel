@@ -1,0 +1,330 @@
+{
+ "phrase": "ancestralcosmetics.com",
+ "date": "2026-11-09",
+ "active": 120,
+ "aged30": 110,
+ "aged90": 75,
+ "aged180": 57,
+ "ads": [
+  {
+   "id": "4665555827004853",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1170818295161721",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-11-24",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "955591563601456",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "25019649297711193",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-02-10",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "839428982013888",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1340132547309320",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "844185344909943",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "923702850055973",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "922509710533018",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1762844951072912",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "3084283465236879",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1430353221912587",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1179329123864966",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "2148600195968674",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1247152943636904",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "4382251005379976",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1813746259304465",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1457126246141253",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1947510759486465",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "931776786676760",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "4362015340792224",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "831250829793191",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "2234485973748405",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "945468161375467",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "845560184737753",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "872463851916139",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "2114762245946260",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "4442137989390414",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-12-02",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1256159525849323",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1536046694124115",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1692555065217500",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1922014749186445",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1669654487603691",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1514412047130597",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "965120826362679",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1915552622463715",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4435515103261583",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1060256303326660",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1057544933262451",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1002157179511948",
+   "page": "Ancestral Beauty Secrets",
+   "start": "2026-09-14",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "30-90"
+  }
+ ]
+}

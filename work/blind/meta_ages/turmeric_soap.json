@@ -1,0 +1,371 @@
+{
+ "phrase": "turmeric soap",
+ "date": "2026-11-07",
+ "active": 330,
+ "aged90": 24,
+ "aged180": 14,
+ "ads": [
+  {
+   "id": "836947915710478",
+   "page": "GloMelanin",
+   "start": "2025-12-05",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1175882324431838",
+   "page": "Earthly Derm",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "3954182854883764",
+   "page": "Earthly Derm",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "684785704680655",
+   "page": "Earthly Derm",
+   "start": "2026-03-03",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "2903446219856334",
+   "page": "Nicole Knows Skin Care",
+   "start": "2026-05-09",
+   "n": 1,
+   "domain": "trystrawberry.com",
+   "window": "180+"
+  },
+  {
+   "id": "26560309893560973",
+   "page": "Earthly Derm",
+   "start": "2026-03-03",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1458064265856458",
+   "page": "Earthly Derm",
+   "start": "2026-03-25",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1294563125962990",
+   "page": "Florigene Esuma",
+   "start": "2026-04-11",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1278775997689875",
+   "page": "Florigene Esuma",
+   "start": "2026-04-11",
+   "n": 1,
+   "domain": "fb.com",
+   "window": "180+"
+  },
+  {
+   "id": "4335036156785205",
+   "page": "Earthly Derm",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "4388159334775883",
+   "page": "Earthly Derm",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "2714764405566886",
+   "page": "Earthly Derm",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1988966711761167",
+   "page": "River Fields with Honey Glow",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "honeyglownewyork.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1439324134813765",
+   "page": "STEM & SOUL",
+   "start": "2026-07-25",
+   "n": 1,
+   "domain": "www.stemandsoul.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1005282765815901",
+   "page": "Herb'N Eden",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "www.herbneden.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1544915467290284",
+   "page": "Elise Warren, Clinical Skin Analyst",
+   "start": "2026-05-23",
+   "n": 1,
+   "domain": "trystrawberry.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1755992608762095",
+   "page": "STEM & SOUL",
+   "start": "2026-07-25",
+   "n": 1,
+   "domain": "www.stemandsoul.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1353108006950098",
+   "page": "Fourera Naturals",
+   "start": "2026-07-19",
+   "n": 1,
+   "domain": "fourerasbeauty.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1800854247591517",
+   "page": "Earthly Derm",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1851944562439033",
+   "page": "Frances Rivera",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "www.merakihealthy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1697667058190477",
+   "page": "STEM & SOUL",
+   "start": "2026-07-25",
+   "n": 1,
+   "domain": "www.stemandsoul.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1632072495294651",
+   "page": "Earthly Derm",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "891870807196256",
+   "page": "Herb'N Eden",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4649814625251537",
+   "page": "Devon Collins with Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4197361843888980",
+   "page": "Earthly Derm",
+   "start": "2026-08-13",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3194166737460062",
+   "page": "grindtimemike_ with Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1532232935588049",
+   "page": "Herb'N Eden",
+   "start": "2026-08-19",
+   "n": 1,
+   "domain": "www.herbneden.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1721695575591564",
+   "page": "Devon Collins with Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1988909988485468",
+   "page": "d_venu1 with Earthly Derm",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2278830319581772",
+   "page": "Jeff Oji with Earthly Derm",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2165936544270704",
+   "page": "mrkutthroatt with Earthly Derm",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2288188508663387",
+   "page": "Devon Collins with Earthly Derm",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1708063930302359",
+   "page": "Devon Collins with Earthly Derm",
+   "start": "2026-09-19",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2077358912901685",
+   "page": "Devon Collins with Earthly Derm",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2179935152563099",
+   "page": "Kash Cosmeticss",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "kashcosmetics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4173515319613263",
+   "page": "Emily Carter",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "trykaoli.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2891074964606510",
+   "page": "Jd profits with Earthly Derm",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1829018415098162",
+   "page": "Emily Carter",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "trykaoli.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1423887933221740",
+   "page": "Emily Carter",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "trykaoli.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1877339930056788",
+   "page": "No Limit Beauty",
+   "start": "2026-11-06",
+   "n": 1,
+   "domain": "nolimitbeautyshop.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1454348572696794",
+   "page": "gwendolynnmarie with Earthly Derm",
+   "start": "2026-10-30",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1855543268770745",
+   "page": "Honey Glow",
+   "start": "2026-10-18",
+   "n": 1,
+   "domain": "honeyglownewyork.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2191606668433556",
+   "page": "Taie Mitchell with Earthly Derm",
+   "start": "2026-10-17",
+   "n": 1,
+   "domain": "earthlyderm.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1561145299096799",
+   "page": "Emily Carter",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "trykaoli.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2508931043266986",
+   "page": "Emily Carter",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "trykaoli.com",
+   "window": "0-30"
+  }
+ ],
+ "aged30": 70,
+ "aged30_date": "2026-11-08"
+}

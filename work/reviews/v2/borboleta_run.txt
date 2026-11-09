@@ -1,0 +1,5 @@
+  page 2 &filter_rating=1 dates 8
+  page 1 &filter_rating=2 dates 21
+  page 3 &filter_rating=4 dates 8
+borboleta: total 1286, all-feed 1000 from 2021-07-07, non5 162 from 2020-06-09, k=7.94 k_recent=7.45
+24-11:1 24-12:1 25-01:1 25-02:5 25-03:1 25-04:2 25-05:18 25-06:47 25-07:23 25-10:1 25-11:9 25-12:9 26-01:43 26-03:10 26-04:15 26-05:8 26-06:16 26-07:10 26-08:9 26-09:3

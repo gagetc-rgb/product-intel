@@ -1,0 +1,570 @@
+[
+ {
+  "pid": "color_foundation",
+  "key": "luxe",
+  "units": 150000,
+  "amz_months": 10.4796320630749,
+  "share": 0.464,
+  "title": " | Luxe Color Changing Foundation for Mature Skin - Light"
+ },
+ {
+  "pid": "color_foundation",
+  "key": "smooche",
+  "units": 40000,
+  "amz_months": 8.869908015768726,
+  "share": 0.124,
+  "title": " | Smooche Color Changing Foundation - Skin Tone Adapting Liqui"
+ },
+ {
+  "pid": "color_foundation",
+  "key": "prime",
+  "units": 20000,
+  "amz_months": 10.4796320630749,
+  "share": 0.062,
+  "title": " | Prime Prometics Color Changing Foundation for Mature Women"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "terra",
+  "units": 22000,
+  "amz_months": 17.936925098554532,
+  "share": 0.179,
+  "title": " | Terra Lotus - Organic Grass-Fed Beef Tallow Balm with Raw Ho"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "richgrand",
+  "units": 8600,
+  "amz_months": 21.681997371879106,
+  "share": 0.07,
+  "title": " | RICHGRAND Beef Tallow for Skin - Whipped Tallow and Honey Ba"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "elbbub",
+  "units": 3000,
+  "amz_months": 20.92641261498029,
+  "share": 0.024,
+  "title": " | ELBBUB Whipped Tallow Cream for Face & Body - 100% Grass-Fed"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "ghkcu",
+  "units": 1200,
+  "amz_months": 11.85939553219448,
+  "share": 0.01,
+  "title": " | GHK-Cu Peptide Beef Tallow Balm for Face & Body, 2 Oz"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "ancestral",
+  "units": 1100,
+  "amz_months": 23.62023653088042,
+  "share": 0.009,
+  "title": " | Ancestral Haven Beef Tallow for Skin - Tallow And Herbal Bal"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "unscented",
+  "units": 1100,
+  "amz_months": 19.513797634691194,
+  "share": 0.009,
+  "title": " | Unscented Whipped Tallow Honey Balm, 4oz Jar"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "copper",
+  "units": 1100,
+  "amz_months": 9.362680683311432,
+  "share": 0.009,
+  "title": " | Copper Peptide GHK-Cu Beef Tallow: Grass-Fed Blue Balm for M"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "healthyderm",
+  "units": 1100,
+  "amz_months": 19.776609724047304,
+  "share": 0.009,
+  "title": " | HealthyDerm GHK-Cu Peptide Beef Tallow Cream for Skin: Coppe"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "monier",
+  "units": 1000,
+  "amz_months": 22.568988173455978,
+  "share": 0.008,
+  "title": " | MONIER Beef Tallow and Honey Balm for Skin and Face – Moistu"
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "viory",
+  "units": 1000,
+  "amz_months": 19.743758212877793,
+  "share": 0.008,
+  "title": " | VIORY Tallow and Honey Balm for Face, Beef Tallow for Skin, "
+ },
+ {
+  "pid": "tallow_balm",
+  "key": "lopeie",
+  "units": 1000,
+  "amz_months": 10.446780551905388,
+  "share": 0.008,
+  "title": " | Lopeie Beef Tallow for Skin＆Face - 100% Organic Grass Fed Wh"
+ },
+ {
+  "pid": "neck_cream",
+  "key": "eight",
+  "units": 4000,
+  "amz_months": 19.80946123521682,
+  "share": 0.039,
+  "title": " | Eight Saints Firm Intentions Anti Aging Neck Cream For Firmi"
+ },
+ {
+  "pid": "neck_cream",
+  "key": "sungboon",
+  "units": 1000,
+  "amz_months": 2.2010512483574245,
+  "share": 0.01,
+  "title": " | SUNGBOON EDITOR Silk Peptide EGF Intensive Gua Sha Neck Crea"
+ },
+ {
+  "pid": "rosemary_oil",
+  "key": "aveya",
+  "units": 10000,
+  "amz_months": 14.684625492772668,
+  "share": 0.05,
+  "title": " | AVEYA Hair Growth Spray, infused with Rosemary Oil,rice wate"
+ },
+ {
+  "pid": "rosemary_oil",
+  "key": "lebanta",
+  "units": 6000,
+  "amz_months": 20.13797634691196,
+  "share": 0.03,
+  "title": " | Lebanta Batana Oil for Hair - Organic Castor Rosemary Scalp "
+ },
+ {
+  "pid": "rosemary_oil",
+  "key": "zova",
+  "units": 3000,
+  "amz_months": 8.081471747700395,
+  "share": 0.015,
+  "title": " | Zova Hair Growth Balm – Batana, Castor, Argan & Rosemary Oil"
+ },
+ {
+  "pid": "rosemary_oil",
+  "key": "california",
+  "units": 2000,
+  "amz_months": 12.81208935611038,
+  "share": 0.01,
+  "title": " | California Naturals Women's ReGRO Anti-Thinning Scalp Serum,"
+ },
+ {
+  "pid": "rosemary_oil",
+  "key": "majestic",
+  "units": 1000,
+  "amz_months": 19.80946123521682,
+  "share": 0.005,
+  "title": " | Majestic Pure Rosemary Hair Oil with Biotin - 4 Fl Oz"
+ },
+ {
+  "pid": "rosemary_oil",
+  "key": "maree",
+  "units": 1000,
+  "amz_months": 3.088042049934297,
+  "share": 0.005,
+  "title": " | MAREE Hair Growth Serum - Rosemary Hair Oil Serum Scalp Oil "
+ },
+ {
+  "pid": "body_oil",
+  "key": "goda",
+  "units": 20000,
+  "amz_months": 17.805519053876477,
+  "share": 0.102,
+  "title": " | GODA Silk Body Oil Women - Firming Anti Aging Moisturizing F"
+ },
+ {
+  "pid": "body_oil",
+  "key": "evora",
+  "units": 1550,
+  "amz_months": 5.519053876478318,
+  "share": 0.008,
+  "title": " | Evora Botanical Body Oil for Crepey Skin, 2026 New After Sho"
+ },
+ {
+  "pid": "body_oil",
+  "key": "celmor",
+  "units": 1000,
+  "amz_months": 6.931668856767411,
+  "share": 0.005,
+  "title": " | CELMOR Silk Body Oil for Women | Anti Aging, Firming & Moist"
+ },
+ {
+  "pid": "body_oil",
+  "key": "botanical",
+  "units": 1000,
+  "amz_months": 4.402102496714849,
+  "share": 0.005,
+  "title": " | Botanical Body Oil for Crepey Skin, Shower Oil for Body Hydr"
+ },
+ {
+  "pid": "dog_fountain",
+  "key": "filterless",
+  "units": 1100,
+  "amz_months": 2.1681997371879107,
+  "share": 0.005,
+  "title": " | Filterless Cat Water Fountain - Wastewater Separation Pet Di"
+ },
+ {
+  "pid": "dog_fountain",
+  "key": "selene",
+  "units": 1000,
+  "amz_months": 4.92772667542707,
+  "share": 0.005,
+  "title": " | Selene Dog Water Fountain, 7L Cordless Dog Fountain Stainles"
+ },
+ {
+  "pid": "dog_fountain",
+  "key": "kittyspout",
+  "units": 1000,
+  "amz_months": 22.733245729303547,
+  "share": 0.005,
+  "title": " | KittySpout Stainless Steel Cat Water Fountain Automatic Drin"
+ },
+ {
+  "pid": "turmeric_soap",
+  "key": "treeroot",
+  "units": 6100,
+  "amz_months": 13.370565045992116,
+  "share": 0.056,
+  "title": " | Treeroot 5 Pack 80g Turmeric Kojic Acid Soap Bar for Face an"
+ },
+ {
+  "pid": "turmeric_soap",
+  "key": "qooq",
+  "units": 3000,
+  "amz_months": 20.795006570302235,
+  "share": 0.027,
+  "title": " | QOOQ Turmeric Kojic Acid Soap for Dark Spot Remover - Facial"
+ },
+ {
+  "pid": "turmeric_soap",
+  "key": "earthly",
+  "units": 1500,
+  "amz_months": 7.457293035479632,
+  "share": 0.014,
+  "title": " | Earthly Derm Turmeric Glow Soap, Handmade Turmeric Cleansing"
+ },
+ {
+  "pid": "turmeric_soap",
+  "key": "superfood",
+  "units": 1000,
+  "amz_months": 9.921156373193167,
+  "share": 0.009,
+  "title": " | Superfood Soap, Stem & Soul Turmeric Lemon Bar for Dark Spot"
+ },
+ {
+  "pid": "scent_diffuser",
+  "key": "airscent",
+  "units": 11100,
+  "amz_months": 22.963206307490143,
+  "share": 0.191,
+  "title": " | The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oi"
+ },
+ {
+  "pid": "scent_diffuser",
+  "key": "anzwaterless",
+  "units": 3700,
+  "amz_months": 12.943495400788436,
+  "share": 0.064,
+  "title": " | ANZ Waterless Diffuser for Essential Oil for Home, Room, Bla"
+ },
+ {
+  "pid": "scent_diffuser",
+  "key": "feppo",
+  "units": 1100,
+  "amz_months": 9.296977660972404,
+  "share": 0.019,
+  "title": " | FEPPO Waterless Diffuser - Diffusers for Home Hotel Office S"
+ },
+ {
+  "pid": "scent_diffuser",
+  "key": "tower",
+  "units": 1000,
+  "amz_months": 10.183968462549277,
+  "share": 0.017,
+  "title": " | Tower Waterless Diffuser with 5 Hotel-inspried Scent Oil Set"
+ },
+ {
+  "pid": "persimmon_soap",
+  "key": "kaori",
+  "units": 1950,
+  "amz_months": 5.321944809461235,
+  "share": 0.028,
+  "title": " | Kaori Persimmon Soap for Old People Smell & Nonenal, Moistur"
+ },
+ {
+  "pid": "persimmon_soap",
+  "key": "kakiyu",
+  "units": 1300,
+  "amz_months": 2.1681997371879107,
+  "share": 0.019,
+  "title": " | Kakiyu Persimmon Soap 2 Pack, Eliminate Odor & Long-Lasting "
+ },
+ {
+  "pid": "persimmon_soap",
+  "key": "morovan",
+  "units": 1100,
+  "amz_months": 12.910643889618921,
+  "share": 0.016,
+  "title": " | Morovan Persimmon Soap for Body Odor Control - Old People Sm"
+ },
+ {
+  "pid": "persimmon_soap",
+  "key": "gpp3",
+  "units": 1000,
+  "amz_months": 20.92641261498029,
+  "share": 0.014,
+  "title": " | GPP 3 PCS Persimmon Soap Bar for Body Odor Control, 3.53oz/p"
+ },
+ {
+  "pid": "persimmon_soap",
+  "key": "pelican",
+  "units": 1000,
+  "amz_months": 7.457293035479632,
+  "share": 0.014,
+  "title": " | Pelican Japanese Persimmon Tannin Soap Bar, Body Odor Odor B"
+ },
+ {
+  "pid": "shower_filter",
+  "key": "magichome",
+  "units": 5200,
+  "amz_months": 13.23915900131406,
+  "share": 0.05,
+  "title": " | Magichome High Pressure Handheld Filtered Shower Head, 10 Mo"
+ },
+ {
+  "pid": "pore_patch",
+  "key": "vuehydrocolloid",
+  "units": 5000,
+  "amz_months": 10.413929040735873,
+  "share": 0.098,
+  "title": " | Vue Hydrocolloid Nose Patches - Nose Pore Strips for Blackhe"
+ },
+ {
+  "pid": "hair_removal_cream",
+  "key": "phofay",
+  "units": 7150,
+  "amz_months": 15.407358738501971,
+  "share": 0.084,
+  "title": " | PHOFAY Hair Removal Cream for Men&Women Sensitive Skin–Fast-"
+ },
+ {
+  "pid": "hair_removal_cream",
+  "key": "gentle",
+  "units": 1350,
+  "amz_months": 19.64520367936925,
+  "share": 0.016,
+  "title": " | Gentle Body Hair Removal Cream-Pain free Hairs Removal Cream"
+ },
+ {
+  "pid": "chin_wrap",
+  "key": "graphene",
+  "units": 3750,
+  "amz_months": 15.341655716162943,
+  "share": 0.088,
+  "title": " | Graphene V-Line Mask Chin Up Mask V Shaped Face Mask Chin St"
+ },
+ {
+  "pid": "chin_wrap",
+  "key": "jawline",
+  "units": 1000,
+  "amz_months": 2.9566360052562417,
+  "share": 0.024,
+  "title": " | Jawline Shaper Chin Strap for Sleeping, Reusable V-Line Mask"
+ },
+ {
+  "pid": "chin_wrap",
+  "key": "skult",
+  "units": 1000,
+  "amz_months": 8.607095926412615,
+  "share": 0.024,
+  "title": " | SKULT Collagen Face Sculpt Wrap for Chin & Jawline, Double C"
+ },
+ {
+  "pid": "whitening_powder",
+  "key": "enamel",
+  "units": 1100,
+  "amz_months": 7.687253613666228,
+  "share": 0.068,
+  "title": " | Enamel-Safe Teeth Whitening Powder - Hydroxyapatite - Gentle"
+ },
+ {
+  "pid": "whitening_powder",
+  "key": "living",
+  "units": 1000,
+  "amz_months": 16.45860709592641,
+  "share": 0.062,
+  "title": " | Living Well Dr. Michelle Remineralizing & Whitening Tooth Po"
+ },
+ {
+  "pid": "lash_serum",
+  "key": "nuna",
+  "units": 8000,
+  "amz_months": 20.13797634691196,
+  "share": 0.037,
+  "title": " | NUNA Eyelash Growth Support Serum 6ml – Eye Lash and Eyebrow"
+ },
+ {
+  "pid": "lash_serum",
+  "key": "upnature",
+  "units": 6000,
+  "amz_months": 22.404730617608408,
+  "share": 0.028,
+  "title": " | UpNature Castor Oil Eyelash & Eyebrow Growth Serum, USDA Org"
+ },
+ {
+  "pid": "lash_serum",
+  "key": "hanae",
+  "units": 5500,
+  "amz_months": 2.3324572930354797,
+  "share": 0.026,
+  "title": " | Hanae Korea Eyelash Serum 2 Pack, Peptide Lash Serum, Prosta"
+ },
+ {
+  "pid": "lash_serum",
+  "key": "maree",
+  "units": 5000,
+  "amz_months": 19.80946123521682,
+  "share": 0.023,
+  "title": " | MAREE Eyelash Serum to Grow Lashes & Brows - Peptide Brow & "
+ },
+ {
+  "pid": "lash_serum",
+  "key": "terez",
+  "units": 3000,
+  "amz_months": 11.85939553219448,
+  "share": 0.014,
+  "title": " | Terez & Honor REviving Lash Serum - Korean Vegan PDRN Lash G"
+ },
+ {
+  "pid": "lash_serum",
+  "key": "foltene",
+  "units": 1300,
+  "amz_months": 6.176084099868594,
+  "share": 0.006,
+  "title": " | Foltene Lash Growth Serum for Sensitive Eyes, without Prosta"
+ },
+ {
+  "pid": "lash_serum",
+  "key": "cliganic",
+  "units": 1000,
+  "amz_months": 6.931668856767411,
+  "share": 0.005,
+  "title": " | Cliganic Castor Oil Organic Cold Pressed, Eyelash & Eyebrow "
+ },
+ {
+  "pid": "lash_serum",
+  "key": "ironboost",
+  "units": 1000,
+  "amz_months": 2.759526938239159,
+  "share": 0.005,
+  "title": " | IronBoost+ Eyelash Growth Serum, Lash Serum for Longer Eye L"
+ },
+ {
+  "pid": "hair_serum",
+  "key": "lilyeve",
+  "units": 14000,
+  "amz_months": 15.440210249671484,
+  "share": 0.058,
+  "title": " | lilyeve GROWTURN Exosome Hair Growth Serum with Built-In Bru"
+ },
+ {
+  "pid": "hair_serum",
+  "key": "leven",
+  "units": 3000,
+  "amz_months": 5.486202365308804,
+  "share": 0.012,
+  "title": " | Leven Rose Rice Water for Hair Growth Spray with Rosemary, F"
+ },
+ {
+  "pid": "hair_serum",
+  "key": "ghkcu",
+  "units": 2100,
+  "amz_months": 4.92772667542707,
+  "share": 0.009,
+  "title": " | GHK-Cu Peptide Hair Growth Serum, 7200MG Copper Peptides Sca"
+ },
+ {
+  "pid": "hair_serum",
+  "key": "california",
+  "units": 2000,
+  "amz_months": 12.81208935611038,
+  "share": 0.008,
+  "title": " | California Naturals Women's ReGRO Anti-Thinning Scalp Serum,"
+ },
+ {
+  "pid": "hair_serum",
+  "key": "ogxprogrowth",
+  "units": 2000,
+  "amz_months": 12.943495400788436,
+  "share": 0.008,
+  "title": " | OGX ProGrowth + Peptide Scalp Serum, 0.33 fl. oz"
+ },
+ {
+  "pid": "hair_serum",
+  "key": "maree",
+  "units": 1000,
+  "amz_months": 3.088042049934297,
+  "share": 0.004,
+  "title": " | MAREE Hair Growth Serum - Rosemary Hair Oil Serum Scalp Oil "
+ },
+ {
+  "pid": "hair_serum",
+  "key": "bloom",
+  "units": 1000,
+  "amz_months": 22.700394218134033,
+  "share": 0.004,
+  "title": " | Bloom Clinically Proven Copper GHK-CU Peptide Hair Serum for"
+ },
+ {
+  "pid": "hair_serum",
+  "key": "refilled",
+  "units": 1000,
+  "amz_months": 10.413929040735873,
+  "share": 0.004,
+  "title": " | Refilled cADPR Booster Pro Hair Growth Serum for Sensitive S"
+ },
+ {
+  "pid": "prewash_oil",
+  "key": "lebanta",
+  "units": 6000,
+  "amz_months": 20.13797634691196,
+  "share": 0.029,
+  "title": " | Lebanta Batana Oil for Hair - Organic Castor Rosemary Scalp "
+ },
+ {
+  "pid": "prewash_oil",
+  "key": "gisou",
+  "units": 2000,
+  "amz_months": 14.487516425755585,
+  "share": 0.01,
+  "title": " | Gisou Honey Infused Hair Oil (0.7 Fl Oz)"
+ },
+ {
+  "pid": "prewash_oil",
+  "key": "majestic",
+  "units": 1000,
+  "amz_months": 19.80946123521682,
+  "share": 0.005,
+  "title": " | Majestic Pure Rosemary Hair Oil with Biotin - 4 Fl Oz"
+ },
+ {
+  "pid": "prewash_oil",
+  "key": "aussie",
+  "units": 1000,
+  "amz_months": 13.107752956636006,
+  "share": 0.005,
+  "title": " | Aussie Ultra Wonder Treatment Leave-In and Pre-Wash, with am"
+ }
+]

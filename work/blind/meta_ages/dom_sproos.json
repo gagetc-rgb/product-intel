@@ -1,0 +1,162 @@
+{
+ "phrase": "sproos.co",
+ "date": "2026-11-09",
+ "active": 120,
+ "aged30": 110,
+ "aged90": 97,
+ "aged180": 86,
+ "ads": [
+  {
+   "id": "1900837600717572",
+   "page": "Sproos",
+   "start": "2025-06-14",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "180+"
+  },
+  {
+   "id": "968314952522561",
+   "page": "Sproos",
+   "start": "2026-03-17",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "180+"
+  },
+  {
+   "id": "1386959245682333",
+   "page": "bishwithbangs with Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1608474970162444",
+   "page": "Sproos",
+   "start": "2026-01-28",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "180+"
+  },
+  {
+   "id": "1800029447393888",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1827517444846585",
+   "page": "Sproos",
+   "start": "2025-06-26",
+   "n": 7,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1664262841387634",
+   "page": "Sproos",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "180+"
+  },
+  {
+   "id": "1272929771030020",
+   "page": "bishwithbangs with Sproos",
+   "start": "2025-06-26",
+   "n": 4,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1865284991008516",
+   "page": "Sproos",
+   "start": "2025-10-08",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "604754749340946",
+   "page": "Sproos",
+   "start": "2025-07-08",
+   "n": 5,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1756218788655584",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1232159075007683",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "756935530329341",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "946444931713334",
+   "page": "Kat Nia with Sproos",
+   "start": "2026-05-03",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "180+"
+  },
+  {
+   "id": "680734374786172",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1312636681066988",
+   "page": "Sproos",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "90-180"
+  },
+  {
+   "id": "2193044434813454",
+   "page": "Sproos",
+   "start": "2026-07-02",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1358146759427717",
+   "page": "Clitty with Sproos",
+   "start": "2026-09-18",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "30-90"
+  },
+  {
+   "id": "38389346947378539",
+   "page": "Sproos",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "sproos.co",
+   "window": "30-90"
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B0DXHGTMQL",
+  "brand": "airscent",
+  "units": 8000,
+  "price_scan": "$99.99",
+  "asin_age_m": 21
+ },
+ {
+  "asin": "B0GGQ6ZPT9",
+  "brand": "(no brand)",
+  "units": 4000,
+  "price_scan": "$89.99",
+  "asin_age_m": 10
+ },
+ {
+  "asin": "B0FSQYDJ91",
+  "brand": "anzwaterless",
+  "units": 3000,
+  "price_scan": "$19.98",
+  "asin_age_m": 13
+ },
+ {
+  "asin": "B0F99KD5K2",
+  "brand": "airversa",
+  "units": 3000,
+  "price_scan": "$39.99",
+  "asin_age_m": 19
+ },
+ {
+  "asin": "B0CRTPVD1D",
+  "brand": "airversa",
+  "units": 3000,
+  "price_scan": "$27.99",
+  "asin_age_m": 34
+ },
+ {
+  "asin": "B0DXHSDLVD",
+  "brand": "airscent",
+  "units": 2000,
+  "price_scan": "$99.99",
+  "asin_age_m": 21
+ },
+ {
+  "asin": "B0DHBZ2TX9",
+  "brand": "(no brand)",
+  "units": 1000,
+  "price_scan": "$169.99",
+  "asin_age_m": 25
+ },
+ {
+  "asin": "B0GKGH1R5X",
+  "brand": "feppo",
+  "units": 1000,
+  "price_scan": "$65.99",
+  "asin_age_m": 9
+ },
+ {
+  "asin": "B0DP2B5WZN",
+  "brand": "airversa",
+  "units": 1000,
+  "price_scan": "$66.49",
+  "asin_age_m": 23
+ },
+ {
+  "asin": "B0GKSGZCMV",
+  "brand": "(no brand)",
+  "units": 1000,
+  "price_scan": "$79.99",
+  "asin_age_m": 9
+ }
+]

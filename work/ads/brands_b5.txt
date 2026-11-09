@@ -1,0 +1,10 @@
+color_foundation|primeprometics.com|/foundation/|
+color_foundation|smooche.com|/foundation/|
+body_oil|goda.co|/body oil|silk/|
+scent_diffuser|scentifyhome.com|/diffuser/|
+scent_diffuser|aurahouse.com|/diffuser/|
+tallow_balm|ancestralcosmetics.com|/tallow|balm/|
+tallow_balm|bare-ritual.com|/tallow|balm/|
+persimmon_soap|try-kaori.com|deodorizing-persimmon-soap|
+persimmon_soap|miraiclinical.com|/persimmon/|
+shower_filter|sproos.co|/shower/|

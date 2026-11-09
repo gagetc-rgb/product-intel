@@ -1,0 +1,20 @@
+color_foundation done; aged30 3700
+body_oil done; aged30 2900
+rosemary_oil done; aged30 1300
+neck_cream done; aged30 1300
+persimmon_soap done; aged30 830
+tallow_balm done; aged30 500
+shower_filter done; aged30 650
+scent_diffuser done; aged30 210
+turmeric_soap done; aged30 70
+compression_socks: active 15000 aged30 5000 aged90 2200 aged180 610 sample 33
+dog_fountain: active 2800 aged30 750 aged90 190 aged180 22 sample 50
+pore_patch: active 1 aged30 1 aged90 1 aged180 0 sample 1
+hair_removal_cream: active 2600 aged30 1300 aged90 630 aged180 76 sample 63
+exfoliating_towel: active 460 aged30 310 aged90 130 aged180 64 sample 54
+magnesium_spray: active 510 aged30 120 aged90 72 aged180 53 sample 51
+chin_wrap: active 7600 aged30 2000 aged90 570 aged180 140 sample 63
+whitening_powder: active 150 aged30 43 aged90 2 aged180 0 sample 36
+lash_serum: active 3200 aged30 1100 aged90 400 aged180 90 sample 57
+hair_serum: active 3000 aged30 1200 aged90 220 aged180 53 sample 50
+prewash_oil: active 500 aged30 140 aged90 71 aged180 11 sample 48

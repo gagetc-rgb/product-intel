@@ -1,0 +1,618 @@
+{
+ "Prime Prometics": {
+  "cat": "color_foundation",
+  "active": 3800,
+  "aged90": 730,
+  "aged180": 350,
+  "pages": [
+   [
+    "Prime Prometics",
+    24
+   ],
+   [
+    "In creates with Prime Prometics",
+    2
+   ],
+   [
+    "Elliot Hayes",
+    1
+   ],
+   [
+    "Makeup Over 50 with Lisa Hart",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "primeprometics.com",
+    12
+   ],
+   [
+    "www.primeprometics.com",
+    4
+   ]
+  ]
+ },
+ "Smooche": {
+  "cat": "color_foundation",
+  "active": 12000,
+  "aged90": 2500,
+  "aged180": 790,
+  "pages": [
+   [
+    "Smooche",
+    24
+   ],
+   [
+    "Korean Beauty Tips",
+    3
+   ],
+   [
+    "Cosmetic Times",
+    2
+   ]
+  ],
+  "domains": [
+   [
+    "smooche.com",
+    3
+   ]
+  ]
+ },
+ "Lumine Skin": {
+  "cat": "color_foundation",
+  "active": 24,
+  "aged90": 23,
+  "aged180": 23,
+  "pages": [
+   [
+    "Lumine Skin",
+    13
+   ],
+   [
+    "Hestia",
+    9
+   ],
+   [
+    "remedy.for.beauty with Hestia",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "trylumineskin.com",
+    12
+   ],
+   [
+    "hestiacosmetics.com",
+    7
+   ]
+  ]
+ },
+ "Goda Silk": {
+  "cat": "body_oil",
+  "active": 930,
+  "aged90": 100,
+  "aged180": 0,
+  "pages": [
+   [
+    "Over 40 & Fabulous",
+    16
+   ],
+   [
+    "Natasha Knows Scents",
+    9
+   ],
+   [
+    "Goda Perfume",
+    2
+   ],
+   [
+    "YiayiaEleni",
+    2
+   ]
+  ],
+  "domains": [
+   [
+    "goda.co",
+    25
+   ]
+  ]
+ },
+ "Terra Lotus": {
+  "cat": "tallow_balm",
+  "active": 170,
+  "aged90": 0,
+  "aged180": 0,
+  "pages": [
+   [
+    "Terra Lotus",
+    20
+   ],
+   [
+    "HomeCraft Balm",
+    3
+   ],
+   [
+    "Affiliate Automated",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "about.terralotus.shop",
+    9
+   ],
+   [
+    "terralotus.shop",
+    7
+   ]
+  ]
+ },
+ "Ancestral Cosmetics": {
+  "cat": "tallow_balm",
+  "active": 150,
+  "aged90": 77,
+  "aged180": 55,
+  "pages": [
+   [
+    "Ancestral Cosmetics",
+    27
+   ],
+   [
+    "Ancestral Beauty Secrets",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "ancestralcosmetics.com",
+    23
+   ]
+  ]
+ },
+ "Bare Ritual": {
+  "cat": "tallow_balm",
+  "active": 84,
+  "aged90": 44,
+  "aged180": 21,
+  "pages": [
+   [
+    "Bare Ritual",
+    21
+   ],
+   [
+    "Vizor Ad Library - Nutra",
+    4
+   ],
+   [
+    "Michael Harrison",
+    1
+   ],
+   [
+    "Eat 2 Live",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "bare-ritual.com",
+    8
+   ],
+   [
+    "themenshealthdispatch.com",
+    6
+   ],
+   [
+    "eat2live.life",
+    1
+   ]
+  ]
+ },
+ "Forge Skin": {
+  "cat": "tallow_balm",
+  "active": 160,
+  "aged90": 0,
+  "aged180": 0,
+  "pages": [
+   [
+    "Lorenzo Pravatà",
+    24
+   ],
+   [
+    "Boyuan from emailmarketer.com",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "call.emailmarketer.com",
+    1
+   ],
+   [
+    "growthubcreatives.com",
+    1
+   ]
+  ]
+ },
+ "Scentify": {
+  "cat": "scent_diffuser",
+  "active": 330,
+  "aged90": 100,
+  "aged180": 89,
+  "pages": [
+   [
+    "Scentify",
+    23
+   ]
+  ],
+  "domains": [
+   [
+    "scentifyhome.com",
+    4
+   ]
+  ]
+ },
+ "Aura House": {
+  "cat": "scent_diffuser",
+  "active": 280,
+  "aged90": 27,
+  "aged180": 4,
+  "pages": [
+   [
+    "Aura House",
+    9
+   ],
+   [
+    "Deb and Danelle with Aura House",
+    3
+   ],
+   [
+    "Hip & Humble Style with Aura House",
+    2
+   ],
+   [
+    "Addison's Wonderland Blog with Aura House",
+    2
+   ]
+  ],
+  "domains": [
+   [
+    "aurahouse.com",
+    23
+   ],
+   [
+    "aurahouseco.glossgenius.com",
+    1
+   ]
+  ]
+ },
+ "Forge Men": {
+  "cat": "tallow_balm",
+  "active": 150,
+  "aged90": 0,
+  "aged180": 0,
+  "pages": [
+   [
+    "Forge Men",
+    20
+   ],
+   [
+    "Boyuan from emailmarketer.com",
+    5
+   ],
+   [
+    "Dr. Michael Reed",
+    3
+   ],
+   [
+    "Man of War Crucible",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "shop.try-forge.com",
+    5
+   ],
+   [
+    "call.emailmarketer.com",
+    5
+   ],
+   [
+    "store.try-forge.com",
+    5
+   ]
+  ]
+ },
+ "Luxe Color": {
+  "cat": "color_foundation",
+  "active": 1200,
+  "aged90": 42,
+  "aged180": 0,
+  "pages": [
+   [
+    "Korean Beauty Insider",
+    13
+   ],
+   [
+    "Luxe Cosmetics",
+    10
+   ],
+   [
+    "Beaumont Voss",
+    3
+   ],
+   [
+    "Luxe Cosmetics with Bustle",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "try.luxeresearchlab.com",
+    11
+   ],
+   [
+    "beaumontvoss.store",
+    3
+   ],
+   [
+    "luxeresearchlab.com",
+    1
+   ]
+  ]
+ },
+ "Aroma360": {
+  "cat": "scent_diffuser",
+  "active": 370,
+  "aged90": 78,
+  "aged180": 0,
+  "pages": [
+   [
+    "Aroma360",
+    25
+   ],
+   [
+    "Unwavering Haven with Aroma360",
+    1
+   ],
+   [
+    "Clara sofia medina with Aroma360",
+    1
+   ],
+   [
+    "TrulyTerah with Aroma360",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "aroma360.com",
+    18
+   ]
+  ]
+ },
+ "AirScent": {
+  "cat": "scent_diffuser",
+  "active": 4,
+  "aged90": 0,
+  "aged180": 0,
+  "pages": [
+   [
+    "AirScent Diffusers",
+    3
+   ],
+   [
+    "Airscent Diffusers",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "instagram.com",
+    3
+   ],
+   [
+    "www.instagram.com",
+    1
+   ]
+  ]
+ },
+ "Mirai Clinical": {
+  "cat": "persimmon_soap",
+  "active": 130,
+  "aged90": 20,
+  "aged180": 18,
+  "pages": [
+   [
+    "Mirai Clinical",
+    24
+   ],
+   [
+    "Mari Tanaka",
+    2
+   ],
+   [
+    "Koko Face Yoga",
+    2
+   ],
+   [
+    "Jared Brubaker",
+    2
+   ]
+  ],
+  "domains": [
+   [
+    "miraiclinical.com",
+    24
+   ],
+   [
+    "bellaviashop.com",
+    2
+   ]
+  ]
+ },
+ "Kakiyu": {
+  "cat": "persimmon_soap",
+  "active": 760,
+  "aged90": 0,
+  "aged180": 0,
+  "pages": [
+   [
+    "Mari Tanaka",
+    12
+   ],
+   [
+    "Kakiyu",
+    12
+   ],
+   [
+    "Dr. Margaret Ellis",
+    3
+   ],
+   [
+    "Minnesota Health Center",
+    2
+   ]
+  ],
+  "domains": [
+   [
+    "kakiyucare.com",
+    19
+   ],
+   [
+    "bellaviashop.com",
+    5
+   ]
+  ]
+ },
+ "Kaori": {
+  "cat": "persimmon_soap",
+  "active": 850,
+  "aged90": 210,
+  "aged180": 58,
+  "pages": [
+   [
+    "Kaori",
+    7
+   ],
+   [
+    "Grandma's Glow",
+    6
+   ],
+   [
+    "Sara Garret",
+    4
+   ],
+   [
+    "Margaret Whittaker",
+    3
+   ]
+  ],
+  "domains": [
+   [
+    "try-kaori.com",
+    7
+   ],
+   [
+    "link.springer.com",
+    2
+   ]
+  ]
+ },
+ "sproos": {
+  "cat": "shower_filter",
+  "active": 130,
+  "aged90": 110,
+  "aged180": 94,
+  "pages": [
+   [
+    "Sproos",
+    15
+   ],
+   [
+    "bishwithbangs with Sproos",
+    2
+   ],
+   [
+    "Lily Butler with Sproos",
+    1
+   ],
+   [
+    "nadeen ♡ with Sproos",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "sproos.co",
+    11
+   ]
+  ]
+ },
+ "Filterbaby": {
+  "cat": "shower_filter",
+  "active": 630,
+  "aged90": 100,
+  "aged180": 7,
+  "pages": [
+   [
+    "My Filterbaby",
+    16
+   ],
+   [
+    "The Glow",
+    3
+   ],
+   [
+    "Hair Loss Solutions",
+    3
+   ],
+   [
+    "annalinie with My Filterbaby",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "filterbaby.com",
+    22
+   ]
+  ]
+ },
+ "DRMTLGY": {
+  "cat": "body_oil",
+  "active": 1300,
+  "aged90": 300,
+  "aged180": 38,
+  "pages": [
+   [
+    "DRMTLGY",
+    22
+   ],
+   [
+    "Jamie's Finds with DRMTLGY",
+    2
+   ],
+   [
+    "Kelly Kruger with DRMTLGY",
+    1
+   ],
+   [
+    "Derma Blogger with DRMTLGY",
+    1
+   ]
+  ],
+  "domains": [
+   [
+    "www.drmtlgy.com",
+    5
+   ],
+   [
+    "drmtlgy.com",
+    1
+   ]
+  ]
+ }
+}

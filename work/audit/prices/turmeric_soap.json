@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B09MFMCTRK",
+  "brand": "valitic",
+  "units": 30000,
+  "price_scan": "$13.17",
+  "asin_age_m": 59
+ },
+ {
+  "asin": "B0FMF7SFPG",
+  "brand": "(no brand)",
+  "units": 10000,
+  "price_scan": "$7.99",
+  "asin_age_m": 14
+ },
+ {
+  "asin": "B0B2X2L8G8",
+  "brand": "valitic",
+  "units": 9000,
+  "price_scan": "$14.87",
+  "asin_age_m": 52
+ },
+ {
+  "asin": "B0D4QHYD6R",
+  "brand": "(no brand)",
+  "units": 5000,
+  "price_scan": "$5.99",
+  "asin_age_m": 29
+ },
+ {
+  "asin": "B0FNMCX3MP",
+  "brand": "treeroot",
+  "units": 4000,
+  "price_scan": "$6.74",
+  "asin_age_m": 13
+ },
+ {
+  "asin": "B0D827ZY5Y",
+  "brand": "kitsch",
+  "units": 4000,
+  "price_scan": "$11.99",
+  "asin_age_m": 28
+ },
+ {
+  "asin": "B0C8TSZ2CK",
+  "brand": "valitic",
+  "units": 3000,
+  "price_scan": "$20.82",
+  "asin_age_m": 42
+ },
+ {
+  "asin": "B0DX1QDSGF",
+  "brand": "qooq",
+  "units": 3000,
+  "price_scan": "$9.99",
+  "asin_age_m": 21
+ },
+ {
+  "asin": "B09MFMLCSM",
+  "brand": "valitic",
+  "units": 3000,
+  "price_scan": "$17.42",
+  "asin_age_m": 59
+ },
+ {
+  "asin": "B0H41QPZXX",
+  "brand": "(no brand)",
+  "units": 2000,
+  "price_scan": "$14.99",
+  "asin_age_m": 5
+ }
+]

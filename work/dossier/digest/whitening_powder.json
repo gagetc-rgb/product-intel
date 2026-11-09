@@ -1,0 +1,310 @@
+{
+ "pid": "whitening_powder",
+ "name": "Teeth whitening powder",
+ "verdict_row": {
+  "pid": "whitening_powder",
+  "name": "Teeth whitening powder",
+  "flag": "",
+  "shelf": 16100,
+  "nb": 3150,
+  "gen": 3100,
+  "winB": 1,
+  "winG": 1,
+  "price": 17.99,
+  "act": 150,
+  "a30": 43,
+  "a90": 2,
+  "a180": 0,
+  "stores": 11,
+  "stores90": 2,
+  "trend": 1.11,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 3150
+ },
+ "amazon_us": {
+  "listings_on_target": 93,
+  "shelf_units": 16100,
+  "units_by_brand_age": {
+   "6-12": 1300,
+   "0-6": 3600,
+   "24+": 9850,
+   "12-24": 1350
+  },
+  "units_by_kind": {
+   "new_brand": 3150,
+   "generic_new": 3100,
+   "old_brand": 8350,
+   "generic_old": 1500
+  },
+  "top_brands": [
+   {
+    "key": "boka",
+    "units": 5000,
+    "listings": 2,
+    "best": {
+     "asin": "B0CQPPDQM9",
+     "title": "Boka Teeth Whitening Powder with Nano Hydroxyapatite 1pack",
+     "units": 5000,
+     "price": "$20.99",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/41SwSdPeLaL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 35,
+    "status": "old"
+   },
+   {
+    "key": "viva",
+    "units": 2600,
+    "listings": 3,
+    "best": {
+     "asin": "B01M0DYTZ9",
+     "title": "Viva Doria Natural Tooth Powder, Remineralizing, Natural Teeth Whitening, Breath Freshener | Refreshing Mint F",
+     "units": 2000,
+     "price": "$9.95",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71xibgun8hL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "enamel",
+    "units": 1100,
+    "listings": 4,
+    "best": {
+     "asin": "B0GSYYWQ7S",
+     "title": "Enamel-Safe Teeth Whitening Powder - Hydroxyapatite - Gentle on Teeth - No Sensitivity Formula - Removes Stain",
+     "units": 700,
+     "price": "$17.98",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61Mrxmlm+5L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 8,
+    "status": "NEW"
+   },
+   {
+    "key": "living",
+    "units": 1000,
+    "listings": 1,
+    "best": {
+     "asin": "B0FH5LGLB2",
+     "title": "Living Well Dr. Michelle Remineralizing & Whitening Tooth Powder, Cool Mint",
+     "units": 1000,
+     "price": "$25.25",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71wAztWosiL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 16,
+    "status": "NEW"
+   },
+   {
+    "key": "updated",
+    "units": 500,
+    "listings": 2,
+    "best": {
+     "asin": "B0H9RC61TQ",
+     "title": "Updated Design Teeth Whitening Powder - Hydroxyapatite - Gentle on Teeth - No Sensitivity - Removes Stains - B",
+     "units": 500,
+     "price": "$29.99",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/71N8UF6OOZL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 3,
+    "status": "NEW"
+   },
+   {
+    "key": "mysweetsmile",
+    "units": 200,
+    "listings": 2,
+    "best": {
+     "asin": "B09HH8T8XD",
+     "title": "MySweetSmile 3-in-1 Teeth Whitening Powder – 6 Month Supply – Mint Flavour",
+     "units": 200,
+     "price": "$24.49",
+     "stars": "3.8",
+     "img": "https://m.media-amazon.com/images/I/51NgFHwYy1L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 61,
+    "status": "old"
+   },
+   {
+    "key": "mooths",
+    "units": 200,
+    "listings": 9,
+    "best": {
+     "asin": "B0HFMPDQZ9",
+     "title": "MOOTHS Whitening Powder, Teeth Whitening Mineral Powder with Nano-Hydroxyapatite & Pap, Peroxide-Free Mint Too",
+     "units": 100,
+     "price": "$29.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/6153RA1I2YL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 2,
+    "status": "NEW"
+   },
+   {
+    "key": "zero",
+    "units": 200,
+    "listings": 1,
+    "best": {
+     "asin": "B07C8GN4DL",
+     "title": "Zero Waste up to 6 Month Supply Organic Vegan Fluoride Free Tooth Powder Peppermint Flavor- Ships Without Any ",
+     "units": 200,
+     "price": "$23.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/71dC72tH-vL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "purple",
+    "units": 150,
+    "listings": 6,
+    "best": {
+     "asin": "B0HDZ9R8WG",
+     "title": "Purple Teeth Whitening Powder with 20,000ppm Hydroxyapatite & Collagen",
+     "units": 100,
+     "price": "$29.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/71TyrFjQfHL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 16,
+    "status": "NEW"
+   },
+   {
+    "key": "snow",
+    "units": 100,
+    "listings": 1,
+    "best": {
+     "asin": "B09ML3SPB7",
+     "title": "SNOW Sensitive Magic Powder Teeth Whitening Booster with Hydroxyapatite",
+     "units": 100,
+     "price": "$31.20",
+     "stars": "3.5",
+     "img": "https://m.media-amazon.com/images/I/61U+PWC9TsL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 59,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    2000,
+    "B0HJ1J16FC",
+    "Teeth whitening Powder, containing hydroxyapatite, removes Tooth Stains",
+    "$8.16",
+    null
+   ],
+   [
+    1000,
+    "B0763F6DD8",
+    "(1LB) Organic Coconut Activated Charcoal Powder - Food Grade, Kosher - Teeth Whi",
+    "$13.99",
+    null
+   ],
+   [
+    500,
+    "B0HH2T555J",
+    "Teeth Whitening Powder with Hydroxyapatite, Removes Stains & Fresh Breath",
+    "$16.99",
+    null
+   ],
+   [
+    300,
+    "B07Y2BK5F5",
+    "Teeth Whitening Powder - Remineralizing Tooth Powder with Nano Hydroxyapatite, C",
+    "$7.95",
+    null
+   ]
+  ],
+  "winners_1k": 5
+ },
+ "price_us": {
+  "price_usd_median": 17.99,
+  "price_usd_p25_p75": [
+   9.99,
+   25.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "whitening powder",
+  "active": 150,
+  "aged30": 43,
+  "aged90": 2,
+  "aged180": 0,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "dailysale.com",
+   1,
+   174,
+   1
+  ],
+  [
+   "trywhyteproducts.com",
+   15,
+   105,
+   3
+  ],
+  [
+   "trymooths.com",
+   4,
+   76,
+   2
+  ],
+  [
+   "boka.com",
+   8,
+   67,
+   1
+  ],
+  [
+   "ecobrightsmile.com",
+   4,
+   60,
+   1
+  ],
+  [
+   "oralcarereviews.com",
+   3,
+   50,
+   1
+  ],
+  [
+   "thenewfind.com",
+   1,
+   37,
+   1
+  ],
+  [
+   "markedscripts.com",
+   1,
+   36,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "teeth whitening powder",
+  "rel_yoy": 1.11,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "292.5",
+ "creatives": []
+}

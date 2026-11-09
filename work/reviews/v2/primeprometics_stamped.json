@@ -1,0 +1,531 @@
+{
+ "label": "primeprometics",
+ "kind": "stamped",
+ "total": 50001,
+ "counted": 34685,
+ "cutoff": "2024-07",
+ "monthly": {
+  "2024-07": {
+   "all": 824,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     189
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     160
+    ],
+    [
+     "2pcs PrimeLash Mascara [LEGACY]",
+     76
+    ]
+   ]
+  },
+  "2024-08": {
+   "all": 402,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     94
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     81
+    ],
+    [
+     "2pcs PrimeLash Mascara [LEGACY]",
+     30
+    ]
+   ]
+  },
+  "2024-09": {
+   "all": 281,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     75
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     46
+    ],
+    [
+     "PrimeEyes Eye Brightener",
+     30
+    ]
+   ]
+  },
+  "2024-10": {
+   "all": 931,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     222
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     220
+    ],
+    [
+     "2pcs PrimeLash Mascara [LEGACY]",
+     68
+    ]
+   ]
+  },
+  "2024-11": {
+   "all": 941,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     240
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     184
+    ],
+    [
+     "PrimeEyes Eye Brightener",
+     75
+    ]
+   ]
+  },
+  "2024-12": {
+   "all": 1161,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     289
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     190
+    ],
+    [
+     "PrimeEyes Eye Brightener",
+     74
+    ]
+   ]
+  },
+  "2025-01": {
+   "all": 1158,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     376
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     187
+    ],
+    [
+     "2pcs PrimeLash Mascara [LEGACY]",
+     91
+    ]
+   ]
+  },
+  "2025-02": {
+   "all": 520,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     154
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     80
+    ],
+    [
+     "PrimeBrow Pencil",
+     39
+    ]
+   ]
+  },
+  "2025-03": {
+   "all": 545,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     136
+    ],
+    [
+     "PrimeEyes Eye Brightener",
+     75
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     72
+    ]
+   ]
+  },
+  "2025-04": {
+   "all": 752,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     242
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     142
+    ],
+    [
+     "PrimeEyes Eye Brightener",
+     49
+    ]
+   ]
+  },
+  "2025-05": {
+   "all": 920,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     289
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     153
+    ],
+    [
+     "2pcs PrimeLash Mascara [LEGACY]",
+     65
+    ]
+   ]
+  },
+  "2025-06": {
+   "all": 1050,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     253
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     182
+    ],
+    [
+     "2pcs PrimeLash Mascara [LEGACY]",
+     72
+    ]
+   ]
+  },
+  "2025-07": {
+   "all": 1325,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     282
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     244
+    ],
+    [
+     "2pcs PrimeLash Mascara [LEGACY]",
+     105
+    ]
+   ]
+  },
+  "2025-08": {
+   "all": 830,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     207
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     152
+    ],
+    [
+     "Color Changing Foundation",
+     71
+    ]
+   ]
+  },
+  "2025-09": {
+   "all": 2263,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     515
+    ],
+    [
+     "Color Changing Foundation",
+     369
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     350
+    ]
+   ]
+  },
+  "2025-10": {
+   "all": 1569,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     295
+    ],
+    [
+     "Color Changing Foundation",
+     250
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     225
+    ]
+   ]
+  },
+  "2025-11": {
+   "all": 1814,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     337
+    ],
+    [
+     "Color Changing Foundation",
+     291
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     227
+    ]
+   ]
+  },
+  "2025-12": {
+   "all": 1047,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     189
+    ],
+    [
+     "Color Changing Foundation",
+     179
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     125
+    ]
+   ]
+  },
+  "2026-01": {
+   "all": 124,
+   "below5": 0,
+   "top_products": [
+    [
+     "Instant Coverage Hairline Powder",
+     46
+    ],
+    [
+     "Color Changing Foundation",
+     18
+    ],
+    [
+     "PrimeLip Plumping Lip Balm",
+     15
+    ]
+   ]
+  },
+  "2026-02": {
+   "all": 1878,
+   "below5": 0,
+   "top_products": [
+    [
+     "Color Changing Foundation",
+     336
+    ],
+    [
+     "PrimeLash Mascara",
+     311
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     210
+    ]
+   ]
+  },
+  "2026-03": {
+   "all": 1797,
+   "below5": 0,
+   "top_products": [
+    [
+     "Color Changing Foundation",
+     332
+    ],
+    [
+     "PrimeLash Mascara",
+     261
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     192
+    ]
+   ]
+  },
+  "2026-04": {
+   "all": 1626,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     291
+    ],
+    [
+     "Color Changing Foundation",
+     280
+    ],
+    [
+     "PrimeEyes Glide Eyeliner",
+     172
+    ]
+   ]
+  },
+  "2026-05": {
+   "all": 2053,
+   "below5": 0,
+   "top_products": [
+    [
+     "Color Changing Foundation",
+     333
+    ],
+    [
+     "PrimeLash Mascara",
+     297
+    ],
+    [
+     "PrimeSkin Foundation Brush",
+     235
+    ]
+   ]
+  },
+  "2026-06": {
+   "all": 1904,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     288
+    ],
+    [
+     "Color Changing Foundation",
+     244
+    ],
+    [
+     "PrimeSkin Foundation Brush",
+     215
+    ]
+   ]
+  },
+  "2026-07": {
+   "all": 2041,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     324
+    ],
+    [
+     "PrimeSkin Foundation Brush",
+     275
+    ],
+    [
+     "Color Changing Foundation",
+     254
+    ]
+   ]
+  },
+  "2026-08": {
+   "all": 1969,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     291
+    ],
+    [
+     "PrimeSkin Foundation Brush",
+     291
+    ],
+    [
+     "Color Changing Foundation",
+     253
+    ]
+   ]
+  },
+  "2026-09": {
+   "all": 1641,
+   "below5": 0,
+   "top_products": [
+    [
+     "PrimeLash Mascara",
+     284
+    ],
+    [
+     "Color Changing Foundation",
+     235
+    ],
+    [
+     "PrimeSkin Foundation Brush",
+     206
+    ]
+   ]
+  },
+  "2026-10": {
+   "all": 1302,
+   "below5": 0,
+   "top_products": [
+    [
+     "Color Changing Foundation",
+     199
+    ],
+    [
+     "PrimeLash Mascara",
+     176
+    ],
+    [
+     "PrimeSkin Foundation Brush",
+     134
+    ]
+   ]
+  },
+  "2026-11": {
+   "all": 17,
+   "below5": 0,
+   "top_products": [
+    [
+     "Multi-Peptide Hair Density Serum",
+     8
+    ],
+    [
+     "Color Changing Foundation",
+     2
+    ],
+    [
+     "PrimeSkin Foundation Brush",
+     2
+    ]
+   ]
+  }
+ }
+}

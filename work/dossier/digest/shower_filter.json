@@ -1,0 +1,405 @@
+{
+ "pid": "shower_filter",
+ "name": "Filtered shower head (+ cartridges)",
+ "verdict_row": {
+  "pid": "shower_filter",
+  "name": "Filtered shower head (+ cartridges)",
+  "flag": "",
+  "shelf": 103550,
+  "nb": 7050,
+  "gen": 22000,
+  "winB": 1,
+  "winG": 7,
+  "price": 39.99,
+  "act": 1200,
+  "a30": 650,
+  "a90": 240,
+  "a180": 24,
+  "stores": 13,
+  "stores90": 10,
+  "trend": 1.09,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 7300
+ },
+ "amazon_us": {
+  "listings_on_target": 180,
+  "shelf_units": 103550,
+  "units_by_brand_age": {
+   "24+": 71500,
+   "6-12": 10600,
+   "12-24": 9250,
+   "0-6": 12200
+  },
+  "units_by_kind": {
+   "old_brand": 66550,
+   "generic_new": 22000,
+   "new_brand": 7050,
+   "older_brand_new_here": 3500,
+   "generic_old": 4450
+  },
+  "top_brands": [
+   {
+    "key": "feelso",
+    "units": 23000,
+    "listings": 10,
+    "best": {
+     "asin": "B07Q4MYZNC",
+     "title": "FEELSO Shower Head with Shower Filter, Filtered Shower Head for Hard Water",
+     "units": 10000,
+     "price": "$19.79",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/71KM6FcBDWL._AC_UL320_.jpg",
+     "amazon_brand": "FEELSO"
+    },
+    "entry_months": 74,
+    "status": "old"
+   },
+   {
+    "key": "srsun",
+    "units": 12150,
+    "listings": 8,
+    "best": {
+     "asin": "B0CL4SVJQ3",
+     "title": "SR SUN RISE Filtered Shower Head with Handheld High Pressure 9 Spray Mode Showerhead Detachable Shower Head Wa",
+     "units": 6000,
+     "price": "$22.98",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81VTWPGqRTL._AC_UL320_.jpg",
+     "amazon_brand": "SR SUN RISE"
+    },
+    "entry_months": 37,
+    "status": "old"
+   },
+   {
+    "key": "makefit",
+    "units": 10500,
+    "listings": 17,
+    "best": {
+     "asin": "B0CCTNWYDH",
+     "title": "MakeFit Filtered Shower Head Black - 6 Modes High Pressure Handheld Shower Head with Filter Mineral Beads, Det",
+     "units": 5000,
+     "price": "$22.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81DH9HAbK2L._AC_UL320_.jpg",
+     "amazon_brand": "MakeFit"
+    },
+    "entry_months": 51,
+    "status": "old"
+   },
+   {
+    "key": "cobbe",
+    "units": 7800,
+    "listings": 6,
+    "best": {
+     "asin": "B0BJDPJNN3",
+     "title": "Cobbe Filtered Shower Head with Handheld, Water Softener for Hard Water",
+     "units": 5000,
+     "price": "$21.65",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/81YPw8QgYRL._AC_UL320_.jpg",
+     "amazon_brand": "Cobbe"
+    },
+    "entry_months": 51,
+    "status": "old"
+   },
+   {
+    "key": "magichome",
+    "units": 5200,
+    "listings": 2,
+    "best": {
+     "asin": "B0FNWXG9Q7",
+     "title": "Magichome High Pressure Handheld Filtered Shower Head, 10 Modes, Chrome",
+     "units": 5000,
+     "price": "$18.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/91PS1XcY6vL._AC_UL320_.jpg",
+     "amazon_brand": "Magichome"
+    },
+    "entry_months": 13,
+    "status": "NEW"
+   },
+   {
+    "key": "veken",
+    "units": 3000,
+    "listings": 1,
+    "best": {
+     "asin": "B0H7WSS741",
+     "title": "Veken Filtered Shower Head with Handheld, Multi-Pattern Rain Showerhead Set",
+     "units": 3000,
+     "price": "$52.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/91QCXub6WAL._AC_UL320_.jpg",
+     "amazon_brand": "Veken"
+    },
+    "entry_months": 3,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "myhalos",
+    "units": 2000,
+    "listings": 2,
+    "best": {
+     "asin": "B0DDCBZ8W9",
+     "title": "MyHalos® Filtered Shower Head, Shower Head Filter for Hard Water (Chrome)",
+     "units": 2000,
+     "price": "$74.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81ajRBQyEeL._AC_UL320_.jpg",
+     "amazon_brand": "myhalos"
+    },
+    "entry_months": 27,
+    "status": "old"
+   },
+   {
+    "key": "weddell",
+    "units": 2000,
+    "listings": 1,
+    "best": {
+     "asin": "B0CGM2S5LX",
+     "title": "Weddell Duo Shower Head Filter, NSF Certified Chlorine Reduction, Lead-Free",
+     "units": 2000,
+     "price": "$89.98",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61ukuXNJd9L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 40,
+    "status": "old"
+   },
+   {
+    "key": "afina",
+    "units": 1500,
+    "listings": 2,
+    "best": {
+     "asin": "B0CXY82LMV",
+     "title": "Afina Filtered Shower Head, High Pressure Rainfall (Chrome)",
+     "units": 1000,
+     "price": "$129.00",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61XPOe+nDIL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 32,
+    "status": "old"
+   },
+   {
+    "key": "nearmoon",
+    "units": 1250,
+    "listings": 4,
+    "best": {
+     "asin": "B09N72QYD4",
+     "title": "NearMoon Filtered Rain Shower Head, High Pressure 8″Square, and 5 settings Handheld Shower Filter Combo with S",
+     "units": 1000,
+     "price": "$40.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81rO33jF0CL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 66,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    6000,
+    "B0H392GY5R",
+    "Handheld Shower Head High Pressure – Magnetic Holder,9 Spray Modes with Power Wa",
+    "$35.98",
+    "Rainnook"
+   ],
+   [
+    2000,
+    "B0GSLPS5GZ",
+    "Filtered Shower Head with Handheld（3 Filters）Water Softener for Hard Water",
+    "$23.99",
+    null
+   ],
+   [
+    2000,
+    "B0CGRFJC9M",
+    "Filtered Shower Head with Handheld,High Pressure Shower Heads Filter",
+    "$19.99",
+    null
+   ],
+   [
+    1000,
+    "B0GWLK8ZVJ",
+    "Filtered Shower Head, Shower Head with Filters for Healthy Hair & Skin",
+    "$59.99",
+    null
+   ]
+  ],
+  "winners_1k": 30
+ },
+ "price_us": {
+  "price_usd_median": 39.99,
+  "price_usd_p25_p75": [
+   23.98,
+   68.35
+  ]
+ },
+ "meta_category": {
+  "phrase": "shower filter",
+  "active": 1200,
+  "aged30": 650,
+  "aged90": 240,
+  "aged180": 24,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "page:sproos",
+   17,
+   509,
+   2
+  ],
+  [
+   "page:tubo",
+   4,
+   344,
+   1
+  ],
+  [
+   "page:weddell water",
+   2,
+   244,
+   1
+  ],
+  [
+   "filterbaby.com",
+   7,
+   184,
+   2
+  ],
+  [
+   "santevia.com",
+   5,
+   178,
+   1
+  ],
+  [
+   "page:gary brecka",
+   1,
+   163,
+   1
+  ],
+  [
+   "page:the glow",
+   1,
+   135,
+   1
+  ],
+  [
+   "purewaterfreedom.com",
+   1,
+   130,
+   1
+  ]
+ ],
+ "meta_brand_pages": {
+  "sproos": {
+   "own": {
+    "103196398536406": {
+     "name": "Sproos",
+     "active": 130,
+     "aged30": 120,
+     "aged90": 110,
+     "aged180": 94
+    }
+   },
+   "phrase_sample": 20,
+   "own_domain": 11
+  },
+  "Filterbaby": {
+   "own": {
+    "107224365444737": {
+     "name": "My Filterbaby",
+     "active": 450,
+     "aged30": 280,
+     "aged90": 71,
+     "aged180": 7
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 21
+  },
+  "Santevia": {
+   "own": {
+    "180038465807": {
+     "name": "Santevia Water Systems",
+     "active": 720,
+     "aged30": 360,
+     "aged90": 210,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 23
+  }
+ },
+ "meta_brand_phrase_v20": {
+  "sproos": {
+   "active": 130,
+   "aged90": 110,
+   "aged180": 94
+  },
+  "Filterbaby": {
+   "active": 630,
+   "aged90": 100,
+   "aged180": 7
+  }
+ },
+ "trend": {
+  "term": "shower filter",
+  "rel_yoy": 1.09,
+  "yearly_means_v20": [
+   8.4,
+   10.1,
+   11.6,
+   15.8,
+   34.4
+  ],
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "14.9",
+ "creatives": [
+  {
+   "domain": "sproos.co",
+   "ads_180d_total_meta": "94",
+   "loaded": 17,
+   "product": "Shower Slide Bar",
+   "oldest": [
+    {
+     "days": 512,
+     "page": "Sproos",
+     "headline": "Hand Shower · Upgrade your daily shower routine with powerful filtration that promotes bou",
+     "body": "The Boldest Filtered Shower in The Game",
+     "img": "dashboard/ads_media/b7ded1a9caf85b11.jpg"
+    },
+    {
+     "days": 510,
+     "page": "bishwithbangs with Sproos",
+     "headline": "",
+     "body": "Let’s see how gross ATX water is!!!!\nThe results are in, it’s gross. Bad water and chlorine in our water can cause excess hair fall, skin irritations, and hair ",
+     "img": "dashboard/ads_media/3dfe474ce98acc29.jpg"
+    },
+    {
+     "days": 510,
+     "page": "Sproos",
+     "headline": "",
+     "body": "Sproos! Up Your Shower With Style And Functionality🚿\n🌟 Damage-Free Installation �\n📦 Everything In One Box �\n⏳ 60-Day Trial Period �\n🌿 Environmentally-Friendly F",
+     "img": "dashboard/ads_media/9c7eb2580203e8bd.jpg"
+    },
+    {
+     "days": 510,
+     "page": "Sproos",
+     "headline": "",
+     "body": "Sproos! Up Your Shower With Style And Functionality🚿\n🌟 Damage-Free Installation �\n📦 Everything In One Box �\n⏳ 60-Day Trial Period �\n🌿 Environmentally-Friendly F",
+     "img": "dashboard/ads_media/c86a20bf51efe543.jpg"
+    }
+   ]
+  }
+ ]
+}

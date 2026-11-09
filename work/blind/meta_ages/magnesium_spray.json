@@ -1,0 +1,418 @@
+{
+ "phrase": "magnesium spray",
+ "date": "2026-11-08",
+ "active": 510,
+ "aged30": 120,
+ "aged90": 72,
+ "aged180": 53,
+ "ads": [
+  {
+   "id": "3903317993293217",
+   "page": "Ozco Goods",
+   "start": "2025-08-21",
+   "n": 1,
+   "domain": "ozcogoods.com",
+   "window": "180+"
+  },
+  {
+   "id": "994466116349695",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "990786496761398",
+   "page": "Lymphologist - Emma Bernard, PhD",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1482388650299405",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1514536376744114",
+   "page": "Sringe",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1674061060282417",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "972643705350923",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "976671851602346",
+   "page": "Lymphologist - Emma Bernard, PhD",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1717248946107864",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2198825090886851",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "2228837164599035",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1944944853562767",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1713810026707398",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2762946680758767",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1314307897263322",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1597831227966540",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "2068277217054213",
+   "page": "Sringe",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "987644110456904",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1494998965367893",
+   "page": "Sringe",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1494962855405198",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "939118162235828",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1271626421850892",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "3932052683766902",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1538513740973591",
+   "page": "Sringe",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2576559036094200",
+   "page": "Sringe",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1471736071316582",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1599017247827317",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1004997035435506",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "938972842253132",
+   "page": "Dr. Marcus Thompson - Black Health",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2414694245699096",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1739721497230058",
+   "page": "Migraine Relief Blog",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1842865400019205",
+   "page": "Pioneer Pam Goods",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "pioneerpam.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1744837356704034",
+   "page": "MAGS Skin",
+   "start": "2026-06-24",
+   "n": 1,
+   "domain": "magsskin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4418137925118954",
+   "page": "Bramblea",
+   "start": "2026-09-16",
+   "n": 1,
+   "domain": "bramblea.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3904591523169065",
+   "page": "It's Courtney Luna with Vita Prima",
+   "start": "2026-08-11",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1609132806801369",
+   "page": "AJTaughtYou with Dr Teal's",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "www.drteals.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1438838524402071",
+   "page": "Dr Teal's",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2484839488677636",
+   "page": "Laura Peterson",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1142024201688265",
+   "page": "Nerve Support Community",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2815888372116880",
+   "page": "Dr Teal's",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1508382347979051",
+   "page": "Dr Teal's",
+   "start": "2026-11-03",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1657159249172323",
+   "page": "Nerve Support Community",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1642104843963954",
+   "page": "Miami Herald",
+   "start": "2026-10-21",
+   "n": 1,
+   "domain": "trendhunter.com",
+   "window": "0-30"
+  },
+  {
+   "id": "3517622391735166",
+   "page": "It’s Nicole Jaques with Hiya",
+   "start": "2026-11-04",
+   "n": 1,
+   "domain": "hiyahealth.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1113417647767737",
+   "page": "Laura Peterson",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1891226221897025",
+   "page": "Dr Teal's",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1413048177686508",
+   "page": "Miami Herald",
+   "start": "2026-10-21",
+   "n": 1,
+   "domain": "trendhunter.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1106369392032417",
+   "page": "Dr Teal's",
+   "start": "2026-11-03",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "4473143069620856",
+   "page": "Blessed Botanicals",
+   "start": "2026-10-21",
+   "n": 1,
+   "domain": "getblessedbotanicals.com",
+   "window": "0-30"
+  },
+  {
+   "id": "3577509132411923",
+   "page": "Laura Peterson",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1691646225808767",
+   "page": "Blessed Botanicals",
+   "start": "2026-10-21",
+   "n": 1,
+   "domain": "getblessedbotanicals.com",
+   "window": "0-30"
+  }
+ ]
+}

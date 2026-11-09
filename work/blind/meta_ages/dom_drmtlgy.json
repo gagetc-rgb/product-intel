@@ -1,0 +1,546 @@
+{
+ "phrase": "drmtlgy.com",
+ "date": "2026-11-09",
+ "active": 1200,
+ "aged30": 740,
+ "aged90": 300,
+ "aged180": 38,
+ "ads": [
+  {
+   "id": "932922359745898",
+   "page": "DRMTLGY",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "814951261238818",
+   "page": "DRMTLGY",
+   "start": "2026-04-24",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "978962151189602",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1524928362407497",
+   "page": "DRMTLGY",
+   "start": "2026-04-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1714552492862170",
+   "page": "DRMTLGY",
+   "start": "2026-04-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2056828514876360",
+   "page": "DRMTLGY",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "949033540837492",
+   "page": "DRMTLGY",
+   "start": "2026-04-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1424244168982047",
+   "page": "DRMTLGY",
+   "start": "2026-04-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1999560490770589",
+   "page": "DRMTLGY",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "799108836290977",
+   "page": "DRMTLGY",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1306661818275521",
+   "page": "DRMTLGY",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2824954604509785",
+   "page": "DRMTLGY",
+   "start": "2026-04-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2200082120730466",
+   "page": "DRMTLGY",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1733979188013391",
+   "page": "DRMTLGY",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2031201604415102",
+   "page": "DRMTLGY",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1756211155405033",
+   "page": "DRMTLGY",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1125977556388334",
+   "page": "DRMTLGY",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2017009745570304",
+   "page": "DRMTLGY",
+   "start": "2026-04-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "870559912664326",
+   "page": "DRMTLGY",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "900711909681274",
+   "page": "DRMTLGY",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "980035185081066",
+   "page": "DRMTLGY",
+   "start": "2026-04-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1302223037982822",
+   "page": "DRMTLGY",
+   "start": "2026-05-08",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2173290930095673",
+   "page": "DRMTLGY",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1892049578137046",
+   "page": "DRMTLGY",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2172036063616569",
+   "page": "DRMTLGY",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1005049502478830",
+   "page": "DRMTLGY",
+   "start": "2026-05-08",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1887374128644420",
+   "page": "DRMTLGY",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "964667352697770",
+   "page": "DRMTLGY",
+   "start": "2026-04-10",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1213998040670547",
+   "page": "DRMTLGY",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2403282733439668",
+   "page": "DRMTLGY",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1801401204166504",
+   "page": "DRMTLGY",
+   "start": "2026-07-10",
+   "n": 4,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3334670000045407",
+   "page": "DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "866991852497319",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2113578669230020",
+   "page": "DRMTLGY",
+   "start": "2026-06-30",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2087011815525278",
+   "page": "DRMTLGY",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1721737995511203",
+   "page": "DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "848122608351697",
+   "page": "Derma Blogger with DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1520547286356724",
+   "page": "DRMTLGY",
+   "start": "2026-05-15",
+   "n": 3,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2913987862278764",
+   "page": "DRMTLGY with Derma Blogger",
+   "start": "2026-06-11",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "985067414115491",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-06-06",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2122566898605561",
+   "page": "DRMTLGY",
+   "start": "2026-07-02",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1029716733140148",
+   "page": "DRMTLGY",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "drmtlgy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "923933570174151",
+   "page": "DRMTLGY",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1803485150613673",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-06-05",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "967785549489084",
+   "page": "DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1008150618369815",
+   "page": "Derma Blogger with DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "999630366158243",
+   "page": "Derma Blogger with DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "drmtlgy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1315271436728195",
+   "page": "DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2230674414453245",
+   "page": "DRMTLGY",
+   "start": "2026-07-30",
+   "n": 3,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1514242710398481",
+   "page": "DRMTLGY",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "drmtlgy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1668246654433348",
+   "page": "DRMTLGY",
+   "start": "2026-06-11",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1389882116497647",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2237452367071644",
+   "page": "DRMTLGY",
+   "start": "2026-06-11",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "879104067991616",
+   "page": "Jamie's Finds with DRMTLGY",
+   "start": "2026-06-23",
+   "n": 1,
+   "domain": "drmtlgy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1081205924592915",
+   "page": "DRMTLGY",
+   "start": "2026-08-14",
+   "n": 6,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1590835822691704",
+   "page": "DRMTLGY",
+   "start": "2026-08-19",
+   "n": 1,
+   "domain": "drmtlgy.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1778425506493763",
+   "page": "DRMTLGY",
+   "start": "2026-08-20",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "945760117903569",
+   "page": "DRMTLGY",
+   "start": "2026-08-27",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28597241966527526",
+   "page": "DRMTLGY",
+   "start": "2026-08-14",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "984402124676649",
+   "page": "DRMTLGY",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1331237642331581",
+   "page": "Kelly Kruger with DRMTLGY",
+   "start": "2026-08-14",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1408814064204265",
+   "page": "DRMTLGY",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28137701085914169",
+   "page": "DRMTLGY",
+   "start": "2026-08-18",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2248483999283067",
+   "page": "DRMTLGY",
+   "start": "2026-09-08",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "962961379475625",
+   "page": "DRMTLGY",
+   "start": "2026-09-24",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1354892713514398",
+   "page": "DRMTLGY",
+   "start": "2026-08-18",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1135895449298007",
+   "page": "DRMTLGY",
+   "start": "2026-10-29",
+   "n": 4,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

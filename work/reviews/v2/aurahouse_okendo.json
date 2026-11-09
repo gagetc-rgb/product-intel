@@ -1,0 +1,532 @@
+{
+ "label": "aurahouse",
+ "domain": "aurahouse.com",
+ "subscriberId": "6dafec0d-b2f4-440d-8e8c-83fc9db6214b",
+ "total": 5243,
+ "counted": 4860,
+ "cutoff": "2024-07",
+ "monthly": {
+  "2024-07": {
+   "all": 79,
+   "below5": 7,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     21
+    ],
+    [
+     "Collins",
+     16
+    ],
+    [
+     "Dubai",
+     8
+    ]
+   ]
+  },
+  "2024-08": {
+   "all": 104,
+   "below5": 10,
+   "top_products": [
+    [
+     "Collins",
+     31
+    ],
+    [
+     "Aura Scent Diffuser",
+     22
+    ],
+    [
+     "Coast",
+     21
+    ]
+   ]
+  },
+  "2024-09": {
+   "all": 65,
+   "below5": 5,
+   "top_products": [
+    [
+     "Collins",
+     23
+    ],
+    [
+     "Aura Scent Diffuser",
+     13
+    ],
+    [
+     "Coast",
+     12
+    ]
+   ]
+  },
+  "2024-10": {
+   "all": 140,
+   "below5": 20,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     37
+    ],
+    [
+     "Collins",
+     30
+    ],
+    [
+     "Coast",
+     19
+    ]
+   ]
+  },
+  "2024-11": {
+   "all": 85,
+   "below5": 9,
+   "top_products": [
+    [
+     "Collins",
+     16
+    ],
+    [
+     "Holiday House",
+     16
+    ],
+    [
+     "Coast",
+     14
+    ]
+   ]
+  },
+  "2024-12": {
+   "all": 252,
+   "below5": 40,
+   "top_products": [
+    [
+     "Collins",
+     82
+    ],
+    [
+     "Aura Scent Diffuser",
+     72
+    ],
+    [
+     "Dubai",
+     21
+    ]
+   ]
+  },
+  "2025-01": {
+   "all": 231,
+   "below5": 26,
+   "top_products": [
+    [
+     "Collins",
+     77
+    ],
+    [
+     "Aura Scent Diffuser",
+     48
+    ],
+    [
+     "Coast",
+     28
+    ]
+   ]
+  },
+  "2025-02": {
+   "all": 100,
+   "below5": 5,
+   "top_products": [
+    [
+     "Collins",
+     33
+    ],
+    [
+     "Aura Scent Diffuser",
+     15
+    ],
+    [
+     "Coast",
+     11
+    ]
+   ]
+  },
+  "2025-03": {
+   "all": 126,
+   "below5": 13,
+   "top_products": [
+    [
+     "Collins",
+     29
+    ],
+    [
+     "Aura Scent Diffuser",
+     18
+    ],
+    [
+     "Dubai",
+     17
+    ]
+   ]
+  },
+  "2025-04": {
+   "all": 75,
+   "below5": 3,
+   "top_products": [
+    [
+     "Collins",
+     26
+    ],
+    [
+     "Aura Scent Diffuser",
+     15
+    ],
+    [
+     "Coast",
+     9
+    ]
+   ]
+  },
+  "2025-05": {
+   "all": 82,
+   "below5": 9,
+   "top_products": [
+    [
+     "Collins",
+     20
+    ],
+    [
+     "Aura Scent Diffuser",
+     19
+    ],
+    [
+     "Coast",
+     9
+    ]
+   ]
+  },
+  "2025-06": {
+   "all": 88,
+   "below5": 6,
+   "top_products": [
+    [
+     "Collins",
+     28
+    ],
+    [
+     "Aura Scent Diffuser",
+     15
+    ],
+    [
+     "Coast",
+     13
+    ]
+   ]
+  },
+  "2025-07": {
+   "all": 70,
+   "below5": 7,
+   "top_products": [
+    [
+     "Collins",
+     26
+    ],
+    [
+     "Coast",
+     14
+    ],
+    [
+     "Aura Scent Diffuser",
+     7
+    ]
+   ]
+  },
+  "2025-08": {
+   "all": 63,
+   "below5": 9,
+   "top_products": [
+    [
+     "Collins",
+     18
+    ],
+    [
+     "Coast",
+     14
+    ],
+    [
+     "Aura Scent Diffuser",
+     11
+    ]
+   ]
+  },
+  "2025-09": {
+   "all": 85,
+   "below5": 9,
+   "top_products": [
+    [
+     "Collins",
+     27
+    ],
+    [
+     "Aura Scent Diffuser",
+     16
+    ],
+    [
+     "Coast",
+     14
+    ]
+   ]
+  },
+  "2025-10": {
+   "all": 96,
+   "below5": 14,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     26
+    ],
+    [
+     "Collins",
+     23
+    ],
+    [
+     "Coast",
+     15
+    ]
+   ]
+  },
+  "2025-11": {
+   "all": 50,
+   "below5": 5,
+   "top_products": [
+    [
+     "Collins",
+     11
+    ],
+    [
+     "Aura Scent Diffuser",
+     8
+    ],
+    [
+     "Coast",
+     7
+    ]
+   ]
+  },
+  "2025-12": {
+   "all": 98,
+   "below5": 8,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     28
+    ],
+    [
+     "Collins",
+     16
+    ],
+    [
+     "The Ultimate Fragrance Sampler Collectio",
+     14
+    ]
+   ]
+  },
+  "2026-01": {
+   "all": 146,
+   "below5": 11,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     52
+    ],
+    [
+     "Collins",
+     33
+    ],
+    [
+     "The Ultimate Fragrance Sampler Collectio",
+     17
+    ]
+   ]
+  },
+  "2026-02": {
+   "all": 106,
+   "below5": 10,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     33
+    ],
+    [
+     "\u200dThe Ultimate Fragrance Sampler Collecti",
+     13
+    ],
+    [
+     "Coast",
+     11
+    ]
+   ]
+  },
+  "2026-03": {
+   "all": 151,
+   "below5": 11,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     56
+    ],
+    [
+     "Collins",
+     25
+    ],
+    [
+     "Aura House ",
+     12
+    ]
+   ]
+  },
+  "2026-04": {
+   "all": 155,
+   "below5": 15,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     37
+    ],
+    [
+     "Aura House ",
+     26
+    ],
+    [
+     "Collins",
+     24
+    ]
+   ]
+  },
+  "2026-05": {
+   "all": 397,
+   "below5": 32,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     74
+    ],
+    [
+     "Aura House ",
+     62
+    ],
+    [
+     "Collins",
+     62
+    ]
+   ]
+  },
+  "2026-06": {
+   "all": 577,
+   "below5": 46,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     163
+    ],
+    [
+     "The Ultimate Fragrance Sampler Collectio",
+     90
+    ],
+    [
+     "Aura House ",
+     83
+    ]
+   ]
+  },
+  "2026-07": {
+   "all": 432,
+   "below5": 35,
+   "top_products": [
+    [
+     "Collins",
+     89
+    ],
+    [
+     "Aura Scent Diffuser",
+     83
+    ],
+    [
+     "Aura House ",
+     74
+    ]
+   ]
+  },
+  "2026-08": {
+   "all": 19,
+   "below5": 3,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     9
+    ],
+    [
+     "Collins",
+     5
+    ],
+    [
+     "Dubai",
+     1
+    ]
+   ]
+  },
+  "2026-09": {
+   "all": 20,
+   "below5": 4,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     13
+    ],
+    [
+     "Dubai",
+     2
+    ],
+    [
+     "Antibes",
+     1
+    ]
+   ]
+  },
+  "2026-10": {
+   "all": 630,
+   "below5": 73,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     139
+    ],
+    [
+     "Collins",
+     118
+    ],
+    [
+     "Aura House ",
+     91
+    ]
+   ]
+  },
+  "2026-11": {
+   "all": 338,
+   "below5": 28,
+   "top_products": [
+    [
+     "Aura Scent Diffuser",
+     68
+    ],
+    [
+     "Collins",
+     55
+    ],
+    [
+     "Aura House ",
+     55
+    ]
+   ]
+  }
+ }
+}

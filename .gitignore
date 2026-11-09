@@ -1,0 +1,14 @@
+# browser profiles hold login cookies: never publish
+work/ads/.fb-profile/
+**/.chrome-profile*/
+**/.fb-profile*/
+# secrets and local junk
+.env
+.env.*
+*.pem
+*.key
+__pycache__/
+*.pyc
+desktop.ini
+Thumbs.db
+~$*

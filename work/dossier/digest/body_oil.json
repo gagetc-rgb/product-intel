@@ -1,0 +1,391 @@
+{
+ "pid": "body_oil",
+ "name": "Body oil for crepey skin",
+ "verdict_row": {
+  "pid": "body_oil",
+  "name": "Body oil for crepey skin",
+  "flag": "",
+  "shelf": 196800,
+  "nb": 26600,
+  "gen": 4900,
+  "winB": 3,
+  "winG": 2,
+  "price": 19.47,
+  "act": 11000,
+  "a30": 2900,
+  "a90": 1100,
+  "a180": 84,
+  "stores": 26,
+  "stores90": 22,
+  "trend": 1.02,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "phrase 'crepey skin' also covers creams",
+  "nb_id": 28600
+ },
+ "amazon_us": {
+  "listings_on_target": 130,
+  "shelf_units": 196800,
+  "units_by_brand_age": {
+   "12-24": 20200,
+   "24+": 165300,
+   "6-12": 6350,
+   "0-6": 4950
+  },
+  "units_by_kind": {
+   "new_brand": 26600,
+   "older_brand_new_here": 100400,
+   "old_brand": 64900,
+   "generic_new": 4900
+  },
+  "top_brands": [
+   {
+    "key": "palmer",
+    "units": 55100,
+    "listings": 12,
+    "best": {
+     "asin": "B0FB9LWGY5",
+     "title": "Palmer's Brazilian Cocoa Firming Body Oil, Coconut Oil Formula (6.5 Fl Oz)",
+     "units": 10000,
+     "price": "$13.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/71XlQvs5I7L._AC_UL320_.jpg",
+     "amazon_brand": "Palmer's"
+    },
+    "entry_months": 91,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "neutrogena",
+    "units": 24000,
+    "listings": 3,
+    "best": {
+     "asin": "B00008BK7H",
+     "title": "Neutrogena Body Oil Light Sesame Formula, 16 fl. oz",
+     "units": 9000,
+     "price": "$30.10",
+     "stars": "4.7",
+     "img": "https://m.media-amazon.com/images/I/71FXRgAMm9L._AC_UL320_.jpg",
+     "amazon_brand": "Neutrogena"
+    },
+    "entry_months": 91,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "goda",
+    "units": 20000,
+    "listings": 2,
+    "best": {
+     "asin": "B0FG8K9QYK",
+     "title": "GODA Silk Body Oil Women - Firming Anti Aging Moisturizing Formula, Crepey Skin Hydrating After Shower, Scente",
+     "units": 20000,
+     "price": "$31.49",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61lC-+eRCBL._AC_UL320_.jpg",
+     "amazon_brand": "GODA"
+    },
+    "entry_months": 18,
+    "status": "NEW"
+   },
+   {
+    "key": "osea",
+    "units": 11300,
+    "listings": 3,
+    "best": {
+     "asin": "B004L17FKC",
+     "title": "OSEA Undaria Algae Body Oil, Visibly Firming, Deeply Moisturizing, 5 oz",
+     "units": 10000,
+     "price": "$52.00",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/51RoDZdOsyL._AC_UL320_.jpg",
+     "amazon_brand": "OSEA"
+    },
+    "entry_months": 91,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "saltair",
+    "units": 11000,
+    "listings": 3,
+    "best": {
+     "asin": "B0DT5CJHQ4",
+     "title": "Saltair Body Oil | Salt Water Vanilla After Shower Moisturizer | 4 fl oz",
+     "units": 6000,
+     "price": "$23.00",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/51vWeeJUOaL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 40,
+    "status": "old"
+   },
+   {
+    "key": "aveeno",
+    "units": 10000,
+    "listings": 1,
+    "best": {
+     "asin": "B08D43LHYP",
+     "title": "Aveeno Daily Moisturizing Body Oil Mist, 6.7 fl. oz",
+     "units": 10000,
+     "price": "$9.58",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61X4gPxXezL._AC_UL320_.jpg",
+     "amazon_brand": "Aveeno"
+    },
+    "entry_months": 69,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "eoscashmere",
+    "units": 10000,
+    "listings": 1,
+    "best": {
+     "asin": "B0CSTCYSF7",
+     "title": "eos Cashmere Body Oil- Vanilla Cashmere, 24H Moisture, Plant-Based Squalane, 6 fl oz",
+     "units": 10000,
+     "price": "$12.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61kF+9b6+ML._AC_UL320_.jpg",
+     "amazon_brand": "eos"
+    },
+    "entry_months": 33,
+    "status": "old"
+   },
+   {
+    "key": "amazon",
+    "units": 10000,
+    "listings": 1,
+    "best": {
+     "asin": "B07SWJ5PVH",
+     "title": "Amazon Essentials Body Oil Gel with Cocoa Butter, Paraben Free, 6.8 fl oz (Pack of 1) (Previously Amazon Basic",
+     "units": 10000,
+     "price": "$6.28",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61OLGQh+9uL._AC_UL320_.jpg",
+     "amazon_brand": "Amazon Essentials"
+    },
+    "entry_months": 73,
+    "status": "old"
+   },
+   {
+    "key": "yoken",
+    "units": 9000,
+    "listings": 1,
+    "best": {
+     "asin": "B0D1QYBNNQ",
+     "title": "Yoken Vitamin E Oil for Skin Face Body 8 Oz Cold Pressed Vitamine Body oils",
+     "units": 9000,
+     "price": "$15.99",
+     "stars": "4.7",
+     "img": "https://m.media-amazon.com/images/I/610dJQvL6fL._AC_UL320_.jpg",
+     "amazon_brand": "Yoken"
+    },
+    "entry_months": 31,
+    "status": "old"
+   },
+   {
+    "key": "besque",
+    "units": 4000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DJH54BLF",
+     "title": "Besque Original Magic Body Oil - Hydrating Body Oils for Women - 3.4 FL OZ",
+     "units": 4000,
+     "price": "$64.99",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/71dc1ygIXlL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 25,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    1000,
+    "B0GR54ZW1N",
+    "Body Firming Oil for Crepey-Looking Skin Lightweight Formula 2 Pack",
+    "$29.99",
+    null
+   ],
+   [
+    1000,
+    "B0GN9VD7W9",
+    "Salt & Stone Hydrating Body Oil for Women & Men, Santal & Vetiver 3.8 fl oz",
+    "$42.00",
+    null
+   ],
+   [
+    700,
+    "B0GS3NKN36",
+    "Body Oil for Crepey, Dry & Mature Skin | 3.4 fl oz | 9 Oils Mix",
+    "$38.00",
+    null
+   ],
+   [
+    200,
+    "B0H1B8FY6T",
+    "Collagen Lifting Body Oil,3.38 Fl.oz",
+    "$23.99",
+    null
+   ]
+  ],
+  "winners_1k": 40
+ },
+ "price_us": {
+  "price_usd_median": 19.47,
+  "price_usd_p25_p75": [
+   12.99,
+   28.25
+  ]
+ },
+ "meta_category": {
+  "phrase": "crepey skin",
+  "active": 11000,
+  "aged30": 2900,
+  "aged90": 1100,
+  "aged180": 84,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "thehealthcarpenter.com",
+   1,
+   439,
+   1
+  ],
+  [
+   "try-turmskin.com",
+   19,
+   323,
+   3
+  ],
+  [
+   "page:flawless injector",
+   1,
+   280,
+   1
+  ],
+  [
+   "beflawlessmn.com",
+   1,
+   275,
+   1
+  ],
+  [
+   "page:joanna woodley",
+   1,
+   244,
+   1
+  ],
+  [
+   "shopseravita.com",
+   2,
+   239,
+   1
+  ],
+  [
+   "page:emily weston",
+   1,
+   229,
+   1
+  ],
+  [
+   "page:beauty from bees",
+   2,
+   219,
+   1
+  ]
+ ],
+ "meta_brand_pages": {
+  "GODA": {
+   "own": {
+    "123971964123694": {
+     "name": "Goda Perfume",
+     "active": 140,
+     "aged30": 80,
+     "aged90": 11,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 24
+  },
+  "DRMTLGY": {
+   "own": {
+    "1089860041103335": {
+     "name": "DRMTLGY",
+     "active": 1200,
+     "aged30": 710,
+     "aged90": 200,
+     "aged180": 36
+    }
+   },
+   "phrase_sample": 28,
+   "own_domain": 6
+  }
+ },
+ "meta_brand_phrase_v20": {
+  "Goda Silk": {
+   "active": 930,
+   "aged90": 100,
+   "aged180": 0
+  },
+  "DRMTLGY": {
+   "active": 1300,
+   "aged90": 300,
+   "aged180": 38
+  }
+ },
+ "trend": {
+  "term": "crepey skin",
+  "rel_yoy": 1.02,
+  "yearly_means_v20": [
+   50.1,
+   57.5,
+   43.2,
+   57.7,
+   68.8
+  ],
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "16.5",
+ "creatives": [
+  {
+   "domain": "goda.co",
+   "ads_180d_total_meta": "7",
+   "loaded": 7,
+   "product": "Goda® Silk Body Oil",
+   "oldest": [
+    {
+     "days": 262,
+     "page": "Natasha Knows Scents",
+     "headline": "2 Drops That Will Change Your Life! 😍",
+     "body": "\"Only 2 drops and I'm a literal compliment-magnet 🧲\"\n✅ Synergizes with your natural scent\n✅ Smell delicious from morning to night\n✅ AND MORE...\n-> https://goda.",
+     "img": "dashboard/ads_media/0b78dcccaa82d8e3.jpg"
+    },
+    {
+     "days": 262,
+     "page": "Natasha Knows Scents",
+     "headline": "2 Drops That Will Change Your Life! 😍",
+     "body": "\"Only 2 drops and I'm a literal compliment-magnet 🧲\"\n✅ Synergizes with your natural scent\n✅ Smell delicious from morning to night\n✅ AND MORE...\n-> https://goda.",
+     "img": "dashboard/ads_media/e5b608322a8c448f.jpg"
+    },
+    {
+     "days": 262,
+     "page": "Over 40 & Fabulous",
+     "headline": "From dull to radiant firmer, smoother skin in every touch 😍",
+     "body": "\"Only 2 drops and I'm a literal compliment-magnet 🧲\"\n✅ Synergizes with your natural scent\n✅ Smell delicious from morning to night\n✅ AND MORE...\n-> https://goda.",
+     "img": "dashboard/ads_media/12581a3d07225c30.jpg"
+    },
+    {
+     "days": 248,
+     "page": "Over 40 & Fabulous",
+     "headline": "From dull to radiant firmer, smoother skin in every touch 😍",
+     "body": "\"Only 2 drops and I'm a literal compliment-magnet 🧲\"\n✅ Synergizes with your natural scent\n✅ Smell delicious from morning to night\n✅ AND MORE...\n-> https://goda.",
+     "img": "dashboard/ads_media/225cdb73f44bdc62.jpg"
+    }
+   ]
+  }
+ ]
+}

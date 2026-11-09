@@ -1,0 +1,298 @@
+{
+ "phrase": "glomelanin.com",
+ "date": "2026-11-09",
+ "active": 200,
+ "aged30": 95,
+ "aged90": 26,
+ "aged180": 3,
+ "ads": [
+  {
+   "id": "836947915710478",
+   "page": "GloMelanin",
+   "start": "2025-12-05",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1545953449989905",
+   "page": "GloMelanin",
+   "start": "2025-12-13",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1888330598477073",
+   "page": "GloMelanin",
+   "start": "2025-12-13",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "180+"
+  },
+  {
+   "id": "974694765571338",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1311503887296408",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1331711389075228",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1675742753691928",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1689584532336309",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "986936010875083",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "976655498702989",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1312509107177688",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2219173092166636",
+   "page": "GloMelanin",
+   "start": "2026-06-18",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "933033179762020",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1017793644098412",
+   "page": "GloMelanin",
+   "start": "2026-06-17",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1511433140763531",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "972812908965526",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1573548637810674",
+   "page": "GloMelanin",
+   "start": "2026-06-17",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1618936089204230",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3276042205913258",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1715059283158979",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1510308969944205",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1397716492273076",
+   "page": "GloMelanin",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2050553602563846",
+   "page": "GloMelanin",
+   "start": "2026-06-18",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1362586609087836",
+   "page": "GloMelanin",
+   "start": "2026-06-17",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3896777470460391",
+   "page": "GloMelanin",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1697827168820160",
+   "page": "GloMelanin",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3995893797213906",
+   "page": "GloMelanin",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4036983046595666",
+   "page": "GloMelanin",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1859511258745126",
+   "page": "GloMelanin",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1726183685153836",
+   "page": "Maurice Eastwood with GloMelanin",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1696152231453357",
+   "page": "GloMelanin",
+   "start": "2026-09-10",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1113635521343809",
+   "page": "GloMelanin",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1109235334995743",
+   "page": "GloMelanin",
+   "start": "2026-09-28",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1289678193135353",
+   "page": "VannasView with GloMelanin",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1653956776326062",
+   "page": "GloMelanin",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2015846079119930",
+   "page": "Starr Motivation with GloMelanin",
+   "start": "2026-10-13",
+   "n": 1,
+   "domain": "glomelanin.com",
+   "window": "0-30"
+  }
+ ]
+}

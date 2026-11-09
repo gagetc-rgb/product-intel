@@ -1,0 +1,463 @@
+{
+ "pid": "color_foundation",
+ "name": "Color-changing foundation stick",
+ "verdict_row": {
+  "pid": "color_foundation",
+  "name": "Color-changing foundation stick",
+  "flag": "",
+  "shelf": 322950,
+  "nb": 211800,
+  "gen": 90050,
+  "winB": 3,
+  "winG": 23,
+  "price": 21.99,
+  "act": 12000,
+  "a30": 3700,
+  "a90": 1200,
+  "a180": 120,
+  "stores": 13,
+  "stores90": 9,
+  "trend": 4.66,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 212600
+ },
+ "amazon_us": {
+  "listings_on_target": 198,
+  "shelf_units": 322950,
+  "units_by_brand_age": {
+   "6-12": 236200,
+   "0-6": 69400,
+   "12-24": 5250,
+   "24+": 12100
+  },
+  "units_by_kind": {
+   "new_brand": 211800,
+   "generic_new": 90050,
+   "generic_old": 1200,
+   "older_brand_new_here": 18000,
+   "old_brand": 1900
+  },
+  "top_brands": [
+   {
+    "key": "luxe",
+    "units": 150000,
+    "listings": 2,
+    "best": {
+     "asin": "B0G1VDB22X",
+     "title": "Luxe Color Changing Foundation for Mature Skin - Light",
+     "units": 80000,
+     "price": "$27.00",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/61IqKc-XjCL._AC_UL320_.jpg",
+     "amazon_brand": "Luxe Cosmetics"
+    },
+    "entry_months": 10,
+    "status": "NEW"
+   },
+   {
+    "key": "smooche",
+    "units": 40000,
+    "listings": 1,
+    "best": {
+     "asin": "B0GN8JW57H",
+     "title": "Smooche Color Changing Foundation - Skin Tone Adapting Liquid Foundation for Women, Self Adjusting Natural Fin",
+     "units": 40000,
+     "price": "$49.00",
+     "stars": "3.4",
+     "img": "https://m.media-amazon.com/images/I/61nm5cm00WL._AC_UL320_.jpg",
+     "amazon_brand": "Smooche"
+    },
+    "entry_months": 9,
+    "status": "NEW"
+   },
+   {
+    "key": "prime",
+    "units": 20000,
+    "listings": 1,
+    "best": {
+     "asin": "B0G1T61T7X",
+     "title": "Prime Prometics Color Changing Foundation for Mature Women",
+     "units": 20000,
+     "price": "$44.00",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/51YPCekMSSL._AC_UL320_.jpg",
+     "amazon_brand": "PRIME PROMETICS"
+    },
+    "entry_months": 10,
+    "status": "NEW"
+   },
+   {
+    "key": "luminess",
+    "units": 9000,
+    "listings": 3,
+    "best": {
+     "asin": "B0G1VT7GMP",
+     "title": "LUMINESS Liquid Mirage Color Changing Foundation for Mature Skin, Skincare-Infused Makeup with Hyaluronic Acid",
+     "units": 7000,
+     "price": "$26.99",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/71Pi5uLLSmL._AC_UL320_.jpg",
+     "amazon_brand": "LUMINESS"
+    },
+    "entry_months": 10,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "loreal",
+    "units": 9000,
+    "listings": 2,
+    "best": {
+     "asin": "B00L2SNFPQ",
+     "title": "L'Oreal Paris Magic BB Cream, Hydrating Skin Beautifier & Color Changing Foundation, Light Coverage, Anti-Redn",
+     "units": 6000,
+     "price": "$10.97",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/71lcuV3OgwL._AC_UL320_.jpg",
+     "amazon_brand": "L'Oreal Paris"
+    },
+    "entry_months": 91,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "forever",
+    "units": 1000,
+    "listings": 1,
+    "best": {
+     "asin": "B088GS31N6",
+     "title": "Forever Bloom Biomimic 4-in-1 Color Changing Foundation SPF 50, Light",
+     "units": 1000,
+     "price": "$42.49",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81diRz1byuL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 70,
+    "status": "old"
+   },
+   {
+    "key": "tlmcolour",
+    "units": 900,
+    "listings": 1,
+    "best": {
+     "asin": "B07WXNYTF7",
+     "title": "TLM Colour Changing Liquid Foundation Hides Wrinkles & Lines, BB Cream Makeup Base Concealer Cover Moisturizin",
+     "units": 900,
+     "price": "$9.99",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/713ZuvnhzwL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 72,
+    "status": "old"
+   },
+   {
+    "key": "smoochie",
+    "units": 550,
+    "listings": 2,
+    "best": {
+     "asin": "B0HG1NQ6HM",
+     "title": "Smoochie Color Changing Foundation: Korean foundation for Mature Skin",
+     "units": 500,
+     "price": "$23.39",
+     "stars": "3.7",
+     "img": "https://m.media-amazon.com/images/I/619X18fQJVL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 2,
+    "status": "NEW"
+   },
+   {
+    "key": "official",
+    "units": 500,
+    "listings": 2,
+    "best": {
+     "asin": "B0HMCCNWHB",
+     "title": "Official Color Changing Foundation Stick with Brush, 2-in-1 Hydrating Cream Makeup, Buildable Coverage for Une",
+     "units": 500,
+     "price": "$19.99",
+     "stars": "5.0",
+     "img": "https://m.media-amazon.com/images/I/6176YBzK2qL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 1,
+    "status": "NEW"
+   },
+   {
+    "key": "vima",
+    "units": 200,
+    "listings": 1,
+    "best": {
+     "asin": "B0DRGZSLSC",
+     "title": "Vima Color Changing Foundation, Mature Skin, SPF 30 Makeup, 1 fl oz",
+     "units": 200,
+     "price": "$43.95",
+     "stars": "3.8",
+     "img": "https://m.media-amazon.com/images/I/51v1fCNJJCL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 22,
+    "status": "NEW"
+   }
+  ],
+  "top_generics": [
+   [
+    10000,
+    "B0H6S4DVKC",
+    "Foundation Stick, Color Changing Foundation Makeup for Mature Skin",
+    "$44.98",
+    "Facelove"
+   ],
+   [
+    10000,
+    "B0GZP4FL6N",
+    "Color Changing Foundation for Mature Skin: No Settling, Buildable Coverage, 12-H",
+    "$39.99",
+    "LATORICE"
+   ],
+   [
+    9000,
+    "B0HDHZ35FT",
+    "2Pcs Face Color Love Foundation Stick,2-in-1 Color Changing Foundation Stick wit",
+    "$28.99",
+    "MilkySeoul"
+   ],
+   [
+    4000,
+    "B0HHFB3DGK",
+    "Color Changing Foundation for Mature Skin: Self-Adjusting Light-to-Medium Covera",
+    "$39.99",
+    "CITYGOO"
+   ]
+  ],
+  "winners_1k": 32
+ },
+ "price_us": {
+  "price_usd_median": 21.99,
+  "price_usd_p25_p75": [
+   16.99,
+   26.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "color changing foundation",
+  "active": 12000,
+  "aged30": 3700,
+  "aged90": 1200,
+  "aged180": 120,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "magnixa.com",
+   1,
+   481,
+   1
+  ],
+  [
+   "primeprometics.com",
+   22,
+   470,
+   3
+  ],
+  [
+   "trylumineskin.com",
+   5,
+   367,
+   2
+  ],
+  [
+   "vimacosmetics.com",
+   2,
+   342,
+   1
+  ],
+  [
+   "shopbeautylust.com",
+   1,
+   197,
+   1
+  ],
+  [
+   "hestiacosmetics.com",
+   4,
+   191,
+   1
+  ],
+  [
+   "page:serentia shop",
+   2,
+   163,
+   1
+  ],
+  [
+   "smooche.com",
+   58,
+   155,
+   4
+  ]
+ ],
+ "meta_brand_pages": {
+  "Prime Prometics": {
+   "own": {
+    "102165485133338": {
+     "name": "Prime Prometics",
+     "active": 3000,
+     "aged30": 1100,
+     "aged90": 660,
+     "aged180": 340
+    }
+   },
+   "phrase_sample": 29,
+   "own_domain": 16
+  },
+  "Smooche": {
+   "own": {
+    "114830840156278": {
+     "name": "Smooche",
+     "active": 6800,
+     "aged30": 2900,
+     "aged90": 760,
+     "aged180": 540
+    }
+   },
+   "phrase_sample": 29,
+   "own_domain": 3
+  },
+  "Lumine Skin": {
+   "own": {},
+   "phrase_sample": 23,
+   "own_domain": 12
+  },
+  "Luxe": {
+   "own": {
+    "106572822504836": {
+     "name": "Luxe US",
+     "active": 4,
+     "aged30": 4,
+     "aged90": 4,
+     "aged180": 4
+    },
+    "108844762031710": {
+     "name": "Luxe Cosmetics",
+     "active": 2600,
+     "aged30": 100,
+     "aged90": 74,
+     "aged180": 3
+    }
+   },
+   "phrase_sample": 26,
+   "own_domain": 8
+  }
+ },
+ "meta_brand_phrase_v20": {
+  "Prime Prometics": {
+   "active": 3800,
+   "aged90": 730,
+   "aged180": 350
+  },
+  "Smooche": {
+   "active": 12000,
+   "aged90": 2500,
+   "aged180": 790
+  },
+  "Lumine Skin": {
+   "active": 24,
+   "aged90": 23,
+   "aged180": 23
+  },
+  "Luxe Color": {
+   "active": 1200,
+   "aged90": 42,
+   "aged180": 0
+  }
+ },
+ "trend": {
+  "term": "color changing foundation",
+  "rel_yoy": 4.66,
+  "yearly_means_v20": [
+   0.6,
+   0.8,
+   2.4,
+   5.3,
+   26.7
+  ],
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "68.4",
+ "creatives": [
+  {
+   "domain": "primeprometics.com",
+   "ads_180d_total_meta": "380",
+   "loaded": 29,
+   "product": "Color Changing Foundation",
+   "oldest": [
+    {
+     "days": 471,
+     "page": "Prime Prometics",
+     "headline": "Color-Changing Foundation For 50+ Skin · Tired of foundations that look fake and heavy? Pr",
+     "body": "🤯 THE FOUNDATION THAT FINDS YOUR SHADE! 🤯\nPrimeSkin Color-Changing Foundation starts snow-white…\nThen morphs to your tone in seconds.\nNo guessing, no mixing. Ju",
+     "img": "dashboard/ads_media/27431a84ded1f79b.jpg"
+    },
+    {
+     "days": 471,
+     "page": "Prime Prometics",
+     "headline": "Color-Changing Foundation For 50+ Skin · Tired of foundations that look fake and heavy? Pr",
+     "body": "🤯 THE FOUNDATION THAT FINDS YOUR SHADE! 🤯\nPrimeSkin Color-Changing Foundation starts snow-white…\nThen morphs to your tone in seconds.\nNo guessing, no mixing. Ju",
+     "img": "dashboard/ads_media/bac76f9989c80737.jpg"
+    },
+    {
+     "days": 416,
+     "page": "Prime Prometics",
+     "headline": "Color-Changing Foundation For 50+ Skin · Tired of foundations that look fake and heavy? Pr",
+     "body": "🤯 THE FOUNDATION THAT FINDS YOUR SHADE! 🤯\nPrimeSkin Color-Changing Foundation starts snow-white…\nThen morphs to your tone in seconds.\nNo guessing, no mixing. Ju",
+     "img": "dashboard/ads_media/ac63c4dcf0d9eb97.jpg"
+    },
+    {
+     "days": 361,
+     "page": "Mature Beauty Reviews",
+     "headline": "Mature Beauty Loves PrimeGlide Eyeliner · Your eyeliner struggles are over. Subtle, blende",
+     "body": "🍇  Mature Beauty Obsession: Have You Seen Mulberry?🍇 The mature beauty community is buzzing about the NEW PrimeEyes Glide Eyeliner in Mulberry! This rich, sophi",
+     "img": "dashboard/ads_media/4565047e8b095c7c.jpg"
+    }
+   ]
+  },
+  {
+   "domain": "smooche.com",
+   "ads_180d_total_meta": "750",
+   "loaded": 28,
+   "product": "Foundation Mega Pack",
+   "oldest": [
+    {
+     "days": 404,
+     "page": "Smooche",
+     "headline": "BUY 1, GET 1 FREE ON ALL PLUMPERS ❤️ · ⭐️⭐️⭐️⭐️⭐️ RATED 4.6 / 5 - 170.000+ BEAUTIFUL SHAPE",
+     "body": "“I’ve been getting sooo many compliments on my lips after using Smooche”\nUnlock celebrity-worthy lips without the injections..👇🏽\n💋 Instant plumping effect in ju",
+     "img": "dashboard/ads_media/ac7cad191102b31a.jpg"
+    },
+    {
+     "days": 404,
+     "page": "Smooche",
+     "headline": "BUY 1, GET 1 FREE ON ALL PLUMPERS ❤️ · ⭐️⭐️⭐️⭐️⭐️ RATED 4.6 / 5 - 170.000+ BEAUTIFUL SHAPE",
+     "body": "“I’ve been getting sooo many compliments on my lips after using Smooche”\nUnlock celebrity-worthy lips without the injections..👇🏽\n💋 Instant plumping effect in ju",
+     "img": "dashboard/ads_media/8adb8961233164d3.jpg"
+    },
+    {
+     "days": 361,
+     "page": "Cosmetic Times",
+     "headline": "BUY 1, GET 1 FREE ON PLUMPERS ❤️ · Secure payments with PayPal, Creditcard & ShopPay",
+     "body": "“I’ve been getting sooo many compliments on my lips after using Smooche”\nUnlock celebrity-worthy lips without the injections..👇🏽\n💋 Instant plumping effect in ju",
+     "img": "dashboard/ads_media/6fd6ff5d0501b101.jpg"
+    },
+    {
+     "days": 341,
+     "page": "Smooche",
+     "headline": "The anti-aging step you’re probably skipping · Visibly fuller lips in minutes — no needles",
+     "body": "Your lips are aging — losing shape, volume, and definition. It’s subtle, until it’s not. That’s why women are turning to a new lip-plumping formula that deliver",
+     "img": "dashboard/ads_media/6371656f68899dec.jpg"
+    }
+   ]
+  }
+ ]
+}

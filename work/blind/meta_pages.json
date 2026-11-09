@@ -1,0 +1,560 @@
+{
+ "Prime Prometics": {
+  "cat": "color_foundation",
+  "phrase": "Prime Prometics",
+  "domain": "primeprometics.com",
+  "date": "2026-11-08",
+  "phrase_sample": 29,
+  "phrase_sample_own_domain": 16,
+  "phrase_sample_pages": [
+   "Elliot Hayes",
+   "In creates with Prime Prometics",
+   "Makeup Hacks for Mature Women",
+   "Makeup Over 50 with Lisa Hart",
+   "Mom Hacks",
+   "Prime Prometics"
+  ],
+  "own_pages": {
+   "102165485133338": {
+    "name": "Prime Prometics",
+    "active": 3000,
+    "aged30": 1100,
+    "aged90": 660,
+    "aged180": 340
+   }
+  }
+ },
+ "Smooche": {
+  "cat": "color_foundation",
+  "phrase": "Smooche",
+  "domain": "smooche.com",
+  "date": "2026-11-08",
+  "phrase_sample": 29,
+  "phrase_sample_own_domain": 3,
+  "phrase_sample_pages": [
+   "Aging Queens Magazine",
+   "Cosmetic Times",
+   "Korean Beauty Tips",
+   "Smooche"
+  ],
+  "own_pages": {
+   "114830840156278": {
+    "name": "Smooche",
+    "active": 6800,
+    "aged30": 2900,
+    "aged90": 760,
+    "aged180": 540
+   }
+  }
+ },
+ "Lumine Skin": {
+  "cat": "color_foundation",
+  "phrase": "Lumine Skin",
+  "domain": "trylumineskin.com",
+  "date": "2026-11-08",
+  "phrase_sample": 23,
+  "phrase_sample_own_domain": 12,
+  "phrase_sample_pages": [
+   "Hestia",
+   "Lumine Skin",
+   "remedy.for.beauty with Hestia"
+  ],
+  "own_pages": {}
+ },
+ "Luxe": {
+  "cat": "color_foundation",
+  "phrase": "Luxe Cosmetics",
+  "domain": "luxeresearchlab.com",
+  "date": "2026-11-08",
+  "phrase_sample": 26,
+  "phrase_sample_own_domain": 8,
+  "phrase_sample_pages": [
+   "Glow-up Finds with Luxe Cosmetics",
+   "Heathershome1 with Luxe Cosmetics",
+   "Korean Beauty Insider",
+   "Lauren Mitchell",
+   "Luxe Cosmetics",
+   "Luxe Cosmetics with Bustle",
+   "Luxe Cosmetics with New York Post",
+   "Luxe US",
+   "lovejossyy with Luxe Cosmetics",
+   "rubenrack with Luxe Cosmetics"
+  ],
+  "own_pages": {
+   "106572822504836": {
+    "name": "Luxe US",
+    "active": 4,
+    "aged30": 4,
+    "aged90": 4,
+    "aged180": 4
+   },
+   "108844762031710": {
+    "name": "Luxe Cosmetics",
+    "active": 2600,
+    "aged30": 100,
+    "aged90": 74,
+    "aged180": 3
+   }
+  }
+ },
+ "GODA": {
+  "cat": "body_oil",
+  "phrase": "Goda Silk",
+  "domain": "goda.co",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 24,
+  "phrase_sample_pages": [
+   "Goda Perfume",
+   "Honest Skincare Reviews",
+   "Natasha Knows Scents",
+   "Over 40 & Fabulous",
+   "YiayiaEleni"
+  ],
+  "own_pages": {
+   "123971964123694": {
+    "name": "Goda Perfume",
+    "active": 140,
+    "aged30": 80,
+    "aged90": 11,
+    "aged180": 0
+   }
+  }
+ },
+ "DRMTLGY": {
+  "cat": "body_oil",
+  "phrase": "DRMTLGY",
+  "domain": "drmtlgy.com",
+  "date": "2026-11-08",
+  "phrase_sample": 28,
+  "phrase_sample_own_domain": 6,
+  "phrase_sample_pages": [
+   "DRMTLGY",
+   "DRMTLGY with Derma Blogger",
+   "DRMTLGY with Elena Duque Beauty",
+   "Derma Blogger with DRMTLGY",
+   "Jamie's Finds with DRMTLGY",
+   "Kelly Kruger with DRMTLGY"
+  ],
+  "own_pages": {
+   "1089860041103335": {
+    "name": "DRMTLGY",
+    "active": 1200,
+    "aged30": 710,
+    "aged90": 200,
+    "aged180": 36
+   }
+  }
+ },
+ "Terra Lotus": {
+  "cat": "tallow_balm",
+  "phrase": "Terra Lotus",
+  "domain": "terralotus.shop",
+  "date": "2026-11-08",
+  "phrase_sample": 24,
+  "phrase_sample_own_domain": 16,
+  "phrase_sample_pages": [
+   "HomeCraft Balm",
+   "Terra Lotus"
+  ],
+  "own_pages": {
+   "309356178933761": {
+    "name": "Terra Lotus",
+    "active": 130,
+    "aged30": 78,
+    "aged90": 0,
+    "aged180": 0
+   }
+  }
+ },
+ "Ancestral Cosmetics": {
+  "cat": "tallow_balm",
+  "phrase": "Ancestral Cosmetics",
+  "domain": "ancestralcosmetics.com",
+  "date": "2026-11-08",
+  "phrase_sample": 28,
+  "phrase_sample_own_domain": 23,
+  "phrase_sample_pages": [
+   "Ancestral Beauty Secrets",
+   "Ancestral Cosmetics"
+  ],
+  "own_pages": {
+   "101258689556477": {
+    "name": "Ancestral Cosmetics",
+    "active": 130,
+    "aged30": 100,
+    "aged90": 77,
+    "aged180": 55
+   }
+  }
+ },
+ "Bare Ritual": {
+  "cat": "tallow_balm",
+  "phrase": "Bare Ritual",
+  "domain": "bare-ritual.com",
+  "date": "2026-11-08",
+  "phrase_sample": 27,
+  "phrase_sample_own_domain": 8,
+  "phrase_sample_pages": [
+   "Bare Ritual",
+   "Eat 2 Live",
+   "Michael Harrison",
+   "Vizor Ad Library - Nutra"
+  ],
+  "own_pages": {
+   "662331720305715": {
+    "name": "Bare Ritual",
+    "active": 77,
+    "aged30": 72,
+    "aged90": 43,
+    "aged180": 21
+   }
+  }
+ },
+ "Forge": {
+  "cat": "tallow_balm",
+  "phrase": "Forge Men",
+  "domain": "try-forge.com",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 10,
+  "phrase_sample_pages": [
+   "Boyuan from emailmarketer.com",
+   "Dr. Michael Reed",
+   "Forge Men",
+   "Man of War Crucible"
+  ],
+  "own_pages": {
+   "132584606613853": {
+    "name": "Forge Men",
+    "active": 74,
+    "aged30": 17,
+    "aged90": 4,
+    "aged180": 0
+   }
+  }
+ },
+ "byminus": {
+  "cat": "tallow_balm",
+  "phrase": "byminus",
+  "domain": "byminus.com",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 25,
+  "phrase_sample_pages": [
+   "Livingandlexi with Minus SkinCare",
+   "Minus SkinCare",
+   "trialandtawsha with Minus SkinCare"
+  ],
+  "own_pages": {
+   "426292777229349": {
+    "name": "Minus SkinCare",
+    "active": 150,
+    "aged30": 120,
+    "aged90": 38,
+    "aged180": 17
+   }
+  }
+ },
+ "Scentify": {
+  "cat": "scent_diffuser",
+  "phrase": "Scentify",
+  "domain": "scentifyhome.com",
+  "date": "2026-11-08",
+  "phrase_sample": 23,
+  "phrase_sample_own_domain": 4,
+  "phrase_sample_pages": [
+   "Scentify"
+  ],
+  "own_pages": {
+   "110331710713745": {
+    "name": "Scentify",
+    "active": 320,
+    "aged30": 190,
+    "aged90": 100,
+    "aged180": 89
+   }
+  }
+ },
+ "Aura House": {
+  "cat": "scent_diffuser",
+  "phrase": "Aura House",
+  "domain": "aurahouse.com",
+  "date": "2026-11-08",
+  "phrase_sample": 29,
+  "phrase_sample_own_domain": 22,
+  "phrase_sample_pages": [
+   "Addison's Wonderland Blog with Aura House",
+   "Aura House",
+   "Aura House Co",
+   "Bonnie and Joel with Aura House",
+   "Christinelizabethhome with Aura House",
+   "Deb and Danelle with Aura House",
+   "Destination Home with Aura House",
+   "Dress Your Decor with Aura House",
+   "Erica Mueller Home with Aura House",
+   "Hip & Humble Style with Aura House",
+   "Lindsay Stewart Dot Com with Aura House",
+   "Sarah's Haven with Aura House"
+  ],
+  "own_pages": {
+   "103384242680452": {
+    "name": "Aura House",
+    "active": 210,
+    "aged30": 23,
+    "aged90": 21,
+    "aged180": 3
+   },
+   "792612253944779": {
+    "name": "Aura House Co",
+    "active": 2,
+    "aged30": 1,
+    "aged90": 1,
+    "aged180": 0
+   }
+  }
+ },
+ "Aroma360": {
+  "cat": "scent_diffuser",
+  "phrase": "Aroma360",
+  "domain": "aroma360.com",
+  "date": "2026-11-08",
+  "phrase_sample": 29,
+  "phrase_sample_own_domain": 18,
+  "phrase_sample_pages": [
+   "Aroma360",
+   "Clara sofia medina with Aroma360",
+   "The Fashion Bible with Aroma360",
+   "TrulyTerah with Aroma360",
+   "Unwavering Haven with Aroma360"
+  ],
+  "own_pages": {
+   "938501912844088": {
+    "name": "Aroma360",
+    "active": 370,
+    "aged30": 96,
+    "aged90": 77,
+    "aged180": 0
+   }
+  }
+ },
+ "Hotel Collection": {
+  "cat": "scent_diffuser",
+  "phrase": "Hotel Collection",
+  "domain": "hotelcollection.com",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 10,
+  "phrase_sample_pages": [
+   "Airbnb",
+   "GalaxyCon",
+   "Hotel Collection",
+   "Jacksonville Warehouse Bargains",
+   "Maureen Hochdorf with Hotel Collection",
+   "Miss.alirose with Hotel Collection",
+   "Rai.tryna with Chime",
+   "Sonesta Hotels & Resorts",
+   "The Chicago Hotel Collection",
+   "𝕒 𝕟 𝕒 𝕟 𝕕 𝕒 𝕖 𝕝 𝕖 𝕟 𝕒 with Hotel Collection"
+  ],
+  "own_pages": {
+   "103587581444428": {
+    "name": "Hotel Collection",
+    "active": 550,
+    "aged30": 240,
+    "aged90": 150,
+    "aged180": 5
+   },
+   "111276030713729": {
+    "name": "The Chicago Hotel Collection",
+    "active": 13,
+    "aged30": 8,
+    "aged90": 8,
+    "aged180": 0
+   }
+  }
+ },
+ "AirScent": {
+  "cat": "scent_diffuser",
+  "phrase": "AirScent",
+  "domain": "airscentdiffusers.com",
+  "date": "2026-11-08",
+  "phrase_sample": 4,
+  "phrase_sample_own_domain": 0,
+  "phrase_sample_pages": [
+   "AirScent Diffusers",
+   "Airscent Diffusers"
+  ],
+  "own_pages": {
+   "108789320857920": {
+    "name": "Airscent Diffusers",
+    "active": 4,
+    "aged30": 0,
+    "aged90": 0,
+    "aged180": 0
+   }
+  }
+ },
+ "Kaori": {
+  "cat": "persimmon_soap",
+  "phrase": "Kaori",
+  "domain": "try-kaori.com",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 7,
+  "phrase_sample_pages": [
+   "Barbara Robertson",
+   "Grandma's Care Journal",
+   "Grandma's Glow",
+   "Kaori",
+   "Kaori Shop",
+   "Linda Doxey",
+   "Margaret Whittaker",
+   "Patti Clayton",
+   "Sara Garret",
+   "Springer"
+  ],
+  "own_pages": {
+   "650844748111692": {
+    "name": "Kaori",
+    "active": 190,
+    "aged30": 140,
+    "aged90": 40,
+    "aged180": 4
+   },
+   "1245940191932931": {
+    "name": "Kaori Shop",
+    "active": 8,
+    "aged30": 8,
+    "aged90": 8,
+    "aged180": 0
+   }
+  }
+ },
+ "Mirai Clinical": {
+  "cat": "persimmon_soap",
+  "phrase": "Mirai Clinical",
+  "domain": "miraiclinical.com",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 25,
+  "phrase_sample_pages": [
+   "Jared Brubaker",
+   "Koko Face Yoga",
+   "Mirai Clinical"
+  ],
+  "own_pages": {
+   "145667285455246": {
+    "name": "Mirai Clinical",
+    "active": 96,
+    "aged30": 40,
+    "aged90": 19,
+    "aged180": 17
+   }
+  }
+ },
+ "Kakiyu": {
+  "cat": "persimmon_soap",
+  "phrase": "Kakiyu",
+  "domain": "kakiyucare.com",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 20,
+  "phrase_sample_pages": [
+   "Dr. Margaret Ellis",
+   "Kakiyu",
+   "Mari Tanaka",
+   "Michelle Marchesano",
+   "Minnesota Health Center"
+  ],
+  "own_pages": {
+   "1272577889275593": {
+    "name": "Kakiyu",
+    "active": 470,
+    "aged30": 120,
+    "aged90": 0,
+    "aged180": 0
+   }
+  }
+ },
+ "sproos": {
+  "cat": "shower_filter",
+  "phrase": "sproos",
+  "domain": "sproos.co",
+  "date": "2026-11-08",
+  "phrase_sample": 20,
+  "phrase_sample_own_domain": 11,
+  "phrase_sample_pages": [
+   "Clitty with Sproos",
+   "Lily Butler with Sproos",
+   "Sproos",
+   "bishwithbangs with Sproos",
+   "nadeen ♡ with Sproos"
+  ],
+  "own_pages": {
+   "103196398536406": {
+    "name": "Sproos",
+    "active": 130,
+    "aged30": 120,
+    "aged90": 110,
+    "aged180": 94
+   }
+  }
+ },
+ "Filterbaby": {
+  "cat": "shower_filter",
+  "phrase": "Filterbaby",
+  "domain": "filterbaby.com",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 21,
+  "phrase_sample_pages": [
+   "AHD BIZ PAGE with My Filterbaby",
+   "Amanda Basco",
+   "Delany Smith with My Filterbaby",
+   "Hair Loss Solutions",
+   "Morgan Keen with My Filterbaby",
+   "My Filterbaby",
+   "Natassia Miller",
+   "NewBeauty",
+   "The Glow",
+   "The Review Board",
+   "annalinie with My Filterbaby"
+  ],
+  "own_pages": {
+   "107224365444737": {
+    "name": "My Filterbaby",
+    "active": 450,
+    "aged30": 280,
+    "aged90": 71,
+    "aged180": 7
+   }
+  }
+ },
+ "Santevia": {
+  "cat": "shower_filter",
+  "phrase": "Santevia",
+  "domain": "santevia.com",
+  "date": "2026-11-08",
+  "phrase_sample": 30,
+  "phrase_sample_own_domain": 23,
+  "phrase_sample_pages": [
+   "Groundwork Health + Wellness with Santevia Water Systems",
+   "Inverse",
+   "Liv Holistic with Santevia Water Systems",
+   "Santevia Water Systems",
+   "Sasha Rooted with Santevia Water Systems",
+   "Wellness with Hannah with Santevia Water Systems",
+   "melissallagace with Santevia Water Systems"
+  ],
+  "own_pages": {
+   "180038465807": {
+    "name": "Santevia Water Systems",
+    "active": 720,
+    "aged30": 360,
+    "aged90": 210,
+    "aged180": 0
+   }
+  }
+ }
+}

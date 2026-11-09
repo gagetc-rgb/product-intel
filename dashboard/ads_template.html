@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Long-running ads · Product Intel</title>
+<style>
+:root{color-scheme:light;--page:#f0f2f5;--surface:#fff;--surface-2:#f0f2f5;--ink:#1c1e21;--ink-2:#65676b;--muted:#8a8d91;--ring:rgba(0,0,0,.10);--blue:#0866ff;--green:#31a24c;--shadow:0 1px 2px rgba(0,0,0,.08)}
+:root[data-theme="dark"]{color-scheme:dark;--page:#18191a;--surface:#242526;--surface-2:#3a3b3c;--ink:#e4e6eb;--ink-2:#b0b3b8;--muted:#8a8d91;--ring:rgba(255,255,255,.10);--blue:#2d88ff;--shadow:none}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--page);color:var(--ink);font:14px/1.4 system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+a{color:inherit;text-decoration:none}
+.top{position:sticky;top:0;z-index:5;background:var(--surface);box-shadow:var(--shadow);border-bottom:1px solid var(--ring)}
+.bar{max-width:1320px;margin:0 auto;padding:10px 20px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.back{font-size:13px;color:var(--ink-2);border:1px solid var(--ring);border-radius:999px;padding:6px 12px}
+.back:hover{background:var(--surface-2)}
+h1{font-size:18px;margin:0}
+.sub{font-size:12.5px;color:var(--ink-2)}
+.spacer{flex:1}
+select,.btn{font:inherit;font-size:13px;border:1px solid var(--ring);background:var(--surface);color:var(--ink);border-radius:8px;padding:6px 10px;cursor:pointer}
+.brands{max-width:1320px;margin:0 auto;padding:0 20px 10px;display:flex;gap:8px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:8px;border:1px solid var(--ring);background:var(--surface);border-radius:999px;padding:4px 12px 4px 4px;cursor:pointer;white-space:nowrap;font:inherit;font-size:13px;color:var(--ink)}
+.brand img{width:30px;height:30px;border-radius:50%;object-fit:cover;background:var(--surface-2)}
+.brand b{font-weight:600}
+.brand small{color:var(--muted);font-size:12px}
+.brand[aria-pressed="true"]{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+.brand[aria-pressed="true"] small{color:inherit;opacity:.7}
+.wrap{max-width:1320px;margin:0 auto;padding:16px 20px 60px}
+.head{display:flex;gap:16px;align-items:center;background:var(--surface);border:1px solid var(--ring);border-radius:12px;padding:12px;margin:8px 0 14px;box-shadow:var(--shadow)}
+.head img{width:84px;height:84px;border-radius:10px;object-fit:cover}
+.head h2{font-size:17px;margin:0 0 2px}
+.head p{margin:0;color:var(--ink-2);font-size:13px}
+.head a.u{color:var(--blue)}
+.grid{columns:4 290px;column-gap:14px}
+.ad{break-inside:avoid;background:var(--surface);border:1px solid var(--ring);border-radius:10px;margin:0 0 14px;box-shadow:var(--shadow);overflow:hidden;display:block}
+.meta{padding:10px 12px 8px;border-bottom:1px solid var(--ring);font-size:12.5px;color:var(--ink-2)}
+.meta .st{display:flex;align-items:center;gap:6px;color:var(--ink);font-weight:600}
+.meta .st i{width:8px;height:8px;border-radius:50%;background:var(--green)}
+.age{margin-left:auto;font-weight:700;border-radius:999px;padding:2px 8px;font-size:12px;background:var(--surface-2);color:var(--ink)}
+.age.a1{background:#e7f3ff;color:#0a4fb4}.age.a2{background:#dff3e4;color:#1d6b33}.age.a3{background:#fff1d6;color:#8a5300}
+:root[data-theme="dark"] .age.a1{background:#173356;color:#9cc7ff}:root[data-theme="dark"] .age.a2{background:#163a22;color:#8fe0a7}:root[data-theme="dark"] .age.a3{background:#4a3410;color:#ffd38a}
+.meta .tags{margin-top:6px;display:flex;gap:6px;flex-wrap:wrap}
+.tag{font-size:11.5px;border-radius:6px;padding:1px 6px;background:var(--surface-2);color:var(--ink-2)}
+.tag.hot{background:#ffe7e7;color:#a11}
+:root[data-theme="dark"] .tag.hot{background:#4b1d1d;color:#ffb3b3}
+.who{display:flex;align-items:center;gap:8px;padding:10px 12px 6px}
+.who img{width:34px;height:34px;border-radius:50%;object-fit:cover;background:var(--surface-2)}
+.who b{display:block;font-size:13.5px}
+.who span{font-size:12px;color:var(--ink-2)}
+.body{margin:0 12px 10px;white-space:pre-line;font-size:13.5px;line-height:1.4;max-height:5.6em;overflow:hidden;cursor:pointer;position:relative}
+.body.open{max-height:none}
+.media{position:relative;display:block;background:var(--surface-2)}
+.media img{display:block;width:100%;height:auto;max-height:440px;object-fit:cover;min-height:120px}
+.play{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none}
+.play span{width:56px;height:56px;border-radius:50%;background:rgba(0,0,0,.55);display:grid;place-items:center}
+.play span:after{content:"";margin-left:5px;border-left:18px solid #fff;border-top:11px solid transparent;border-bottom:11px solid transparent}
+.link{display:flex;align-items:center;gap:10px;padding:10px 12px;background:var(--surface-2)}
+.link .t{flex:1;min-width:0}
+.link .d{font-size:11.5px;color:var(--ink-2);text-transform:uppercase}
+.link .h{font-size:13.5px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cta{font-size:13px;font-weight:600;background:var(--surface);border:1px solid var(--ring);border-radius:6px;padding:6px 10px;white-space:nowrap}
+.foot{display:flex;gap:8px;padding:8px 12px 10px;font-size:12.5px}
+.foot a{color:var(--blue);font-weight:600}
+.foot .id{margin-left:auto;color:var(--muted)}
+.note{font-size:12.5px;color:var(--ink-2);margin:0 0 12px}
+.empty{color:var(--ink-2);padding:40px;text-align:center}
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="bar">
+    <a class="back" href="product-intel-dashboard.html">← Dashboard</a>
+    <div><h1>Long-running ads</h1><div class="sub" id="sub"></div></div>
+    <div class="spacer"></div>
+    <select id="sort" aria-label="Sort"><option value="old">Oldest first</option><option value="new">Newest first</option></select>
+    <select id="fmt" aria-label="Format"><option value="all">All formats</option><option value="video">Video</option><option value="image">Image</option></select>
+    <select id="who" aria-label="Advertiser"><option value="all">Brand + creators</option><option value="brand">Brand page only</option><option value="creator">Creators / personas only</option></select>
+    <button class="btn" id="theme" type="button">Dark</button>
+  </div>
+  <div class="brands" id="brands"></div>
+</div>
+<div class="wrap">
+  <div id="head"></div>
+  <p class="note">Each card opens the ad in Meta Ad Library in a new tab (video plays there). Meta lists ads by impressions; logged-off it loads ~30 per brand, so these are the most-delivered old ads, not all of them.</p>
+  <div class="grid" id="grid"></div>
+</div>
+<script>
+const ADS = /*ADS*/null;
+const PRODUCTS = /*PRODUCTS*/null;
+const $ = s => document.querySelector(s);
+const esc = s => String(s??'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const name = id => (PRODUCTS.find(p=>p.id===id)||{}).name || id;
+const hero = b => b.photos[(PRODUCTS.find(p=>p.id===b.id)||{}).heroIdx||0] || b.photos[0] || '';
+let cur = location.hash.slice(1) || ADS.brands[0].id;
+if(!ADS.brands.some(b=>b.id===cur)) cur = ADS.brands[0].id;
+const fmtDays = d => d>=365 ? (d/365).toFixed(1).replace('.0','')+' yr' : Math.round(d/30.4)+' mo';
+const ageCls = d => d>=365?'a3':d>=180?'a2':'a1';
+const isBrand = a => a.brand;
+
+$('#sub').textContent = `US · active · from Meta Ad Library, pulled ${ADS.generated}`;
+$('#brands').innerHTML = ADS.brands.map(b=>`<button class="brand" data-id="${b.id}"><img src="${esc(hero(b))}" alt=""><span><b>${esc(name(b.id))}</b> <small>${b.total??b.loaded} ads ${b.minDays}+ d</small></span></button>`).join('');
+$('#brands').querySelectorAll('.brand').forEach(el=>el.onclick=()=>{cur=el.dataset.id; history.replaceState(null,'','#'+cur); draw();});
+['sort','fmt','who'].forEach(id=>$('#'+id).onchange=draw);
+
+function card(a,b){
+  const lib = 'https://www.facebook.com/ads/library/?id='+a.id;
+  const tags = [];
+  if(a.multi) tags.push(`<span class="tag hot" title="Meta groups identical copies: the advertiser runs this creative several times">×${a.multi} copies</span>`);
+  tags.push(`<span class="tag">${a.video?'Video':a.carousel?'Carousel':'Image'}</span>`);
+  if(!isBrand(a,b)) tags.push(`<span class="tag" title="Ad runs from a creator or persona page, not the brand page">Creator / persona page</span>`);
+  return `<article class="ad">
+    <div class="meta"><div class="st"><i></i>Active<span class="age ${ageCls(a.days)}" title="Running for ${a.days} days">${fmtDays(a.days)} · ${a.days} d</span></div>
+      Started running on ${esc(a.start)}<div class="tags">${tags.join('')}</div></div>
+    <div class="who"><img src="${esc(a.avatarLocal)}" alt=""><div><b>${esc(a.page)}</b><span>Sponsored</span></div></div>
+    <div class="body" title="Click to expand">${esc(a.body)}</div>
+    <a class="media" href="${lib}" target="_blank" rel="noopener">${a.imgLocal?`<img src="${esc(a.imgLocal)}" alt="">`:''}${a.video?'<div class="play"><span></span></div>':''}</a>
+    <a class="link" href="${esc(a.land||lib)}" target="_blank" rel="noopener"><div class="t"><div class="d">${esc((a.land.match(/\/\/(?:www\.)?([^/]+)/)||[])[1]||b.domain)}</div><div class="h">${esc(a.headline||a.land.replace(/^https?:\/\/[^/]+/,'')||'')}</div></div>${a.cta?`<span class="cta">${esc(a.cta)}</span>`:''}</a>
+    <div class="foot"><a href="${lib}" target="_blank" rel="noopener">Open in Ad Library ↗</a><span class="id">ID ${a.id}</span></div>
+  </article>`;
+}
+
+function draw(){
+  document.querySelectorAll('.brand').forEach(el=>el.setAttribute('aria-pressed', el.dataset.id===cur));
+  const b = ADS.brands.find(x=>x.id===cur);
+  $('#head').innerHTML = `<div class="head"><img src="${esc(hero(b))}" alt=""><div><h2>${esc(name(b.id))} — ${esc(b.productTitle)}</h2>
+    <p><b>${b.total??'?'}</b> active US ads started ${b.minDays}+ days ago (Meta count); <b>${b.loaded}</b> shown. ${b.minDays<180?'This brand rotates creatives fast: no ads live 180+ days, so the bar is lowered to '+b.minDays+'.':''}</p>
+    <p><a class="u" href="${esc(b.productUrl)}" target="_blank" rel="noopener">${esc(b.domain)} product page ↗</a> · <a class="u" href="https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=${encodeURIComponent(b.domain)}&search_type=keyword_unordered" target="_blank" rel="noopener">all their ads in Ad Library ↗</a></p></div></div>`;
+  let list = b.ads.slice();
+  const f=$('#fmt').value, w=$('#who').value, s=$('#sort').value;
+  if(f!=='all') list = list.filter(a=>f==='video'?a.video:!a.video);
+  if(w!=='all') list = list.filter(a=>w==='brand'?isBrand(a,b):!isBrand(a,b));
+  if(s==='old') list.sort((x,y)=>y.days-x.days); else if(s==='new') list.sort((x,y)=>x.days-y.days);
+  $('#grid').innerHTML = list.length ? list.map(a=>card(a,b)).join('') : '<div class="empty">No ads match these filters.</div>';
+  $('#grid').querySelectorAll('.body').forEach(el=>el.onclick=()=>el.classList.toggle('open'));
+}
+const tb=$('#theme');
+function setTheme(t){document.documentElement.dataset.theme=t; tb.textContent=t==='dark'?'Light':'Dark';}
+setTheme(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');
+tb.onclick=()=>setTheme(document.documentElement.dataset.theme==='dark'?'light':'dark');
+draw();
+addEventListener('hashchange',()=>{const h=location.hash.slice(1); if(ADS.brands.some(b=>b.id===h)){cur=h; draw();}});
+</script>
+</body>
+</html>

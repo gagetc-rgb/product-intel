@@ -1,0 +1,571 @@
+{
+ "phrase": "color changing foundation",
+ "date": "2026-11-07",
+ "active": 12000,
+ "aged90": 1200,
+ "aged180": 120,
+ "ads": [
+  {
+   "id": "1275851510681968",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1558995368782953",
+   "page": "Lumine Skin",
+   "start": "2025-11-05",
+   "n": 1,
+   "domain": "trylumineskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1521948392861777",
+   "page": "Hestia",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "trylumineskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "1468730278148188",
+   "page": "In creates with Prime Prometics",
+   "start": "2026-01-14",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1449796226169460",
+   "page": "Magnixa",
+   "start": "2025-07-14",
+   "n": 1,
+   "domain": "magnixa.com",
+   "window": "180+"
+  },
+  {
+   "id": "1494866462099777",
+   "page": "In creates with Prime Prometics",
+   "start": "2026-02-10",
+   "n": 1,
+   "domain": "www.primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "28103072742626269",
+   "page": "Hestia",
+   "start": "2026-04-29",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "956483213481800",
+   "page": "Prime Prometics",
+   "start": "2026-03-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "840279681849465",
+   "page": "Hestia",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "hestiacosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "802453485519367",
+   "page": "Prime Prometics",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1070595275138711",
+   "page": "Prime Prometics",
+   "start": "2025-07-25",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1904971273483148",
+   "page": "Prime Prometics",
+   "start": "2026-01-21",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1069503568180621",
+   "page": "Prime Prometics",
+   "start": "2025-07-25",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "3553723768095638",
+   "page": "Prime Prometics",
+   "start": "2025-07-25",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "853331001015458",
+   "page": "Prime Prometics",
+   "start": "2026-01-15",
+   "n": 1,
+   "domain": "www.primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1333328782149596",
+   "page": "Prime Prometics",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "www.primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "2243571406064144",
+   "page": "Prime Prometics",
+   "start": "2025-07-25",
+   "n": 1,
+   "domain": "www.primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "762672436547401",
+   "page": "Prime Prometics",
+   "start": "2025-09-03",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1455827229580624",
+   "page": "Prime Prometics",
+   "start": "2026-02-17",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "960418213236610",
+   "page": "Beauty Reviews",
+   "start": "2026-04-03",
+   "n": 1,
+   "domain": "vimacosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "977786221788975",
+   "page": "Hestia",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "trylumineskin.com",
+   "window": "180+"
+  },
+  {
+   "id": "969667508771598",
+   "page": "Hestia",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "hestiacosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "3713456322297249",
+   "page": "Beauty Reviews",
+   "start": "2025-11-30",
+   "n": 1,
+   "domain": "vimacosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1261631815782094",
+   "page": "Prime Prometics",
+   "start": "2026-01-21",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "180+"
+  },
+  {
+   "id": "2263460664480912",
+   "page": "Glamour Post",
+   "start": "2026-04-24",
+   "n": 1,
+   "domain": "shopbeautylust.com",
+   "window": "180+"
+  },
+  {
+   "id": "1232871459898850",
+   "page": "Smooche",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1974572333261252",
+   "page": "Smooche",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1375565764442252",
+   "page": "Smooche",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2078116576447499",
+   "page": "Korean Beauty Tips",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1693931428574538",
+   "page": "Cosmetic Times",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1532687451635129",
+   "page": "Smooche",
+   "start": "2026-06-26",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "997724362633254",
+   "page": "Prime Prometics",
+   "start": "2026-05-25",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1306930424358627",
+   "page": "Korean Beauty Tips",
+   "start": "2026-06-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1535716561296767",
+   "page": "Aging Queens Magazine",
+   "start": "2026-07-03",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1309173324698425",
+   "page": "Hestia",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "hestiacosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1614905579610001",
+   "page": "Korean Beauty Tips",
+   "start": "2026-06-05",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1003841695669520",
+   "page": "Serentia Shop",
+   "start": "2026-05-28",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1712093820122268",
+   "page": "Cosmetic Times",
+   "start": "2026-06-29",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "882568214347120",
+   "page": "Hestia",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "hestiacosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "27265142373154931",
+   "page": "Aging Queens Magazine",
+   "start": "2026-06-29",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1722635418948329",
+   "page": "Trending On K-Beauty",
+   "start": "2026-08-03",
+   "n": 1,
+   "domain": "trynova.store",
+   "window": "90-180"
+  },
+  {
+   "id": "2447191639127567",
+   "page": "Smooche",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1215027340696041",
+   "page": "Aging Queens Magazine",
+   "start": "2026-07-03",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1370241961831654",
+   "page": "Smooche",
+   "start": "2026-09-06",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1756467465427188",
+   "page": "The Glow Up",
+   "start": "2026-09-06",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2291737244919475",
+   "page": "Smooche",
+   "start": "2026-09-07",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "3039677756368104",
+   "page": "Smooche",
+   "start": "2026-08-16",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1038208025724491",
+   "page": "Smooche",
+   "start": "2026-08-25",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1063512829754965",
+   "page": "Smooche",
+   "start": "2026-09-02",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2306373746776583",
+   "page": "Smooche",
+   "start": "2026-08-26",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2178959449387408",
+   "page": "Smooche",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1375862037613112",
+   "page": "Smooche",
+   "start": "2026-09-13",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "947171808461151",
+   "page": "Smooche",
+   "start": "2026-09-16",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1034040313002490",
+   "page": "Real Women Real Stories",
+   "start": "2026-09-30",
+   "n": 1,
+   "domain": "facelove-cosmetics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1074191928558337",
+   "page": "Real Women Real Stories",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "facelove-cosmetics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2107341966543022",
+   "page": "Trending On K-Beauty",
+   "start": "2026-09-09",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "3468569813316540",
+   "page": "Claire Parker",
+   "start": "2026-08-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2560827767678773",
+   "page": "Smooche",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1604991771024177",
+   "page": "Smooche",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1407471667431818",
+   "page": "Makeup Over 50 with Lisa Hart",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "www.primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "962536992904822",
+   "page": "The Glow Up",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "facelove-cosmetics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1497617478892219",
+   "page": "Smooche",
+   "start": "2026-10-24",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2029431657766271",
+   "page": "Smooche",
+   "start": "2026-10-27",
+   "n": 5,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "867657603077675",
+   "page": "Smooche",
+   "start": "2026-10-30",
+   "n": 4,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1683921893249363",
+   "page": "Smooche",
+   "start": "2026-10-30",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1623956312798697",
+   "page": "Helen Larsen",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "dermamuse.co",
+   "window": "0-30"
+  },
+  {
+   "id": "1110384318586223",
+   "page": "Cosmetic Times",
+   "start": "2026-10-14",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2084817082177979",
+   "page": "Smooche",
+   "start": "2026-10-21",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1156593396838948",
+   "page": "Smooche",
+   "start": "2026-10-21",
+   "n": 6,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1099036899561237",
+   "page": "Luxe Cosmetics",
+   "start": "2026-11-05",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  }
+ ],
+ "aged30": 3700,
+ "aged30_date": "2026-11-08"
+}

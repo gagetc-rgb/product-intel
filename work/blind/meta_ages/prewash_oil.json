@@ -1,0 +1,394 @@
+{
+ "phrase": "pre wash",
+ "date": "2026-11-08",
+ "active": 500,
+ "aged30": 140,
+ "aged90": 71,
+ "aged180": 11,
+ "ads": [
+  {
+   "id": "3623157134493316",
+   "page": "Pronounce Labs",
+   "start": "2025-11-14",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "920065406497396",
+   "page": "Fresh Laundromat on Cicero",
+   "start": "2024-02-24",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1934280981295506",
+   "page": "Active",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "amazon.com",
+   "window": "180+"
+  },
+  {
+   "id": "2261181024710454",
+   "page": "Number 4 High Performance Hair Care",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2108488983232432",
+   "page": "RC Luxury Detail",
+   "start": "2026-02-09",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "960268669840636",
+   "page": "Grid Werks Automotive LLC",
+   "start": "2026-03-30",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "743431966957685",
+   "page": "The Sock Catcher",
+   "start": "2023-02-01",
+   "n": 1,
+   "domain": "sockcatcher.com",
+   "window": "180+"
+  },
+  {
+   "id": "804994645795551",
+   "page": "Ekmiveda",
+   "start": "2026-05-11",
+   "n": 1,
+   "domain": "ekmiveda.com",
+   "window": "180+"
+  },
+  {
+   "id": "946167554878968",
+   "page": "Fashion Fabrics Club",
+   "start": "2026-04-30",
+   "n": 2,
+   "domain": "fashionfabricsclub.com",
+   "window": "180+"
+  },
+  {
+   "id": "1996889044435540",
+   "page": "Ekmiveda",
+   "start": "2025-12-05",
+   "n": 1,
+   "domain": "ekmiveda.com",
+   "window": "180+"
+  },
+  {
+   "id": "2235734020299595",
+   "page": "DipYourCar.com",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "dipyourcar.com",
+   "window": "90-180"
+  },
+  {
+   "id": "27884245924563838",
+   "page": "DipYourCar.com",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "dipyourcar.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1013714968283342",
+   "page": "Murray Auto Spa",
+   "start": "2026-06-11",
+   "n": 1,
+   "domain": "murrayautospa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4289637961254136",
+   "page": "Laundry Hacks World",
+   "start": "2026-05-28",
+   "n": 1,
+   "domain": "healthyhomeadvocates.org",
+   "window": "90-180"
+  },
+  {
+   "id": "2560794934400831",
+   "page": "Tommy's Express Car Wash",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "tommys-express.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1321963543203401",
+   "page": "Rhute hair",
+   "start": "2026-05-22",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2095745198009053",
+   "page": "DipYourCar.com",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "dipyourcar.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1546515573517255",
+   "page": "Rhute hair",
+   "start": "2026-07-07",
+   "n": 3,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1060044163629925",
+   "page": "Rhute hair",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1041860968703187",
+   "page": "Sullen Clothing",
+   "start": "2026-08-08",
+   "n": 4,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1744287230224876",
+   "page": "PuppyPad",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4402322093368677",
+   "page": "BeKynd Beauty",
+   "start": "2026-07-25",
+   "n": 1,
+   "domain": "www.bekyndbeauty.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2123018371964818",
+   "page": "Kristin McAllister",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1651822759448204",
+   "page": "Alex Costa",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "forteseries.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1078822785115254",
+   "page": "simi_midhun with Ekmiveda",
+   "start": "2026-08-08",
+   "n": 1,
+   "domain": "ekmiveda.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1374900221198039",
+   "page": "Gyal Braids",
+   "start": "2026-06-05",
+   "n": 1,
+   "domain": "gyalbraids.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1516409173360374",
+   "page": "Alex Costa",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "forteseries.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2106031303599248",
+   "page": "Wonder Valley",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "welcometowondervalley.com",
+   "window": "90-180"
+  },
+  {
+   "id": "919775301080159",
+   "page": "Ekmiveda",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "ekmiveda.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1524546019050184",
+   "page": "How To Style My",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1503365184164389",
+   "page": "MONAT",
+   "start": "2026-06-30",
+   "n": 5,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1053312257689112",
+   "page": "Anggwells with Bur Bur",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "3025752570964060",
+   "page": "Keśa Beauty",
+   "start": "2026-08-13",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2637972136615463",
+   "page": "Fastlane Car Wash Fargo with Fargo Petro Travel Plaza",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1034222039648724",
+   "page": "DooresHair",
+   "start": "2026-09-15",
+   "n": 1,
+   "domain": "dooreshair.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1747330736322185",
+   "page": "Threegirlscurtains",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "threegirls.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1634149614722438",
+   "page": "Next Touch",
+   "start": "2026-09-30",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1771675963875246",
+   "page": "GYEON USA",
+   "start": "2026-09-15",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1415902847221082",
+   "page": "Ekmiveda",
+   "start": "2026-08-23",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1412909073759205",
+   "page": "Ziploc",
+   "start": "2026-10-19",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "28728029330164142",
+   "page": "holistichealingla",
+   "start": "2026-10-14",
+   "n": 1,
+   "domain": "amazinghairsaviour.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1795899898277778",
+   "page": "Momcozy",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "momcozy.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2105027443485332",
+   "page": "Earth Breeze",
+   "start": "2026-10-31",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1412911133810762",
+   "page": "A Life From Scratch",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "amazinghairsaviour.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2817674411968333",
+   "page": "Hairstory Studio",
+   "start": "2026-10-27",
+   "n": 1,
+   "domain": "hairstory.com",
+   "window": "0-30"
+  },
+  {
+   "id": "996045750210507",
+   "page": "Itsmikaylanicole with Fable and Mane",
+   "start": "2026-11-04",
+   "n": 1,
+   "domain": "www.sephora.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2203434467220698",
+   "page": "Lovebird Studio AZ with Hairstory Studio",
+   "start": "2026-10-27",
+   "n": 1,
+   "domain": "hairstory.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1128938866656454",
+   "page": "Hairstory Studio",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "hairstory.com",
+   "window": "0-30"
+  }
+ ]
+}

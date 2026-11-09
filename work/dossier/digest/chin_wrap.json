@@ -1,0 +1,311 @@
+{
+ "pid": "chin_wrap",
+ "name": "Collagen chin / V-line wrap",
+ "verdict_row": {
+  "pid": "chin_wrap",
+  "name": "Collagen chin / V-line wrap",
+  "flag": "",
+  "shelf": 42450,
+  "nb": 6000,
+  "gen": 5850,
+  "winB": 3,
+  "winG": 2,
+  "price": 12.99,
+  "act": 7600,
+  "a30": 2000,
+  "a90": 570,
+  "a180": 140,
+  "stores": 43,
+  "stores90": 32,
+  "trend": 0.84,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "phrase 'double chin' hits med-spas / surgery",
+  "nb_id": 5800
+ },
+ "amazon_us": {
+  "listings_on_target": 195,
+  "shelf_units": 42450,
+  "units_by_brand_age": {
+   "0-6": 2000,
+   "24+": 28300,
+   "12-24": 6650,
+   "6-12": 5500
+  },
+  "units_by_kind": {
+   "generic_new": 5850,
+   "old_brand": 28100,
+   "new_brand": 6000,
+   "generic_old": 200,
+   "older_brand_new_here": 2300
+  },
+  "top_brands": [
+   {
+    "key": "maree",
+    "units": 9500,
+    "listings": 9,
+    "best": {
+     "asin": "B0CNDCKXDX",
+     "title": "MAREE V Line Lifting Mask - Gold Face Lift Tape & Double Chin Lifting Mask",
+     "units": 7000,
+     "price": "$20.49",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/81eR-RLqd-L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 36,
+    "status": "old"
+   },
+   {
+    "key": "stylia",
+    "units": 8600,
+    "listings": 6,
+    "best": {
+     "asin": "B08YQW2FRT",
+     "title": "Stylia V Line Lifting Collagen Face Mask - Lift, Firm & Contour Jawline - Double Chin Strap with Hyaluronic Ac",
+     "units": 5000,
+     "price": "$27.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/713-pgJAN+L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 73,
+    "status": "old"
+   },
+   {
+    "key": "graphene",
+    "units": 3750,
+    "listings": 13,
+    "best": {
+     "asin": "B0HCMM6D5W",
+     "title": "Graphene V-Line Mask Chin Up Mask V Shaped Face Mask Chin Strap for Sleeping,Jawline Shaper,Red,Medium",
+     "units": 3000,
+     "price": "$13.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61cIUE7PV0L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 15,
+    "status": "NEW"
+   },
+   {
+    "key": "lauer",
+    "units": 2400,
+    "listings": 3,
+    "best": {
+     "asin": "B08P2BN2ZN",
+     "title": "LAUER COSMETIC V Shaped Hydrogel Chin Mask with Collagen, 10 Count",
+     "units": 1000,
+     "price": "$25.99",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/71a4LLXf9gL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 73,
+    "status": "old"
+   },
+   {
+    "key": "parafaciem",
+    "units": 2000,
+    "listings": 1,
+    "best": {
+     "asin": "B08J16FXGM",
+     "title": "ParaFaciem Reusable V Line Mask Facial Slimming Strap Double Chin Reducer Chin Up Mask Face Lifting Belt V Sha",
+     "units": 2000,
+     "price": "$14.89",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/71EvZEwSyTL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 68,
+    "status": "old"
+   },
+   {
+    "key": "drmelaxin",
+    "units": 2000,
+    "listings": 1,
+    "best": {
+     "asin": "B0GG8Q31R3",
+     "title": "Dr.Melaxin CACTOX V-Lifting Mewing Band – Cactox + Caffeine + Collagen Double Chin Lifting Band for Sagging Ja",
+     "units": 2000,
+     "price": "$17.00",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/91LGX0j3hiL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 10,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "plantifique",
+    "units": 1100,
+    "listings": 2,
+    "best": {
+     "asin": "B0DRCQXGND",
+     "title": "PLANTIFIQUE Chin Strap for Face Contouring - Reusable & Adjustable",
+     "units": 900,
+     "price": "$16.95",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/71yMKJdwamL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 51,
+    "status": "old"
+   },
+   {
+    "key": "reusable",
+    "units": 1050,
+    "listings": 13,
+    "best": {
+     "asin": "B0D7VDXSCZ",
+     "title": "Reusable V Line Lifting Mask with Chin Strap for Sleeping, V Shaped Face Mask for Sagging, Jawline Shaper(Blac",
+     "units": 1000,
+     "price": "$5.99",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/6199skkVD9L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 66,
+    "status": "old"
+   },
+   {
+    "key": "chinstrap",
+    "units": 1000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DGTBNFJY",
+     "title": "Chinstrap for Sleeping, V-Line Lifting Chinstrap, V-Line Mask, Reusable Face Strap, Chin Up Patch, V-Shaped Be",
+     "units": 1000,
+     "price": "$8.99",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/71gBTX7YwCL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 26,
+    "status": "old"
+   },
+   {
+    "key": "jawline",
+    "units": 1000,
+    "listings": 4,
+    "best": {
+     "asin": "B0H8LT9T7V",
+     "title": "Jawline Shaper Chin Strap for Sleeping, Reusable V-Line Mask for Women Face Lifting Made w/Electric-Hot-Press ",
+     "units": 1000,
+     "price": "$6.99",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/61S7sSiUOwL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 3,
+    "status": "NEW"
+   }
+  ],
+  "top_generics": [
+   [
+    1000,
+    "B0FXH4KCZX",
+    "V Line Lifting Mask with Collagen Retinol Hyaluronic Acid Niacinamide 7 pcs",
+    "$19.97",
+    null
+   ],
+   [
+    1000,
+    "B0FGXWWBSS",
+    "V Line Face Slimming Mask for Sleeping, Double Chin Reducer Jawline Shaper for W",
+    "$6.99",
+    null
+   ],
+   [
+    700,
+    "B0FLQ54BCF",
+    "Double Chin Lifting Mask, Lift Double Chin tape for Women, Jawline Firming Mask ",
+    "$29.98",
+    null
+   ],
+   [
+    600,
+    "B0H21L1333",
+    "Chin Strap for Sleeping Pro, CPAP Chin Strap to Keep Mouth Closed, Jawline Shape",
+    "$29.99",
+    null
+   ]
+  ],
+  "winners_1k": 15
+ },
+ "price_us": {
+  "price_usd_median": 12.99,
+  "price_usd_p25_p75": [
+   8.06,
+   19.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "double chin",
+  "active": 7600,
+  "aged30": 2000,
+  "aged90": 570,
+  "aged180": 140,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "thestudiomd.com",
+   1,
+   778,
+   1
+  ],
+  [
+   "page:osanyin herbal wellness",
+   1,
+   667,
+   1
+  ],
+  [
+   "osanyinherbs.com",
+   1,
+   529,
+   1
+  ],
+  [
+   "page:trueformmedspa",
+   1,
+   494,
+   1
+  ],
+  [
+   "page:airsculpt",
+   11,
+   493,
+   1
+  ],
+  [
+   "page:ageless by isabelle wilcox",
+   1,
+   450,
+   1
+  ],
+  [
+   "page:rejuveantiaging",
+   1,
+   436,
+   1
+  ],
+  [
+   "page:monarch md medical aesthetics and wellness clinic",
+   1,
+   366,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "double chin",
+  "rel_yoy": 0.84,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "84.4",
+ "creatives": []
+}

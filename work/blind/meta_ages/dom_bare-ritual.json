@@ -1,0 +1,258 @@
+{
+ "phrase": "bare-ritual.com",
+ "date": "2026-11-09",
+ "active": 190,
+ "aged30": 60,
+ "aged90": 37,
+ "aged180": 21,
+ "ads": [
+  {
+   "id": "3370216843147057",
+   "page": "Bare Ritual",
+   "start": "2026-02-18",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1489077763025382",
+   "page": "Bare Ritual",
+   "start": "2026-01-10",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1488820192751693",
+   "page": "Bare Ritual",
+   "start": "2026-03-15",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1636809844276666",
+   "page": "Bare Ritual",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1668394547584107",
+   "page": "Bare Ritual",
+   "start": "2026-05-02",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1201037078771604",
+   "page": "Bare Ritual",
+   "start": "2026-03-15",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "2796178517414360",
+   "page": "Bare Ritual",
+   "start": "2026-04-14",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1459363942522439",
+   "page": "Bare Ritual",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "917579884401653",
+   "page": "Bare Ritual",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "937553935678758",
+   "page": "Bare Ritual",
+   "start": "2026-04-14",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1725200805122714",
+   "page": "Bare Ritual",
+   "start": "2026-03-15",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1764131864965516",
+   "page": "Bare Ritual",
+   "start": "2026-04-14",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "939408508697341",
+   "page": "Bare Ritual",
+   "start": "2026-04-18",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1265954605442689",
+   "page": "Bare Ritual",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "2358501037891656",
+   "page": "Bare Ritual",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1291203565764894",
+   "page": "Bare Ritual",
+   "start": "2026-05-04",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1972872829978018",
+   "page": "Bare Ritual",
+   "start": "2026-05-02",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1666382444552758",
+   "page": "Bare Ritual",
+   "start": "2026-04-12",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1036167982356565",
+   "page": "Bare Ritual",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1764629584563580",
+   "page": "Bare Ritual",
+   "start": "2026-08-08",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1335089538138858",
+   "page": "Bare Ritual",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1019038594442140",
+   "page": "Bare Ritual",
+   "start": "2026-07-18",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2354540721737754",
+   "page": "Bare Ritual",
+   "start": "2026-05-28",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2147388109464020",
+   "page": "Bare Ritual",
+   "start": "2026-07-04",
+   "n": 4,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1522508498835264",
+   "page": "Bare Ritual",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4589339521211794",
+   "page": "Bare Ritual",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1442533654011399",
+   "page": "Bare Ritual",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "0-30"
+  },
+  {
+   "id": "993356159729249",
+   "page": "Bare Ritual",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1870861130745301",
+   "page": "Bare Ritual",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1090354300584889",
+   "page": "Bare Ritual",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "0-30"
+  },
+  {
+   "id": "4176544065976051",
+   "page": "Bare Ritual",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "0-30"
+  }
+ ]
+}

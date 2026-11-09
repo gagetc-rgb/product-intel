@@ -1,0 +1,210 @@
+{
+ "label": "luxe",
+ "shop": "luxe-cosmetics-us.myshopify.com",
+ "total_product_reviews": 11984,
+ "all_feed_n": 1000,
+ "all_feed_capped": true,
+ "all_window_from": "2025-09-04",
+ "non5_n": 312,
+ "non5_from": "2021-01-26",
+ "k_all_per_non5": 38.41,
+ "k_recent": 26.81,
+ "non5_capped": false,
+ "calib_months": [
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-10"
+ ],
+ "monthly": {
+  "2021-01": {
+   "all_exact": null,
+   "non5": 26,
+   "est": 999
+  },
+  "2021-02": {
+   "all_exact": null,
+   "non5": 51,
+   "est": 1959
+  },
+  "2021-03": {
+   "all_exact": null,
+   "non5": 1,
+   "est": 38
+  },
+  "2021-06": {
+   "all_exact": null,
+   "non5": 12,
+   "est": 461
+  },
+  "2021-07": {
+   "all_exact": null,
+   "non5": 22,
+   "est": 845
+  },
+  "2021-08": {
+   "all_exact": null,
+   "non5": 24,
+   "est": 922
+  },
+  "2021-09": {
+   "all_exact": null,
+   "non5": 11,
+   "est": 423
+  },
+  "2021-11": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 77
+  },
+  "2021-12": {
+   "all_exact": null,
+   "non5": 10,
+   "est": 384
+  },
+  "2022-01": {
+   "all_exact": null,
+   "non5": 12,
+   "est": 461
+  },
+  "2022-02": {
+   "all_exact": null,
+   "non5": 8,
+   "est": 307
+  },
+  "2022-03": {
+   "all_exact": null,
+   "non5": 10,
+   "est": 384
+  },
+  "2022-04": {
+   "all_exact": null,
+   "non5": 6,
+   "est": 230
+  },
+  "2022-05": {
+   "all_exact": null,
+   "non5": 12,
+   "est": 461
+  },
+  "2022-06": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 192
+  },
+  "2022-12": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 192
+  },
+  "2023-03": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 77
+  },
+  "2023-09": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 77
+  },
+  "2024-10": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 77
+  },
+  "2024-11": {
+   "all_exact": null,
+   "non5": 9,
+   "est": 346
+  },
+  "2024-12": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 154
+  },
+  "2025-01": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 192
+  },
+  "2025-02": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 77
+  },
+  "2025-03": {
+   "all_exact": null,
+   "non5": 13,
+   "est": 499
+  },
+  "2025-04": {
+   "all_exact": null,
+   "non5": 7,
+   "est": 269
+  },
+  "2025-05": {
+   "all_exact": null,
+   "non5": 1,
+   "est": 38
+  },
+  "2025-07": {
+   "all_exact": null,
+   "non5": 1,
+   "est": 38
+  },
+  "2025-08": {
+   "all_exact": null,
+   "non5": 20,
+   "est": 768
+  },
+  "2025-09": {
+   "all_exact": null,
+   "non5": 6,
+   "est": 230
+  },
+  "2025-10": {
+   "all_exact": 24,
+   "non5": 1,
+   "est": 24
+  },
+  "2025-11": {
+   "all_exact": 18,
+   "non5": 1,
+   "est": 18
+  },
+  "2025-12": {
+   "all_exact": 13,
+   "non5": 1,
+   "est": 13
+  },
+  "2026-01": {
+   "all_exact": 12,
+   "non5": 0,
+   "est": 12
+  },
+  "2026-02": {
+   "all_exact": 144,
+   "non5": 16,
+   "est": 144
+  },
+  "2026-03": {
+   "all_exact": 20,
+   "non5": 2,
+   "est": 20
+  },
+  "2026-10": {
+   "all_exact": 332,
+   "non5": 0,
+   "est": 332
+  },
+  "2026-11": {
+   "all_exact": 111,
+   "non5": 0,
+   "est": 111
+  }
+ },
+ "partial_month": "2026-11"
+}

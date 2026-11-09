@@ -1,0 +1,1614 @@
+[
+ {
+  "pid": "body_oil",
+  "phrase": "crepey skin",
+  "active": 11000,
+  "aged90": 1100,
+  "aged180": 84,
+  "p90": 0.1,
+  "p180": 0.008,
+  "sample": 63,
+  "stores": 26,
+  "stores90": 22,
+  "top": [
+   [
+    "thehealthcarpenter.com",
+    1,
+    439,
+    1
+   ],
+   [
+    "try-turmskin.com",
+    19,
+    323,
+    3
+   ],
+   [
+    "page:flawless injector",
+    1,
+    280,
+    1
+   ],
+   [
+    "beflawlessmn.com",
+    1,
+    275,
+    1
+   ],
+   [
+    "page:joanna woodley",
+    1,
+    244,
+    1
+   ],
+   [
+    "shopseravita.com",
+    2,
+    239,
+    1
+   ],
+   [
+    "page:emily weston",
+    1,
+    229,
+    1
+   ],
+   [
+    "page:beauty from bees",
+    2,
+    219,
+    1
+   ],
+   [
+    "page:lauren watts",
+    1,
+    206,
+    1
+   ],
+   [
+    "spaoffers.co",
+    1,
+    199,
+    1
+   ],
+   [
+    "drmtlgy.com",
+    19,
+    190,
+    2
+   ],
+   [
+    "myskindealer.com",
+    1,
+    184,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "chin_wrap",
+  "phrase": "double chin",
+  "active": 7600,
+  "aged90": 570,
+  "aged180": 140,
+  "p90": 0.075,
+  "p180": 0.018,
+  "sample": 63,
+  "stores": 43,
+  "stores90": 32,
+  "top": [
+   [
+    "thestudiomd.com",
+    1,
+    778,
+    1
+   ],
+   [
+    "page:osanyin herbal wellness",
+    1,
+    667,
+    1
+   ],
+   [
+    "osanyinherbs.com",
+    1,
+    529,
+    1
+   ],
+   [
+    "page:trueformmedspa",
+    1,
+    494,
+    1
+   ],
+   [
+    "page:airsculpt",
+    11,
+    493,
+    1
+   ],
+   [
+    "page:ageless by isabelle wilcox",
+    1,
+    450,
+    1
+   ],
+   [
+    "page:rejuveantiaging",
+    1,
+    436,
+    1
+   ],
+   [
+    "page:monarch md medical aesthetics and wellness clinic",
+    1,
+    366,
+    1
+   ],
+   [
+    "weareluna.store",
+    2,
+    362,
+    1
+   ],
+   [
+    "tryskult.com",
+    5,
+    327,
+    2
+   ],
+   [
+    "mariahbeautyservice.com",
+    1,
+    311,
+    1
+   ],
+   [
+    "page:helios aesthetic center",
+    1,
+    285,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "color_foundation",
+  "phrase": "color changing foundation",
+  "active": 12000,
+  "aged90": 1200,
+  "aged180": 120,
+  "p90": 0.1,
+  "p180": 0.01,
+  "sample": 70,
+  "stores": 13,
+  "stores90": 9,
+  "top": [
+   [
+    "magnixa.com",
+    1,
+    481,
+    1
+   ],
+   [
+    "primeprometics.com",
+    22,
+    470,
+    3
+   ],
+   [
+    "trylumineskin.com",
+    5,
+    367,
+    2
+   ],
+   [
+    "vimacosmetics.com",
+    2,
+    342,
+    1
+   ],
+   [
+    "shopbeautylust.com",
+    1,
+    197,
+    1
+   ],
+   [
+    "hestiacosmetics.com",
+    4,
+    191,
+    1
+   ],
+   [
+    "page:serentia shop",
+    2,
+    163,
+    1
+   ],
+   [
+    "smooche.com",
+    58,
+    155,
+    4
+   ],
+   [
+    "trynova.store",
+    3,
+    96,
+    1
+   ],
+   [
+    "page:claire parker",
+    1,
+    74,
+    1
+   ],
+   [
+    "facelove-cosmetics.com",
+    5,
+    62,
+    2
+   ],
+   [
+    "dermamuse.co",
+    1,
+    22,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "compression_socks",
+  "phrase": "compression socks",
+  "active": 15000,
+  "aged90": 2200,
+  "aged180": 610,
+  "p90": 0.147,
+  "p180": 0.041,
+  "sample": 33,
+  "stores": 10,
+  "stores90": 9,
+  "top": [
+   [
+    "everstridesocks.com",
+    30,
+    789,
+    6
+   ],
+   [
+    "mommycarekits.com",
+    1,
+    446,
+    1
+   ],
+   [
+    "senzio.store",
+    1,
+    442,
+    1
+   ],
+   [
+    "hushedsocks.com",
+    2,
+    405,
+    1
+   ],
+   [
+    "pacas.com",
+    1,
+    383,
+    1
+   ],
+   [
+    "page:truform",
+    1,
+    367,
+    1
+   ],
+   [
+    "onecompress.com",
+    2,
+    215,
+    2
+   ],
+   [
+    "comradsocks.com",
+    1,
+    190,
+    1
+   ],
+   [
+    "sockwellusa.com",
+    1,
+    123,
+    1
+   ],
+   [
+    "bombas.com",
+    1,
+    15,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "dog_fountain",
+  "phrase": "water fountain",
+  "active": 2800,
+  "aged90": 190,
+  "aged180": 22,
+  "p90": 0.068,
+  "p180": 0.008,
+  "sample": 50,
+  "stores": 23,
+  "stores90": 18,
+  "top": [
+   [
+    "propondandlakes.com",
+    1,
+    1494,
+    1
+   ],
+   [
+    "page:trending news a",
+    2,
+    348,
+    1
+   ],
+   [
+    "formulaaffiliate.com",
+    1,
+    253,
+    1
+   ],
+   [
+    "lilesy.com",
+    1,
+    215,
+    1
+   ],
+   [
+    "theflowzy.com",
+    2,
+    201,
+    1
+   ],
+   [
+    "winkflo.com",
+    1,
+    200,
+    1
+   ],
+   [
+    "page:pets bring joy rescue",
+    1,
+    179,
+    1
+   ],
+   [
+    "activelyblack.com",
+    1,
+    178,
+    1
+   ],
+   [
+    "page:try pure",
+    2,
+    162,
+    1
+   ],
+   [
+    "page:scooter the neutered cat",
+    1,
+    144,
+    1
+   ],
+   [
+    "page:petkitofficial",
+    1,
+    137,
+    1
+   ],
+   [
+    "page:debra peters",
+    1,
+    135,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "exfoliating_towel",
+  "phrase": "exfoliating towel",
+  "active": 460,
+  "aged90": 130,
+  "aged180": 64,
+  "p90": 0.283,
+  "p180": 0.139,
+  "sample": 54,
+  "stores": 11,
+  "stores90": 8,
+  "top": [
+   [
+    "page:alorin",
+    28,
+    319,
+    1
+   ],
+   [
+    "goshi.com",
+    2,
+    294,
+    1
+   ],
+   [
+    "page:katie davis",
+    5,
+    257,
+    1
+   ],
+   [
+    "page:emily weston",
+    1,
+    229,
+    1
+   ],
+   [
+    "melbob.com",
+    1,
+    223,
+    1
+   ],
+   [
+    "simabrand.com",
+    1,
+    149,
+    1
+   ],
+   [
+    "page:the deals directory",
+    1,
+    149,
+    1
+   ],
+   [
+    "page:susan miller",
+    5,
+    106,
+    1
+   ],
+   [
+    "blissal.com",
+    9,
+    48,
+    3
+   ],
+   [
+    "page:olay",
+    3,
+    37,
+    1
+   ],
+   [
+    "ecoviabrand.com",
+    1,
+    23,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "hair_removal_cream",
+  "phrase": "hair removal cream",
+  "active": 2600,
+  "aged90": 630,
+  "aged180": 76,
+  "p90": 0.242,
+  "p180": 0.029,
+  "sample": 63,
+  "stores": 23,
+  "stores90": 15,
+  "top": [
+   [
+    "shopluuma.com",
+    12,
+    500,
+    1
+   ],
+   [
+    "bumzzy.com",
+    4,
+    414,
+    1
+   ],
+   [
+    "page:savannah grace",
+    1,
+    277,
+    1
+   ],
+   [
+    "aurlux.co",
+    6,
+    267,
+    1
+   ],
+   [
+    "page:pcos and me",
+    1,
+    267,
+    1
+   ],
+   [
+    "page:the pcos doctor",
+    2,
+    265,
+    1
+   ],
+   [
+    "simplesnatched.com",
+    2,
+    241,
+    1
+   ],
+   [
+    "anrdre.com",
+    1,
+    240,
+    1
+   ],
+   [
+    "page:margaret",
+    3,
+    201,
+    1
+   ],
+   [
+    "page:macrolook.net",
+    1,
+    194,
+    1
+   ],
+   [
+    "page:barbara",
+    3,
+    153,
+    1
+   ],
+   [
+    "page:megan",
+    3,
+    145,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "hair_serum",
+  "phrase": "hair growth serum",
+  "active": 3000,
+  "aged90": 220,
+  "aged180": 53,
+  "p90": 0.073,
+  "p180": 0.018,
+  "sample": 50,
+  "stores": 25,
+  "stores90": 20,
+  "top": [
+   [
+    "page:gardenpurejoy selections",
+    2,
+    644,
+    1
+   ],
+   [
+    "jcsmiracleproducts.com",
+    3,
+    543,
+    1
+   ],
+   [
+    "page:mar\u00e9e",
+    3,
+    348,
+    1
+   ],
+   [
+    "officialbodywise.com",
+    11,
+    345,
+    1
+   ],
+   [
+    "cphgrooming.com",
+    1,
+    257,
+    1
+   ],
+   [
+    "reversehairco.com",
+    1,
+    226,
+    1
+   ],
+   [
+    "averastore.co",
+    7,
+    219,
+    1
+   ],
+   [
+    "rennorabeauty.com",
+    1,
+    212,
+    1
+   ],
+   [
+    "hinu.co",
+    1,
+    211,
+    1
+   ],
+   [
+    "kerotin.com",
+    1,
+    197,
+    1
+   ],
+   [
+    "vedix.com",
+    2,
+    189,
+    2
+   ],
+   [
+    "everymarket.com",
+    1,
+    183,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "lash_serum",
+  "phrase": "lash serum",
+  "active": 3200,
+  "aged90": 400,
+  "aged180": 90,
+  "p90": 0.125,
+  "p180": 0.028,
+  "sample": 57,
+  "stores": 24,
+  "stores90": 17,
+  "top": [
+   [
+    "borboleta.com",
+    6,
+    725,
+    2
+   ],
+   [
+    "page:natural beauty by melissa rae",
+    6,
+    626,
+    1
+   ],
+   [
+    "page:nicole wagner",
+    5,
+    590,
+    1
+   ],
+   [
+    "page:mastering inner & outer beauty-hollie o'brien",
+    1,
+    466,
+    1
+   ],
+   [
+    "page:lilash beauty",
+    1,
+    414,
+    1
+   ],
+   [
+    "moxielash.com",
+    6,
+    349,
+    1
+   ],
+   [
+    "page:ama lash bar",
+    1,
+    341,
+    1
+   ],
+   [
+    "babeoriginal.com",
+    3,
+    211,
+    1
+   ],
+   [
+    "page:revitalash cosmetics",
+    1,
+    196,
+    1
+   ],
+   [
+    "diablocosmetics.com",
+    1,
+    192,
+    1
+   ],
+   [
+    "facelove-cosmetics.com",
+    3,
+    154,
+    2
+   ],
+   [
+    "sephora.com",
+    1,
+    136,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "magnesium_spray",
+  "phrase": "magnesium spray",
+  "active": 510,
+  "aged90": 72,
+  "aged180": 53,
+  "p90": 0.141,
+  "p180": 0.104,
+  "sample": 51,
+  "stores": 13,
+  "stores90": 5,
+  "top": [
+   [
+    "ozcogoods.com",
+    1,
+    443,
+    1
+   ],
+   [
+    "sringe.com",
+    29,
+    193,
+    3
+   ],
+   [
+    "magsskin.com",
+    1,
+    136,
+    1
+   ],
+   [
+    "page:migraine relief blog",
+    1,
+    100,
+    1
+   ],
+   [
+    "pioneerpam.com",
+    1,
+    95,
+    1
+   ],
+   [
+    "page:vita prima",
+    2,
+    88,
+    1
+   ],
+   [
+    "bramblea.com",
+    1,
+    52,
+    1
+   ],
+   [
+    "page:laura peterson",
+    3,
+    29,
+    1
+   ],
+   [
+    "page:nerve support community",
+    2,
+    29,
+    1
+   ],
+   [
+    "trendhunter.com",
+    2,
+    17,
+    1
+   ],
+   [
+    "getblessedbotanicals.com",
+    2,
+    17,
+    1
+   ],
+   [
+    "drteals.com",
+    6,
+    15,
+    2
+   ]
+  ]
+ },
+ {
+  "pid": "neck_cream",
+  "phrase": "neck cream",
+  "active": 4200,
+  "aged90": 420,
+  "aged180": 83,
+  "p90": 0.1,
+  "p180": 0.02,
+  "sample": 54,
+  "stores": 11,
+  "stores90": 10,
+  "top": [
+   [
+    "sreemed.com",
+    1,
+    722,
+    1
+   ],
+   [
+    "particleformen.com",
+    4,
+    274,
+    1
+   ],
+   [
+    "vibriance.com",
+    36,
+    225,
+    11
+   ],
+   [
+    "page:beauty after 50",
+    4,
+    225,
+    1
+   ],
+   [
+    "whatgracebought.com",
+    1,
+    220,
+    1
+   ],
+   [
+    "nourishmax.com",
+    1,
+    189,
+    1
+   ],
+   [
+    "kindscience.com",
+    1,
+    157,
+    1
+   ],
+   [
+    "saeskyn.com",
+    2,
+    151,
+    1
+   ],
+   [
+    "eightsaintsskincare.com",
+    2,
+    138,
+    1
+   ],
+   [
+    "imaree.com",
+    1,
+    92,
+    1
+   ],
+   [
+    "page:fr\u00f8ya organics",
+    2,
+    65,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "persimmon_soap",
+  "phrase": "persimmon soap",
+  "active": 2700,
+  "aged90": 130,
+  "aged180": 11,
+  "p90": 0.048,
+  "p180": 0.004,
+  "sample": 47,
+  "stores": 10,
+  "stores90": 7,
+  "top": [
+   [
+    "miraiclinical.com",
+    12,
+    492,
+    1
+   ],
+   [
+    "page:grandma's glow",
+    7,
+    206,
+    1
+   ],
+   [
+    "try-kaori.com",
+    11,
+    173,
+    2
+   ],
+   [
+    "page:linda doxey",
+    2,
+    164,
+    1
+   ],
+   [
+    "page:grandma's care journal",
+    2,
+    162,
+    1
+   ],
+   [
+    "page:sara garret",
+    3,
+    126,
+    1
+   ],
+   [
+    "page:margaret whittaker",
+    2,
+    98,
+    1
+   ],
+   [
+    "swarva.com",
+    3,
+    84,
+    1
+   ],
+   [
+    "kakiyucare.com",
+    4,
+    78,
+    3
+   ],
+   [
+    "page:dr. margaret ellis",
+    1,
+    72,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "pore_patch",
+  "phrase": "pore patches",
+  "active": 1,
+  "aged90": 1,
+  "aged180": 0,
+  "p90": 1.0,
+  "p180": 0.0,
+  "sample": 1,
+  "stores": 1,
+  "stores90": 1,
+  "top": [
+   [
+    "vueswiss.com",
+    1,
+    178,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "prewash_oil",
+  "phrase": "pre wash",
+  "active": 500,
+  "aged90": 71,
+  "aged180": 11,
+  "p90": 0.142,
+  "p180": 0.022,
+  "sample": 48,
+  "stores": 36,
+  "stores90": 23,
+  "top": [
+   [
+    "sockcatcher.com",
+    1,
+    1375,
+    1
+   ],
+   [
+    "page:fresh laundromat on cicero",
+    1,
+    987,
+    1
+   ],
+   [
+    "page:pronounce labs",
+    1,
+    358,
+    1
+   ],
+   [
+    "ekmiveda.com",
+    6,
+    337,
+    2
+   ],
+   [
+    "page:rc luxury detail",
+    1,
+    271,
+    1
+   ],
+   [
+    "page:grid werks automotive llc",
+    1,
+    222,
+    1
+   ],
+   [
+    "page:active",
+    1,
+    204,
+    1
+   ],
+   [
+    "page:number 4 high performance hair care",
+    1,
+    198,
+    1
+   ],
+   [
+    "fashionfabricsclub.com",
+    2,
+    191,
+    1
+   ],
+   [
+    "page:rhute hair",
+    6,
+    169,
+    1
+   ],
+   [
+    "healthyhomeadvocates.org",
+    1,
+    163,
+    1
+   ],
+   [
+    "forteseries.com",
+    2,
+    162,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "rosemary_oil",
+  "phrase": "rosemary oil",
+  "active": 4300,
+  "aged90": 260,
+  "aged180": 60,
+  "p90": 0.06,
+  "p180": 0.014,
+  "sample": 59,
+  "stores": 35,
+  "stores90": 21,
+  "top": [
+   [
+    "exotichairdoctor.com",
+    1,
+    2860,
+    1
+   ],
+   [
+    "jcsmiracleproducts.com",
+    6,
+    622,
+    1
+   ],
+   [
+    "hairqare.co",
+    2,
+    411,
+    1
+   ],
+   [
+    "page:self care from maree",
+    10,
+    267,
+    1
+   ],
+   [
+    "lgbeauty.com",
+    1,
+    254,
+    1
+   ],
+   [
+    "page:ella & eden",
+    1,
+    240,
+    1
+   ],
+   [
+    "vitaecharm.com",
+    4,
+    221,
+    1
+   ],
+   [
+    "officialbodywise.com",
+    8,
+    212,
+    1
+   ],
+   [
+    "page:laura bennett",
+    1,
+    208,
+    1
+   ],
+   [
+    "spoiledchild.com",
+    6,
+    207,
+    2
+   ],
+   [
+    "sringe.com",
+    1,
+    193,
+    1
+   ],
+   [
+    "page:james kilgour, md",
+    6,
+    192,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "scent_diffuser",
+  "phrase": "scent diffuser",
+  "active": 690,
+  "aged90": 110,
+  "aged180": 18,
+  "p90": 0.159,
+  "p180": 0.026,
+  "sample": 42,
+  "stores": 13,
+  "stores90": 11,
+  "top": [
+   [
+    "scentifyhome.com",
+    8,
+    795,
+    1
+   ],
+   [
+    "scentfinity.com",
+    1,
+    535,
+    1
+   ],
+   [
+    "alltimeairconditioning.com",
+    1,
+    297,
+    1
+   ],
+   [
+    "houseofduaa.com",
+    1,
+    236,
+    1
+   ],
+   [
+    "aurahouse.com",
+    3,
+    200,
+    3
+   ],
+   [
+    "page:toretark shop",
+    1,
+    190,
+    1
+   ],
+   [
+    "page:the adam olsen team",
+    1,
+    183,
+    1
+   ],
+   [
+    "hotelcollection.com",
+    20,
+    162,
+    6
+   ],
+   [
+    "aroma360.com",
+    3,
+    157,
+    2
+   ],
+   [
+    "page:the magic scent",
+    2,
+    114,
+    1
+   ],
+   [
+    "drift.co",
+    4,
+    92,
+    2
+   ],
+   [
+    "page:olfiastudio",
+    2,
+    55,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "shower_filter",
+  "phrase": "shower filter",
+  "active": 1200,
+  "aged90": 240,
+  "aged180": 24,
+  "p90": 0.2,
+  "p180": 0.02,
+  "sample": 33,
+  "stores": 13,
+  "stores90": 10,
+  "top": [
+   [
+    "page:sproos",
+    17,
+    509,
+    2
+   ],
+   [
+    "page:tubo",
+    4,
+    344,
+    1
+   ],
+   [
+    "page:weddell water",
+    2,
+    244,
+    1
+   ],
+   [
+    "filterbaby.com",
+    7,
+    184,
+    2
+   ],
+   [
+    "santevia.com",
+    5,
+    178,
+    1
+   ],
+   [
+    "page:gary brecka",
+    1,
+    163,
+    1
+   ],
+   [
+    "page:the glow",
+    1,
+    135,
+    1
+   ],
+   [
+    "purewaterfreedom.com",
+    1,
+    130,
+    1
+   ],
+   [
+    "page:james harrington md",
+    2,
+    110,
+    1
+   ],
+   [
+    "aquatru.com",
+    2,
+    96,
+    1
+   ],
+   [
+    "aquasana.com",
+    3,
+    75,
+    1
+   ],
+   [
+    "vitaprima.com",
+    1,
+    54,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "tallow_balm",
+  "phrase": "tallow balm",
+  "active": 2500,
+  "aged90": 220,
+  "aged180": 52,
+  "p90": 0.088,
+  "p180": 0.021,
+  "sample": 59,
+  "stores": 19,
+  "stores90": 16,
+  "top": [
+   [
+    "page:hibi youth skincare",
+    5,
+    703,
+    1
+   ],
+   [
+    "ancestralcosmetics.com",
+    11,
+    348,
+    1
+   ],
+   [
+    "byminus.com",
+    3,
+    310,
+    1
+   ],
+   [
+    "bare-ritual.com",
+    8,
+    301,
+    1
+   ],
+   [
+    "cattle-creek.com",
+    1,
+    297,
+    1
+   ],
+   [
+    "page:cinder brands",
+    1,
+    285,
+    1
+   ],
+   [
+    "wildgoldtallow.com",
+    6,
+    268,
+    1
+   ],
+   [
+    "magnolia.com",
+    2,
+    267,
+    1
+   ],
+   [
+    "summersolacetallow.com",
+    1,
+    247,
+    1
+   ],
+   [
+    "toupsandco.com",
+    6,
+    206,
+    1
+   ],
+   [
+    "thetallowedtruth.com",
+    9,
+    159,
+    2
+   ],
+   [
+    "thepapabear.com",
+    1,
+    155,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "turmeric_soap",
+  "phrase": "turmeric soap",
+  "active": 330,
+  "aged90": 24,
+  "aged180": 14,
+  "p90": 0.073,
+  "p180": 0.042,
+  "sample": 45,
+  "stores": 12,
+  "stores90": 9,
+  "top": [
+   [
+    "glomelanin.com",
+    1,
+    337,
+    1
+   ],
+   [
+    "earthlyderm.com",
+    25,
+    253,
+    9
+   ],
+   [
+    "page:florigene esuma",
+    2,
+    210,
+    1
+   ],
+   [
+    "trystrawberry.com",
+    2,
+    182,
+    2
+   ],
+   [
+    "honeyglownewyork.com",
+    2,
+    173,
+    2
+   ],
+   [
+    "herbneden.com",
+    3,
+    130,
+    1
+   ],
+   [
+    "fourerasbeauty.com",
+    1,
+    111,
+    1
+   ],
+   [
+    "stemandsoul.co",
+    3,
+    105,
+    1
+   ],
+   [
+    "merakihealthy.com",
+    1,
+    95,
+    1
+   ],
+   [
+    "kashcosmetics.com",
+    1,
+    68,
+    1
+   ],
+   [
+    "trykaoli.com",
+    5,
+    9,
+    1
+   ],
+   [
+    "nolimitbeautyshop.com",
+    1,
+    1,
+    1
+   ]
+  ]
+ },
+ {
+  "pid": "whitening_powder",
+  "phrase": "whitening powder",
+  "active": 150,
+  "aged90": 2,
+  "aged180": 0,
+  "p90": 0.013,
+  "p180": 0.0,
+  "sample": 36,
+  "stores": 11,
+  "stores90": 2,
+  "top": [
+   [
+    "dailysale.com",
+    1,
+    174,
+    1
+   ],
+   [
+    "trywhyteproducts.com",
+    15,
+    105,
+    3
+   ],
+   [
+    "trymooths.com",
+    4,
+    76,
+    2
+   ],
+   [
+    "boka.com",
+    8,
+    67,
+    1
+   ],
+   [
+    "ecobrightsmile.com",
+    4,
+    60,
+    1
+   ],
+   [
+    "oralcarereviews.com",
+    3,
+    50,
+    1
+   ],
+   [
+    "thenewfind.com",
+    1,
+    37,
+    1
+   ],
+   [
+    "markedscripts.com",
+    1,
+    36,
+    1
+   ],
+   [
+    "lucentglobe.com",
+    1,
+    30,
+    1
+   ],
+   [
+    "livingwellwithdrmichelle.com",
+    2,
+    25,
+    1
+   ],
+   [
+    "page:healthy living",
+    2,
+    15,
+    1
+   ]
+  ]
+ }
+]

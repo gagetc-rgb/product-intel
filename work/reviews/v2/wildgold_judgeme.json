@@ -1,0 +1,113 @@
+{
+ "label": "wildgold",
+ "shop": "mvdmxq-fz.myshopify.com",
+ "total_product_reviews": 145,
+ "all_feed_n": 145,
+ "all_feed_capped": false,
+ "all_window_from": "2025-06-19",
+ "non5_n": 18,
+ "non5_from": "2025-06-19",
+ "k_all_per_non5": 8.06,
+ "k_recent": 8.47,
+ "non5_capped": false,
+ "calib_months": [
+  "2025-06",
+  "2025-07",
+  "2025-08",
+  "2025-09",
+  "2025-10",
+  "2025-11",
+  "2025-12",
+  "2026-01",
+  "2026-02",
+  "2026-03",
+  "2026-04",
+  "2026-05",
+  "2026-08",
+  "2026-09",
+  "2026-10"
+ ],
+ "monthly": {
+  "2025-06": {
+   "all_exact": 5,
+   "non5": 2,
+   "est": 5
+  },
+  "2025-07": {
+   "all_exact": 4,
+   "non5": 0,
+   "est": 4
+  },
+  "2025-08": {
+   "all_exact": 10,
+   "non5": 3,
+   "est": 10
+  },
+  "2025-09": {
+   "all_exact": 14,
+   "non5": 0,
+   "est": 14
+  },
+  "2025-10": {
+   "all_exact": 29,
+   "non5": 4,
+   "est": 29
+  },
+  "2025-11": {
+   "all_exact": 35,
+   "non5": 3,
+   "est": 35
+  },
+  "2025-12": {
+   "all_exact": 6,
+   "non5": 0,
+   "est": 6
+  },
+  "2026-01": {
+   "all_exact": 1,
+   "non5": 0,
+   "est": 1
+  },
+  "2026-02": {
+   "all_exact": 4,
+   "non5": 1,
+   "est": 4
+  },
+  "2026-03": {
+   "all_exact": 14,
+   "non5": 1,
+   "est": 14
+  },
+  "2026-04": {
+   "all_exact": 7,
+   "non5": 0,
+   "est": 7
+  },
+  "2026-05": {
+   "all_exact": 6,
+   "non5": 0,
+   "est": 6
+  },
+  "2026-08": {
+   "all_exact": 2,
+   "non5": 1,
+   "est": 2
+  },
+  "2026-09": {
+   "all_exact": 3,
+   "non5": 1,
+   "est": 3
+  },
+  "2026-10": {
+   "all_exact": 4,
+   "non5": 1,
+   "est": 4
+  },
+  "2026-11": {
+   "all_exact": 1,
+   "non5": 1,
+   "est": 1
+  }
+ },
+ "partial_month": "2026-11"
+}

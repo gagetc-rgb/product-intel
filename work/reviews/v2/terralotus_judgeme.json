@@ -1,0 +1,155 @@
+{
+ "label": "terralotus",
+ "shop": "20e2e7-b6.myshopify.com",
+ "total_product_reviews": 4358,
+ "all_feed_n": 1000,
+ "all_feed_capped": true,
+ "all_window_from": "2026-08-31",
+ "non5_n": 1139,
+ "non5_from": "2024-04-28",
+ "k_all_per_non5": 3.83,
+ "k_recent": 2.48,
+ "non5_capped": false,
+ "calib_months": [
+  "2026-09",
+  "2026-10"
+ ],
+ "monthly": {
+  "2024-04": {
+   "all_exact": null,
+   "non5": 1,
+   "est": 4
+  },
+  "2024-05": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 8
+  },
+  "2024-06": {
+   "all_exact": null,
+   "non5": 1,
+   "est": 4
+  },
+  "2024-08": {
+   "all_exact": null,
+   "non5": 1,
+   "est": 4
+  },
+  "2025-01": {
+   "all_exact": null,
+   "non5": 8,
+   "est": 31
+  },
+  "2025-02": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 11
+  },
+  "2025-03": {
+   "all_exact": null,
+   "non5": 7,
+   "est": 27
+  },
+  "2025-04": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 15
+  },
+  "2025-05": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 15
+  },
+  "2025-06": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 19
+  },
+  "2025-07": {
+   "all_exact": null,
+   "non5": 12,
+   "est": 46
+  },
+  "2025-08": {
+   "all_exact": null,
+   "non5": 15,
+   "est": 57
+  },
+  "2025-09": {
+   "all_exact": null,
+   "non5": 8,
+   "est": 31
+  },
+  "2025-10": {
+   "all_exact": null,
+   "non5": 11,
+   "est": 42
+  },
+  "2025-11": {
+   "all_exact": null,
+   "non5": 7,
+   "est": 27
+  },
+  "2025-12": {
+   "all_exact": null,
+   "non5": 9,
+   "est": 34
+  },
+  "2026-01": {
+   "all_exact": null,
+   "non5": 6,
+   "est": 23
+  },
+  "2026-02": {
+   "all_exact": null,
+   "non5": 9,
+   "est": 34
+  },
+  "2026-03": {
+   "all_exact": null,
+   "non5": 17,
+   "est": 65
+  },
+  "2026-04": {
+   "all_exact": null,
+   "non5": 16,
+   "est": 61
+  },
+  "2026-05": {
+   "all_exact": null,
+   "non5": 11,
+   "est": 42
+  },
+  "2026-06": {
+   "all_exact": null,
+   "non5": 86,
+   "est": 329
+  },
+  "2026-07": {
+   "all_exact": null,
+   "non5": 155,
+   "est": 593
+  },
+  "2026-08": {
+   "all_exact": null,
+   "non5": 352,
+   "est": 1347
+  },
+  "2026-09": {
+   "all_exact": 488,
+   "non5": 209,
+   "est": 488
+  },
+  "2026-10": {
+   "all_exact": 336,
+   "non5": 123,
+   "est": 336
+  },
+  "2026-11": {
+   "all_exact": 133,
+   "non5": 57,
+   "est": 133
+  }
+ },
+ "partial_month": "2026-11"
+}

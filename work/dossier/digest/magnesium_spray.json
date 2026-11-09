@@ -1,0 +1,311 @@
+{
+ "pid": "magnesium_spray",
+ "name": "Topical magnesium oil spray",
+ "verdict_row": {
+  "pid": "magnesium_spray",
+  "name": "Topical magnesium oil spray",
+  "flag": "",
+  "shelf": 60250,
+  "nb": 1250,
+  "gen": 4500,
+  "winB": 0,
+  "winG": 2,
+  "price": 15.99,
+  "act": 510,
+  "a30": 120,
+  "a90": 72,
+  "a180": 53,
+  "stores": 13,
+  "stores90": 5,
+  "trend": 0.97,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 4550
+ },
+ "amazon_us": {
+  "listings_on_target": 190,
+  "shelf_units": 60250,
+  "units_by_brand_age": {
+   "24+": 40150,
+   "6-12": 3950,
+   "12-24": 15800,
+   "0-6": 350
+  },
+  "units_by_kind": {
+   "generic_old": 13750,
+   "old_brand": 26400,
+   "generic_new": 4500,
+   "older_brand_new_here": 14350,
+   "new_brand": 1250
+  },
+  "top_brands": [
+   {
+    "key": "drteal",
+    "units": 13000,
+    "listings": 3,
+    "best": {
+     "asin": "B0GWRN8L88",
+     "title": "Dr Teal's Magnesium Lavender Spray with Natural Dead Sea Salt, 8 fl oz (Pack of 2)",
+     "units": 8000,
+     "price": "$14.30",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/711Tbb+ycAL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 13,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "seven",
+    "units": 10300,
+    "listings": 10,
+    "best": {
+     "asin": "B00Q78C1EW",
+     "title": "Seven Minerals Magnesium Oil Spray for Sleep, Leg Cramps & Feet, Big 12 oz",
+     "units": 9000,
+     "price": "$19.95",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61ODtWG-aLL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "ancient",
+    "units": 5400,
+    "listings": 5,
+    "best": {
+     "asin": "B001AD0HL8",
+     "title": "Ancient Minerals Magnesium Oil Spray, Zechstein Chloride, 8oz",
+     "units": 2000,
+     "price": "$19.95",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61o3TppiDHL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "asutra",
+    "units": 3400,
+    "listings": 3,
+    "best": {
+     "asin": "B01CKEBF48",
+     "title": "ASUTRA Zechstein Pure Magnesium Oil Spray for Feet and Leg Cramps, Topical",
+     "units": 3000,
+     "price": "$13.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/51oeVXiYwLL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "artnaturals",
+    "units": 1300,
+    "listings": 2,
+    "best": {
+     "asin": "B0D5NZ8ZYC",
+     "title": "ArtNaturals Magnesium Oil Spray & Body Lotion Set",
+     "units": 1000,
+     "price": "$24.95",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81x5kw9T78L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 29,
+    "status": "old"
+   },
+   {
+    "key": "life",
+    "units": 1150,
+    "listings": 8,
+    "best": {
+     "asin": "B004NHN9OA",
+     "title": "LIFE-FLO Magnesium Oil Spray, 8 fl oz",
+     "units": 1000,
+     "price": "$12.49",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61Dd5KkNN5L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "nowsolutions",
+    "units": 1000,
+    "listings": 1,
+    "best": {
+     "asin": "B01ABWFGA0",
+     "title": "Now Solutions, Magnesium Topical Spray, from the Ancient Seabed, 8 fl. oz",
+     "units": 1000,
+     "price": "$7.19",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61CqRKS7OeL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "cymbiotika",
+    "units": 1000,
+    "listings": 2,
+    "best": {
+     "asin": "B09HW89YYQ",
+     "title": "CYMBIOTIKA Topical Magnesium Oil Spray for Muscles, Recovery & Sleep",
+     "units": 1000,
+     "price": "$30.59",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61Lz5gxhRlL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 61,
+    "status": "old"
+   },
+   {
+    "key": "plusone",
+    "units": 1000,
+    "listings": 1,
+    "best": {
+     "asin": "B0FLTHH2WQ",
+     "title": "plusOne Restful Magnesium Sleep Spray, Lavender & Ashwagandha Spray",
+     "units": 1000,
+     "price": "$9.94",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/61Dim0a3d9L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 15,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "alomagnesium",
+    "units": 800,
+    "listings": 1,
+    "best": {
+     "asin": "B0CJ3GJBM3",
+     "title": "Alo Magnesium Oil Spray, Sleep & Relaxation + Muscle Recovery, 3.2 oz",
+     "units": 800,
+     "price": "$48.00",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/51JUaXGm-4L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 39,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    6000,
+    "B01N0KQ9QJ",
+    "Pure Magnesium Oil Spray for Sleep, Feet & Leg Cramps - USP Grade - 8oz",
+    "$12.97",
+    null
+   ],
+   [
+    3000,
+    "B0D2VK1F47",
+    "Magnesium Spray, Pure Magnesium Oil Spray for Feet, Natural Ingredient in Glass ",
+    "$12.99",
+    null
+   ],
+   [
+    1000,
+    "B0GC66MT76",
+    "Magnesium Lotion & Magnesium Oil Spray Set with Arnica & Lavender, Topical Magne",
+    "$9.99",
+    null
+   ],
+   [
+    1000,
+    "B0FWT44LCV",
+    "Pure Magnesium Oil Spray for Sleep, Feet & Leg Cramps - 8oz - 2 Pack",
+    "$22.97",
+    null
+   ]
+  ],
+  "winners_1k": 19
+ },
+ "price_us": {
+  "price_usd_median": 15.99,
+  "price_usd_p25_p75": [
+   11.99,
+   19.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "magnesium spray",
+  "active": 510,
+  "aged30": 120,
+  "aged90": 72,
+  "aged180": 53,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "ozcogoods.com",
+   1,
+   443,
+   1
+  ],
+  [
+   "sringe.com",
+   29,
+   193,
+   3
+  ],
+  [
+   "magsskin.com",
+   1,
+   136,
+   1
+  ],
+  [
+   "page:migraine relief blog",
+   1,
+   100,
+   1
+  ],
+  [
+   "pioneerpam.com",
+   1,
+   95,
+   1
+  ],
+  [
+   "page:vita prima",
+   2,
+   88,
+   1
+  ],
+  [
+   "bramblea.com",
+   1,
+   52,
+   1
+  ],
+  [
+   "page:laura peterson",
+   3,
+   29,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "magnesium spray",
+  "rel_yoy": 0.97,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "105.4",
+ "creatives": []
+}

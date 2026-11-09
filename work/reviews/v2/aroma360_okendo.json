@@ -1,0 +1,532 @@
+{
+ "label": "aroma360",
+ "domain": "aroma360.com",
+ "subscriberId": "0b29342d-8761-4524-8ffc-ec1d5a3c50c9",
+ "total": 50970,
+ "counted": 9813,
+ "cutoff": "2024-07",
+ "monthly": {
+  "2024-07": {
+   "all": 1319,
+   "below5": 19,
+   "top_products": [
+    [
+     "Disney Mini Pro Scent Diffuser",
+     295
+    ],
+    [
+     "Star Wars\u2122 Studio Pro Scent Diffuser",
+     129
+    ],
+    [
+     "Princess Smart Car Diffuser\u2122",
+     99
+    ]
+   ]
+  },
+  "2024-08": {
+   "all": 733,
+   "below5": 29,
+   "top_products": [
+    [
+     "My Way.",
+     75
+    ],
+    [
+     "Bougie Sand Wax Set",
+     70
+    ],
+    [
+     "Grande Ceramic Vessel",
+     48
+    ]
+   ]
+  },
+  "2024-09": {
+   "all": 645,
+   "below5": 68,
+   "top_products": [
+    [
+     "My Way.",
+     62
+    ],
+    [
+     "SPKR XL\u2122 Scent Diffuser",
+     50
+    ],
+    [
+     "SPKR\u2122 Scent Diffuser",
+     50
+    ]
+   ]
+  },
+  "2024-10": {
+   "all": 758,
+   "below5": 70,
+   "top_products": [
+    [
+     "My Way.",
+     54
+    ],
+    [
+     "Crimson Woods",
+     49
+    ],
+    [
+     "NBA Smart Car Diffuser\u2122",
+     35
+    ]
+   ]
+  },
+  "2024-11": {
+   "all": 246,
+   "below5": 26,
+   "top_products": [
+    [
+     "Disney My Way Candle",
+     27
+    ],
+    [
+     "Star Wars\u2122 My Way Candle",
+     22
+    ],
+    [
+     "My Way.",
+     15
+    ]
+   ]
+  },
+  "2024-12": {
+   "all": 232,
+   "below5": 20,
+   "top_products": [
+    [
+     "My Way.",
+     27
+    ],
+    [
+     "Safe Ship Protection",
+     17
+    ],
+    [
+     "Studio Starter Kit",
+     13
+    ]
+   ]
+  },
+  "2025-01": {
+   "all": 367,
+   "below5": 26,
+   "top_products": [
+    [
+     "My Way.",
+     57
+    ],
+    [
+     "Safe Ship Protection",
+     23
+    ],
+    [
+     "Mystery Item - Special Edition",
+     20
+    ]
+   ]
+  },
+  "2025-02": {
+   "all": 244,
+   "below5": 8,
+   "top_products": [
+    [
+     "My Way.",
+     50
+    ],
+    [
+     "Safe Ship Protection",
+     21
+    ],
+    [
+     "Mystery Item - Special Edition",
+     13
+    ]
+   ]
+  },
+  "2025-03": {
+   "all": 190,
+   "below5": 23,
+   "top_products": [
+    [
+     "My Way.",
+     38
+    ],
+    [
+     "Studio Starter Kit",
+     11
+    ],
+    [
+     "Mini Pro Scent Diffuser",
+     10
+    ]
+   ]
+  },
+  "2025-04": {
+   "all": 257,
+   "below5": 16,
+   "top_products": [
+    [
+     "My Way.",
+     32
+    ],
+    [
+     "Studio Starter Kit",
+     15
+    ],
+    [
+     "Mystery Item - Special Edition",
+     14
+    ]
+   ]
+  },
+  "2025-05": {
+   "all": 240,
+   "below5": 32,
+   "top_products": [
+    [
+     "My Way.",
+     38
+    ],
+    [
+     "Safe Ship Protection",
+     15
+    ],
+    [
+     "Studio Starter Kit",
+     11
+    ]
+   ]
+  },
+  "2025-06": {
+   "all": 259,
+   "below5": 32,
+   "top_products": [
+    [
+     "Smart Car Diffuser",
+     24
+    ],
+    [
+     "My Way.",
+     24
+    ],
+    [
+     "Mini 2.0",
+     20
+    ]
+   ]
+  },
+  "2025-07": {
+   "all": 277,
+   "below5": 16,
+   "top_products": [
+    [
+     "My Way.",
+     24
+    ],
+    [
+     "Smart Car Diffuser",
+     23
+    ],
+    [
+     "Mini 2.0",
+     21
+    ]
+   ]
+  },
+  "2025-08": {
+   "all": 273,
+   "below5": 37,
+   "top_products": [
+    [
+     "The STAR WARS \u2122 Light Vs Dark Side Disco",
+     36
+    ],
+    [
+     "My Way.",
+     29
+    ],
+    [
+     "Smart Car Diffuser",
+     27
+    ]
+   ]
+  },
+  "2025-09": {
+   "all": 372,
+   "below5": 27,
+   "top_products": [
+    [
+     "Seasonal Collection (Summer) Discovery S",
+     88
+    ],
+    [
+     "The STAR WARS \u2122 Light Vs Dark Side Disco",
+     48
+    ],
+    [
+     "Aromatherapy Pro-Pod\u2122 Discovery Set",
+     31
+    ]
+   ]
+  },
+  "2025-10": {
+   "all": 233,
+   "below5": 37,
+   "top_products": [
+    [
+     "The STAR WARS \u2122 Light Vs Dark Side Disco",
+     36
+    ],
+    [
+     "Smart Car Diffuser",
+     27
+    ],
+    [
+     "Mini 2.0",
+     22
+    ]
+   ]
+  },
+  "2025-11": {
+   "all": 160,
+   "below5": 22,
+   "top_products": [
+    [
+     "The Monet Scent Diffuser",
+     27
+    ],
+    [
+     "Smart Car Diffuser",
+     23
+    ],
+    [
+     "Mini 2.0",
+     20
+    ]
+   ]
+  },
+  "2025-12": {
+   "all": 209,
+   "below5": 27,
+   "top_products": [
+    [
+     "Smart Car Diffuser",
+     27
+    ],
+    [
+     "Mini 2.0",
+     24
+    ],
+    [
+     "Winter Lust",
+     16
+    ]
+   ]
+  },
+  "2026-01": {
+   "all": 271,
+   "below5": 44,
+   "top_products": [
+    [
+     "Smart Car Diffuser",
+     52
+    ],
+    [
+     "Mini 2.0",
+     51
+    ],
+    [
+     "My Way.",
+     16
+    ]
+   ]
+  },
+  "2026-02": {
+   "all": 186,
+   "below5": 37,
+   "top_products": [
+    [
+     "Smart Car Diffuser",
+     52
+    ],
+    [
+     "Mini 2.0",
+     47
+    ],
+    [
+     "Crystal Oud Pods",
+     14
+    ]
+   ]
+  },
+  "2026-03": {
+   "all": 209,
+   "below5": 45,
+   "top_products": [
+    [
+     "Mini 2.0",
+     59
+    ],
+    [
+     "Smart Car Diffuser",
+     59
+    ],
+    [
+     "Crystal Oud Pods",
+     15
+    ]
+   ]
+  },
+  "2026-04": {
+   "all": 178,
+   "below5": 48,
+   "top_products": [
+    [
+     "Smart Car Diffuser",
+     57
+    ],
+    [
+     "Mini 2.0",
+     51
+    ],
+    [
+     "Kube Portable Scent Diffuser",
+     26
+    ]
+   ]
+  },
+  "2026-05": {
+   "all": 323,
+   "below5": 41,
+   "top_products": [
+    [
+     "DaVinci360 with $500 Voucher",
+     60
+    ],
+    [
+     "Smart Car Diffuser",
+     50
+    ],
+    [
+     "Mini 2.0",
+     41
+    ]
+   ]
+  },
+  "2026-06": {
+   "all": 204,
+   "below5": 9,
+   "top_products": [
+    [
+     "My Way.",
+     40
+    ],
+    [
+     "Free Diffuser Set",
+     32
+    ],
+    [
+     "Dream On\u2122.",
+     15
+    ]
+   ]
+  },
+  "2026-07": {
+   "all": 144,
+   "below5": 2,
+   "top_products": [
+    [
+     "My Way.",
+     28
+    ],
+    [
+     "Free Diffuser Set",
+     20
+    ],
+    [
+     "Midnight in Paris Candle",
+     5
+    ]
+   ]
+  },
+  "2026-08": {
+   "all": 172,
+   "below5": 10,
+   "top_products": [
+    [
+     "My Way.",
+     55
+    ],
+    [
+     "Free Diffuser Set",
+     31
+    ],
+    [
+     "Dream On\u2122.",
+     10
+    ]
+   ]
+  },
+  "2026-09": {
+   "all": 212,
+   "below5": 9,
+   "top_products": [
+    [
+     "My Way.",
+     52
+    ],
+    [
+     "Free Diffuser Set",
+     25
+    ],
+    [
+     "24K Magic\u2122",
+     15
+    ]
+   ]
+  },
+  "2026-10": {
+   "all": 837,
+   "below5": 29,
+   "top_products": [
+    [
+     "Mini 2.0",
+     99
+    ],
+    [
+     "Free Large Diffuser",
+     98
+    ],
+    [
+     "Free DaVinci 2.0 Scent Diffuser with Oil",
+     98
+    ]
+   ]
+  },
+  "2026-11": {
+   "all": 63,
+   "below5": 2,
+   "top_products": [
+    [
+     "My Way.",
+     16
+    ],
+    [
+     "Dream On\u2122",
+     8
+    ],
+    [
+     "Midnight in Paris Candle",
+     7
+    ]
+   ]
+  }
+ }
+}

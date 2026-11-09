@@ -1,0 +1,942 @@
+[
+ {
+  "cat": "exfoliating_towel",
+  "brand": "mainbasics",
+  "cls": "C",
+  "site": "mainbasics.com",
+  "first_web": "20191027",
+  "badge": 2000,
+  "reviews": 1682,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "generic",
+  "cls": "C",
+  "site": "blissal.com",
+  "first_web": "20110207",
+  "badge": 900,
+  "reviews": 1041,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "bare botanics",
+  "cls": "C",
+  "site": "barebotanics.co",
+  "first_web": "20230129",
+  "badge": 0,
+  "reviews": 72,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "solo:B0FB3HTCZT",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 50,
+  "reviews": 1000,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "full",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 51,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "love",
+  "cls": "B",
+  "site": "justlovebeing.com",
+  "first_web": "20241124",
+  "badge": 50,
+  "reviews": 46,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "solo:B0FTV5FPJL",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 76,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "aisen",
+  "cls": "B",
+  "site": "getaisen.com",
+  "first_web": "20260923",
+  "badge": 0,
+  "reviews": 77,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "solo:B0FTYNDJW9",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 103,
+  "judgeme": null
+ },
+ {
+  "cat": "exfoliating_towel",
+  "brand": "solo:B0FLWPDNPS",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 71,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "treeroot",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 4000,
+  "reviews": 724,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "livaclean",
+  "cls": "C",
+  "site": "livaclean.com",
+  "first_web": "20180621",
+  "badge": 300,
+  "reviews": 96,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "qooq",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 4000,
+  "reviews": 2000,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F1MR7HB2",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 1000,
+  "reviews": 2500,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F47ZZJC8",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 1000,
+  "reviews": 1400,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "southern",
+  "cls": "C",
+  "site": "southernnaturalsoap.com",
+  "first_web": "20100702",
+  "badge": 0,
+  "reviews": 1100,
+  "judgeme": 1138
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F8VGMDDZ",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 700,
+  "reviews": 353,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F4X193TX",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 50,
+  "reviews": 479,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FN8DSSBZ",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 300,
+  "reviews": 129,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "femani",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 50,
+  "reviews": 147,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0DTH7YFPK",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 50,
+  "reviews": 193,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FLXSQGG5",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 400,
+  "reviews": 317,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FKGJFBDJ",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 600,
+  "reviews": 367,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "monier",
+  "cls": "B",
+  "site": "trymonier.com",
+  "first_web": "20240310",
+  "badge": 200,
+  "reviews": 627,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FDB79338",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 100,
+  "reviews": 334,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F5WKJ16J",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 200,
+  "reviews": 266,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0DT98T6K7",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 200,
+  "reviews": 291,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "urrznp",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 100,
+  "reviews": 194,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FKB7Q7W6",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 600,
+  "reviews": 463,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FDQNCRK5",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 11,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "underarm",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 200,
+  "reviews": 640,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FGQ44HXP",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 200,
+  "reviews": 228,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "aurae",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 479,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "bacneout",
+  "cls": "B",
+  "site": "ecloura.com",
+  "first_web": "20240117",
+  "badge": 200,
+  "reviews": 41,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F9ZWBYBJ",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 100,
+  "reviews": 50,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FDLH256J",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 26,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0DZX1K44L",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 27,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "vale",
+  "cls": "B",
+  "site": "riftvalleystore.com",
+  "first_web": "20241023",
+  "badge": 0,
+  "reviews": 199,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F1XWKD69",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 66,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FQPCNKB1",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 50,
+  "reviews": 37,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F619LM5T",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 50,
+  "reviews": 411,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F5H859XP",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 423,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "derma detox",
+  "cls": "C",
+  "site": "thedermacure.com",
+  "first_web": "20211218",
+  "badge": 0,
+  "reviews": 26,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F8ZYKL9H",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 100,
+  "reviews": 229,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0DPHZ7J4V",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 357,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "pyary",
+  "cls": "C",
+  "site": "pyary.com",
+  "first_web": "20021123",
+  "badge": 0,
+  "reviews": 13,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F2YNV7BW",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 600,
+  "reviews": 390,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "yafusipe",
+  "cls": "B",
+  "site": "yafusipe.com",
+  "first_web": "20260519",
+  "badge": 0,
+  "reviews": 102,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "cleanse",
+  "cls": "C",
+  "site": "hyssopsoap.com",
+  "first_web": "20071212",
+  "badge": 0,
+  "reviews": 305,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0DZHN53YX",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 43,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F23ZRSVS",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 52,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F9YGV8GK",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 134,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0DPHMNBTT",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 15,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FPCVKKWX",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 39,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "aleheri's",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 26,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F5HPCZXJ",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 17,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F5GM4YFM",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 50,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0F5GX36HT",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 160,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FPRHSSCS",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 1,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FF4D535B",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 25,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FGV2WZ7Z",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 100,
+  "reviews": 316,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FCMTTXPD",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 29,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0DYJZNVJB",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 12,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0DMNBKXJC",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 205,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "solo:B0FQTYPQNZ",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 130,
+  "judgeme": null
+ },
+ {
+  "cat": "turmeric_soap",
+  "brand": "makari",
+  "cls": "C",
+  "site": "makari.com",
+  "first_web": "20010909",
+  "badge": 0,
+  "reviews": 27,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "dr teal's",
+  "cls": "C",
+  "site": "drteals.com",
+  "first_web": "20091220",
+  "badge": 8000,
+  "reviews": 544,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "imatchme",
+  "cls": "C",
+  "site": "imatchme.com",
+  "first_web": "20110131",
+  "badge": 500,
+  "reviews": 568,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "liefiet",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 100,
+  "reviews": 193,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "8 gates",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 100,
+  "reviews": 108,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "aosorw",
+  "cls": "B",
+  "site": "aosorw.com",
+  "first_web": "20240612",
+  "badge": 0,
+  "reviews": 72,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "qifind",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 35,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "vitamatic",
+  "cls": "C",
+  "site": "vitamatic.com",
+  "first_web": "20010720",
+  "badge": 100,
+  "reviews": 351,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "pacifica",
+  "cls": "C",
+  "site": "pacificabeauty.com",
+  "first_web": "20110304",
+  "badge": 300,
+  "reviews": 198,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "pixie cup",
+  "cls": "C",
+  "site": "pixiecup.com",
+  "first_web": "20130619",
+  "badge": 50,
+  "reviews": 425,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "pura d'or",
+  "cls": "C",
+  "site": "purador.com",
+  "first_web": "20080204",
+  "badge": 100,
+  "reviews": 552,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "stellevita",
+  "cls": "B",
+  "site": "stellevita.com",
+  "first_web": "20250203",
+  "badge": 0,
+  "reviews": 164,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "magnè",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 51,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "muscle rehab",
+  "cls": "B",
+  "site": "musclerehabusa.com",
+  "first_web": null,
+  "badge": 0,
+  "reviews": 27,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "solo:B0FPPQR1DJ",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 15,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "solo:B0F4RW7PDV",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 42,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "solo:B0F1DRRJJ4",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 193,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "solo:B0DP6PNCFX",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 61,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "plusone",
+  "cls": "C",
+  "site": "myplusone.com",
+  "first_web": "20110209",
+  "badge": 1000,
+  "reviews": 524,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "solo:B0FD9H49X9",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 57,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "solo:B0DN2579S6",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 108,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "solo:B0FQ84G3P7",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 17,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "ultra mary",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 3,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "vigority",
+  "cls": "C",
+  "site": "vigority.com",
+  "first_web": "20141218",
+  "badge": 100,
+  "reviews": 99,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "moonjar",
+  "cls": "C",
+  "site": "moonjar.com",
+  "first_web": "20020707",
+  "badge": 0,
+  "reviews": 0,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "wink naturals",
+  "cls": "C",
+  "site": "winknaturals.com",
+  "first_web": "20151130",
+  "badge": 0,
+  "reviews": 20,
+  "judgeme": 10938
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "loicwoo",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 12,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "omnutra",
+  "cls": "C",
+  "site": "omnutra.com",
+  "first_web": "20130422",
+  "badge": 0,
+  "reviews": 10,
+  "judgeme": null
+ },
+ {
+  "cat": "magnesium_spray",
+  "brand": "herbs of eden",
+  "cls": "A",
+  "site": null,
+  "first_web": null,
+  "badge": 0,
+  "reviews": 1,
+  "judgeme": null
+ }
+]

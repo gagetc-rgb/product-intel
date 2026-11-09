@@ -1,0 +1,339 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Полка США 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F4F2EC;--card:#FFFFFF;--ink:#121212;--soft:#5E5B55;--faint:#9A968E;--line:#E3DFD6;--wash:#ECE9E1;
+  --g:#1E9E5A;--g-w:#E2F4E9;--y:#D08A00;--y-w:#FBF0D6;--r:#D2443C;--r-w:#FBE4E1;--n:#A8A49B;--n-w:#EFEDE7;
+  --acc:#2B2BFF;--dark:#111114;--radius:22px}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 17px/1.55 Manrope,system-ui,sans-serif;-webkit-font-smoothing:antialiased;font-variant-numeric:tabular-nums}
+a{color:inherit}img{display:block;max-width:100%}
+h1,h2,h3,.disp{font-family:Unbounded,Manrope,sans-serif;letter-spacing:-.02em;line-height:1.08;margin:0}
+.wrap{max-width:1180px;margin:0 auto;padding:0 28px}
+/* nav */
+.nav{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(14px);border-bottom:1px solid transparent}
+.nav.sc{border-bottom-color:var(--line)}
+.nav .wrap{display:flex;align-items:center;gap:22px;height:64px}
+.logo{font:700 17px Unbounded;text-decoration:none;display:flex;gap:9px;align-items:center}
+.logo i{width:12px;height:12px;border-radius:4px;background:var(--acc);display:block}
+.nav nav{margin-left:auto;display:flex;gap:4px}
+.nav nav a{text-decoration:none;font-weight:600;font-size:15px;padding:8px 14px;border-radius:99px;color:var(--soft)}
+.nav nav a[aria-current]{background:var(--ink);color:#fff}
+.nav nav a .soon{font-size:11px;opacity:.6;margin-left:4px}
+/* cover */
+.cover{padding:72px 0 40px}
+.eyebrow{font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--soft)}
+.cover h1{font-size:clamp(40px,6.4vw,84px);font-weight:800;margin:18px 0 22px;max-width:14ch}
+.cover .lede{font-size:21px;color:var(--soft);max-width:44ch;margin:0}
+.switch{display:inline-flex;background:var(--card);border:1px solid var(--line);border-radius:99px;padding:5px;gap:4px;margin:38px 0 10px}
+.switch button{font:600 15px Manrope;border:0;background:transparent;padding:11px 20px;border-radius:99px;cursor:pointer;color:var(--soft);transition:.25s}
+.switch button[aria-pressed=true]{background:var(--ink);color:#fff}
+.switch-sub{font-size:15px;color:var(--soft);margin:0 0 22px;min-height:24px}
+.tiles{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.tile{position:relative;border-radius:var(--radius);overflow:hidden;background:var(--wash);aspect-ratio:3/4;text-decoration:none;color:#fff;transition:transform .35s cubic-bezier(.2,.8,.2,1)}
+.tile:hover{transform:translateY(-6px)}
+.tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:opacity .4s}
+.tile:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 35%,rgba(0,0,0,.78))}
+.tile .no{position:absolute;top:12px;left:14px;z-index:2;font:800 30px Unbounded;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+.tile .tx{position:absolute;left:14px;right:14px;bottom:14px;z-index:2}
+.tile .tx b{display:block;font:700 16px/1.2 Unbounded;margin-bottom:6px}
+.tile .tx span{font-size:13px;opacity:.88}
+/* sections */
+section.blk{padding:72px 0 0}
+.sh{display:flex;align-items:end;justify-content:space-between;gap:20px;margin-bottom:26px;flex-wrap:wrap}
+.sh h2{font-size:clamp(28px,3.6vw,44px);font-weight:700}
+.sh p{margin:0;color:var(--soft);max-width:46ch}
+.pre{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.pc{background:var(--card);border-radius:var(--radius);padding:26px 24px 24px}
+.pc .k{font:700 13px Unbounded;color:var(--acc);margin-bottom:14px;display:block}
+.pc h3{font-size:19px;font-weight:700;margin-bottom:10px}
+.pc p{margin:0;color:var(--soft);font-size:15.5px}
+.pc ul{margin:0;padding:0;list-style:none;font-size:15.5px;color:var(--soft)}.pc li{margin:0 0 6px}
+.pc li b{color:var(--ink)}
+.finds{display:grid;grid-template-columns:repeat(2,1fr);gap:0 40px;background:var(--card);border-radius:var(--radius);padding:12px 30px}
+.fd{display:flex;gap:16px;padding:18px 0;border-bottom:1px solid var(--line)}
+.fd:nth-last-child(-n+2){border-bottom:0}
+.fd .n{font:800 15px Unbounded;color:var(--faint);min-width:26px}
+.fd p{margin:0;font-size:16px}.fd p b{font-weight:700}
+/* indicators */
+.ind{display:inline-flex;align-items:center;gap:7px;font-size:13.5px;font-weight:600;padding:5px 11px 5px 9px;border-radius:99px;white-space:nowrap;cursor:help}
+.ind:before{content:"";width:8px;height:8px;border-radius:50%;background:currentColor}
+.ind.g{background:var(--g-w);color:var(--g)}.ind.y{background:var(--y-w);color:var(--y)}.ind.r{background:var(--r-w);color:var(--r)}.ind.n{background:var(--n-w);color:var(--n)}
+.flag{font-size:12.5px;font-weight:700;color:var(--y);cursor:help}
+/* leaderboard */
+.board{background:var(--card);border-radius:var(--radius);padding:8px 10px}
+.bh,.br{display:grid;grid-template-columns:44px minmax(220px,1.6fr) repeat(4,minmax(120px,1fr));align-items:center;gap:12px;padding:12px 14px}
+.bh{font-size:12.5px;font-weight:700;color:var(--faint);text-transform:uppercase;letter-spacing:.08em;border-bottom:1px solid var(--line)}
+.br{border-radius:14px;cursor:pointer;text-decoration:none;transition:background .2s}
+.br:hover{background:var(--bg)}
+.br .rk{font:800 18px Unbounded;color:var(--faint)}
+.br.top .rk{color:var(--ink)}
+.br .nm{display:flex;align-items:center;gap:14px;font-weight:700}
+.br .nm img{width:44px;height:44px;border-radius:12px;object-fit:cover;background:var(--wash)}
+.br .nm small{display:block;font-weight:500;color:var(--faint);font-size:13px}
+.cut{height:1px;background:var(--line);margin:6px 14px}
+.legend{display:flex;gap:18px;flex-wrap:wrap;font-size:14px;color:var(--soft);margin-top:14px}
+.legend .ind{cursor:default}
+/* cards */
+.cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.card{background:var(--card);border-radius:var(--radius);overflow:hidden;text-decoration:none;display:flex;flex-direction:column;transition:transform .3s cubic-bezier(.2,.8,.2,1),box-shadow .3s}
+.card:hover{transform:translateY(-4px);box-shadow:0 18px 40px -22px rgba(0,0,0,.35)}
+.card .ph{aspect-ratio:16/10;background:var(--wash);position:relative}
+.card .ph img{width:100%;height:100%;object-fit:cover}
+.card .badge{position:absolute;top:12px;left:12px;background:var(--card);border-radius:99px;font:700 13px Unbounded;padding:6px 11px}
+.card .badge.t{background:var(--ink);color:#fff}
+.card .bd{padding:20px 22px 22px;display:flex;flex-direction:column;gap:14px;flex:1}
+.card h3{font-size:19px;font-weight:700}
+.card p{margin:0;font-size:15px;color:var(--soft);flex:1}
+.nums{display:flex;gap:22px}.nums div b{display:block;font:700 19px Unbounded}.nums div span{font-size:12.5px;color:var(--faint)}
+.inds{display:flex;flex-wrap:wrap;gap:6px}
+/* article */
+.back{display:inline-flex;gap:8px;align-items:center;font-weight:600;color:var(--soft);text-decoration:none;margin:34px 0 0}
+.ahead{display:grid;grid-template-columns:1.2fr 1fr;gap:40px;align-items:center;padding:28px 0 10px}
+.ahead h1{font-size:clamp(34px,4.8vw,62px);font-weight:800;margin:14px 0 18px}
+.ahead .vd{font-size:21px;line-height:1.45;margin:0 0 22px}
+.ahead .ph{border-radius:28px;overflow:hidden;aspect-ratio:1/1;background:var(--wash)}
+.ahead .ph img{width:100%;height:100%;object-fit:cover}
+.tag{display:inline-block;font-size:13px;font-weight:700;padding:6px 12px;border-radius:99px;background:var(--ink);color:#fff;margin-right:6px}
+.tag.l{background:var(--card);color:var(--ink);border:1px solid var(--line)}
+.claim{background:var(--dark);color:#fff;border-radius:var(--radius);padding:34px 36px;display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:30px;align-items:center}
+.claim .q{font-size:20px;line-height:1.5;margin:10px 0 0}
+.claim .money{font:800 clamp(22px,2.4vw,30px)/1.2 Unbounded;text-align:right}
+.claim .money small{display:block;font:500 13px Manrope;opacity:.6;margin-top:6px;max-width:30ch}
+.claim .eyebrow{color:#9a9aff}
+.claim a{color:#9a9aff}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.fact{background:var(--card);border-radius:var(--radius);padding:24px}
+.fact h3{font-size:17px;font-weight:700;margin-bottom:10px}
+.fact p{margin:0;font-size:15.5px;color:var(--soft)}
+.take{font:700 clamp(22px,2.6vw,32px)/1.3 Unbounded;letter-spacing:-.015em;max-width:30ch;margin:0}
+.next{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}.next span{background:var(--card);border:1px dashed var(--faint);border-radius:99px;padding:8px 14px;font-size:14.5px}
+.figs{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.fig{background:var(--card);border-radius:var(--radius);padding:24px 24px 18px}
+.fig h3{font-size:16px;font-weight:700;margin-bottom:4px}
+.fig .cap{font-size:13.5px;color:var(--faint);margin:0 0 14px}
+.fig svg{width:100%;height:auto;display:block;overflow:visible}
+.fig svg text{font:500 11.5px Manrope;fill:var(--faint)}
+.funnel div{display:flex;align-items:center;gap:12px;margin-bottom:10px;font-size:14.5px}
+.funnel i{display:block;height:30px;border-radius:9px;background:var(--acc);min-width:6px}
+.funnel b{font:700 16px Unbounded;min-width:40px}
+.bars div{display:grid;grid-template-columns:120px 1fr 74px;gap:10px;align-items:center;margin-bottom:8px;font-size:14px}
+.bars i{display:block;height:14px;border-radius:7px;background:var(--ink)}
+.bars span{color:var(--faint);text-align:right}
+.ads{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.ad{background:var(--card);border-radius:var(--radius);overflow:hidden;text-decoration:none}
+.ad img{width:100%;aspect-ratio:1/1;object-fit:cover;background:var(--wash)}
+.ad div{padding:14px 16px;font-size:14px}.ad b{display:block;margin-bottom:4px}
+details.more{background:var(--card);border-radius:var(--radius);padding:6px 26px;margin-top:14px}
+details.more summary{cursor:pointer;font-weight:700;padding:16px 0;list-style:none}
+details.more summary:after{content:" +";color:var(--faint)}
+details.more[open] summary:after{content:" −"}
+.kv{display:grid;grid-template-columns:1fr auto;gap:0;font-size:15px;padding-bottom:16px}
+.kv div{padding:9px 0;border-bottom:1px solid var(--line)}.kv div:nth-child(even){text-align:right;font-weight:700}
+.kv div.c{grid-column:1/-1;color:var(--soft);font-size:13.5px;border:0;padding-top:12px}
+.credt{background:var(--card);border-radius:var(--radius);padding:8px 10px}
+.cr{display:grid;grid-template-columns:1.4fr repeat(4,1fr);gap:12px;align-items:center;padding:16px 14px;border-radius:14px;font-size:16px;cursor:help}
+.cr:hover{background:var(--bg)}.cr.ch{font-size:12.5px;font-weight:700;color:var(--faint);text-transform:uppercase;letter-spacing:.08em;cursor:default;border-bottom:1px solid var(--line);border-radius:0}
+.cr.ch:hover{background:none}.cr small{display:block;color:var(--faint);font-size:13px}
+.cr .strike{text-decoration:line-through;text-decoration-color:var(--r);text-decoration-thickness:2px;color:var(--soft)}
+.cr .gap{font:800 22px Unbounded;color:var(--r)}.cr .gap i{font:400 13px Manrope;color:var(--faint);font-style:normal}
+.cap2{font-size:14px;color:var(--faint);margin:12px 4px 0;max-width:80ch}
+@media (max-width:760px){.cr{grid-template-columns:1fr 1fr;row-gap:6px}.cr.ch{display:none}.cr .gap{grid-column:2;grid-row:1;text-align:right}}
+.empty{background:var(--card);border-radius:var(--radius);padding:30px;color:var(--soft)}
+footer{padding:80px 0 50px;color:var(--faint);font-size:14px;display:flex;gap:24px;flex-wrap:wrap}
+.tip{position:fixed;z-index:50;background:var(--ink);color:#fff;font-size:13.5px;line-height:1.45;padding:10px 13px;border-radius:12px;max-width:290px;pointer-events:none;opacity:0;transition:opacity .15s}
+.fade{animation:fd .5s ease both}@keyframes fd{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@media (max-width:980px){.tiles{grid-template-columns:repeat(5,minmax(150px,1fr));overflow-x:auto;scroll-snap-type:x mandatory}.tile{scroll-snap-align:start}
+  .pre{grid-template-columns:1fr 1fr}.finds{grid-template-columns:1fr}.fd:nth-last-child(2){border-bottom:1px solid var(--line)}
+  .cards,.facts,.ads{grid-template-columns:1fr 1fr}.figs{grid-template-columns:1fr}.ahead{grid-template-columns:1fr}.ahead .ph{max-height:320px;aspect-ratio:16/10}
+  .bh{display:none}.br{grid-template-columns:34px 1fr;row-gap:8px}.br .ic{grid-column:2/-1;display:flex;flex-wrap:wrap;gap:6px}.br>.ind{display:none}
+  .claim{grid-template-columns:1fr}.claim .money{text-align:left}}
+@media (max-width:620px){.wrap{padding:0 16px}.pre,.cards,.facts,.ads{grid-template-columns:1fr}.cover{padding-top:40px}.nav nav a{padding:7px 9px;font-size:14px}.nav nav a .soon{display:none}
+  .switch{display:flex}.switch button{flex:1;padding:10px 8px;font-size:14px}.claim{padding:26px 22px}.finds{padding:6px 20px}}
+</style>
+</head>
+<body>
+<header class="nav" id="nav"><div class="wrap"><a class="logo" href="#"><i></i>Полка США</a>
+<nav><a href="#" data-n="home">Обзор</a><a href="#all" data-n="all">Все 20</a><a href="#tips" data-n="tips">Хитрости</a><a href="#method" data-n="method">Методика</a></nav></div></header>
+<main id="app"></main>
+<div class="tip" id="tip"></div>
+<script>
+const DATA=/*__DATA__*/null;
+const RU=DATA.ru, C=DATA.cats, BY={}, BYP={}; C.forEach(c=>{BY[c.slug]=c;BYP[c.pid]=c});
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+const esc=s=>String(s??"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+const nf=n=>n==null?"—":Math.round(n).toLocaleString("ru-RU");
+const kf=n=>n==null?"—":n>=1e6?(n/1e6).toFixed(1).replace(".",",")+" млн":n>=1e3?Math.round(n/1e3)+" тыс.":String(n);
+const pc=x=>(x>=1?"+":"−")+Math.abs(Math.round((x-1)*100))+"%";
+const nm=c=>RU.name[c.pid]||c.short;
+let lens="newcomer";
+
+/* four plain-language signals, thresholds fixed in METRICS.md v2.2 */
+function inds(c){const m=c.m;const o=[];
+  const small=m.flags.some(f=>f.startsWith("small sample")),rare=m.flags.some(f=>f.startsWith("search term too rare"));
+  const b=m.B1;o.push({k:"new",l:small?"n":b>=.2?"g":b>=.1?"y":"r",t:small?`Новички: мало данных`:`Новички ${Math.round(b*100)}%`,tip:`Из ${m.B1_n} продавцов, пришедших за 3–24 месяца, ${m.B2_1k} продают 1 000+ в месяц на Amazon. Верхняя оценка: ушедших с первых страниц поиска не видно.`});
+  const a=m.A1;o.push({k:"dem",l:rare?"n":a>=1.2?"g":a>=.8?"y":"r",t:rare?"Спрос: мало данных":`Спрос ${pc(a)}`,tip:rare?`Запрос слишком редкий: больше 20% недель без данных. Формально ${pc(a)}, но читать это нельзя.`:`Поиск в Google за последние 12 недель против тех же недель год назад, с поправкой на общий фон.`});
+  const d=m.D2;o.push({k:"pr",l:d==="stable"?"g":d==="mild"?"y":d==="war"?"r":"n",t:d==="stable"?"Цены ровные":d==="mild"?"Цены слегка ползут":d==="war"?"Ценовая война":"Цены не мерили",tip:d?`Цены топ-10 за 12 месяцев: ${m.D2_note}`:"Историю цен по этой категории не снимали."});
+  const h=m.B3_hhi;o.push({k:"cmp",l:h<1000?"g":h<=1800?"y":"r",t:h<1000?"Рынок открыт":h<=1800?"Рынок плотный":"Рынок захвачен",tip:`У трёх крупнейших брендов ${Math.round(m.B3_top3*100)}% продаж. Индекс концентрации ${nf(h)}; по стандарту антимонопольных органов США выше 1 800 — высокая концентрация.`});
+  return o}
+const indHtml=i=>`<span class="ind ${i.l}" data-tip="${esc(i.tip)}">${esc(i.t)}</span>`;
+const flagHtml=c=>c.m.flags.length?`<span class="flag" data-tip="${esc(c.m.flags.map(trF).join(". "))}">⚠ данные под вопросом</span>`:"";
+const FL={"small sample: under 20 entrants":"Мало новичков в выборке (меньше 20)","search term too rare (>20% zero weeks)":"Поисковый запрос слишком редкий",
+ "Amazon data collected by hand, not re-verified":"Данные Amazon собраны вручную, не перепроверены","hair serum, pre-wash oil and rosemary oil overlap: partly one market":"Пересекается с соседними товарами для волос",
+ "shelf = all body oils, not only firming/crepey":"В замер попали все масла для тела","brand-only titles: shelf undercounted by ~43K/mo":"Полка недосчитана примерно на 43 тыс./мес"};
+const trF=f=>FL[f]||f;
+function order(){const ids=RU.tops[lens].ids;const top=ids.map(p=>BYP[p]);
+  const rest=C.filter(c=>!ids.includes(c.pid)).sort((a,b)=>lens==="newcomer"?a.rank-b.rank:(b.m.A1-a.m.A1));return [top,rest]}
+
+/* ---------- home ---------- */
+function home(){
+  const T=RU.tops[lens],[top,rest]=order();
+  $("#app").innerHTML=`<div class="wrap fade">
+  <section class="cover"><span class="eyebrow">Исследование рынка · США · ноябрь 2026</span>
+    <h1>Куда заходить новому бренду</h1>
+    <p class="lede">Мы проверили 20 товаров из видео про e-commerce на реальных данных Amazon, Google и рекламы Meta. Вот где у новичка есть шанс.</p>
+    <div class="switch" role="group">${Object.entries(RU.tops).map(([k,v])=>`<button data-l="${k}" aria-pressed="${lens===k}">${v.name}</button>`).join("")}</div>
+    <p class="switch-sub">${esc(T.sub)}</p>
+    <div class="tiles">${top.map((c,i)=>`<a class="tile" href="#c-${c.slug}">${c.photo?`<img src="${c.photo}" alt="">`:""}<span class="no">${i+1}</span>
+      <span class="tx"><b>${esc(nm(c))}</b><span>${lens==="newcomer"?`выживает ${Math.round(c.m.B1*100)}% новичков`:`спрос ${pc(c.m.A1)} за год`}</span></span></a>`).join("")}</div>
+  </section>
+  <section class="blk"><div class="sh"><h2>Коротко</h2></div>
+   <div class="pre">
+    <div class="pc"><span class="k">01</span><h3>Что обещали видео</h3><p>Канал Daily Ecommerce, 138 разборов за 2026 год: «этот товар делает $1–14 млн в месяц, повторите». Оценки выручки — со сторонних сервисов.</p></div>
+    <div class="pc"><span class="k">02</span><h3>Как проверяли</h3><ul><li><b>Amazon</b> — сколько покупают и кто</li><li><b>Google</b> — растёт ли спрос</li><li><b>Meta</b> — живёт ли реклама</li><li><b>Магазины</b> — растут ли отзывы</li><li><b>Цены</b> — история за год</li></ul></div>
+    <div class="pc"><span class="k">03</span><h3>К чему пришли</h3><p>Цифры выручки в видео не сходятся с трафиком самих магазинов. Многие «новые бренды» на деле работают с 2020–2021 года. Но реальные окна для новичка есть.</p></div>
+    <div class="pc"><span class="k">04</span><h3>Куда идти</h3><ul><li><b>Да:</b> поилка, тональный крем, сыворотка для ресниц, бальзам, душевая лейка</li><li><b>Нет:</b> крем для депиляции, патчи, магниевый спрей, полотенце, маска для подбородка</li></ul></div>
+   </div></section>
+  ${cred()}
+  <section class="blk"><div class="sh"><h2>Главные находки</h2><p>Всё важное, что мы узнали. Подробности — в карточке каждого товара.</p></div>
+   <div class="finds">${FINDS.map((f,i)=>`<div class="fd"><span class="n">${String(i+1).padStart(2,"0")}</span><p>${f}</p></div>`).join("")}</div></section>
+  ${board(top,rest)}
+  <section class="blk" id="all20"><div class="sh"><h2>Все 20 товаров</h2><p>Нажмите на карточку — откроется разбор: что обещали, как на самом деле, наш вывод.</p></div>
+   <div class="cards">${[...top,...rest].map(card).join("")}</div></section>
+  ${foot()}</div>`;
+  $$(".switch button").forEach(b=>b.onclick=()=>{lens=b.dataset.l;const y=window.scrollY;home();window.scrollTo(0,y)});
+  wireTips()}
+const FINDS=[
+ "<b>Два разных топа.</b> «Окно для новичка» — где новый продавец выживает рядом с лидерами. «Волна спроса» — где рынок растёт быстрее всего. Пересекаются они в одном товаре: тональный крем, меняющий цвет.",
+ "<b>Выручка в видео не сходится с трафиком.</b> По трафику, который называет сам автор, Earthly Derm должен зарабатывать с визита в 4–8 раз больше обычного магазина на Shopify. Цифрам из роликов не верим, проверяем сами.",
+ "<b>«Новый бренд» часто не новый.</b> Luxe, Smooche, Prime Prometics работают с 2020–2021 года; AirScent основан в 1946-м. По-настоящему молодые: Kaori (2026), Hanae (ноябрь 2025), Terra Lotus (2024).",
+ "<b>Ценовой войны нет нигде.</b> Мы сняли историю цен топ-10 товаров в 9 категориях за год: обвалов нет. Лёгкое давление — только у дешёвых наборов мыла и части душевых леек.",
+ "<b>На поилке выживают копии, а не бренды.</b> 26 из 28 успешных новичков — безымянные продавцы. Бренд здесь строится через свой магазин, как в видео.",
+ "<b>Тональный крем — самый сильный и самый плотный.</b> Спрос вырос в 4,5 раза, но почти половину рынка держит Luxe.",
+ "<b>Бальзам на говяжьем жире остывает.</b> Больше всего выживших новичков, но поиск упал на 22% за год.",
+ "<b>Сыворотка для ресниц — только без простагландинов.</b> Иначе товар считается лекарством и попадает под претензии FDA.",
+ "<b>Не измерено:</b> TikTok Shop (нужен платный сервис), маржа, выживаемость рекламы во времени (повторный замер 8 декабря)."];
+function cred(){const K=RU.cred;
+  return `<section class="blk"><div class="sh"><h2>Насколько верить видео</h2><p>Мы сверили цифры автора с трафиком и отзывами самих магазинов.</p></div>
+  <div class="credt"><div class="cr ch"><span>Магазин</span><span>В видео, в месяц</span><span>Визитов в месяц</span><span>Нужно с визита</span><span>Выше обычного магазина</span></div>
+  ${K.rows.map(r=>`<div class="cr" data-tip="${esc(r.note)}"><span><b>${esc(r.store)}</b><small>${esc(RU.name[r.pid])} · <a href="https://www.youtube.com/watch?v=${r.video}" target="_blank" rel="noopener">видео</a></small></span>
+    <span class="strike">${r.claim}</span><span>${r.visits}</span><span>${r.rpv}</span><span class="gap">в ${r.gap} <i>${r.tier}</i></span></div>`).join("")}</div>
+  <p class="cap2">Как считали: обещанная выручка ÷ визиты = сколько магазин должен зарабатывать с одного визита. Норма — <a href="${K.bench.src}" target="_blank" rel="noopener">бенчмарк Littledata</a> по 438 магазинам на Shopify (октябрь 2026): медиана $${K.bench.median.toFixed(2)} с визита, лучшие 10% — от $${K.bench.top10.toFixed(2)}. Своих допущений в расчёте нет. Взяты только цифры, которые автор прямо называет «в месяц». Наведите на строку, чтобы увидеть пояснение.</p>
+  <div class="facts" style="margin-top:18px">${K.points.map(([h,p])=>`<div class="fact"><h3>${esc(h)}</h3><p>${tier(esc(p))}</p></div>`).join("")}</div></section>`}
+function board(top,rest){const row=(c,i,t)=>`<a class="br ${t?"top":""}" href="#c-${c.slug}"><span class="rk">${i}</span>
+   <span class="nm">${c.photo?`<img src="${c.photo}" alt="">`:"<img alt=''>"}<span>${esc(nm(c))}<small>${flagHtml(c)||"&nbsp;"}</small></span></span>
+   ${inds(c).map(indHtml).join("")}<span class="ic" style="display:none"></span></a>`;
+  return `<section class="blk"><div class="sh"><h2>Лидерборд</h2><p>Четыре сигнала по каждому товару. Зелёный — хорошо для новичка, красный — плохо. Наведите на метку, чтобы увидеть цифру.</p></div>
+   <div class="board"><div class="bh"><span>#</span><span>Товар</span><span>Новички выживают</span><span>Спрос в Google</span><span>Цены за год</span><span>Конкуренция</span></div>
+   ${top.map((c,i)=>row(c,i+1,1)).join("")}<div class="cut"></div>${rest.map((c,i)=>row(c,i+6,0)).join("")}</div>
+   <div class="legend"><span class="ind g">хорошо</span><span class="ind y">так себе</span><span class="ind r">плохо</span><span class="ind n">не мерили</span></div></section>`}
+function card(c){const top=RU.tops[lens].ids.indexOf(c.pid);
+  return `<a class="card" href="#c-${c.slug}"><div class="ph">${c.photo?`<img src="${c.photo}" alt="" loading="lazy">`:""}<span class="badge ${top>=0?"t":""}">${top>=0?"Топ "+(top+1):"#"+c.rank}</span></div>
+  <div class="bd"><h3>${esc(nm(c))}</h3><p>${esc(RU.verdict[c.pid])}</p>
+  <div class="nums"><div><b>${kf(c.m.A2)}</b><span>покупают в мес.</span></div><div><b>$${c.price!=null?(+c.price).toFixed(0):"—"}</b><span>средняя цена</span></div><div><b>${pc(c.m.A1)}</b><span>спрос за год</span></div></div>
+  <div class="inds">${inds(c).map(indHtml).join("")}</div>${flagHtml(c)}</div></a>`}
+
+/* ---------- article ---------- */
+function article(c){const A=RU.article[c.pid],cl=(RU.claims[c.pid]||[])[0],m=c.m;
+  const tops=Object.values(RU.tops).filter(t=>t.ids.includes(c.pid)).map(t=>`<span class="tag">${t.name}: ${t.ids.indexOf(c.pid)+1}</span>`).join("");
+  $("#app").innerHTML=`<div class="wrap fade"><a class="back" href="#">← Все товары</a>
+  <section class="ahead"><div>${tops||`<span class="tag l">#${c.rank} из 20</span>`}<h1>${esc(nm(c))}</h1><p class="vd">${esc(RU.verdict[c.pid])}</p>
+    <div class="inds">${inds(c).map(indHtml).join("")}</div><div style="margin-top:10px">${flagHtml(c)}</div></div>
+    <div class="ph">${c.photo?`<img src="${c.photo}" alt="">`:""}</div></section>
+  <section class="blk"><div class="claim"><div><span class="eyebrow">Что обещали в видео</span>
+     <p class="q">${esc(A?A.claim:cl?cl.product+(cl.brand?" — "+cl.brand:""):"Отдельного разбора в видео нет: товар попал в список из соседних роликов.")}</p>
+     ${cl?`<p style="margin:14px 0 0;font-size:14px;opacity:.7">Источник: <a href="https://www.youtube.com/watch?v=${cl.video}" target="_blank" rel="noopener">видео на YouTube</a>${cl.caveat?" · "+esc(cl.caveat):""}</p>`:""}</div>
+     ${cl?`<div class="money">${esc(money(cl.revenue))}<small>${esc(cl.basis||"")}</small></div>`:""}</div></section>
+  ${A?`<section class="blk"><div class="sh"><h2>Как на самом деле</h2></div><div class="facts">${A.reality.map(([h,p])=>`<div class="fact"><h3>${esc(h)}</h3><p>${tier(esc(p))}</p></div>`).join("")}</div></section>
+  <section class="blk"><div class="sh"><h2>Наш вывод</h2></div><p class="take">${esc(A.take)}</p>${A.next?`<div class="next">${A.next.map(x=>`<span>Проверить: ${esc(x)}</span>`).join("")}</div>`:""}</section>`
+   :`<section class="blk"><div class="empty">Подробный разбор этого товара готовится. Ниже — все данные, которые уже собраны.</div></section>`}
+  <section class="blk"><div class="sh"><h2>Данные</h2></div><div class="figs">${funnel(c)}${trendFig(c)}${leadersFig(c)}${reviewsFig(c)}</div>
+   <details class="more"><summary>Все цифры и как считали</summary><div class="kv">
+    <div>Покупают на Amazon в месяц (первые 5 страниц поиска)</div><div>${nf(m.A2)}</div>
+    <div>Поиск в Google к прошлому году (${esc(m.A1_terms)}, среднее ${m.A1_pulls} замеров)</div><div>${pc(m.A1)}</div>
+    <div>Новых продавцов за 3–24 месяца</div><div>${m.B1_n}</div><div>Из них продают 1 000+ / 300+ в месяц</div><div>${m.B2_1k} / ${m.B2_300}</div>
+    <div>Из выживших — безымянных</div><div>${m.D1_unbranded_1k} из ${m.B2_1k}</div>
+    <div>Доля трёх крупнейших брендов</div><div>${Math.round(m.B3_top3*100)}%</div><div>Индекс концентрации (HHI)</div><div>${nf(m.B3_hhi)}</div>
+    <div>Цены за 12 месяцев</div><div>${esc(m.D2_note)}</div>
+    ${m.B4_shops.map(s=>`<div>Реклама Meta, ${esc(s.domain)}: активных / работают 90+ дней</div><div>${nf(s.active)} / ${nf(s.aged90)}</div>`).join("")}
+    ${m.B6?`<div>Молодой бизнес-победитель (проверено вручную)</div><div>${esc(m.B6)}</div>`:""}
+    <div class="c">◆ посчитано платформой · ◈ наша оценка или прочтение · ◇ спорно. Методика — на отдельной странице.</div></div></details></section>
+  ${adsFig(c)}${foot()}</div>`;
+  window.scrollTo(0,0);wireTips();drawAll(c)}
+const tier=s=>s.replace(/◆/g,'<span title="посчитано платформой">◆</span>').replace(/◈/g,'<span title="наша оценка">◈</span>');
+function money(s){s=String(s||"");const m=s.match(/\$[\d.,]+\s*(?:млн|тыс|million|k|K|M)?[^,;(]*/);return (s.split("(")[0]||s).slice(0,60)}
+function funnel(c){const m=c.m,mx=m.B1_n||1,w=v=>Math.max(2,Math.round(100*v/mx))+"%";
+  return `<div class="fig"><h3>Сколько новичков выживает</h3><p class="cap">Продавцы, пришедшие на Amazon за последние 3–24 месяца</p><div class="funnel">
+   <div><b>${m.B1_n}</b><i style="width:${w(m.B1_n)};opacity:.25"></i><span>пришли</span></div>
+   <div><b>${m.B2_300}</b><i style="width:${w(m.B2_300)};opacity:.5"></i><span>продают 300+</span></div>
+   <div><b>${m.B2_1k}</b><i style="width:${w(m.B2_1k)}"></i><span>продают 1 000+</span></div>
+   <div><b>${m.D1_unbranded_1k}</b><i style="width:${w(m.D1_unbranded_1k)};background:var(--faint)"></i><span>из них без бренда</span></div></div></div>`}
+function trendFig(c){if(!c.trend.values)return"";return `<div class="fig"><h3>Спрос в Google</h3><p class="cap">«${esc(c.trend.term)}», США, по неделям, сглажено</p><div id="tr"></div></div>`}
+function leadersFig(c){const L=(c.leaders||[]).slice(0,6);if(!L.length)return"";const mx=Math.max(...L.map(l=>l.units));
+  return `<div class="fig"><h3>Лидеры Amazon</h3><p class="cap">Покупают в месяц · цена</p><div class="bars">${L.map(l=>`<div><span style="color:var(--ink);text-align:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(l.name)}</span><i style="width:${Math.max(2,Math.round(100*l.units/mx))}%"></i><span>${kf(l.units)}${l.price?" · $"+l.price.toFixed(0):""}</span></div>`).join("")}</div></div>`}
+function reviewsFig(c){if(!c.reviews)return"";return `<div class="fig"><h3>Отзывы в магазинах лидеров</h3><p class="cap">Отзывов в месяц; пунктир — оценка</p><div id="rv"></div></div>`}
+function adsFig(c){const A=(c.creatives||[]).slice(0,3);if(!A.length)return"";
+  return `<section class="blk"><div class="sh"><h2>Реклама, которая живёт дольше всех</h2><p>Объявления лидеров из библиотеки Meta, отсортированы по сроку показа.</p></div><div class="ads">${A.map(a=>`<a class="ad" href="${a.lib}" target="_blank" rel="noopener"><img src="${a.img}" alt="" loading="lazy"><div><b>${a.days} дн. в показе</b>${esc(a.domain)}</div></a>`).join("")}</div></section>`}
+const SER=["#2B2BFF","#121212","#1E9E5A","#D08A00","#D2443C"];
+function line(series,labels,W=520,H=200){const L=34,B=24,all=series.flatMap(s=>s.v.filter(x=>x!=null)),mx=Math.max(...all,1)*1.08,n=labels.length;
+  const X=i=>L+i/(n-1)*(W-L-6),Y=v=>H-B-(v/mx)*(H-B-8);let g="";
+  for(const t of[0,.5,1]){const y=Y(mx*t/1.08);g+=`<line x1="${L}" x2="${W}" y1="${y}" y2="${y}" stroke="#E3DFD6"/><text x="${L-6}" y="${y+4}" text-anchor="end">${Math.round(mx*t/1.08)}</text>`}
+  labels.forEach((l,i)=>{if(l)g+=`<text x="${X(i)}" y="${H-6}" text-anchor="middle">${l}</text>`});
+  series.forEach((s,k)=>{let d="",pen=false;s.v.forEach((v,i)=>{if(v==null){pen=false;return}d+=(pen?"L":"M")+X(i).toFixed(1)+","+Y(v).toFixed(1);pen=true});
+    g+=`<path d="${d}" fill="none" stroke="${SER[k%5]}" stroke-width="2.2" ${s.dash?'stroke-dasharray="4 4"':''} stroke-linejoin="round"/>`});
+  return `<svg viewBox="0 0 ${W} ${H}">${g}</svg>`+(series.length>1?`<div class="legend" style="margin-top:6px">${series.map((s,k)=>`<span><i style="display:inline-block;width:10px;height:3px;background:${SER[k%5]};vertical-align:middle;margin-right:6px"></i>${esc(s.name)}</span>`).join("")}</div>`:"")}
+function drawAll(c){
+  if(c.trend.values&&$("#tr")){const v=c.trend.values.slice(-156),sm=v.map((_,i)=>{const s=v.slice(Math.max(0,i-3),i+1);return s.reduce((a,b)=>a+b,0)/s.length});
+    const w0=new Date(DATA.week0+"T00:00:00Z"),off=c.trend.values.length-v.length,MON=["янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"];
+    const lab=v.map((_,i)=>{const d=new Date(w0.getTime()+(off+i)*7*864e5);return d.getUTCMonth()===0&&d.getUTCDate()<=7?String(d.getUTCFullYear()):""});
+    $("#tr").innerHTML=line([{name:"спрос",v:sm}],lab)}
+  if(c.reviews&&$("#rv")){const M=DATA.months,S=c.reviews.series.slice(0,4);
+    const ser=[];S.forEach(s=>{ser.push({name:s.name,v:s.pts.map(p=>p[2]?null:p[1])});if(s.pts.some(p=>p[2]))ser.push({name:s.name+" (оценка)",v:s.pts.map(p=>p[1]),dash:1})});
+    $("#rv").innerHTML=line(ser.filter(s=>s.v.some(x=>x!=null)),M.map(ym=>ym.endsWith("-01")?ym.slice(0,4):""))}}
+
+/* ---------- tips ---------- */
+const RISK={legal:["g","Законно"],gray:["y","Серая зона"],risk:["r","Риск бана или иска"]};
+const SEC=[["stay","Как оставаться на рынке","Запреты площадок и формулировки"],["sell","Как хитро продавать","Страницы, офферы, цены"],["ads","Как хитро рекламировать","Креативы и запуск"],["money","Как они считают деньги","Откуда цифры в видео"]];
+let tipF="all";
+function tips(){const T=RU.tips;
+  const body=()=>SEC.map(([k,h,s])=>{const L=T.filter(t=>t.sec===k&&(tipF==="all"||t.risk===tipF));if(!L.length)return"";
+    return `<section class="blk"><div class="sh"><h2>${h}</h2><p>${s}</p></div><div class="facts">${L.map(t=>`<div class="fact">
+      <span class="ind ${RISK[t.risk][0]}" style="cursor:default;margin-bottom:12px">${RISK[t.risk][1]}</span><h3>${esc(t.h)}</h3><p>${tier(esc(t.p))}</p>
+      <p style="margin-top:12px;font-size:13.5px">${t.src.map(([v,p])=>`<a href="https://www.youtube.com/watch?v=${v}" target="_blank" rel="noopener">${esc(RU.name[p]||p)}</a>`).join(" · ")}</p></div>`).join("")}</div></section>`}).join("");
+  $("#app").innerHTML=`<div class="wrap fade"><section class="cover"><span class="eyebrow">Из 19 видео по нашим товарам</span><h1>Хитрости</h1>
+    <p class="lede">Всё, что авторы советовали про запреты, формулировки, продажи и рекламу. У каждого приёма — пометка риска и ссылка на видео.</p>
+    <div class="switch" role="group">${[["all","Все"],["legal","Законно"],["gray","Серая зона"],["risk","Риск"]].map(([k,v])=>`<button data-r="${k}" aria-pressed="${tipF===k}">${v}</button>`).join("")}</div></section>
+    <div id="tipbody">${body()}</div>${foot()}</div>`;
+  $$("[data-r]").forEach(b=>b.onclick=()=>{tipF=b.dataset.r;$$("[data-r]").forEach(x=>x.setAttribute("aria-pressed",x===b));$("#tipbody").innerHTML=body()});
+  window.scrollTo(0,0)}
+
+/* ---------- other pages ---------- */
+function soon(t,p){$("#app").innerHTML=`<div class="wrap fade"><section class="cover"><span class="eyebrow">В работе</span><h1>${t}</h1><p class="lede">${p}</p></section>${foot()}</div>`;window.scrollTo(0,0)}
+function foot(){return `<footer><span>Собрано ${DATA.built}</span><span>Методика v2.2</span><span>◆ посчитано платформой · ◈ наша оценка · ◇ спорно</span></footer>`}
+function wireTips(){const T=$("#tip");$$("[data-tip]").forEach(e=>{e.onmouseenter=ev=>{T.textContent=e.dataset.tip;T.style.opacity=1;const r=e.getBoundingClientRect();
+  T.style.left=Math.min(innerWidth-300,Math.max(8,r.left))+"px";T.style.top=(r.bottom+8)+"px"};e.onmouseleave=()=>T.style.opacity=0})}
+function route(){const h=location.hash.slice(1);let n="home";
+  if(h.startsWith("c-")&&BY[h.slice(2)]){article(BY[h.slice(2)]);n=""}
+  else if(h==="tips"){tips();n="tips"}
+  else if(h==="method"){soon("Методика","Как считали каждую метрику, источники и ограничения. Перевод на русский в работе; полная версия — в METRICS.md.");n="method"}
+  else{home();if(h==="all")setTimeout(()=>$("#all20").scrollIntoView(),20);n=h==="all"?"all":"home";if(h!=="all")window.scrollTo(0,0)}
+  $$(".nav nav a").forEach(a=>a.toggleAttribute("aria-current",a.dataset.n===n))}
+addEventListener("hashchange",route);addEventListener("scroll",()=>$("#nav").classList.toggle("sc",scrollY>10));route();
+</script>
+</body>
+</html>

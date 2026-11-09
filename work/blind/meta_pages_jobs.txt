@@ -1,0 +1,22 @@
+color_foundation|Prime Prometics|Prime Prometics|primeprometics.com|prime prometics
+color_foundation|Smooche|Smooche|smooche.com|^smooche
+color_foundation|Lumine Skin|Lumine Skin|trylumineskin.com|lumine
+color_foundation|Luxe|Luxe Cosmetics|luxeresearchlab.com|^luxe
+body_oil|GODA|Goda Silk|goda.co|^goda
+body_oil|DRMTLGY|DRMTLGY|drmtlgy.com|drmtlgy
+tallow_balm|Terra Lotus|Terra Lotus|terralotus.shop|terra lotus
+tallow_balm|Ancestral Cosmetics|Ancestral Cosmetics|ancestralcosmetics.com|ancestral cosmetics
+tallow_balm|Bare Ritual|Bare Ritual|bare-ritual.com|bare ritual
+tallow_balm|Forge|Forge Men|try-forge.com|^forge
+tallow_balm|byminus|byminus|byminus.com|minus
+scent_diffuser|Scentify|Scentify|scentifyhome.com|scentify
+scent_diffuser|Aura House|Aura House|aurahouse.com|^aura house
+scent_diffuser|Aroma360|Aroma360|aroma360.com|aroma ?360
+scent_diffuser|Hotel Collection|Hotel Collection|hotelcollection.com|hotel collection
+scent_diffuser|AirScent|AirScent|airscentdiffusers.com|airscent
+persimmon_soap|Kaori|Kaori|try-kaori.com|^kaori
+persimmon_soap|Mirai Clinical|Mirai Clinical|miraiclinical.com|mirai clinical
+persimmon_soap|Kakiyu|Kakiyu|kakiyucare.com|kakiyu
+shower_filter|sproos|sproos|sproos.co|sproos
+shower_filter|Filterbaby|Filterbaby|filterbaby.com|filterbaby
+shower_filter|Santevia|Santevia|santevia.com|santevia

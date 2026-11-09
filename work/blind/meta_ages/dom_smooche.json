@@ -1,0 +1,498 @@
+{
+ "phrase": "smooche.com",
+ "date": "2026-11-09",
+ "active": 5900,
+ "aged30": 4000,
+ "aged90": 1500,
+ "aged180": 9,
+ "ads": [
+  {
+   "id": "4293324567574864",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "180+"
+  },
+  {
+   "id": "1508584187466379",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1277781604339359",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "180+"
+  },
+  {
+   "id": "1030654766089431",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1880480555999452",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "180+"
+  },
+  {
+   "id": "821564541008206",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "3690674021081390",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "180+"
+  },
+  {
+   "id": "1496681895254170",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "180+"
+  },
+  {
+   "id": "908413612228235",
+   "page": "Smooche",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "180+"
+  },
+  {
+   "id": "1232871459898850",
+   "page": "Smooche",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1974572333261252",
+   "page": "Smooche",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2078116576447499",
+   "page": "Korean Beauty Tips",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1693931428574538",
+   "page": "Cosmetic Times",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1532687451635129",
+   "page": "Smooche",
+   "start": "2026-06-26",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1998156390802596",
+   "page": "Smooche",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1355924259248013",
+   "page": "Aging Queens Magazine",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1306930424358627",
+   "page": "Korean Beauty Tips",
+   "start": "2026-06-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2061169021138464",
+   "page": "Smooche",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1715259499652387",
+   "page": "Korean Beauty Tips",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1614905579610001",
+   "page": "Korean Beauty Tips",
+   "start": "2026-06-05",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1712093820122268",
+   "page": "Cosmetic Times",
+   "start": "2026-06-29",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "27265142373154931",
+   "page": "Aging Queens Magazine",
+   "start": "2026-06-29",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2447191639127567",
+   "page": "Smooche",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1499058394787131",
+   "page": "Smooche",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1269689255027871",
+   "page": "Cosmetic Times",
+   "start": "2026-06-23",
+   "n": 3,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1083520360692544",
+   "page": "Korean Beauty Tips",
+   "start": "2026-08-03",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "947263588339531",
+   "page": "Cosmetic Times",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1520611030083251",
+   "page": "Aging Queens Magazine",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1355429372839719",
+   "page": "Smooche",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2823924077974070",
+   "page": "Smooche",
+   "start": "2026-06-26",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2305911340236605",
+   "page": "Aging Queens Magazine",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1696434694972567",
+   "page": "Aging Queens Magazine",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1042211181705775",
+   "page": "Smooche",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "866836246500225",
+   "page": "Korean Beauty Tips",
+   "start": "2026-06-25",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1294898609027761",
+   "page": "Korean Beauty Tips",
+   "start": "2026-06-07",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1736681811083858",
+   "page": "Korean Beauty Tips",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3492156227620704",
+   "page": "Cosmetic Times",
+   "start": "2026-06-15",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4457610221163830",
+   "page": "Korean Beauty Tips",
+   "start": "2026-08-03",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3444698519023354",
+   "page": "Korean Beauty Tips",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2291737244919475",
+   "page": "Smooche",
+   "start": "2026-09-07",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2306373746776583",
+   "page": "Smooche",
+   "start": "2026-08-26",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2178959449387408",
+   "page": "Smooche",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1375862037613112",
+   "page": "Smooche",
+   "start": "2026-09-13",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "947171808461151",
+   "page": "Smooche",
+   "start": "2026-09-16",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2560827767678773",
+   "page": "Smooche",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1633272738333738",
+   "page": "Smooche",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1579545833379550",
+   "page": "Smooche",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1937358316932894",
+   "page": "Smooche",
+   "start": "2026-09-11",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1041560052103462",
+   "page": "Korean Beauty Tips",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1085747330867962",
+   "page": "Smooche",
+   "start": "2026-09-20",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1126983303221789",
+   "page": "Smooche",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2042857009675004",
+   "page": "Smooche",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28702886766004296",
+   "page": "Smooche",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1579301140347187",
+   "page": "Smooche",
+   "start": "2026-09-18",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1782852142858382",
+   "page": "Smooche",
+   "start": "2026-09-18",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1676009893948190",
+   "page": "Smooche",
+   "start": "2026-09-03",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1044453664867804",
+   "page": "Aging Queens Magazine",
+   "start": "2026-08-16",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1110384318586223",
+   "page": "Cosmetic Times",
+   "start": "2026-10-14",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "968719452361514",
+   "page": "Smooche",
+   "start": "2026-10-14",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1514339507410372",
+   "page": "Smooche",
+   "start": "2026-10-27",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1427770962023341",
+   "page": "Smooche",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "smooche.com",
+   "window": "0-30"
+  }
+ ]
+}

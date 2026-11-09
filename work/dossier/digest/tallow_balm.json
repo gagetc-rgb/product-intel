@@ -1,0 +1,481 @@
+{
+ "pid": "tallow_balm",
+ "name": "Beef tallow balm",
+ "verdict_row": {
+  "pid": "tallow_balm",
+  "name": "Beef tallow balm",
+  "flag": "",
+  "shelf": 122850,
+  "nb": 45550,
+  "gen": 29400,
+  "winB": 9,
+  "winG": 8,
+  "price": 16.95,
+  "act": 2500,
+  "a30": 500,
+  "a90": 220,
+  "a180": 52,
+  "stores": 19,
+  "stores90": 16,
+  "trend": 1.05,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 48150
+ },
+ "amazon_us": {
+  "listings_on_target": 215,
+  "shelf_units": 122850,
+  "units_by_brand_age": {
+   "12-24": 55350,
+   "24+": 47900,
+   "6-12": 16950,
+   "0-6": 2650
+  },
+  "units_by_kind": {
+   "new_brand": 45550,
+   "old_brand": 41700,
+   "generic_new": 29400,
+   "generic_old": 6200
+  },
+  "top_brands": [
+   {
+    "key": "terra",
+    "units": 22000,
+    "listings": 5,
+    "best": {
+     "asin": "B0FFW9SQRW",
+     "title": "Terra Lotus - Organic Grass-Fed Beef Tallow Balm with Raw Honey - Moisturizing Cream - Handmade All-Natural Mo",
+     "units": 10000,
+     "price": "$19.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61G4Ut9ZxmL._AC_UL320_.jpg",
+     "amazon_brand": "Terra Lotus"
+    },
+    "entry_months": 18,
+    "status": "NEW"
+   },
+   {
+    "key": "hearth",
+    "units": 18000,
+    "listings": 5,
+    "best": {
+     "asin": "B0BJMSH4JX",
+     "title": "Hearth & Homestead Whipped Beef Tallow for Skin & Face, Unscented, 1.3oz",
+     "units": 10000,
+     "price": "$29.97",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/81JoLjLVotL._AC_UL320_.jpg",
+     "amazon_brand": "Hearth and Homestead"
+    },
+    "entry_months": 51,
+    "status": "old"
+   },
+   {
+    "key": "forge",
+    "units": 10800,
+    "listings": 3,
+    "best": {
+     "asin": "B0D1NGHSZ8",
+     "title": "Forge Skin Beef Tallow Balm Skin Moisturizer for Men, Anti Aging Wrinkle Defense - Face & Body Skincare Hydrat",
+     "units": 10000,
+     "price": "$39.95",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/810+L3bxSeL._AC_UL320_.jpg",
+     "amazon_brand": "Forge Skin"
+    },
+    "entry_months": 31,
+    "status": "old"
+   },
+   {
+    "key": "richgrand",
+    "units": 8600,
+    "listings": 4,
+    "best": {
+     "asin": "B0DTQ8FGQX",
+     "title": "RICHGRAND Beef Tallow for Skin - Whipped Tallow and Honey Balm - Grass Fed Beef Tallow for Face, Daily Moistur",
+     "units": 7000,
+     "price": "$21.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/81WUvF4o8rL._AC_UL320_.jpg",
+     "amazon_brand": "RICHGRAND"
+    },
+    "entry_months": 22,
+    "status": "NEW"
+   },
+   {
+    "key": "santa",
+    "units": 5800,
+    "listings": 4,
+    "best": {
+     "asin": "B0D2DVJVS9",
+     "title": "Santa Cruz Paleo, Beef Tallow, Beeswax & Honey Face Moisturizer, Organic, Unscented Grassfed Beef Tallow Skin ",
+     "units": 3000,
+     "price": "$17.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/711wswq-FlL._AC_UL320_.jpg",
+     "amazon_brand": "Santa Cruz Paleo"
+    },
+    "entry_months": 30,
+    "status": "old"
+   },
+   {
+    "key": "elbbub",
+    "units": 3000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DWMZR8WD",
+     "title": "ELBBUB Whipped Tallow Cream for Face & Body - 100% Grass-Fed Beef Tallow, Natural Honey & Beeswax Moisturizer,",
+     "units": 3000,
+     "price": "$11.19",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/81ywjMU5ssL._AC_UL320_.jpg",
+     "amazon_brand": "ELBBUB"
+    },
+    "entry_months": 21,
+    "status": "NEW"
+   },
+   {
+    "key": "skyand",
+    "units": 2000,
+    "listings": 1,
+    "best": {
+     "asin": "B0CYTCFN1S",
+     "title": "Sky and Sol Everything Cream 100% Grass Fed Beef Tallow Moisturizer",
+     "units": 2000,
+     "price": "$30.00",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61C9lsrXTHL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 32,
+    "status": "old"
+   },
+   {
+    "key": "untamed",
+    "units": 1400,
+    "listings": 3,
+    "best": {
+     "asin": "B0DS93T97X",
+     "title": "Untamed Organics Beef Tallow Balm for Skin & Face with Castor Oil & Frankincense - 100% Grass-Fed Tallow Face ",
+     "units": 1000,
+     "price": "$18.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/714v8yXbHML._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 40,
+    "status": "old"
+   },
+   {
+    "key": "ghkcu",
+    "units": 1200,
+    "listings": 5,
+    "best": {
+     "asin": "B0GWCDNTPL",
+     "title": "GHK-Cu Copper Peptide Whipped Beef Tallow for Skin, Tallow Balm with Methylene Blue, Manuka Honey & Vitamin E,",
+     "units": 500,
+     "price": "$19.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81vC8VF151L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 12,
+    "status": "NEW"
+   },
+   {
+    "key": "ancestral",
+    "units": 1100,
+    "listings": 2,
+    "best": {
+     "asin": "B0DNC9QZPH",
+     "title": "Ancestral Haven Beef Tallow for Skin - Tallow And Herbal Balm For Face - Gift Ready Box - Tallow Face Moisturi",
+     "units": 1000,
+     "price": "$19.95",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/81RO6Bm2Q4L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 24,
+    "status": "NEW"
+   }
+  ],
+  "top_generics": [
+   [
+    3000,
+    "B0GS9KCQD5",
+    "Beef Tallow for Skin – 2Pcs Beef Tallow for Face Cream, Grass-Fed Tallow and Raw",
+    "$19.99",
+    "Mulukiss"
+   ],
+   [
+    2000,
+    "B0G38DHXH5",
+    "Beef Tallow for Skin, Gifts for Women - 100% Organic Grass-Fed Beef Tallow Balm ",
+    "$9.99",
+    "Lilei Beauty"
+   ],
+   [
+    2000,
+    "B0DT44BCPM",
+    "Beef Tallow for Skin, Beef Tallow for Face, Hydrating Tallow Balm with",
+    "$19.88",
+    null
+   ],
+   [
+    2000,
+    "B0D1XX82MR",
+    "Beef Tallow for Skin - Organic Grass-Fed Whipped Beef Tallow and Honey Balm - De",
+    "$9.99",
+    null
+   ]
+  ],
+  "winners_1k": 36
+ },
+ "price_us": {
+  "price_usd_median": 16.95,
+  "price_usd_p25_p75": [
+   9.99,
+   22.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "tallow balm",
+  "active": 2500,
+  "aged30": 500,
+  "aged90": 220,
+  "aged180": 52,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "page:hibi youth skincare",
+   5,
+   703,
+   1
+  ],
+  [
+   "ancestralcosmetics.com",
+   11,
+   348,
+   1
+  ],
+  [
+   "byminus.com",
+   3,
+   310,
+   1
+  ],
+  [
+   "bare-ritual.com",
+   8,
+   301,
+   1
+  ],
+  [
+   "cattle-creek.com",
+   1,
+   297,
+   1
+  ],
+  [
+   "page:cinder brands",
+   1,
+   285,
+   1
+  ],
+  [
+   "wildgoldtallow.com",
+   6,
+   268,
+   1
+  ],
+  [
+   "magnolia.com",
+   2,
+   267,
+   1
+  ]
+ ],
+ "meta_brand_pages": {
+  "Terra Lotus": {
+   "own": {
+    "309356178933761": {
+     "name": "Terra Lotus",
+     "active": 130,
+     "aged30": 78,
+     "aged90": 0,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 24,
+   "own_domain": 16
+  },
+  "Ancestral Cosmetics": {
+   "own": {
+    "101258689556477": {
+     "name": "Ancestral Cosmetics",
+     "active": 130,
+     "aged30": 100,
+     "aged90": 77,
+     "aged180": 55
+    }
+   },
+   "phrase_sample": 28,
+   "own_domain": 23
+  },
+  "Bare Ritual": {
+   "own": {
+    "662331720305715": {
+     "name": "Bare Ritual",
+     "active": 77,
+     "aged30": 72,
+     "aged90": 43,
+     "aged180": 21
+    }
+   },
+   "phrase_sample": 27,
+   "own_domain": 8
+  },
+  "Forge": {
+   "own": {
+    "132584606613853": {
+     "name": "Forge Men",
+     "active": 74,
+     "aged30": 17,
+     "aged90": 4,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 10
+  },
+  "byminus": {
+   "own": {
+    "426292777229349": {
+     "name": "Minus SkinCare",
+     "active": 150,
+     "aged30": 120,
+     "aged90": 38,
+     "aged180": 17
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 25
+  }
+ },
+ "meta_brand_phrase_v20": {
+  "Terra Lotus": {
+   "active": 170,
+   "aged90": 0,
+   "aged180": 0
+  },
+  "Ancestral Cosmetics": {
+   "active": 150,
+   "aged90": 77,
+   "aged180": 55
+  },
+  "Bare Ritual": {
+   "active": 84,
+   "aged90": 44,
+   "aged180": 21
+  },
+  "Forge Skin": {
+   "active": 160,
+   "aged90": 0,
+   "aged180": 0
+  },
+  "Forge Men": {
+   "active": 150,
+   "aged90": 0,
+   "aged180": 0
+  }
+ },
+ "trend": {
+  "term": "tallow balm",
+  "rel_yoy": 1.05,
+  "yearly_means_v20": [
+   0.9,
+   3.3,
+   8.3,
+   21.2,
+   35.3
+  ],
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "662.5",
+ "creatives": [
+  {
+   "domain": "ancestralcosmetics.com",
+   "ads_180d_total_meta": "55",
+   "loaded": 30,
+   "product": "Unscented Tallow Set",
+   "oldest": [
+    {
+     "days": 349,
+     "page": "Ancestral Cosmetics",
+     "headline": "I made a face cream from BEEF FAT",
+     "body": "👨🏻‍🍳 Started in our home kitchen\n☘️ Every jar is handmade in Ireland\n🐝 Real, natural ingredients\n🐮 More than 80.000 jars sold\n🌍 Loved by customers from 60+ coun",
+     "img": "dashboard/ads_media/532fe3e09aafba65.jpg"
+    },
+    {
+     "days": 341,
+     "page": "Ancestral Cosmetics",
+     "headline": "Handmade tallow products · Original tallow & honey balm is the most effective natural mois",
+     "body": "⏱️ LIMITED TIME OFFER!\n🎄 UP TO 35% OFF our HOLIDAY BUNDLES\n🎁 Buy early and save now!!\n🐮 Try our best selling tallow balms, deodorants and creams.\n🍯 Made with RE",
+     "img": "dashboard/ads_media/e0231865746d0cf3.jpg"
+    },
+    {
+     "days": 341,
+     "page": "Ancestral Cosmetics",
+     "headline": "Handmade tallow products · Ancestral Cosmetics are highly effective in a small amount. We ",
+     "body": "⏱️ LIMITED TIME OFFER!\n🎄 UP TO 35% OFF our HOLIDAY BUNDLES\n🎁 Buy early and save now!!\n🐮 Try our best selling tallow balms, deodorants and creams.\n🍯 Made with RE",
+     "img": "dashboard/ads_media/5b58b780939da3ff.jpg"
+    },
+    {
+     "days": 341,
+     "page": "Ancestral Cosmetics",
+     "headline": "Handmade tallow products · Ancestral Cosmetics are highly effective in a small amount. We ",
+     "body": "⏱️ LIMITED TIME OFFER!\n🎄 UP TO 35% OFF our HOLIDAY BUNDLES\n🎁 Buy early and save now!!\n🐮 Try our best selling tallow balms, deodorants and creams.\n🍯 Made with RE",
+     "img": "dashboard/ads_media/c6d5ccf955117428.jpg"
+    }
+   ]
+  },
+  {
+   "domain": "bare-ritual.com",
+   "ads_180d_total_meta": "24",
+   "loaded": 21,
+   "product": "Whipped Tallow Body Balm",
+   "oldest": [
+    {
+     "days": 302,
+     "page": "Bare Ritual",
+     "headline": "",
+     "body": "$59.99 for premium tallow skincare? Kinda expensive.\n$59.99 for TWO jars? Not today.\nRight now we're running Buy One Get One Free on Bare Ritual Tallow Balm - o",
+     "img": "dashboard/ads_media/4fb331e7ed8f539a.jpg"
+    },
+    {
+     "days": 263,
+     "page": "Bare Ritual",
+     "headline": "Someone asked if I got BOTOX. I didn't.",
+     "body": "Two weeks ago, someone at the gym asked if I'd gotten Botox.\nI laughed and said no. She didn't believe me. Said my face looked \"too smooth\" for someone who work",
+     "img": "dashboard/ads_media/8feba93063534cd2.jpg"
+    },
+    {
+     "days": 242,
+     "page": "Bare Ritual",
+     "headline": "Buy 1 Get 1 Free — Today Only · ONE PRODUCT.FOUR INGREDIENTS.BUILT FOR MEN. Stop using 10 ",
+     "body": "The best tallow balm on the market is usually $59.99 a jar.\nToday you're getting two for that.\nNo subscription. No catch. No watered-down formula to make up the",
+     "img": "dashboard/ads_media/88d0f08e3c1b2148.jpg"
+    },
+    {
+     "days": 242,
+     "page": "Bare Ritual",
+     "headline": "One Formula. Three Scents. · ONE PRODUCT.FOUR INGREDIENTS.BUILT FOR MEN. Stop using 10 dif",
+     "body": "Same 4 ingredients. Same formula that's sold 470,000+ jars.\nNow in three scents.\nUnscented — for men who want nothing added. Pure tallow, honey, olive oil, bees",
+     "img": "dashboard/ads_media/c6161c8c1e76d40a.jpg"
+    }
+   ]
+  }
+ ]
+}

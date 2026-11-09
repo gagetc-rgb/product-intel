@@ -1,0 +1,282 @@
+[
+ {
+  "domain": "ancestralcosmetics.com",
+  "active": 120,
+  "aged30": 110,
+  "aged90": 75,
+  "aged180": 57,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "aroma360.com",
+  "active": 360,
+  "aged30": 96,
+  "aged90": 77,
+  "aged180": 0,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "aurahouse.com",
+  "active": 150,
+  "aged30": 27,
+  "aged90": 22,
+  "aged180": 3,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "bare-ritual.com",
+  "active": 190,
+  "aged30": 60,
+  "aged90": 37,
+  "aged180": 21,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "borboleta.com",
+  "active": 210,
+  "aged30": 170,
+  "aged90": 98,
+  "aged180": 72,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "byminus.com",
+  "active": 160,
+  "aged30": 120,
+  "aged90": 42,
+  "aged180": 17,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "drmtlgy.com",
+  "active": 1200,
+  "aged30": 740,
+  "aged90": 300,
+  "aged180": 38,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "earthlyderm.com",
+  "active": 530,
+  "aged30": 260,
+  "aged90": 86,
+  "aged180": 44,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "everstridesocks.com",
+  "active": 1600,
+  "aged30": 740,
+  "aged90": 470,
+  "aged180": 190,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "glomelanin.com",
+  "active": 200,
+  "aged30": 95,
+  "aged90": 26,
+  "aged180": 3,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "goda.co",
+  "active": 4400,
+  "aged30": 2700,
+  "aged90": 580,
+  "aged180": 12,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "hushedsocks.com",
+  "active": 93,
+  "aged30": 41,
+  "aged90": 32,
+  "aged180": 17,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "jcsmiracleproducts.com",
+  "active": 170,
+  "aged30": 130,
+  "aged90": 92,
+  "aged180": 81,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "luxe.com",
+  "active": 270,
+  "aged30": 150,
+  "aged90": 130,
+  "aged180": 100,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "magnixa.com",
+  "active": 7,
+  "aged30": 7,
+  "aged90": 7,
+  "aged180": 7,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "miraiclinical.com",
+  "active": 100,
+  "aged30": 49,
+  "aged90": 19,
+  "aged180": 17,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "moxielash.com",
+  "active": 30,
+  "aged30": 30,
+  "aged90": 29,
+  "aged180": 25,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "officialbodywise.com",
+  "active": 68,
+  "aged30": 39,
+  "aged90": 34,
+  "aged180": 31,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "primeprometics.com",
+  "active": 1700,
+  "aged30": 700,
+  "aged90": 380,
+  "aged180": 160,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "scentfinity.com",
+  "active": 2,
+  "aged30": 2,
+  "aged90": 2,
+  "aged180": 2,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "scentifyhome.com",
+  "active": 320,
+  "aged30": 180,
+  "aged90": 98,
+  "aged180": 84,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "smooche.com",
+  "active": 5900,
+  "aged30": 4000,
+  "aged90": 1500,
+  "aged180": 9,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "sproos.co",
+  "active": 120,
+  "aged30": 110,
+  "aged90": 97,
+  "aged180": 86,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "terralotus.shop",
+  "active": 100,
+  "aged30": 73,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "try-forge.com",
+  "active": 8,
+  "aged30": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "try-kaori.com",
+  "active": 750,
+  "aged30": 590,
+  "aged90": 210,
+  "aged180": 53,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "trylumineskin.com",
+  "active": 41,
+  "aged30": 41,
+  "aged90": 40,
+  "aged180": 32,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ },
+ {
+  "domain": "wildgoldtallow.com",
+  "active": 35,
+  "aged30": 35,
+  "aged90": 35,
+  "aged180": 24,
+  "sample": 0,
+  "landing_known": 0,
+  "landing_own": 0
+ }
+]

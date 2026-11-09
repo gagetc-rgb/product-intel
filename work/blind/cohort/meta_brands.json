@@ -1,0 +1,3782 @@
+{
+ "aosorw.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "barebotanics.co": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "blissal.com": {
+  "active": 190,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 28,
+  "own_domain_share": 0.82,
+  "oldest": "2026-09-20",
+  "pages": [
+   "Ask the derm",
+   "Back Skin Fix",
+   "Blissal",
+   "Exfolia Lab",
+   "Melanie’s Favorites with Blissal",
+   "Men’s Shower Science",
+   "Sara Srividya with Blissal"
+  ],
+  "ads": [
+   {
+    "id": "982863508161946",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "2605262463257601",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1580313306479352",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1068742752823079",
+    "page": "Blissal",
+    "start": "2026-09-30",
+    "domain": ""
+   },
+   {
+    "id": "1795876118092018",
+    "page": "Sara Srividya with Blissal",
+    "start": "2026-09-20",
+    "domain": ""
+   },
+   {
+    "id": "1399399635062889",
+    "page": "Back Skin Fix",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1101787449467832",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1746317976637113",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": ""
+   },
+   {
+    "id": "1322266049853095",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1421997970057246",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "2688312748252443",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "955827244242368",
+    "page": "Ask the derm",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1097444039747713",
+    "page": "Blissal",
+    "start": "2026-10-02",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1812928903228611",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1811142586735124",
+    "page": "Blissal",
+    "start": "2026-10-07",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "2822332708152310",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": ""
+   },
+   {
+    "id": "1092443093409550",
+    "page": "Blissal",
+    "start": "2026-10-09",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "4549994701936428",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1437075598336553",
+    "page": "Melanie’s Favorites with Blissal",
+    "start": "2026-09-30",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1390409696598951",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1738336870791077",
+    "page": "Men’s Shower Science",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1766968044566993",
+    "page": "Blissal",
+    "start": "2026-10-08",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1655825099664049",
+    "page": "Blissal",
+    "start": "2026-10-08",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "920168324146181",
+    "page": "Exfolia Lab",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "3017975585225458",
+    "page": "Ask the derm",
+    "start": "2026-10-14",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "960064183808341",
+    "page": "Blissal",
+    "start": "2026-10-07",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "2230154247545097",
+    "page": "Blissal",
+    "start": "2026-10-14",
+    "domain": ""
+   },
+   {
+    "id": "28798086823146526",
+    "page": "Blissal",
+    "start": "2026-10-23",
+    "domain": "blissal.com"
+   }
+  ]
+ },
+ "drteals.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "ecloura.com": {
+  "active": 400,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 29,
+  "own_domain_share": 0.79,
+  "oldest": "2026-09-16",
+  "pages": [
+   "Ecloura",
+   "Eclouraskin",
+   "Glow with Negin with Ecloura"
+  ],
+  "ads": [
+   {
+    "id": "3564438337047395",
+    "page": "Ecloura",
+    "start": "2026-09-18",
+    "domain": ""
+   },
+   {
+    "id": "1997984997572635",
+    "page": "Ecloura",
+    "start": "2026-09-18",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "2239238180191974",
+    "page": "Eclouraskin",
+    "start": "2026-09-20",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1543932291107131",
+    "page": "Ecloura",
+    "start": "2026-09-23",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "2158869591698219",
+    "page": "Ecloura",
+    "start": "2026-09-16",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1121710930541639",
+    "page": "Ecloura",
+    "start": "2026-09-19",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1608354557455269",
+    "page": "Ecloura",
+    "start": "2026-09-20",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "28748232534828330",
+    "page": "Ecloura",
+    "start": "2026-10-15",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "4680932338805104",
+    "page": "Ecloura",
+    "start": "2026-10-20",
+    "domain": ""
+   },
+   {
+    "id": "2963845723975362",
+    "page": "Ecloura",
+    "start": "2026-10-16",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1079280548063672",
+    "page": "Ecloura",
+    "start": "2026-10-24",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1099558836204419",
+    "page": "Ecloura",
+    "start": "2026-10-27",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1513671950600287",
+    "page": "Ecloura",
+    "start": "2026-10-24",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1176359428081606",
+    "page": "Ecloura",
+    "start": "2026-10-30",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1670891557929053",
+    "page": "Ecloura",
+    "start": "2026-10-10",
+    "domain": ""
+   },
+   {
+    "id": "4657107384514037",
+    "page": "Ecloura",
+    "start": "2026-11-01",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1620789932789277",
+    "page": "Ecloura",
+    "start": "2026-10-09",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "4457565797892483",
+    "page": "Ecloura",
+    "start": "2026-10-21",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1107380358858449",
+    "page": "Ecloura",
+    "start": "2026-10-16",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1845588750144636",
+    "page": "Ecloura",
+    "start": "2026-09-19",
+    "domain": ""
+   },
+   {
+    "id": "1383892297208689",
+    "page": "Ecloura",
+    "start": "2026-09-16",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1077564195328335",
+    "page": "Ecloura",
+    "start": "2026-10-21",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1854400852425054",
+    "page": "Glow with Negin with Ecloura",
+    "start": "2026-10-27",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1678434223852451",
+    "page": "Ecloura",
+    "start": "2026-10-20",
+    "domain": ""
+   },
+   {
+    "id": "1597117198223691",
+    "page": "Ecloura",
+    "start": "2026-10-25",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1694426985727792",
+    "page": "Ecloura",
+    "start": "2026-10-30",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1097985712835135",
+    "page": "Ecloura",
+    "start": "2026-10-28",
+    "domain": ""
+   },
+   {
+    "id": "1831093038309944",
+    "page": "Ecloura",
+    "start": "2026-10-21",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1635246721335843",
+    "page": "Ecloura",
+    "start": "2026-10-20",
+    "domain": "ecloura.com"
+   }
+  ]
+ },
+ "getaisen.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "hyssopsoap.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "imatchme.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "justlovebeing.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "livaclean.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "mainbasics.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "makari.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "moonjar.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "musclerehabusa.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "myplusone.com": {
+  "active": 78,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 29,
+  "own_domain_share": 0.9,
+  "oldest": "2026-10-16",
+  "pages": [
+   "Jehava Brown Blog with PlusOne",
+   "Kelly Hughes with PlusOne",
+   "Leishaugc with PlusOne",
+   "Maria Simpson Creates with PlusOne",
+   "New York Living",
+   "PlusOne",
+   "Susie Maldonado - Low Impact Trainer with PlusOne",
+   "Ventureswithmia with PlusOne"
+  ],
+  "ads": [
+   {
+    "id": "2326901744810678",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1752967375806900",
+    "page": "New York Living",
+    "start": "2026-10-28",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1851354542527012",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "2152120782045279",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1415866340716590",
+    "page": "PlusOne",
+    "start": "2026-10-22",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "2138274166798774",
+    "page": "Susie Maldonado - Low Impact Trainer with PlusOne",
+    "start": "2026-10-21",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "2705189376649838",
+    "page": "PlusOne",
+    "start": "2026-10-20",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1471432311572121",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1140003515226345",
+    "page": "PlusOne",
+    "start": "2026-10-22",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "951718007714562",
+    "page": "Ventureswithmia with PlusOne",
+    "start": "2026-10-31",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1148856514758813",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1844653493338531",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "2275510576575760",
+    "page": "PlusOne",
+    "start": "2026-10-16",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1125764493273095",
+    "page": "Kelly Hughes with PlusOne",
+    "start": "2026-10-28",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1798855278050532",
+    "page": "Jehava Brown Blog with PlusOne",
+    "start": "2026-10-28",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1440038568325211",
+    "page": "PlusOne",
+    "start": "2026-10-16",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "28762833139992712",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1449174010486431",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "2279808849615140",
+    "page": "PlusOne",
+    "start": "2026-10-20",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1138972628815717",
+    "page": "PlusOne",
+    "start": "2026-10-16",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1420071863089786",
+    "page": "Maria Simpson Creates with PlusOne",
+    "start": "2026-10-27",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "2035955813769243",
+    "page": "PlusOne",
+    "start": "2026-10-16",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "3127064754166090",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": ""
+   },
+   {
+    "id": "2421354468670167",
+    "page": "PlusOne",
+    "start": "2026-10-29",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "39526193596995263",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": ""
+   },
+   {
+    "id": "1079623961562866",
+    "page": "Leishaugc with PlusOne",
+    "start": "2026-10-27",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1117819471229271",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1834966910868725",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "955261873969719",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": ""
+   }
+  ]
+ },
+ "omnutra.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "pacificabeauty.com": {
+  "active": 44,
+  "aged90": 22,
+  "aged180": 8,
+  "sample": 30,
+  "own_domain_share": 0.27,
+  "oldest": "2026-01-29",
+  "pages": [
+   "Pacifica"
+  ],
+  "ads": [
+   {
+    "id": "1598848248609739",
+    "page": "Pacifica",
+    "start": "2026-09-10",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "2122092705241963",
+    "page": "Pacifica",
+    "start": "2026-03-11",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "2063526981218487",
+    "page": "Pacifica",
+    "start": "2026-04-17",
+    "domain": ""
+   },
+   {
+    "id": "1004237208864544",
+    "page": "Pacifica",
+    "start": "2026-06-11",
+    "domain": ""
+   },
+   {
+    "id": "1002692965584191",
+    "page": "Pacifica",
+    "start": "2026-06-11",
+    "domain": ""
+   },
+   {
+    "id": "1027194996633520",
+    "page": "Pacifica",
+    "start": "2026-04-28",
+    "domain": ""
+   },
+   {
+    "id": "1362473362606470",
+    "page": "Pacifica",
+    "start": "2026-05-21",
+    "domain": ""
+   },
+   {
+    "id": "3970266509939059",
+    "page": "Pacifica",
+    "start": "2026-01-29",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "980891898024890",
+    "page": "Pacifica",
+    "start": "2026-06-11",
+    "domain": ""
+   },
+   {
+    "id": "1429501759146566",
+    "page": "Pacifica",
+    "start": "2026-09-10",
+    "domain": ""
+   },
+   {
+    "id": "1506687081196925",
+    "page": "Pacifica",
+    "start": "2026-05-22",
+    "domain": ""
+   },
+   {
+    "id": "1348803677403037",
+    "page": "Pacifica",
+    "start": "2026-07-25",
+    "domain": ""
+   },
+   {
+    "id": "1304165371208094",
+    "page": "Pacifica",
+    "start": "2026-05-23",
+    "domain": ""
+   },
+   {
+    "id": "4436042449965919",
+    "page": "Pacifica",
+    "start": "2026-05-11",
+    "domain": ""
+   },
+   {
+    "id": "3321666741375967",
+    "page": "Pacifica",
+    "start": "2026-10-29",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "1353189850062258",
+    "page": "Pacifica",
+    "start": "2026-10-22",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "1164168412605365",
+    "page": "Pacifica",
+    "start": "2026-10-10",
+    "domain": ""
+   },
+   {
+    "id": "1522682766071008",
+    "page": "Pacifica",
+    "start": "2026-06-11",
+    "domain": ""
+   },
+   {
+    "id": "2539295693200905",
+    "page": "Pacifica",
+    "start": "2026-09-05",
+    "domain": ""
+   },
+   {
+    "id": "4278437485743948",
+    "page": "Pacifica",
+    "start": "2026-05-11",
+    "domain": ""
+   },
+   {
+    "id": "1173017471720274",
+    "page": "Pacifica",
+    "start": "2026-11-01",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "29482153424716001",
+    "page": "Pacifica",
+    "start": "2026-10-22",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "1580196546334526",
+    "page": "Pacifica",
+    "start": "2026-09-10",
+    "domain": ""
+   },
+   {
+    "id": "1221013063474181",
+    "page": "Pacifica",
+    "start": "2026-07-25",
+    "domain": ""
+   },
+   {
+    "id": "861529226386933",
+    "page": "Pacifica",
+    "start": "2026-05-29",
+    "domain": ""
+   },
+   {
+    "id": "931859869996551",
+    "page": "Pacifica",
+    "start": "2026-09-10",
+    "domain": ""
+   },
+   {
+    "id": "1640568213957801",
+    "page": "Pacifica",
+    "start": "2026-04-02",
+    "domain": ""
+   },
+   {
+    "id": "3037866623220931",
+    "page": "Pacifica",
+    "start": "2026-10-29",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "1281862406649987",
+    "page": "Pacifica",
+    "start": "2026-04-17",
+    "domain": ""
+   },
+   {
+    "id": "929845946601331",
+    "page": "Pacifica",
+    "start": "2026-04-17",
+    "domain": ""
+   }
+  ]
+ },
+ "pixiecup.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "purador.com": {
+  "active": 3,
+  "aged90": 3,
+  "aged180": 2,
+  "sample": 3,
+  "own_domain_share": 1.0,
+  "oldest": "2026-05-07",
+  "pages": [
+   "PURA D'OR"
+  ],
+  "ads": [
+   {
+    "id": "1641645757092128",
+    "page": "PURA D'OR",
+    "start": "2026-05-11",
+    "domain": "purador.com"
+   },
+   {
+    "id": "1681880239623054",
+    "page": "PURA D'OR",
+    "start": "2026-05-07",
+    "domain": "purador.com"
+   },
+   {
+    "id": "2222974151847574",
+    "page": "PURA D'OR",
+    "start": "2026-05-07",
+    "domain": "purador.com"
+   }
+  ]
+ },
+ "pyary.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "riftvalleystore.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "southernnaturalsoap.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "stellevita.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "thedermacure.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "trymonier.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "vigority.com": {
+  "active": 17,
+  "aged90": 14,
+  "aged180": 13,
+  "sample": 17,
+  "own_domain_share": 0.24,
+  "oldest": "2026-02-20",
+  "pages": [
+   "Vigority",
+   "colleentischman.ugc with Vigority"
+  ],
+  "ads": [
+   {
+    "id": "1883640155589178",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "2008199999733479",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "2144459282767474",
+    "page": "colleentischman.ugc with Vigority",
+    "start": "2026-08-08",
+    "domain": "vigority.com"
+   },
+   {
+    "id": "4616191578627397",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "1428768635443696",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "926073133890277",
+    "page": "colleentischman.ugc with Vigority",
+    "start": "2026-08-28",
+    "domain": "vigority.com"
+   },
+   {
+    "id": "2356738598173104",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "1588333986415765",
+    "page": "Vigority",
+    "start": "2026-08-28",
+    "domain": "vigority.com"
+   },
+   {
+    "id": "2131480994268359",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "26122720877368864",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "1618089492758336",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "1979016252766061",
+    "page": "Vigority",
+    "start": "2026-08-28",
+    "domain": "vigority.com"
+   },
+   {
+    "id": "1976280746646386",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "1646577820122243",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "862575080124800",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "1084492563832672",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "933249832455118",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   }
+  ]
+ },
+ "vitamatic.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "winknaturals.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "yafusipe.com": {
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "name:aosorw.com": {
+  "query": "Aosorw",
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "name:barebotanics.co": {
+  "query": "Bare Botanics",
+  "active": 1,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 1,
+  "own_domain_share": 0.0,
+  "oldest": "2026-09-29",
+  "pages": [
+   "GIRLS WHO EAT"
+  ],
+  "ads": [
+   {
+    "id": "2178845906392064",
+    "page": "GIRLS WHO EAT",
+    "start": "2026-09-29",
+    "domain": ""
+   }
+  ]
+ },
+ "name:blissal.com": {
+  "query": "Blissal",
+  "active": 190,
+  "aged90": 1,
+  "aged180": 1,
+  "sample": 28,
+  "own_domain_share": 0.79,
+  "oldest": "2026-03-29",
+  "pages": [
+   "Ask the derm",
+   "Back Skin Fix",
+   "Blissal",
+   "Exfolia Lab",
+   "Melanie’s Favorites with Blissal",
+   "Melbob Shop",
+   "Men’s Shower Science",
+   "Sara Srividya with Blissal"
+  ],
+  "ads": [
+   {
+    "id": "982863508161946",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "2605262463257601",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1580313306479352",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1068742752823079",
+    "page": "Blissal",
+    "start": "2026-09-30",
+    "domain": ""
+   },
+   {
+    "id": "1795876118092018",
+    "page": "Sara Srividya with Blissal",
+    "start": "2026-09-20",
+    "domain": ""
+   },
+   {
+    "id": "1399399635062889",
+    "page": "Back Skin Fix",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1101787449467832",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1746317976637113",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": ""
+   },
+   {
+    "id": "1322266049853095",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1421997970057246",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "2688312748252443",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "955827244242368",
+    "page": "Ask the derm",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1097444039747713",
+    "page": "Blissal",
+    "start": "2026-10-02",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1812928903228611",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1811142586735124",
+    "page": "Blissal",
+    "start": "2026-10-07",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "2822332708152310",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": ""
+   },
+   {
+    "id": "1092443093409550",
+    "page": "Blissal",
+    "start": "2026-10-09",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "4549994701936428",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1437075598336553",
+    "page": "Melanie’s Favorites with Blissal",
+    "start": "2026-09-30",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1390409696598951",
+    "page": "Blissal",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1738336870791077",
+    "page": "Men’s Shower Science",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1766968044566993",
+    "page": "Blissal",
+    "start": "2026-10-08",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "1655825099664049",
+    "page": "Blissal",
+    "start": "2026-10-08",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "920168324146181",
+    "page": "Exfolia Lab",
+    "start": "2026-09-20",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "3017975585225458",
+    "page": "Ask the derm",
+    "start": "2026-10-14",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "960064183808341",
+    "page": "Blissal",
+    "start": "2026-10-07",
+    "domain": "blissal.com"
+   },
+   {
+    "id": "2230154247545097",
+    "page": "Blissal",
+    "start": "2026-10-14",
+    "domain": ""
+   },
+   {
+    "id": "1621766092397146",
+    "page": "Melbob Shop",
+    "start": "2026-03-29",
+    "domain": "melbob.com"
+   }
+  ]
+ },
+ "name:drteals.com": {
+  "query": "Dr Teal's",
+  "active": 22,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 12,
+  "own_domain_share": 0.0,
+  "oldest": "2026-10-23",
+  "pages": [
+   "AJTaughtYou with Dr Teal's",
+   "Dr Teal's",
+   "Fallon Ave Style",
+   "Hartig Drug",
+   "Maison Hàng Mỹ Auth",
+   "Today Show"
+  ],
+  "ads": [
+   {
+    "id": "1609132806801369",
+    "page": "AJTaughtYou with Dr Teal's",
+    "start": "2026-10-23",
+    "domain": "www.drteals.com"
+   },
+   {
+    "id": "1438838524402071",
+    "page": "Dr Teal's",
+    "start": "2026-10-30",
+    "domain": ""
+   },
+   {
+    "id": "2815888372116880",
+    "page": "Dr Teal's",
+    "start": "2026-10-30",
+    "domain": ""
+   },
+   {
+    "id": "1508382347979051",
+    "page": "Dr Teal's",
+    "start": "2026-11-03",
+    "domain": ""
+   },
+   {
+    "id": "1891226221897025",
+    "page": "Dr Teal's",
+    "start": "2026-10-30",
+    "domain": ""
+   },
+   {
+    "id": "1106369392032417",
+    "page": "Dr Teal's",
+    "start": "2026-11-03",
+    "domain": ""
+   },
+   {
+    "id": "1070985849324144",
+    "page": "Maison Hàng Mỹ Auth",
+    "start": "2026-11-02",
+    "domain": ""
+   },
+   {
+    "id": "1649399553206223",
+    "page": "Hartig Drug",
+    "start": "2026-11-05",
+    "domain": "hartigdrug.com"
+   },
+   {
+    "id": "1201543942828960",
+    "page": "Today Show",
+    "start": "2026-11-03",
+    "domain": "amazon.com"
+   },
+   {
+    "id": "884841451319307",
+    "page": "Today Show",
+    "start": "2026-11-03",
+    "domain": "amazon.com"
+   },
+   {
+    "id": "1148512570862624",
+    "page": "Today Show",
+    "start": "2026-11-03",
+    "domain": "amazon.com"
+   },
+   {
+    "id": "29170397132591832",
+    "page": "Fallon Ave Style",
+    "start": "2026-11-01",
+    "domain": "amzlink.to"
+   }
+  ]
+ },
+ "name:ecloura.com": {
+  "query": "Ecloura",
+  "active": 400,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 30,
+  "own_domain_share": 0.7,
+  "oldest": "2026-09-16",
+  "pages": [
+   "Ecloura",
+   "Eclouraskin",
+   "Glow with Negin with Ecloura",
+   "Vizor Ad Library - Nutra"
+  ],
+  "ads": [
+   {
+    "id": "3564438337047395",
+    "page": "Ecloura",
+    "start": "2026-09-18",
+    "domain": ""
+   },
+   {
+    "id": "1997984997572635",
+    "page": "Ecloura",
+    "start": "2026-09-18",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "2239238180191974",
+    "page": "Eclouraskin",
+    "start": "2026-09-20",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1543932291107131",
+    "page": "Ecloura",
+    "start": "2026-09-23",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "2158869591698219",
+    "page": "Ecloura",
+    "start": "2026-09-16",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1121710930541639",
+    "page": "Ecloura",
+    "start": "2026-09-19",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1806100837297104",
+    "page": "Vizor Ad Library - Nutra",
+    "start": "2026-10-29",
+    "domain": ""
+   },
+   {
+    "id": "1685850746463914",
+    "page": "Vizor Ad Library - Nutra",
+    "start": "2026-10-29",
+    "domain": ""
+   },
+   {
+    "id": "2182450835816367",
+    "page": "Vizor Ad Library - Nutra",
+    "start": "2026-10-29",
+    "domain": ""
+   },
+   {
+    "id": "1653216502817961",
+    "page": "Vizor Ad Library - Nutra",
+    "start": "2026-10-29",
+    "domain": ""
+   },
+   {
+    "id": "1608354557455269",
+    "page": "Ecloura",
+    "start": "2026-09-20",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "28748232534828330",
+    "page": "Ecloura",
+    "start": "2026-10-15",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "4680932338805104",
+    "page": "Ecloura",
+    "start": "2026-10-20",
+    "domain": ""
+   },
+   {
+    "id": "2963845723975362",
+    "page": "Ecloura",
+    "start": "2026-10-16",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1079280548063672",
+    "page": "Ecloura",
+    "start": "2026-10-24",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1099558836204419",
+    "page": "Ecloura",
+    "start": "2026-10-27",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1513671950600287",
+    "page": "Ecloura",
+    "start": "2026-10-24",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1176359428081606",
+    "page": "Ecloura",
+    "start": "2026-10-30",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1670891557929053",
+    "page": "Ecloura",
+    "start": "2026-10-10",
+    "domain": ""
+   },
+   {
+    "id": "4657107384514037",
+    "page": "Ecloura",
+    "start": "2026-11-01",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1620789932789277",
+    "page": "Ecloura",
+    "start": "2026-10-09",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "4457565797892483",
+    "page": "Ecloura",
+    "start": "2026-10-21",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1107380358858449",
+    "page": "Ecloura",
+    "start": "2026-10-16",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1845588750144636",
+    "page": "Ecloura",
+    "start": "2026-09-19",
+    "domain": ""
+   },
+   {
+    "id": "1383892297208689",
+    "page": "Ecloura",
+    "start": "2026-09-16",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1077564195328335",
+    "page": "Ecloura",
+    "start": "2026-10-21",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1854400852425054",
+    "page": "Glow with Negin with Ecloura",
+    "start": "2026-10-27",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1678434223852451",
+    "page": "Ecloura",
+    "start": "2026-10-20",
+    "domain": ""
+   },
+   {
+    "id": "1597117198223691",
+    "page": "Ecloura",
+    "start": "2026-10-25",
+    "domain": "ecloura.com"
+   },
+   {
+    "id": "1694426985727792",
+    "page": "Ecloura",
+    "start": "2026-10-30",
+    "domain": "ecloura.com"
+   }
+  ]
+ },
+ "name:getaisen.com": {
+  "query": "Aisen",
+  "active": 22,
+  "aged90": 4,
+  "aged180": 4,
+  "sample": 17,
+  "own_domain_share": 0.0,
+  "oldest": "2026-02-28",
+  "pages": [
+   "Alibaba.com",
+   "Aumann Auctions, Inc.",
+   "Chris Finch shared Chris Finch's post",
+   "Dark Crow",
+   "Family Gifts F1",
+   "Kaisen Kaiten Sushi",
+   "Línea orgánica Jaare",
+   "Misen"
+  ],
+  "ads": [
+   {
+    "id": "901107072705997",
+    "page": "Alibaba.com",
+    "start": "2026-02-28",
+    "domain": "m.alibaba.com"
+   },
+   {
+    "id": "2221475508710300",
+    "page": "Chris Finch shared Chris Finch's post",
+    "start": "2026-09-04",
+    "domain": ""
+   },
+   {
+    "id": "4597757163847195",
+    "page": "Misen",
+    "start": "2026-10-16",
+    "domain": ""
+   },
+   {
+    "id": "1791419442066908",
+    "page": "Saratoga Comic Con",
+    "start": "2026-10-13",
+    "domain": "chasecon.ticketspice.com"
+   },
+   {
+    "id": "4588319071436479",
+    "page": "Vatalla",
+    "start": "2026-11-02",
+    "domain": "vatalla.com"
+   },
+   {
+    "id": "1173183908999808",
+    "page": "Alibaba.com",
+    "start": "2026-10-29",
+    "domain": "m.alibaba.com"
+   },
+   {
+    "id": "1776023900355492",
+    "page": "Aumann Auctions, Inc.",
+    "start": "2026-11-06",
+    "domain": ""
+   },
+   {
+    "id": "1742926173832297",
+    "page": "Dark Crow",
+    "start": "2026-11-01",
+    "domain": "darkcrowsales.com"
+   },
+   {
+    "id": "4262681850689434",
+    "page": "Kaisen Kaiten Sushi",
+    "start": "2026-11-02",
+    "domain": ""
+   },
+   {
+    "id": "1127892273067113",
+    "page": "Dark Crow",
+    "start": "2026-11-01",
+    "domain": "darkcrowsales.com"
+   },
+   {
+    "id": "1760622811895496",
+    "page": "Dark Crow",
+    "start": "2026-11-01",
+    "domain": "darkcrowsales.com"
+   },
+   {
+    "id": "1161102199759498",
+    "page": "Línea orgánica Jaare",
+    "start": "2026-11-06",
+    "domain": ""
+   },
+   {
+    "id": "29137657889193099",
+    "page": "Dark Crow",
+    "start": "2026-11-01",
+    "domain": "darkcrowsales.com"
+   },
+   {
+    "id": "1159819913248342",
+    "page": "Dark Crow",
+    "start": "2026-11-01",
+    "domain": "darkcrowsales.com"
+   },
+   {
+    "id": "2917466348626117",
+    "page": "Family Gifts F1",
+    "start": "2026-11-01",
+    "domain": "mfamilystore.com"
+   },
+   {
+    "id": "1125883099850941",
+    "page": "Dark Crow",
+    "start": "2026-11-01",
+    "domain": "darkcrowsales.com"
+   },
+   {
+    "id": "1828512061616324",
+    "page": "Plangflisclulfre Rithongjiclim",
+    "start": "2026-11-01",
+    "domain": "m.mydramawave.com"
+   }
+  ]
+ },
+ "name:hyssopsoap.com": {
+  "query": "Hyssop",
+  "active": 2400,
+  "aged90": 17,
+  "aged180": 9,
+  "sample": 29,
+  "own_domain_share": 0.0,
+  "oldest": "2022-07-15",
+  "pages": [
+   "A Raft, A Boat, A Bridge",
+   "Arencia Global",
+   "Bed Bug Success Stories",
+   "Crysta Rollins",
+   "Faithful Home",
+   "Herbal Rose Apothecary",
+   "James Carter",
+   "Jill Anderson Langer shared Jill Anderson Langer's post"
+  ],
+  "ads": [
+   {
+    "id": "1218582760398838",
+    "page": "Wisdom Nutrition",
+    "start": "2026-08-07",
+    "domain": ""
+   },
+   {
+    "id": "1581910077022444",
+    "page": "Lessons from the Bible",
+    "start": "2026-10-26",
+    "domain": ""
+   },
+   {
+    "id": "1062544039899770",
+    "page": "Faithful Home",
+    "start": "2026-09-17",
+    "domain": ""
+   },
+   {
+    "id": "1554494876173199",
+    "page": "Mr. Handyman of Kanawha Valley",
+    "start": "2026-08-01",
+    "domain": "www.mrhandyman.com"
+   },
+   {
+    "id": "1814752739967130",
+    "page": "Jill Anderson Langer shared Jill Anderson Langer's post",
+    "start": "2026-08-20",
+    "domain": ""
+   },
+   {
+    "id": "1637099918056557",
+    "page": "Walgreens",
+    "start": "2026-10-08",
+    "domain": "walgreens.com"
+   },
+   {
+    "id": "2310864649689053",
+    "page": "John Ross",
+    "start": "2026-09-28",
+    "domain": ""
+   },
+   {
+    "id": "1796927318242921",
+    "page": "Arencia Global",
+    "start": "2026-10-19",
+    "domain": "arencia.us"
+   },
+   {
+    "id": "1805396604105462",
+    "page": "Park Seed Gardening",
+    "start": "2026-10-05",
+    "domain": "parkseed.com"
+   },
+   {
+    "id": "1394917705641514",
+    "page": "John Ross",
+    "start": "2026-09-28",
+    "domain": ""
+   },
+   {
+    "id": "1108689715103167",
+    "page": "Bed Bug Success Stories",
+    "start": "2026-10-16",
+    "domain": ""
+   },
+   {
+    "id": "1591324323034710",
+    "page": "Faithful Home",
+    "start": "2026-09-17",
+    "domain": ""
+   },
+   {
+    "id": "3973482529623070",
+    "page": "Wisdom Nutrition",
+    "start": "2026-08-26",
+    "domain": "trywisdom.com"
+   },
+   {
+    "id": "1421202303549730",
+    "page": "Lessons from the Bible",
+    "start": "2026-10-26",
+    "domain": ""
+   },
+   {
+    "id": "2246686482857255",
+    "page": "MountainTop International Word Ministry",
+    "start": "2026-11-04",
+    "domain": "www.mtiwm.org"
+   },
+   {
+    "id": "2025466184825958",
+    "page": "Michael Stanton, MD",
+    "start": "2026-09-11",
+    "domain": ""
+   },
+   {
+    "id": "1113711331411168",
+    "page": "Michael Stanton, MD",
+    "start": "2026-11-02",
+    "domain": ""
+   },
+   {
+    "id": "1085838950465497",
+    "page": "Urban Meadow",
+    "start": "2026-08-17",
+    "domain": "theurbanmeadow.com"
+   },
+   {
+    "id": "1442574899549534",
+    "page": "Herbal Rose Apothecary",
+    "start": "2022-07-15",
+    "domain": ""
+   },
+   {
+    "id": "2103799643592227",
+    "page": "Theresa Callahan",
+    "start": "2026-10-07",
+    "domain": ""
+   },
+   {
+    "id": "976220044875627",
+    "page": "James Carter",
+    "start": "2026-05-06",
+    "domain": ""
+   },
+   {
+    "id": "1728080062656551",
+    "page": "Arencia Global",
+    "start": "2026-10-20",
+    "domain": "arencia.us"
+   },
+   {
+    "id": "1744841493274886",
+    "page": "Faithful Home",
+    "start": "2026-09-17",
+    "domain": ""
+   },
+   {
+    "id": "1780417236562670",
+    "page": "Old Ways Remedies",
+    "start": "2026-10-26",
+    "domain": ""
+   },
+   {
+    "id": "1633193908438218",
+    "page": "A Raft, A Boat, A Bridge",
+    "start": "2026-10-01",
+    "domain": ""
+   },
+   {
+    "id": "1884838869547446",
+    "page": "Moblicramsli Plackvapo",
+    "start": "2026-10-21",
+    "domain": "amazon.com"
+   },
+   {
+    "id": "1652678456451152",
+    "page": "Crysta Rollins",
+    "start": "2026-09-17",
+    "domain": ""
+   },
+   {
+    "id": "1122724043797639",
+    "page": "Lostemclosteng Fothacla",
+    "start": "2026-10-23",
+    "domain": "amazon.com"
+   },
+   {
+    "id": "1102586435900834",
+    "page": "Michael Stanton, MD",
+    "start": "2026-10-29",
+    "domain": ""
+   }
+  ]
+ },
+ "name:imatchme.com": {
+  "query": "iMatchMe",
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "name:justlovebeing.com": {
+  "query": "Love Being",
+  "active": 6000,
+  "aged90": 960,
+  "aged180": 540,
+  "sample": 24,
+  "own_domain_share": 0.0,
+  "oldest": "2024-03-15",
+  "pages": [
+   "AngelineRichard with ThingsBook",
+   "Disney+",
+   "Expedia",
+   "Fresh Mommy Blog with BJ's Wholesale Club",
+   "GEICO with Kate Norkeliunas",
+   "GenessSantana with Ensuenousa",
+   "Hangingwiththehardens with Walmart",
+   "Hannah Shaw with Ulta Beauty"
+  ],
+  "ads": [
+   {
+    "id": "1117062614312705",
+    "page": "Expedia",
+    "start": "2026-08-21",
+    "domain": "www.expedia.com"
+   },
+   {
+    "id": "2000867640631970",
+    "page": "Disney+",
+    "start": "2026-09-02",
+    "domain": "disneyplus.com"
+   },
+   {
+    "id": "1390874322704015",
+    "page": "GEICO with Kate Norkeliunas",
+    "start": "2026-10-02",
+    "domain": "geico.com"
+   },
+   {
+    "id": "760715942790503",
+    "page": "Penguin Random House",
+    "start": "2024-03-15",
+    "domain": "penguinrandomhouse.com"
+   },
+   {
+    "id": "984809773945006",
+    "page": "Nicole with Pair Eyewear",
+    "start": "2026-05-12",
+    "domain": ""
+   },
+   {
+    "id": "1165743509452503",
+    "page": "Iman Gadzhi",
+    "start": "2026-10-29",
+    "domain": ""
+   },
+   {
+    "id": "1589037482558186",
+    "page": "AngelineRichard with ThingsBook",
+    "start": "2026-08-06",
+    "domain": ""
+   },
+   {
+    "id": "4593471747588731",
+    "page": "Tyanna Myers Official with Graco Children's Products",
+    "start": "2026-09-01",
+    "domain": ""
+   },
+   {
+    "id": "4525001034411994",
+    "page": "Fresh Mommy Blog with BJ's Wholesale Club",
+    "start": "2026-11-02",
+    "domain": "www.bjs.com"
+   },
+   {
+    "id": "1876724633740512",
+    "page": "Hannah Shaw with Ulta Beauty",
+    "start": "2026-10-30",
+    "domain": "www.ulta.com"
+   },
+   {
+    "id": "1588400626659543",
+    "page": "Yourbudnash Page with Chewy",
+    "start": "2026-10-02",
+    "domain": "chewy.com"
+   },
+   {
+    "id": "1056943713869854",
+    "page": "Hilingo: Learn English With AI Tutor",
+    "start": "2026-08-27",
+    "domain": ""
+   },
+   {
+    "id": "1851556145710056",
+    "page": "biBerk Business Insurance",
+    "start": "2025-10-01",
+    "domain": "www.biberk.com"
+   },
+   {
+    "id": "4349930588652442",
+    "page": "Marisa Peer",
+    "start": "2026-09-05",
+    "domain": "marisapeer.com"
+   },
+   {
+    "id": "910020302078456",
+    "page": "Joel Osteen",
+    "start": "2026-11-01",
+    "domain": "www.instagram.com"
+   },
+   {
+    "id": "1480949837001578",
+    "page": "Towedyouso with Miacademy Learning",
+    "start": "2026-04-28",
+    "domain": "parents.miacademy.co"
+   },
+   {
+    "id": "2127479148642937",
+    "page": "YouTube with Nick Walker Fitness",
+    "start": "2026-11-04",
+    "domain": ""
+   },
+   {
+    "id": "2582166158912669",
+    "page": "Macy Watkins Johnston with Chevrolet",
+    "start": "2026-11-02",
+    "domain": "ad.doubleclick.net"
+   },
+   {
+    "id": "1107502118395620",
+    "page": "The New York Times",
+    "start": "2026-10-05",
+    "domain": "www.nytimes.com"
+   },
+   {
+    "id": "721419110628412",
+    "page": "Remix MMA",
+    "start": "2025-07-15",
+    "domain": "instagram.com"
+   },
+   {
+    "id": "2869734013199696",
+    "page": "Rapid Recovery Agency",
+    "start": "2025-05-27",
+    "domain": "rapidrecoveryagency.com"
+   },
+   {
+    "id": "1126705883386222",
+    "page": "GenessSantana with Ensuenousa",
+    "start": "2026-10-13",
+    "domain": ""
+   },
+   {
+    "id": "1490183623005790",
+    "page": "Sam's Club",
+    "start": "2026-11-05",
+    "domain": ""
+   },
+   {
+    "id": "1451732880390100",
+    "page": "Hangingwiththehardens with Walmart",
+    "start": "2026-10-29",
+    "domain": ""
+   }
+  ]
+ },
+ "name:livaclean.com": {
+  "query": "LivaClean",
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "name:mainbasics.com": {
+  "query": "MainBasics",
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "name:makari.com": {
+  "query": "Makari",
+  "active": 180,
+  "aged90": 7,
+  "aged180": 2,
+  "sample": 19,
+  "own_domain_share": 0.0,
+  "oldest": "2026-03-15",
+  "pages": [
+   "Delightful Gifts And More",
+   "Garage Sale Tips",
+   "Makari",
+   "Makari Brand Friends",
+   "PrayerSong",
+   "Resaleos",
+   "ShanShar Beauty Distribution",
+   "Sidekick Tools"
+  ],
+  "ads": [
+   {
+    "id": "970021809151047",
+    "page": "Vans Warped Tour with Vans Warped Tour Orlando",
+    "start": "2026-09-04",
+    "domain": ""
+   },
+   {
+    "id": "2011600492864121",
+    "page": "PrayerSong",
+    "start": "2026-07-20",
+    "domain": "prayersong.com"
+   },
+   {
+    "id": "1132666772677333",
+    "page": "Makari Brand Friends",
+    "start": "2026-11-02",
+    "domain": "shopmakari.com"
+   },
+   {
+    "id": "2330176584417172",
+    "page": "ShanShar Beauty Distribution",
+    "start": "2026-09-03",
+    "domain": "shanshar.com"
+   },
+   {
+    "id": "1117243214815046",
+    "page": "Sidekick Tools",
+    "start": "2026-07-11",
+    "domain": ""
+   },
+   {
+    "id": "922466777169580",
+    "page": "Garage Sale Tips",
+    "start": "2026-09-15",
+    "domain": "valuescout.ai"
+   },
+   {
+    "id": "1453244706214584",
+    "page": "Delightful Gifts And More",
+    "start": "2026-03-15",
+    "domain": "delightfulgiftsandmore.com"
+   },
+   {
+    "id": "1047669124989449",
+    "page": "Sidekick Tools",
+    "start": "2026-10-06",
+    "domain": ""
+   },
+   {
+    "id": "1780286986331346",
+    "page": "Vans Warped Tour Orlando",
+    "start": "2026-09-04",
+    "domain": "vanswarpedtour.com"
+   },
+   {
+    "id": "1420587260186597",
+    "page": "Resaleos",
+    "start": "2026-10-15",
+    "domain": ""
+   },
+   {
+    "id": "2167830800468566",
+    "page": "Makari",
+    "start": "2026-10-07",
+    "domain": "etix.com"
+   },
+   {
+    "id": "1730414194711987",
+    "page": "Resaleos",
+    "start": "2026-10-15",
+    "domain": ""
+   },
+   {
+    "id": "2223941785173515",
+    "page": "sorabun with Sparkling5",
+    "start": "2026-10-27",
+    "domain": "itunes.apple.com"
+   },
+   {
+    "id": "1364861830033983",
+    "page": "ShanShar Beauty Distribution",
+    "start": "2026-09-05",
+    "domain": ""
+   },
+   {
+    "id": "1447410520846039",
+    "page": "Sidekick Tools",
+    "start": "2026-10-31",
+    "domain": ""
+   },
+   {
+    "id": "1019509401105073",
+    "page": "jjcms with Diffui",
+    "start": "2026-10-01",
+    "domain": "diffui.ai"
+   },
+   {
+    "id": "1443949863739455",
+    "page": "theheartpt8 with Mercari for K-pop Fans",
+    "start": "2026-11-02",
+    "domain": "lp.us.mercari.com"
+   },
+   {
+    "id": "1399201719034587",
+    "page": "sorabun with Sparkling5",
+    "start": "2026-10-27",
+    "domain": ""
+   },
+   {
+    "id": "1090921310483079",
+    "page": "sorabun with Sparkling5",
+    "start": "2026-11-03",
+    "domain": "play.google.com"
+   }
+  ]
+ },
+ "name:moonjar.com": {
+  "query": "Moonjar",
+  "active": 2,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 2,
+  "own_domain_share": 0.0,
+  "oldest": "2026-11-03",
+  "pages": [
+   "유재영"
+  ],
+  "ads": [
+   {
+    "id": "1739940814161501",
+    "page": "유재영",
+    "start": "2026-11-03",
+    "domain": "instagram.com"
+   },
+   {
+    "id": "1434462064886501",
+    "page": "유재영",
+    "start": "2026-11-03",
+    "domain": "instagram.com"
+   }
+  ]
+ },
+ "name:musclerehabusa.com": {
+  "query": "Muscle Rehab",
+  "active": 1,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 1,
+  "own_domain_share": 0.0,
+  "oldest": "2026-09-11",
+  "pages": [
+   "The Lift Box with Headlines Over Sidelines"
+  ],
+  "ads": [
+   {
+    "id": "1108522691705249",
+    "page": "The Lift Box with Headlines Over Sidelines",
+    "start": "2026-09-11",
+    "domain": "theliftbx.com"
+   }
+  ]
+ },
+ "name:myplusone.com": {
+  "query": "plusOne",
+  "active": 1300,
+  "aged90": 90,
+  "aged180": 9,
+  "sample": 29,
+  "own_domain_share": 0.03,
+  "oldest": "2025-06-10",
+  "pages": [
+   "Affirm",
+   "Altar'd State",
+   "Banner Health",
+   "Bella Matthews Author",
+   "Carrie Atelier",
+   "Coach",
+   "Create Wellness",
+   "Eskiin"
+  ],
+  "ads": [
+   {
+    "id": "1837806963879006",
+    "page": "Coach",
+    "start": "2026-10-23",
+    "domain": "coach.com"
+   },
+   {
+    "id": "1676097810302085",
+    "page": "Eskiin",
+    "start": "2026-06-05",
+    "domain": "eskiin.com"
+   },
+   {
+    "id": "1840409416940181",
+    "page": "PlusOne",
+    "start": "2026-07-30",
+    "domain": "www.ulta.com"
+   },
+   {
+    "id": "1024821890326288",
+    "page": "Faye",
+    "start": "2026-07-27",
+    "domain": "withfaye.com"
+   },
+   {
+    "id": "1082644697828405",
+    "page": "Mediacom",
+    "start": "2026-10-01",
+    "domain": ""
+   },
+   {
+    "id": "1149918513828970",
+    "page": "Lila Monroe",
+    "start": "2025-06-10",
+    "domain": "books.apple.com"
+   },
+   {
+    "id": "2135905840344378",
+    "page": "Altar'd State",
+    "start": "2026-10-13",
+    "domain": ""
+   },
+   {
+    "id": "1585831773346614",
+    "page": "Faye",
+    "start": "2026-10-12",
+    "domain": "withfaye.com"
+   },
+   {
+    "id": "2212755499542083",
+    "page": "PlusOne",
+    "start": "2026-06-01",
+    "domain": "www.walmart.com"
+   },
+   {
+    "id": "4571231723146463",
+    "page": "Mediacom",
+    "start": "2026-08-02",
+    "domain": "mediacomcable.com"
+   },
+   {
+    "id": "1390823509782887",
+    "page": "_dashlopez with PlusOne",
+    "start": "2026-08-26",
+    "domain": "www.instagram.com"
+   },
+   {
+    "id": "1937978210492190",
+    "page": "PlusOne",
+    "start": "2026-08-11",
+    "domain": "walmart.com"
+   },
+   {
+    "id": "1119628050762652",
+    "page": "The Sak",
+    "start": "2026-10-06",
+    "domain": "thesak.com"
+   },
+   {
+    "id": "1495908938959095",
+    "page": "Mediacom",
+    "start": "2026-07-24",
+    "domain": "mediacomcable.com"
+   },
+   {
+    "id": "1423958989807173",
+    "page": "Kenneth Cole",
+    "start": "2026-11-02",
+    "domain": "www.kennethcole.com"
+   },
+   {
+    "id": "2326901744810678",
+    "page": "PlusOne",
+    "start": "2026-10-26",
+    "domain": "myplusone.com"
+   },
+   {
+    "id": "1522451209559185",
+    "page": "PlusOne",
+    "start": "2026-06-05",
+    "domain": "target.com"
+   },
+   {
+    "id": "899394243166459",
+    "page": "PrettyLittleThing",
+    "start": "2026-11-04",
+    "domain": "prettylittlething.us"
+   },
+   {
+    "id": "1759025011821791",
+    "page": "Affirm",
+    "start": "2026-11-02",
+    "domain": ""
+   },
+   {
+    "id": "1402839305168510",
+    "page": "Total Wireless",
+    "start": "2026-11-05",
+    "domain": "ad.doubleclick.net"
+   },
+   {
+    "id": "2543039126210780",
+    "page": "Mediacom",
+    "start": "2026-08-01",
+    "domain": ""
+   },
+   {
+    "id": "1836489297686512",
+    "page": "Virgin Voyages",
+    "start": "2026-11-04",
+    "domain": ""
+   },
+   {
+    "id": "1046949951265101",
+    "page": "PlusOne",
+    "start": "2026-08-11",
+    "domain": "www.walmart.com"
+   },
+   {
+    "id": "1753570245676079",
+    "page": "PlusOne",
+    "start": "2026-08-11",
+    "domain": "walmart.com"
+   },
+   {
+    "id": "1659403892485905",
+    "page": "Gulf Coast Jam",
+    "start": "2026-09-25",
+    "domain": "gulfcoastjam.com"
+   },
+   {
+    "id": "1583532506307850",
+    "page": "Banner Health",
+    "start": "2026-10-23",
+    "domain": "bannerhealth.com"
+   },
+   {
+    "id": "1634447311578498",
+    "page": "Carrie Atelier",
+    "start": "2026-08-15",
+    "domain": ""
+   },
+   {
+    "id": "1385821603633755",
+    "page": "Bella Matthews Author",
+    "start": "2026-09-03",
+    "domain": ""
+   },
+   {
+    "id": "1874021677299853",
+    "page": "Create Wellness",
+    "start": "2026-10-21",
+    "domain": "buy.trycreate.co"
+   }
+  ]
+ },
+ "name:omnutra.com": {
+  "query": "Omnutra",
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "name:pacificabeauty.com": {
+  "query": "Pacifica",
+  "active": 3700,
+  "aged90": 400,
+  "aged180": 80,
+  "sample": 30,
+  "own_domain_share": 0.07,
+  "oldest": "2020-04-16",
+  "pages": [
+   "Anthropologie",
+   "Audi Oxnard",
+   "AutoInsider 360",
+   "AutoShark",
+   "Automobile Insiders",
+   "AutosReviewed",
+   "Blainville Chrysler Jeep Dodge Ram Fiat",
+   "CarGurus"
+  ],
+  "ads": [
+   {
+    "id": "1790042495501180",
+    "page": "Anthropologie",
+    "start": "2026-08-06",
+    "domain": "anthropologie.com"
+   },
+   {
+    "id": "1996977930983443",
+    "page": "Anthropologie",
+    "start": "2026-10-19",
+    "domain": "anthropologie.com"
+   },
+   {
+    "id": "1448809774016430",
+    "page": "Anthropologie",
+    "start": "2026-10-19",
+    "domain": "anthropologie.com"
+   },
+   {
+    "id": "3614717922043274",
+    "page": "Automobile Insiders",
+    "start": "2026-09-09",
+    "domain": "search.automobileinsiders.com"
+   },
+   {
+    "id": "904835482447590",
+    "page": "Top Motor Search",
+    "start": "2026-09-09",
+    "domain": "dealers.topmotorsearch.com"
+   },
+   {
+    "id": "2518666015307833",
+    "page": "Motor Daily",
+    "start": "2026-09-09",
+    "domain": "autolistings.motordaily.co"
+   },
+   {
+    "id": "1065399459418616",
+    "page": "Motor Wizard",
+    "start": "2026-09-09",
+    "domain": "search.motorwizard.co"
+   },
+   {
+    "id": "1615733746605684",
+    "page": "Urban Consumers Guide",
+    "start": "2026-09-09",
+    "domain": "search.urbanconsumersguide.com"
+   },
+   {
+    "id": "3282086468644396",
+    "page": "Forexign Nasir shared Forexign Nasir's post",
+    "start": "2026-05-21",
+    "domain": ""
+   },
+   {
+    "id": "1438455488265629",
+    "page": "AutosReviewed",
+    "start": "2026-09-09",
+    "domain": "listings.autosreviewed.co"
+   },
+   {
+    "id": "1349552859839093",
+    "page": "The Home Depot",
+    "start": "2026-06-15",
+    "domain": "homedepot.com"
+   },
+   {
+    "id": "965903644681561",
+    "page": "Transform A Street Dog",
+    "start": "2024-04-25",
+    "domain": ""
+   },
+   {
+    "id": "1529815665576651",
+    "page": "Anthropologie",
+    "start": "2026-10-19",
+    "domain": "anthropologie.com"
+   },
+   {
+    "id": "2526766161131376",
+    "page": "AutoInsider 360",
+    "start": "2026-09-09",
+    "domain": "autoinsider360.com"
+   },
+   {
+    "id": "1609053807580854",
+    "page": "CarZarli",
+    "start": "2026-09-09",
+    "domain": "carzarli.com"
+   },
+   {
+    "id": "1307693681302643",
+    "page": "CarZario",
+    "start": "2026-09-09",
+    "domain": "search.carzario.net"
+   },
+   {
+    "id": "1065459956407974",
+    "page": "AutoShark",
+    "start": "2026-09-09",
+    "domain": "autoshark.net"
+   },
+   {
+    "id": "1387147679595929",
+    "page": "FactsWhizz",
+    "start": "2026-09-09",
+    "domain": "search.factswhizz.com"
+   },
+   {
+    "id": "1022338453867014",
+    "page": "CarGurus",
+    "start": "2026-07-27",
+    "domain": "cargurus.com"
+   },
+   {
+    "id": "1704173884068142",
+    "page": "Sloane Toyota of Glenside",
+    "start": "2026-05-20",
+    "domain": "sloanetoyotaglenside.com"
+   },
+   {
+    "id": "1031990465638708",
+    "page": "Finest Transportation LLC",
+    "start": "2025-02-25",
+    "domain": "finesttransportationllc.com"
+   },
+   {
+    "id": "1819582229373573",
+    "page": "Anthropologie",
+    "start": "2026-10-19",
+    "domain": "anthropologie.com"
+   },
+   {
+    "id": "1598848248609739",
+    "page": "Pacifica",
+    "start": "2026-09-10",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "1504631101412388",
+    "page": "Fowler Kia of Windsor",
+    "start": "2026-07-01",
+    "domain": "fowlerkiawindsor.com"
+   },
+   {
+    "id": "2199590334219670",
+    "page": "Blainville Chrysler Jeep Dodge Ram Fiat",
+    "start": "2026-05-29",
+    "domain": "blainvillechrysler.com"
+   },
+   {
+    "id": "2122092705241963",
+    "page": "Pacifica",
+    "start": "2026-03-11",
+    "domain": "pacificabeauty.com"
+   },
+   {
+    "id": "28074395862188513",
+    "page": "Elgin Chrysler Dodge Jeep Ram",
+    "start": "2026-09-10",
+    "domain": "elgincdjr.com"
+   },
+   {
+    "id": "512370956074834",
+    "page": "Whittle Team - Realty One Group Pacifica",
+    "start": "2020-04-16",
+    "domain": ""
+   },
+   {
+    "id": "845714728602598",
+    "page": "Audi Oxnard",
+    "start": "2026-06-11",
+    "domain": "audioxnard.com"
+   },
+   {
+    "id": "2075265623323451",
+    "page": "Switch Natural with switchnaturalapp",
+    "start": "2026-02-04",
+    "domain": "itunes.apple.com"
+   }
+  ]
+ },
+ "name:pixiecup.com": {
+  "query": "Pixie Cup",
+  "active": 61,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 29,
+  "own_domain_share": 0.0,
+  "oldest": "2026-08-11",
+  "pages": [
+   "Myperiodroutine",
+   "Pixie Cup"
+  ],
+  "ads": [
+   {
+    "id": "1791739235159907",
+    "page": "Pixie Cup",
+    "start": "2026-09-07",
+    "domain": ""
+   },
+   {
+    "id": "1055118623572829",
+    "page": "Pixie Cup",
+    "start": "2026-08-11",
+    "domain": ""
+   },
+   {
+    "id": "1448210900564516",
+    "page": "Pixie Cup",
+    "start": "2026-09-18",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "1402257042959520",
+    "page": "Pixie Cup",
+    "start": "2026-09-18",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "1362162575622462",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "1053892140965455",
+    "page": "Myperiodroutine",
+    "start": "2026-10-04",
+    "domain": "myroutine.co"
+   },
+   {
+    "id": "2540236553090405",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": ""
+   },
+   {
+    "id": "4739932789559018",
+    "page": "Pixie Cup",
+    "start": "2026-09-17",
+    "domain": ""
+   },
+   {
+    "id": "1074923334923942",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "1094595952985230",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "28626262910337501",
+    "page": "Pixie Cup",
+    "start": "2026-09-18",
+    "domain": ""
+   },
+   {
+    "id": "4601520226738212",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "2081533582502925",
+    "page": "Pixie Cup",
+    "start": "2026-09-15",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "2507491539676227",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": ""
+   },
+   {
+    "id": "1329030982456487",
+    "page": "Pixie Cup",
+    "start": "2026-09-17",
+    "domain": ""
+   },
+   {
+    "id": "1787288719123433",
+    "page": "Pixie Cup",
+    "start": "2026-09-15",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "3006915632988170",
+    "page": "Pixie Cup",
+    "start": "2026-09-15",
+    "domain": ""
+   },
+   {
+    "id": "1589703212735216",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": ""
+   },
+   {
+    "id": "1663267295165994",
+    "page": "Pixie Cup",
+    "start": "2026-09-18",
+    "domain": ""
+   },
+   {
+    "id": "1746266459974020",
+    "page": "Pixie Cup",
+    "start": "2026-09-17",
+    "domain": ""
+   },
+   {
+    "id": "2066440697325283",
+    "page": "Pixie Cup",
+    "start": "2026-09-18",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "1061312890046654",
+    "page": "Pixie Cup",
+    "start": "2026-09-18",
+    "domain": ""
+   },
+   {
+    "id": "2549320292160931",
+    "page": "Pixie Cup",
+    "start": "2026-09-18",
+    "domain": ""
+   },
+   {
+    "id": "897455603219506",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "1106796041763257",
+    "page": "Pixie Cup",
+    "start": "2026-10-09",
+    "domain": "itspixie.com"
+   },
+   {
+    "id": "962630183514673",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": ""
+   },
+   {
+    "id": "2142916373320730",
+    "page": "Pixie Cup",
+    "start": "2026-09-15",
+    "domain": ""
+   },
+   {
+    "id": "1081210371118349",
+    "page": "Pixie Cup",
+    "start": "2026-09-03",
+    "domain": ""
+   },
+   {
+    "id": "1552008683394896",
+    "page": "Pixie Cup",
+    "start": "2026-09-18",
+    "domain": "itspixie.com"
+   }
+  ]
+ },
+ "name:purador.com": {
+  "query": "Pura D'or",
+  "active": 12,
+  "aged90": 3,
+  "aged180": 2,
+  "sample": 12,
+  "own_domain_share": 0.25,
+  "oldest": "2026-05-07",
+  "pages": [
+   "HairHealth Today",
+   "Her Wellness Daily",
+   "PURA D'OR"
+  ],
+  "ads": [
+   {
+    "id": "1641645757092128",
+    "page": "PURA D'OR",
+    "start": "2026-05-11",
+    "domain": "purador.com"
+   },
+   {
+    "id": "1681880239623054",
+    "page": "PURA D'OR",
+    "start": "2026-05-07",
+    "domain": "purador.com"
+   },
+   {
+    "id": "2222974151847574",
+    "page": "PURA D'OR",
+    "start": "2026-05-07",
+    "domain": "purador.com"
+   },
+   {
+    "id": "1595963128933479",
+    "page": "Her Wellness Daily",
+    "start": "2026-09-29",
+    "domain": "herwellnessdaily.com"
+   },
+   {
+    "id": "1569923674293269",
+    "page": "Her Wellness Daily",
+    "start": "2026-09-29",
+    "domain": "herwellnessdaily.com"
+   },
+   {
+    "id": "1787095742441394",
+    "page": "Her Wellness Daily",
+    "start": "2026-09-29",
+    "domain": "herwellnessdaily.com"
+   },
+   {
+    "id": "1415730560754639",
+    "page": "Her Wellness Daily",
+    "start": "2026-09-29",
+    "domain": "herwellnessdaily.com"
+   },
+   {
+    "id": "28518282324490212",
+    "page": "Her Wellness Daily",
+    "start": "2026-09-29",
+    "domain": "herwellnessdaily.com"
+   },
+   {
+    "id": "1083969291022223",
+    "page": "Her Wellness Daily",
+    "start": "2026-09-28",
+    "domain": "herwellnessdaily.com"
+   },
+   {
+    "id": "2150895885818234",
+    "page": "HairHealth Today",
+    "start": "2026-11-05",
+    "domain": ""
+   },
+   {
+    "id": "1958095431817768",
+    "page": "Her Wellness Daily",
+    "start": "2026-09-28",
+    "domain": "herwellnessdaily.com"
+   },
+   {
+    "id": "2140489403216974",
+    "page": "Her Wellness Daily",
+    "start": "2026-09-29",
+    "domain": "herwellnessdaily.com"
+   }
+  ]
+ },
+ "name:pyary.com": {
+  "query": "Pyary",
+  "active": 1,
+  "aged90": 1,
+  "aged180": 0,
+  "sample": 1,
+  "own_domain_share": 0.0,
+  "oldest": "2026-07-27",
+  "pages": [
+   "Lu's Essentials"
+  ],
+  "ads": [
+   {
+    "id": "1786701322493665",
+    "page": "Lu's Essentials",
+    "start": "2026-07-27",
+    "domain": ""
+   }
+  ]
+ },
+ "name:riftvalleystore.com": {
+  "query": "Rift Valley",
+  "active": 27,
+  "aged90": 6,
+  "aged180": 4,
+  "sample": 24,
+  "own_domain_share": 0.0,
+  "oldest": "2025-12-04",
+  "pages": [
+   "",
+   "Africa-Experience",
+   "Beach Safari Holidays",
+   "Imara Africa Safaris",
+   "Lawson's Birding & Wildlife Safaris",
+   "Listen Library",
+   "Mufasa_Travels",
+   "Peak Planet"
+  ],
+  "ads": [
+   {
+    "id": "901852738970154",
+    "page": "Peak Planet",
+    "start": "2025-12-04",
+    "domain": "peakplanet.com"
+   },
+   {
+    "id": "1605005404962224",
+    "page": "",
+    "start": "2026-05-24",
+    "domain": ""
+   },
+   {
+    "id": "2114956682740620",
+    "page": "Mufasa_Travels",
+    "start": "2026-10-10",
+    "domain": "mufasatoursandtravels.com"
+   },
+   {
+    "id": "1814265153101845",
+    "page": "Mufasa_Travels",
+    "start": "2026-10-10",
+    "domain": "mufasatoursandtravels.com"
+   },
+   {
+    "id": "1042400421891094",
+    "page": "Wild Planet Adventure",
+    "start": "",
+    "domain": ""
+   },
+   {
+    "id": "1995589604644296",
+    "page": "Imara Africa Safaris",
+    "start": "2026-03-11",
+    "domain": ""
+   },
+   {
+    "id": "1416830450223360",
+    "page": "Imara Africa Safaris",
+    "start": "2026-03-11",
+    "domain": ""
+   },
+   {
+    "id": "1622741145987445",
+    "page": "Listen Library",
+    "start": "2026-10-16",
+    "domain": ""
+   },
+   {
+    "id": "1226569709481900",
+    "page": "Imara Africa Safaris",
+    "start": "2026-06-26",
+    "domain": ""
+   },
+   {
+    "id": "1839882290700771",
+    "page": "The Rift Valley Explorer",
+    "start": "2026-10-13",
+    "domain": ""
+   },
+   {
+    "id": "1075346525318413",
+    "page": "The Rift Valley Explorer",
+    "start": "2026-10-13",
+    "domain": ""
+   },
+   {
+    "id": "1598061471537648",
+    "page": "Lawson's Birding & Wildlife Safaris",
+    "start": "2026-01-26",
+    "domain": "www.lawsons-africa.co.za"
+   },
+   {
+    "id": "2420989465315875",
+    "page": "The Rift Valley Explorer",
+    "start": "2026-10-13",
+    "domain": ""
+   },
+   {
+    "id": "2175589306724175",
+    "page": "",
+    "start": "2026-10-06",
+    "domain": ""
+   },
+   {
+    "id": "4615664815426970",
+    "page": "The Rift Valley Explorer",
+    "start": "2026-10-13",
+    "domain": ""
+   },
+   {
+    "id": "1118591910860010",
+    "page": "Mufasa_Travels",
+    "start": "2026-10-13",
+    "domain": "mufasatoursandtravels.com"
+   },
+   {
+    "id": "1688883416239266",
+    "page": "Listen Library",
+    "start": "2026-11-06",
+    "domain": ""
+   },
+   {
+    "id": "2510484606102195",
+    "page": "The Rift Valley Explorer",
+    "start": "2026-10-12",
+    "domain": ""
+   },
+   {
+    "id": "2133479423909198",
+    "page": "The Rift Valley Explorer",
+    "start": "2026-10-13",
+    "domain": ""
+   },
+   {
+    "id": "1607266950534027",
+    "page": "Mufasa_Travels",
+    "start": "2026-11-04",
+    "domain": "mufasatoursandtravels.com"
+   },
+   {
+    "id": "40321768177422186",
+    "page": "Africa-Experience",
+    "start": "2026-10-20",
+    "domain": ""
+   },
+   {
+    "id": "953627277335797",
+    "page": "Mufasa_Travels",
+    "start": "2026-10-10",
+    "domain": "mufasatoursandtravels.com"
+   },
+   {
+    "id": "4570110169913503",
+    "page": "Mufasa_Travels",
+    "start": "2026-11-04",
+    "domain": "mufasatoursandtravels.com"
+   },
+   {
+    "id": "2032499410799948",
+    "page": "Beach Safari Holidays",
+    "start": "2026-10-13",
+    "domain": ""
+   }
+  ]
+ },
+ "name:southernnaturalsoap.com": {
+  "query": "Southern Natural",
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "name:stellevita.com": {
+  "query": "Stellevita",
+  "active": 0,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 0,
+  "own_domain_share": null,
+  "oldest": null,
+  "pages": [],
+  "ads": []
+ },
+ "name:thedermacure.com": {
+  "query": "Dermacure",
+  "active": 7,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 7,
+  "own_domain_share": 0.0,
+  "oldest": "2026-11-01",
+  "pages": [
+   "Derma Cure",
+   "Dermacure of Valencia"
+  ],
+  "ads": [
+   {
+    "id": "1782084296391771",
+    "page": "Dermacure of Valencia",
+    "start": "2026-11-01",
+    "domain": ""
+   },
+   {
+    "id": "1424198179780624",
+    "page": "Dermacure of Valencia",
+    "start": "2026-11-01",
+    "domain": ""
+   },
+   {
+    "id": "956017213894434",
+    "page": "Dermacure of Valencia",
+    "start": "2026-11-01",
+    "domain": ""
+   },
+   {
+    "id": "1771119114003937",
+    "page": "Dermacure of Valencia",
+    "start": "2026-11-01",
+    "domain": ""
+   },
+   {
+    "id": "2223428635252475",
+    "page": "Dermacure of Valencia",
+    "start": "2026-11-01",
+    "domain": ""
+   },
+   {
+    "id": "2192809405007862",
+    "page": "Derma Cure",
+    "start": "2026-11-07",
+    "domain": "officialdermacure.com"
+   },
+   {
+    "id": "1848833252781875",
+    "page": "Derma Cure",
+    "start": "2026-11-07",
+    "domain": "officialdermacure.com"
+   }
+  ]
+ },
+ "name:trymonier.com": {
+  "query": "Monier",
+  "active": 270,
+  "aged90": 2,
+  "aged180": 0,
+  "sample": 30,
+  "own_domain_share": 0.0,
+  "oldest": "2026-07-07",
+  "pages": [
+   "Bethany Dental",
+   "Brian Monier shared Brian Monier's post",
+   "Clint Hansen, Maui Luxury Real Estate LLC",
+   "Colors by Natalie",
+   "Dr. Marquel Russell",
+   "Jeffrey Park",
+   "Jennings & Earley",
+   "Joey LeMonier"
+  ],
+  "ads": [
+   {
+    "id": "1399615652370976",
+    "page": "Stealth Autowerks",
+    "start": "2026-09-21",
+    "domain": "fb.me"
+   },
+   {
+    "id": "1797508168069972",
+    "page": "Stealth Autowerks",
+    "start": "2026-09-21",
+    "domain": "fb.me"
+   },
+   {
+    "id": "1550248119808993",
+    "page": "Colors by Natalie",
+    "start": "2026-07-13",
+    "domain": ""
+   },
+   {
+    "id": "2313363406149806",
+    "page": "Jennings & Earley",
+    "start": "2026-10-08",
+    "domain": "jefirm.com"
+   },
+   {
+    "id": "1779571619915236",
+    "page": "Jennings & Earley",
+    "start": "2026-10-08",
+    "domain": "jefirm.com"
+   },
+   {
+    "id": "1380228681845482",
+    "page": "Bethany Dental",
+    "start": "2026-11-03",
+    "domain": ""
+   },
+   {
+    "id": "1552627499591220",
+    "page": "Clint Hansen, Maui Luxury Real Estate LLC",
+    "start": "2026-07-07",
+    "domain": ""
+   },
+   {
+    "id": "1621551023022491",
+    "page": "Momentum Tree Experts",
+    "start": "2026-09-19",
+    "domain": "fb.me"
+   },
+   {
+    "id": "30126965030237144",
+    "page": "Jeffrey Park",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "1144504874835478",
+    "page": "Jeffrey Park",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "1538707898015995",
+    "page": "Joey LeMonier",
+    "start": "2026-11-04",
+    "domain": ""
+   },
+   {
+    "id": "1127725483003274",
+    "page": "Jeffrey Park",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "1454031700211148",
+    "page": "Brian Monier shared Brian Monier's post",
+    "start": "2026-11-04",
+    "domain": ""
+   },
+   {
+    "id": "1465244542330698",
+    "page": "Momentum Tree Experts",
+    "start": "2026-09-19",
+    "domain": "fb.me"
+   },
+   {
+    "id": "980364231287621",
+    "page": "Brian Monier shared Brian Monier's post",
+    "start": "2026-11-05",
+    "domain": ""
+   },
+   {
+    "id": "1441698008116428",
+    "page": "Shiltcortcu Bepruftfrifird",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "1806584507248560",
+    "page": "Brian Monier shared Brian Monier's post",
+    "start": "2026-11-06",
+    "domain": ""
+   },
+   {
+    "id": "913907321570659",
+    "page": "Stealth Autowerks",
+    "start": "2026-09-27",
+    "domain": "fb.me"
+   },
+   {
+    "id": "2175978477129331",
+    "page": "Trandbapro Gidreprecu",
+    "start": "2026-11-06",
+    "domain": ""
+   },
+   {
+    "id": "1102400198812977",
+    "page": "Dr. Marquel Russell",
+    "start": "2026-09-15",
+    "domain": "scalethesmartway.com"
+   },
+   {
+    "id": "2960934960934821",
+    "page": "Jeffrey Park",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "2453598761710291",
+    "page": "friendlywines",
+    "start": "",
+    "domain": "instagram.com"
+   },
+   {
+    "id": "1850643222843158",
+    "page": "Jeffrey Park",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "1671123704722007",
+    "page": "Slepleka Domuttitri",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "1624938299086345",
+    "page": "Trandbapro Gidreprecu",
+    "start": "2026-11-06",
+    "domain": ""
+   },
+   {
+    "id": "1542468284576193",
+    "page": "Shiltcortcu Bepruftfrifird",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "1454260203341595",
+    "page": "Shiltcortcu Bepruftfrifird",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "1383423563680138",
+    "page": "Trachirddo Flarvajafrort",
+    "start": "2026-11-07",
+    "domain": "w2a.reelshort.com"
+   },
+   {
+    "id": "2272624356922627",
+    "page": "Shiltcortcu Bepruftfrifird",
+    "start": "2026-11-06",
+    "domain": ""
+   },
+   {
+    "id": "1840311893983262",
+    "page": "Shiltcortcu Bepruftfrifird",
+    "start": "2026-11-06",
+    "domain": "w2a.reelshort.com"
+   }
+  ]
+ },
+ "name:vigority.com": {
+  "query": "Vigority",
+  "active": 17,
+  "aged90": 14,
+  "aged180": 13,
+  "sample": 17,
+  "own_domain_share": 0.24,
+  "oldest": "2026-02-20",
+  "pages": [
+   "Vigority",
+   "colleentischman.ugc with Vigority"
+  ],
+  "ads": [
+   {
+    "id": "1883640155589178",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "2008199999733479",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "2144459282767474",
+    "page": "colleentischman.ugc with Vigority",
+    "start": "2026-08-08",
+    "domain": "vigority.com"
+   },
+   {
+    "id": "4616191578627397",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "1428768635443696",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "926073133890277",
+    "page": "colleentischman.ugc with Vigority",
+    "start": "2026-08-28",
+    "domain": "vigority.com"
+   },
+   {
+    "id": "2356738598173104",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "1588333986415765",
+    "page": "Vigority",
+    "start": "2026-08-28",
+    "domain": "vigority.com"
+   },
+   {
+    "id": "2131480994268359",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "26122720877368864",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "1618089492758336",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "1979016252766061",
+    "page": "Vigority",
+    "start": "2026-08-28",
+    "domain": "vigority.com"
+   },
+   {
+    "id": "1976280746646386",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "1646577820122243",
+    "page": "Vigority",
+    "start": "2026-02-20",
+    "domain": ""
+   },
+   {
+    "id": "862575080124800",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "1084492563832672",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   },
+   {
+    "id": "933249832455118",
+    "page": "Vigority",
+    "start": "2026-02-21",
+    "domain": ""
+   }
+  ]
+ },
+ "name:vitamatic.com": {
+  "query": "Vitamatic",
+  "active": 9,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 9,
+  "own_domain_share": 0.0,
+  "oldest": "2026-09-04",
+  "pages": [
+   "Natural Miracle Hacks",
+   "Neurologist - Dr. Elizabeth Harmon"
+  ],
+  "ads": [
+   {
+    "id": "1740531797057012",
+    "page": "Natural Miracle Hacks",
+    "start": "2026-10-02",
+    "domain": "trycirelle.com"
+   },
+   {
+    "id": "2516556288828356",
+    "page": "Neurologist - Dr. Elizabeth Harmon",
+    "start": "2026-09-04",
+    "domain": ""
+   },
+   {
+    "id": "1976980447039135",
+    "page": "Neurologist - Dr. Elizabeth Harmon",
+    "start": "2026-09-04",
+    "domain": ""
+   },
+   {
+    "id": "1634583048080879",
+    "page": "Neurologist - Dr. Elizabeth Harmon",
+    "start": "2026-09-04",
+    "domain": ""
+   },
+   {
+    "id": "1075097858357144",
+    "page": "Neurologist - Dr. Elizabeth Harmon",
+    "start": "2026-09-04",
+    "domain": ""
+   },
+   {
+    "id": "989752350873449",
+    "page": "Neurologist - Dr. Elizabeth Harmon",
+    "start": "2026-10-31",
+    "domain": ""
+   },
+   {
+    "id": "29198748339755421",
+    "page": "Neurologist - Dr. Elizabeth Harmon",
+    "start": "2026-11-06",
+    "domain": ""
+   },
+   {
+    "id": "2116918808941613",
+    "page": "Neurologist - Dr. Elizabeth Harmon",
+    "start": "2026-11-02",
+    "domain": ""
+   },
+   {
+    "id": "1022261207567835",
+    "page": "Neurologist - Dr. Elizabeth Harmon",
+    "start": "2026-10-31",
+    "domain": ""
+   }
+  ]
+ },
+ "name:winknaturals.com": {
+  "query": "Wink Well",
+  "active": 8,
+  "aged90": 8,
+  "aged180": 2,
+  "sample": 8,
+  "own_domain_share": 0.0,
+  "oldest": "2024-05-21",
+  "pages": [
+   "Wink Well Co"
+  ],
+  "ads": [
+   {
+    "id": "734857575795544",
+    "page": "Wink Well Co",
+    "start": "2025-07-09",
+    "domain": "amazon.com"
+   },
+   {
+    "id": "1745354069801215",
+    "page": "Wink Well Co",
+    "start": "2026-06-12",
+    "domain": "winkwell.com"
+   },
+   {
+    "id": "1460313121538733",
+    "page": "Wink Well Co",
+    "start": "2024-05-21",
+    "domain": "winkwell.com"
+   },
+   {
+    "id": "985693254369970",
+    "page": "Wink Well Co",
+    "start": "2026-06-12",
+    "domain": "winkwell.com"
+   },
+   {
+    "id": "1000633719236412",
+    "page": "Wink Well Co",
+    "start": "2026-06-12",
+    "domain": "winkwell.com"
+   },
+   {
+    "id": "2075651310034607",
+    "page": "Wink Well Co",
+    "start": "2026-06-12",
+    "domain": "winkwell.com"
+   },
+   {
+    "id": "998907882869088",
+    "page": "Wink Well Co",
+    "start": "2026-06-12",
+    "domain": "winkwell.com"
+   },
+   {
+    "id": "893499213767478",
+    "page": "Wink Well Co",
+    "start": "2026-06-12",
+    "domain": "winkwell.com"
+   }
+  ]
+ },
+ "name:yafusipe.com": {
+  "query": "Yafusipe",
+  "active": 4,
+  "aged90": 0,
+  "aged180": 0,
+  "sample": 4,
+  "own_domain_share": 0.0,
+  "oldest": "2026-10-14",
+  "pages": [
+   "Yafusipe"
+  ],
+  "ads": [
+   {
+    "id": "29563456043260819",
+    "page": "Yafusipe",
+    "start": "2026-10-22",
+    "domain": ""
+   },
+   {
+    "id": "977290434744131",
+    "page": "Yafusipe",
+    "start": "2026-10-14",
+    "domain": ""
+   },
+   {
+    "id": "1470587168285188",
+    "page": "Yafusipe",
+    "start": "2026-10-15",
+    "domain": ""
+   },
+   {
+    "id": "1455411133181778",
+    "page": "Yafusipe",
+    "start": "2026-10-14",
+    "domain": ""
+   }
+  ]
+ }
+}

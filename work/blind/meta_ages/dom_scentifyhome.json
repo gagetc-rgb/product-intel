@@ -1,0 +1,250 @@
+{
+ "phrase": "scentifyhome.com",
+ "date": "2026-11-09",
+ "active": 320,
+ "aged30": 180,
+ "aged90": 98,
+ "aged180": 84,
+ "ads": [
+  {
+   "id": "993553792570970",
+   "page": "Scentify",
+   "start": "2024-09-03",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "1944020433217347",
+   "page": "Scentify",
+   "start": "2026-02-21",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "422704003644763",
+   "page": "Scentify",
+   "start": "2024-09-03",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "562156792972674",
+   "page": "Scentify",
+   "start": "2024-10-30",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "1665293670892256",
+   "page": "Scentify",
+   "start": "2024-05-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1209044380892358",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "755521727406382",
+   "page": "Scentify",
+   "start": "2026-03-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "918626757778906",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1685338752846571",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "31543945465225909",
+   "page": "Scentify",
+   "start": "2026-03-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1468717824599814",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "921554050374127",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "1589347012338578",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2896801627194846",
+   "page": "Scentify",
+   "start": "2026-03-04",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1615170082452844",
+   "page": "Scentify",
+   "start": "2025-03-16",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "25817792957884336",
+   "page": "Scentify",
+   "start": "2026-02-20",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1440019427905970",
+   "page": "Scentify",
+   "start": "2026-03-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1290889352147492",
+   "page": "Scentify",
+   "start": "2025-01-20",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2134895857354039",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1568874027724159",
+   "page": "Scentify",
+   "start": "2026-01-20",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2735890436775210",
+   "page": "Scentify",
+   "start": "2026-03-05",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2450952828651229",
+   "page": "Scentify",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1830231868357029",
+   "page": "Scentify",
+   "start": "2026-07-02",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1362870585986240",
+   "page": "Scentify",
+   "start": "2026-07-02",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1361132059494852",
+   "page": "Scentify",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1072674395618987",
+   "page": "Scentify",
+   "start": "2026-09-17",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2600605057055899",
+   "page": "Scentify",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1734036321003457",
+   "page": "Scentify",
+   "start": "2026-09-17",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1719064182675896",
+   "page": "Scentify",
+   "start": "2026-08-11",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2003473800341063",
+   "page": "Scentify",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

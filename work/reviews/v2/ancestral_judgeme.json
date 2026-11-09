@@ -1,0 +1,240 @@
+{
+ "label": "ancestral",
+ "shop": "ancestral-cosmetics.myshopify.com",
+ "total_product_reviews": 10013,
+ "all_feed_n": 1000,
+ "all_feed_capped": true,
+ "all_window_from": "2026-08-23",
+ "non5_n": 986,
+ "non5_from": "2023-04-06",
+ "k_all_per_non5": 10.16,
+ "k_recent": 16.02,
+ "non5_capped": false,
+ "calib_months": [
+  "2026-09",
+  "2026-10"
+ ],
+ "monthly": {
+  "2023-04": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 30
+  },
+  "2023-05": {
+   "all_exact": null,
+   "non5": 4,
+   "est": 41
+  },
+  "2023-06": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 30
+  },
+  "2023-07": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 30
+  },
+  "2023-08": {
+   "all_exact": null,
+   "non5": 2,
+   "est": 20
+  },
+  "2023-09": {
+   "all_exact": null,
+   "non5": 5,
+   "est": 51
+  },
+  "2023-10": {
+   "all_exact": null,
+   "non5": 8,
+   "est": 81
+  },
+  "2023-11": {
+   "all_exact": null,
+   "non5": 9,
+   "est": 91
+  },
+  "2023-12": {
+   "all_exact": null,
+   "non5": 10,
+   "est": 102
+  },
+  "2024-01": {
+   "all_exact": null,
+   "non5": 10,
+   "est": 102
+  },
+  "2024-02": {
+   "all_exact": null,
+   "non5": 3,
+   "est": 30
+  },
+  "2024-03": {
+   "all_exact": null,
+   "non5": 10,
+   "est": 102
+  },
+  "2024-04": {
+   "all_exact": null,
+   "non5": 14,
+   "est": 142
+  },
+  "2024-05": {
+   "all_exact": null,
+   "non5": 14,
+   "est": 142
+  },
+  "2024-06": {
+   "all_exact": null,
+   "non5": 12,
+   "est": 122
+  },
+  "2024-07": {
+   "all_exact": null,
+   "non5": 27,
+   "est": 274
+  },
+  "2024-08": {
+   "all_exact": null,
+   "non5": 25,
+   "est": 254
+  },
+  "2024-09": {
+   "all_exact": null,
+   "non5": 18,
+   "est": 183
+  },
+  "2024-10": {
+   "all_exact": null,
+   "non5": 24,
+   "est": 244
+  },
+  "2024-11": {
+   "all_exact": null,
+   "non5": 20,
+   "est": 203
+  },
+  "2024-12": {
+   "all_exact": null,
+   "non5": 23,
+   "est": 234
+  },
+  "2025-01": {
+   "all_exact": null,
+   "non5": 22,
+   "est": 223
+  },
+  "2025-02": {
+   "all_exact": null,
+   "non5": 23,
+   "est": 234
+  },
+  "2025-03": {
+   "all_exact": null,
+   "non5": 41,
+   "est": 416
+  },
+  "2025-04": {
+   "all_exact": null,
+   "non5": 43,
+   "est": 437
+  },
+  "2025-05": {
+   "all_exact": null,
+   "non5": 31,
+   "est": 315
+  },
+  "2025-06": {
+   "all_exact": null,
+   "non5": 31,
+   "est": 315
+  },
+  "2025-07": {
+   "all_exact": null,
+   "non5": 35,
+   "est": 355
+  },
+  "2025-08": {
+   "all_exact": null,
+   "non5": 22,
+   "est": 223
+  },
+  "2025-09": {
+   "all_exact": null,
+   "non5": 31,
+   "est": 315
+  },
+  "2025-10": {
+   "all_exact": null,
+   "non5": 24,
+   "est": 244
+  },
+  "2025-11": {
+   "all_exact": null,
+   "non5": 27,
+   "est": 274
+  },
+  "2025-12": {
+   "all_exact": null,
+   "non5": 36,
+   "est": 366
+  },
+  "2026-01": {
+   "all_exact": null,
+   "non5": 35,
+   "est": 355
+  },
+  "2026-02": {
+   "all_exact": null,
+   "non5": 57,
+   "est": 579
+  },
+  "2026-03": {
+   "all_exact": null,
+   "non5": 61,
+   "est": 619
+  },
+  "2026-04": {
+   "all_exact": null,
+   "non5": 39,
+   "est": 396
+  },
+  "2026-05": {
+   "all_exact": null,
+   "non5": 28,
+   "est": 284
+  },
+  "2026-06": {
+   "all_exact": null,
+   "non5": 27,
+   "est": 274
+  },
+  "2026-07": {
+   "all_exact": null,
+   "non5": 37,
+   "est": 376
+  },
+  "2026-08": {
+   "all_exact": null,
+   "non5": 30,
+   "est": 305
+  },
+  "2026-09": {
+   "all_exact": 345,
+   "non5": 22,
+   "est": 345
+  },
+  "2026-10": {
+   "all_exact": 488,
+   "non5": 30,
+   "est": 488
+  },
+  "2026-11": {
+   "all_exact": 70,
+   "non5": 7,
+   "est": 70
+  }
+ },
+ "partial_month": "2026-11"
+}

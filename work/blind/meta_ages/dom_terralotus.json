@@ -1,0 +1,202 @@
+{
+ "phrase": "terralotus.shop",
+ "date": "2026-11-09",
+ "active": 100,
+ "aged30": 73,
+ "aged90": 0,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1637480871500449",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "2317412475739348",
+   "page": "Terra Lotus",
+   "start": "2026-09-27",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4752553258305907",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1618250919799301",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1107466318905980",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1397173635817215",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1591084201883761",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1391084656552829",
+   "page": "HomeCraft Balm",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1352819983379006",
+   "page": "HomeCraft Balm",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "879740035104764",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1811661463351410",
+   "page": "HomeCraft Balm",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1439352578058790",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1399649185024572",
+   "page": "Terra Lotus",
+   "start": "2026-09-27",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "2167845287142695",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1378553077769426",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1860264211813347",
+   "page": "Terra Lotus",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "4474202126126115",
+   "page": "Terra Lotus",
+   "start": "2026-09-26",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "4638547256364631",
+   "page": "Terra Lotus",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "936976972360663",
+   "page": "Terra Lotus",
+   "start": "2026-09-28",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1470656898211622",
+   "page": "Terra Lotus",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1079815891497560",
+   "page": "Terra Lotus",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "2229145977629574",
+   "page": "Terra Lotus",
+   "start": "2026-10-06",
+   "n": 2,
+   "domain": "terralotus.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1478215130832797",
+   "page": "Terra Lotus",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "0-30"
+  },
+  {
+   "id": "1701794728135844",
+   "page": "HomeCraft Balm",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "terralotus.shop",
+   "window": "0-30"
+  }
+ ]
+}

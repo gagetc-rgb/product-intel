@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B082WZTJV5",
+  "brand": "grande",
+  "units": 30000,
+  "price_scan": "$28.80",
+  "asin_age_m": 71
+ },
+ {
+  "asin": "B0C8SQN7S6",
+  "brand": "epais",
+  "units": 10000,
+  "price_scan": "$20.00",
+  "asin_age_m": 43
+ },
+ {
+  "asin": "B00325D0WK",
+  "brand": "grande",
+  "units": 10000,
+  "price_scan": "$54.40",
+  "asin_age_m": 91
+ },
+ {
+  "asin": "B0FBT2D135",
+  "brand": "viebeauti",
+  "units": 9000,
+  "price_scan": "$21.99",
+  "asin_age_m": 19
+ },
+ {
+  "asin": "B0DZDBBNFT",
+  "brand": "nuna",
+  "units": 8000,
+  "price_scan": "$42.99",
+  "asin_age_m": 20
+ },
+ {
+  "asin": "B09SQPL2VS",
+  "brand": "grande",
+  "units": 8000,
+  "price_scan": "$19.00",
+  "asin_age_m": 57
+ },
+ {
+  "asin": "B097R35Y3Q",
+  "brand": "forchics",
+  "units": 7000,
+  "price_scan": "$26.00",
+  "asin_age_m": 65
+ },
+ {
+  "asin": "B01ICGFKDU",
+  "brand": "(no brand)",
+  "units": 7000,
+  "price_scan": "$13.99",
+  "asin_age_m": 91
+ },
+ {
+  "asin": "B0DRDLJSVV",
+  "brand": "upnature",
+  "units": 6000,
+  "price_scan": "$9.97",
+  "asin_age_m": 22
+ },
+ {
+  "asin": "B07NDN3R9P",
+  "brand": "enhancing",
+  "units": 6000,
+  "price_scan": "$22.49",
+  "asin_age_m": 79
+ }
+]

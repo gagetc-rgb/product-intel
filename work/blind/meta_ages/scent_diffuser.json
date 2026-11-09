@@ -1,0 +1,347 @@
+{
+ "phrase": "scent diffuser",
+ "date": "2026-11-07",
+ "active": 690,
+ "aged90": 110,
+ "aged180": 18,
+ "ads": [
+  {
+   "id": "993553792570970",
+   "page": "Scentify",
+   "start": "2024-09-03",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "422704003644763",
+   "page": "Scentify",
+   "start": "2024-09-03",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "562156792972674",
+   "page": "Scentify",
+   "start": "2024-10-30",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "1209044380892358",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1181425774177138",
+   "page": "All Time Air Conditioning",
+   "start": "2026-01-14",
+   "n": 1,
+   "domain": "alltimeairconditioning.com",
+   "window": "180+"
+  },
+  {
+   "id": "1940043790214452",
+   "page": "Aura House",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "180+"
+  },
+  {
+   "id": "921554050374127",
+   "page": "Scentify",
+   "start": "2026-02-06",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "1901837193984172",
+   "page": "Scentfinity",
+   "start": "2025-05-21",
+   "n": 1,
+   "domain": "scentfinity.com",
+   "window": "180+"
+  },
+  {
+   "id": "1488852452946394",
+   "page": "Toretark shop",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "993916953076752",
+   "page": "Chris and Melis - Designer Decor Deals & Furniture Finds with Aura House",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "180+"
+  },
+  {
+   "id": "1065972392352233",
+   "page": "Matt Barnett",
+   "start": "",
+   "n": 1,
+   "domain": "fb.com",
+   "window": "180+"
+  },
+  {
+   "id": "1402492214803416",
+   "page": "Scentify",
+   "start": "2025-11-19",
+   "n": 1,
+   "domain": "scentifyhome.com",
+   "window": "180+"
+  },
+  {
+   "id": "2263085087558565",
+   "page": "House of DUAA Signature",
+   "start": "2026-03-16",
+   "n": 1,
+   "domain": "houseofduaa.com",
+   "window": "180+"
+  },
+  {
+   "id": "1218851733716660",
+   "page": "Boostfunders",
+   "start": "",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "35988858714045962",
+   "page": "The Adam Olsen Team",
+   "start": "2026-05-08",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1807024263608336",
+   "page": "𝕒 𝕟 𝕒 𝕟 𝕕 𝕒 𝕖 𝕝 𝕖 𝕟 𝕒 with Hotel Collection",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2187600755386629",
+   "page": "Hotel Collection",
+   "start": "2026-06-03",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1012084981474120",
+   "page": "Hotel Collection",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "991756460382752",
+   "page": "Hotel Collection",
+   "start": "2026-06-09",
+   "n": 3,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1318741219725911",
+   "page": "Maureen Hochdorf with Hotel Collection",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "90-180"
+  },
+  {
+   "id": "927727950355489",
+   "page": "Unwavering Haven with Aroma360",
+   "start": "2026-06-23",
+   "n": 1,
+   "domain": "aroma360.com",
+   "window": "90-180"
+  },
+  {
+   "id": "995670162826627",
+   "page": "Miss.alirose with Hotel Collection",
+   "start": "2026-06-05",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2124147461484897",
+   "page": "Hotel Collection",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "867927942712614",
+   "page": "The Magic Scent",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "972182855642926",
+   "page": "Hotel Collection",
+   "start": "2026-06-25",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1363911962541794",
+   "page": "drift",
+   "start": "2026-08-07",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "944855948603788",
+   "page": "Hotel Collection",
+   "start": "2026-06-15",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1549704680164486",
+   "page": "Hotel Collection",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1413238263979087",
+   "page": "Destination Home with Aura House",
+   "start": "2026-07-24",
+   "n": 1,
+   "domain": "aurahouse.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1582615566828877",
+   "page": "inna.brtseva with drift",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "drift.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1422364243069872",
+   "page": "The Magic Scent",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1031813592749676",
+   "page": "Aroma360",
+   "start": "2026-06-03",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2104947596718209",
+   "page": "Hotel Collection",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1068115525675893",
+   "page": "waynewalton_ with Hotel Collection",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1952266022219230",
+   "page": "Hotel Collection",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2237021967094199",
+   "page": "Hotel Collection",
+   "start": "2026-06-15",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4159712367653087",
+   "page": "Aroma360",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "aroma360.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1362793796048223",
+   "page": "Hotel Collection",
+   "start": "2026-08-14",
+   "n": 1,
+   "domain": "www.hotelcollection.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2011787469477412",
+   "page": "Fitbills with Hotel Collection",
+   "start": "2026-08-12",
+   "n": 1,
+   "domain": "hotelcollection.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1998285290981105",
+   "page": "OlfiaStudio",
+   "start": "2026-09-13",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2598792333955084",
+   "page": "drift",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "drift.co",
+   "window": "0-30"
+  },
+  {
+   "id": "2688987688191101",
+   "page": "Scentiment",
+   "start": "2026-10-31",
+   "n": 1,
+   "domain": "www.scentiment.com",
+   "window": "0-30"
+  }
+ ],
+ "aged30": 210,
+ "aged30_date": "2026-11-08"
+}

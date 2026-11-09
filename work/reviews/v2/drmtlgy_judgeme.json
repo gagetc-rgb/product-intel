@@ -1,0 +1,135 @@
+{
+ "label": "drmtlgy",
+ "shop": "drmtlgy.myshopify.com",
+ "total_product_reviews": 61466,
+ "all_feed_n": 1000,
+ "all_feed_capped": true,
+ "all_window_from": "2026-08-10",
+ "non5_n": 4000,
+ "non5_from": "2025-01-09",
+ "k_all_per_non5": 3.16,
+ "k_recent": 3.16,
+ "non5_capped": true,
+ "calib_months": [
+  "2026-09",
+  "2026-10"
+ ],
+ "monthly": {
+  "2025-01": {
+   "all_exact": null,
+   "non5": 69,
+   "est": 218
+  },
+  "2025-02": {
+   "all_exact": null,
+   "non5": 56,
+   "est": 177
+  },
+  "2025-03": {
+   "all_exact": null,
+   "non5": 149,
+   "est": 472
+  },
+  "2025-04": {
+   "all_exact": null,
+   "non5": 183,
+   "est": 579
+  },
+  "2025-05": {
+   "all_exact": null,
+   "non5": 141,
+   "est": 446
+  },
+  "2025-06": {
+   "all_exact": null,
+   "non5": 307,
+   "est": 972
+  },
+  "2025-07": {
+   "all_exact": null,
+   "non5": 442,
+   "est": 1399
+  },
+  "2025-08": {
+   "all_exact": null,
+   "non5": 367,
+   "est": 1161
+  },
+  "2025-09": {
+   "all_exact": null,
+   "non5": 371,
+   "est": 1174
+  },
+  "2025-10": {
+   "all_exact": null,
+   "non5": 329,
+   "est": 1041
+  },
+  "2025-11": {
+   "all_exact": null,
+   "non5": 238,
+   "est": 753
+  },
+  "2025-12": {
+   "all_exact": null,
+   "non5": 237,
+   "est": 750
+  },
+  "2026-01": {
+   "all_exact": null,
+   "non5": 123,
+   "est": 389
+  },
+  "2026-02": {
+   "all_exact": null,
+   "non5": 151,
+   "est": 478
+  },
+  "2026-03": {
+   "all_exact": null,
+   "non5": 236,
+   "est": 747
+  },
+  "2026-04": {
+   "all_exact": null,
+   "non5": 90,
+   "est": 285
+  },
+  "2026-05": {
+   "all_exact": null,
+   "non5": 89,
+   "est": 282
+  },
+  "2026-06": {
+   "all_exact": null,
+   "non5": 81,
+   "est": 256
+  },
+  "2026-07": {
+   "all_exact": null,
+   "non5": 37,
+   "est": 117
+  },
+  "2026-08": {
+   "all_exact": null,
+   "non5": 56,
+   "est": 177
+  },
+  "2026-09": {
+   "all_exact": 392,
+   "non5": 128,
+   "est": 392
+  },
+  "2026-10": {
+   "all_exact": 339,
+   "non5": 103,
+   "est": 339
+  },
+  "2026-11": {
+   "all_exact": 57,
+   "non5": 17,
+   "est": 57
+  }
+ },
+ "partial_month": "2026-11"
+}

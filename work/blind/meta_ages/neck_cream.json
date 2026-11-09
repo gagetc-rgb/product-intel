@@ -1,0 +1,443 @@
+{
+ "phrase": "neck cream",
+ "date": "2026-11-07",
+ "active": 4200,
+ "aged90": 420,
+ "aged180": 83,
+ "ads": [
+  {
+   "id": "8107916769308434",
+   "page": "Sreedhareeyam Ayurveda",
+   "start": "2024-11-15",
+   "n": 1,
+   "domain": "sreemed.com",
+   "window": "180+"
+  },
+  {
+   "id": "962308949586013",
+   "page": "Dr Laura",
+   "start": "2026-03-27",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1644850356797570",
+   "page": "whatgracebought",
+   "start": "2026-04-01",
+   "n": 1,
+   "domain": "whatgracebought.com",
+   "window": "180+"
+  },
+  {
+   "id": "937696455909332",
+   "page": "Vibriance Super C Serum",
+   "start": "2026-03-30",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1585975985851574",
+   "page": "Dr Laura",
+   "start": "2026-03-27",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1203840394983469",
+   "page": "Dr Laura",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1698725998241370",
+   "page": "Ellen Hellkvist with NourishMax",
+   "start": "2026-05-02",
+   "n": 1,
+   "domain": "www.nourishmax.com",
+   "window": "180+"
+  },
+  {
+   "id": "824381483492220",
+   "page": "Vibriance Super C Serum",
+   "start": "2026-03-30",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "919149227777560",
+   "page": "Misti A with Vibriance",
+   "start": "2026-04-14",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "2739214449772411",
+   "page": "Cass � Kansas � with Vibriance",
+   "start": "2026-04-08",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1240030464533159",
+   "page": "Vibriance Super C Serum",
+   "start": "2026-04-08",
+   "n": 1,
+   "domain": "vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1360686879389263",
+   "page": "Beauty After 50",
+   "start": "2026-03-27",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "718461221292965",
+   "page": "Dr Laura",
+   "start": "2026-04-08",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1742572387099141",
+   "page": "Shawn Michelle Nelson with Vibriance",
+   "start": "2026-04-08",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "2424436344663355",
+   "page": "Misti A with Vibriance",
+   "start": "2026-04-14",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "981299340929190",
+   "page": "Style Society by Christa Rehmeyer with Vibriance",
+   "start": "2026-05-05",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1876636849705036",
+   "page": "Cass � Kansas � with Vibriance",
+   "start": "2026-04-08",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "852945333821812",
+   "page": "Style Society by Christa Rehmeyer with Vibriance",
+   "start": "2026-05-05",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "25321735884169213",
+   "page": "Vibriance",
+   "start": "2026-03-29",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1826300041375948",
+   "page": "Vibriance",
+   "start": "2026-04-14",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1513317516882491",
+   "page": "Beauty After 50",
+   "start": "2026-03-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2174539743375420",
+   "page": "Ageless Beauty Secrets",
+   "start": "2026-03-30",
+   "n": 1,
+   "domain": "vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1291826472822415",
+   "page": "Beauty After 50",
+   "start": "2026-03-27",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1261427799299781",
+   "page": "Beauty After 50",
+   "start": "2026-03-27",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "936924535906825",
+   "page": "Particle",
+   "start": "2026-04-14",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1469292301457626",
+   "page": "Vibriance",
+   "start": "2026-04-08",
+   "n": 1,
+   "domain": "vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1968115460445331",
+   "page": "Ageless Beauty Secrets",
+   "start": "2026-04-06",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "891463080421863",
+   "page": "Particle",
+   "start": "2026-02-06",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1480547196794438",
+   "page": "Vibriance",
+   "start": "2026-03-30",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "865093229922848",
+   "page": "Vibriance",
+   "start": "2026-03-29",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1014111581490995",
+   "page": "Vibriance",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1765366564475528",
+   "page": "Vibriance",
+   "start": "2026-07-13",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1823015972439495",
+   "page": "Vibriance",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1064770309834903",
+   "page": "Eight Saints",
+   "start": "2026-07-10",
+   "n": 1,
+   "domain": "eightsaintsskincare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1539859557516854",
+   "page": "Vibriance",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2058965498324665",
+   "page": "Particle",
+   "start": "2026-06-25",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "961723700216399",
+   "page": "Eight Saints",
+   "start": "2026-06-22",
+   "n": 1,
+   "domain": "eightsaintsskincare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2013555946713567",
+   "page": "Vibriance",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1686340052282930",
+   "page": "Saeskyn",
+   "start": "2026-06-09",
+   "n": 1,
+   "domain": "saeskyn.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1025996866956046",
+   "page": "Vibriance",
+   "start": "2026-07-13",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1537340011252733",
+   "page": "Kind Science",
+   "start": "2026-06-03",
+   "n": 1,
+   "domain": "kindscience.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1041929651916043",
+   "page": "Marée",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "imaree.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1469204081188113",
+   "page": "Saeskyn",
+   "start": "2026-06-09",
+   "n": 1,
+   "domain": "saeskyn.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1684117015972095",
+   "page": "Momentswithcarla with Vibriance",
+   "start": "2026-06-12",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1430139715879010",
+   "page": "Particle",
+   "start": "2026-09-08",
+   "n": 1,
+   "domain": "particleformen.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2027202224601157",
+   "page": "Vibriance",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2861500237568038",
+   "page": "Vibriance",
+   "start": "2026-09-17",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1404929265104642",
+   "page": "Dr Laura",
+   "start": "2026-08-21",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1473762561228999",
+   "page": "Frøya Organics",
+   "start": "2026-09-03",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1057968123543744",
+   "page": "Misti A with Vibriance",
+   "start": "2026-08-21",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1560943088612514",
+   "page": "Vibriance",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1622897296290938",
+   "page": "Stephanie Miller Show with Vibriance",
+   "start": "2026-08-21",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1617625299705970",
+   "page": "Shelly Lane with Vibriance",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1823513842309344",
+   "page": "Vibriance",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "get.vibriance.com",
+   "window": "0-30"
+  }
+ ],
+ "aged30": 1300,
+ "aged30_date": "2026-11-08"
+}

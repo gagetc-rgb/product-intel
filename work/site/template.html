@@ -1,0 +1,473 @@
+<meta charset="utf-8">
+<title>Shelf Survey US 2026</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a field report — sticky masthead, a chart-first overview (market map → top 5 → all 20), one long page per category with charts set into the text. */
+:root{
+  --paper:#F2F3EF; --card:#FFFFFF; --ink:#18201D; --muted:#5D6762; --faint:#8C958F; --line:#D8DCD5; --wash:#E7EAE4;
+  --accent:#2350B8; --accent-wash:#E3E9F7;
+  --good:#1D7F49; --good-wash:#DDEFE3; --warn:#B87A0B; --warn-wash:#F6EBD3; --bad:#B8402B; --bad-wash:#F5E0DA; --violet:#7A55B8; --violet-wash:#ECE5F6;
+  --c1:#2350B8; --c2:#C0562E; --c3:#1D7F49; --c4:#8A5BB8; --c5:#B87A0B;
+  --k-new:#1D7F49; --k-gen:#D79B2B; --k-est:#6F8FD0; --k-old:#7E8781; --k-genold:#C7CBC5;
+  --a1:#C9D6F2; --a2:#8EA8E2; --a3:#4F73C9; --a4:#1F3F8F;
+  --f-head:"Schibsted Grotesk",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-body:"Newsreader",Georgia,"Times New Roman",serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#111513; --card:#181D1B; --ink:#E6EBE7; --muted:#A1ABA5; --faint:#748079; --line:#2B332F; --wash:#1F2522;
+  --accent:#86A8F2; --accent-wash:#1E2843;
+  --good:#5CC48A; --good-wash:#16301F; --warn:#E3B04B; --warn-wash:#33280F; --bad:#EE7F68; --bad-wash:#3A1D17; --violet:#B497E8; --violet-wash:#2A2140;
+  --c1:#86A8F2; --c2:#EE8F66; --c3:#5CC48A; --c4:#B497E8; --c5:#E3B04B;
+  --k-new:#4DB67D; --k-gen:#D9A443; --k-est:#7F9EE0; --k-old:#7C8781; --k-genold:#46504B;
+  --a1:#25345C; --a2:#3A5596; --a3:#6286D8; --a4:#A9C0F4; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#111513; --card:#181D1B; --ink:#E6EBE7; --muted:#A1ABA5; --faint:#748079; --line:#2B332F; --wash:#1F2522;
+  --accent:#86A8F2; --accent-wash:#1E2843;
+  --good:#5CC48A; --good-wash:#16301F; --warn:#E3B04B; --warn-wash:#33280F; --bad:#EE7F68; --bad-wash:#3A1D17; --violet:#B497E8; --violet-wash:#2A2140;
+  --c1:#86A8F2; --c2:#EE8F66; --c3:#5CC48A; --c4:#B497E8; --c5:#E3B04B;
+  --k-new:#4DB67D; --k-gen:#D9A443; --k-est:#7F9EE0; --k-old:#7C8781; --k-genold:#46504B;
+  --a1:#25345C; --a2:#3A5596; --a3:#6286D8; --a4:#A9C0F4; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font:400 17px/1.6 var(--f-body);-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--paper)}
+a{color:var(--accent)} a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+h1,h2,h3,h4{font-family:var(--f-head);text-wrap:balance;line-height:1.15;margin:0}
+code{font:400 .82em var(--f-mono);background:var(--wash);padding:1px 5px;border-radius:4px;word-break:break-word}
+.wrap{max-width:1180px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.mono,.num{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.eyebrow{font:600 12px/1.2 var(--f-head);letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
+/* masthead */
+.mast{position:sticky;top:env(safe-area-inset-top,0px);z-index:9;background:var(--paper);border-bottom:1px solid var(--line)}
+.mast .wrap{display:flex;align-items:center;gap:20px;padding-block:12px;flex-wrap:wrap}
+.logo{font:800 17px/1 var(--f-head);color:var(--ink);text-decoration:none;display:flex;align-items:baseline;gap:8px}
+.logo small{font:500 12px var(--f-mono);color:var(--muted)}
+.nav{display:flex;gap:4px;margin-left:auto;flex-wrap:wrap}
+.nav a{font:600 14px var(--f-head);color:var(--muted);text-decoration:none;padding:6px 10px;border-radius:6px}
+.nav a[aria-current="page"]{color:var(--ink);background:var(--wash)}
+.nav a:hover{color:var(--ink)}
+main{padding-block:28px 64px}
+/* tiers */
+.tier{font-size:.8em;margin-left:2px;cursor:help}
+.tier.t1{color:var(--ink)} .tier.t2{color:var(--muted)} .tier.t3{color:var(--warn)}
+/* overview */
+.hero{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;margin-bottom:22px}
+.hero h1{font-size:clamp(30px,4.6vw,52px);font-weight:800;letter-spacing:-.02em;max-width:18ch}
+.hero .lede{max-width:68ch;color:var(--muted);font-size:18px}
+.hero .lede p{margin:.4em 0} .hero .lede ol{margin:.3em 0;padding-left:1.3em}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px}
+.panel-h{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:baseline;justify-content:space-between;margin-bottom:10px}
+.panel-h h2{font-size:21px;font-weight:700}
+.cap{font:400 14px/1.45 var(--f-head);color:var(--muted);max-width:80ch}
+.legend{display:flex;flex-wrap:wrap;gap:6px 14px;font:500 13px var(--f-head);color:var(--muted)}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:-1px}
+.chartbox{position:relative;width:100%}
+.chartbox svg{display:block;width:100%;height:auto;overflow:visible}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--paper);font:500 13px/1.4 var(--f-head);padding:8px 10px;border-radius:6px;max-width:260px;z-index:5;transform:translate(-50%,calc(-100% - 12px))}
+.tip b{font-weight:700}
+.tip[hidden]{display:none!important}
+svg text{fill:var(--muted);font-family:var(--f-head);font-size:12px}
+svg .lbl{fill:var(--ink);font-weight:600}
+.dot{cursor:pointer;transition:opacity .15s}
+.dot:hover{stroke:var(--ink);stroke-width:2}
+.section-title{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:42px 0 14px;flex-wrap:wrap}
+.section-title h2{font-size:28px;font-weight:800;letter-spacing:-.01em}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:border-color .15s,transform .15s}
+.card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.card .ph{aspect-ratio:4/3;background:var(--wash);position:relative;overflow:hidden}
+.card .ph img{width:100%;height:100%;object-fit:cover;display:block}
+.card .rk{position:absolute;left:10px;top:10px;font:800 13px var(--f-head);background:var(--card);color:var(--ink);border-radius:20px;padding:3px 9px}
+.card .bd{padding:12px 14px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.card h3{font-size:18px;font-weight:700}
+.card p{margin:0;font-size:15px;line-height:1.45;color:var(--muted)}
+.minis{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;margin-top:auto;padding-top:6px;border-top:1px solid var(--line)}
+.mini{display:flex;flex-direction:column;gap:1px}
+.mini b{font:500 15px var(--f-mono);font-variant-numeric:tabular-nums}
+.mini span{font:500 11px/1.2 var(--f-head);color:var(--muted)}
+.spark{display:block;width:100%;height:34px}
+/* table */
+.filters{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:600 13px var(--f-head);border:1px solid var(--line);background:var(--card);color:var(--muted);border-radius:20px;padding:5px 12px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.tbl{overflow-x:auto;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;width:100%;font:400 14px/1.4 var(--f-head)}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:600 12px var(--f-head);color:var(--muted);letter-spacing:.03em;white-space:nowrap}
+.grid20 th{cursor:pointer;user-select:none}
+.grid20 th[aria-sort]::after{content:" ↓";color:var(--ink)}
+.grid20 th[aria-sort="ascending"]::after{content:" ↑"}
+.grid20 td{vertical-align:middle;white-space:nowrap}
+.grid20 tbody tr{cursor:pointer}
+.grid20 tbody tr:hover td{background:var(--wash)}
+.grid20 td.n{font-family:var(--f-mono);font-variant-numeric:tabular-nums;text-align:right}
+.grid20 th.n{text-align:right}
+.cell{display:inline-block;min-width:54px;text-align:right;padding:2px 7px;border-radius:5px}
+.hbar{display:inline-block;height:8px;border-radius:2px;background:var(--k-new);vertical-align:middle;margin-left:8px}
+.pill{display:inline-block;font:700 11px/1 var(--f-head);letter-spacing:.04em;text-transform:uppercase;padding:5px 8px;border-radius:20px;white-space:nowrap}
+.s-top5{background:var(--good-wash);color:var(--good)} .s-challenger_compliance{background:var(--violet-wash);color:var(--violet)}
+.s-reserve{background:var(--warn-wash);color:var(--warn)} .s-weak{background:var(--wash);color:var(--muted)} .s-dropped{background:var(--bad-wash);color:var(--bad)}
+/* category page */
+.crumb{font:600 14px var(--f-head);color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.crumb a{color:var(--muted);text-decoration:none} .crumb a:hover{color:var(--ink)}
+.sub{color:var(--faint);font-size:.85em}.warn{color:var(--warn);cursor:help}.lens{margin-top:14px}
+.cathead{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:28px;align-items:start;margin:16px 0 22px}
+.cathead h1{font-size:clamp(32px,4.4vw,50px);font-weight:800;letter-spacing:-.02em;margin:10px 0 12px}
+.cathead .verdict{font-size:20px;line-height:1.45;max-width:46ch}
+.cathead .photo{border-radius:10px;overflow:hidden;background:var(--wash);aspect-ratio:1/1;max-height:360px;width:100%}
+.cathead .photo img{width:100%;height:100%;object-fit:cover;display:block}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin-bottom:22px}
+.kpi{background:var(--card);padding:12px 14px;display:flex;flex-direction:column;gap:3px}
+.kpi b{font:500 22px/1.1 var(--f-mono);font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.kpi span{font:500 12.5px/1.3 var(--f-head);color:var(--muted)}
+.kpi em{font:600 12px var(--f-head);font-style:normal}
+.toc{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:26px}
+.lead{font-size:19px;max-width:68ch}
+.body{display:grid;grid-template-columns:minmax(0,1fr);gap:0}
+.sec{padding:26px 0;border-top:1px solid var(--line)}
+.sec>h2{font-size:24px;font-weight:700;margin-bottom:10px;letter-spacing:-.01em}
+.prose{max-width:70ch}
+.prose p{margin:.55em 0} .prose ul,.prose ol{padding-left:1.25em;margin:.5em 0} .prose li{margin:.25em 0}
+.prose blockquote{margin:.8em 0;padding:8px 14px;border-left:3px solid var(--line);color:var(--muted);font-style:italic}
+.prose .tbl{margin:12px 0;max-width:100%}
+.prose table{font-size:14px}
+.fig{margin:16px 0 6px;display:flex;flex-direction:column;gap:10px}
+.fig .panel{padding:16px}
+.figs{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:14px}
+.ctl{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font:500 13px var(--f-head);color:var(--muted)}
+.ctl label{display:flex;align-items:center;gap:6px;cursor:pointer}
+.readout{font:500 13px/1.4 var(--f-head);color:var(--muted);min-height:1.4em}
+.readout b{color:var(--ink)}
+/* stacked bars */
+.stack{display:flex;height:34px;border-radius:6px;overflow:hidden;background:var(--wash)}
+.stack div{display:flex;align-items:center;justify-content:center;font:600 12px var(--f-head);color:#fff;min-width:0;overflow:hidden;white-space:nowrap}
+.stack-row{display:grid;grid-template-columns:minmax(0,1fr);gap:6px}
+.keys{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:4px 16px;font:500 13px var(--f-head);color:var(--muted)}
+.keys div{display:flex;justify-content:space-between;gap:10px} .keys b{font:500 13px var(--f-mono);color:var(--ink)}
+.keys i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+/* leaders */
+.lrow{display:grid;grid-template-columns:minmax(120px,1.1fr) minmax(0,2fr);gap:4px 14px;padding:8px 0;border-bottom:1px solid var(--line);align-items:center}
+.lrow:last-child{border-bottom:0}
+.lname{font:600 14.5px/1.3 var(--f-head)}
+.lname small{display:block;font:500 12px var(--f-head);color:var(--muted)}
+.lbar{display:flex;align-items:center;gap:8px;font:500 13px var(--f-mono);font-variant-numeric:tabular-nums}
+.lbar span.b{height:12px;border-radius:2px;flex:none}
+.lmeta{grid-column:2;font:500 12px var(--f-head);color:var(--muted)}
+.tag{font:700 10px/1 var(--f-head);letter-spacing:.05em;text-transform:uppercase;padding:3px 6px;border-radius:4px;margin-left:6px;vertical-align:1px}
+.tag.new{background:var(--good-wash);color:var(--good)} .tag.old{background:var(--wash);color:var(--muted)}
+/* funnel */
+.fun{display:grid;grid-template-columns:minmax(110px,auto) minmax(0,1fr);gap:8px 12px;align-items:center;font:500 13.5px var(--f-head)}
+.fun .bar{height:22px;border-radius:3px;background:var(--accent);display:flex;align-items:center;padding-left:8px;color:#fff;font:500 12px var(--f-mono);white-space:nowrap;min-width:2px}
+.fun .val{font:500 13px var(--f-mono);color:var(--ink);margin-left:8px;white-space:nowrap}
+.shops{display:flex;flex-wrap:wrap;gap:6px}
+.shop{font:500 12.5px var(--f-mono);background:var(--wash);border-radius:5px;padding:4px 8px}
+.shop b{font-weight:500;color:var(--accent)}
+/* creatives */
+.ads{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:14px}
+.ad{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;display:flex;flex-direction:column}
+.ad .im{position:relative;aspect-ratio:1/1;background:var(--wash)}
+.ad img{width:100%;height:100%;object-fit:cover;display:block}
+.ad .days{position:absolute;left:8px;top:8px;background:var(--ink);color:var(--paper);font:500 12px var(--f-mono);padding:4px 7px;border-radius:5px}
+.ad .bd{padding:10px 12px 12px;display:flex;flex-direction:column;gap:6px;font:400 13.5px/1.4 var(--f-head)}
+.ad .bd b{font-weight:700}
+.ad .bd span{color:var(--muted)}
+.ad .bd a{font-size:12.5px;margin-top:auto}
+.pager{display:flex;justify-content:space-between;gap:12px;margin-top:36px;flex-wrap:wrap}
+.pager a{flex:1 1 220px;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:14px 16px;text-decoration:none;color:var(--ink);font:700 17px var(--f-head)}
+.pager a small{display:block;font:600 12px var(--f-head);color:var(--muted);letter-spacing:.05em;text-transform:uppercase;margin-bottom:4px}
+.pager a:hover{border-color:var(--accent)}
+.pager a.next{text-align:right}
+.foot{border-top:1px solid var(--line);margin-top:48px;padding-top:16px;font:500 13px var(--f-head);color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 18px}
+.tiers{display:flex;flex-wrap:wrap;gap:6px 16px;font:500 13.5px var(--f-head);color:var(--muted)}
+.empty{font:500 14px var(--f-head);color:var(--muted);padding:10px 0}
+@media (max-width:820px){
+  .cathead{grid-template-columns:minmax(0,1fr)}
+  .cathead .photo{max-height:240px;aspect-ratio:16/10}
+  .lrow{grid-template-columns:minmax(0,1fr)} .lmeta{grid-column:1}
+  body{font-size:16.5px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style>
+
+<header class="mast"><div class="wrap">
+  <a class="logo" href="#">Shelf Survey <small>US · 20 categories · Nov 2026</small></a>
+  <nav class="nav" aria-label="Main">
+    <a href="#" data-nav="overview">Overview</a>
+    <a href="#all" data-nav="all">All 20</a>
+    <a href="#method" data-nav="method">How we measured</a>
+  </nav>
+</div></header>
+<main class="wrap" id="app"></main>
+
+<script>
+const DATA=/*__DATA__*/null;
+const C=DATA.cats, BY={}; C.forEach(c=>BY[c.slug]=c);
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+const esc=s=>String(s??"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+const fmt=n=>n==null?"—":Math.round(n).toLocaleString("en-US");
+const kfmt=n=>n==null?"—":n>=1e6?(n/1e6).toFixed(1)+"M":n>=1e4?Math.round(n/1e3)+"K":n>=1e3?(n/1e3).toFixed(1)+"K":String(Math.round(n));
+const xf=n=>n==null?"—":"×"+(+n).toFixed(2);
+const pct=(a,b)=>b?Math.round(100*a/b)+"%":"—";
+const T1='<span class="tier t1" title="counted by a platform">◆</span>', T2='<span class="tier t2" title="estimate or our reading">◈</span>', T3='<span class="tier t3" title="disputed">◇</span>';
+const STATUS={top5:"Top 5",challenger_compliance:"Challenger · regulated",reserve:"Reserve",weak:"Weak",dropped:"Dropped"};
+const SCOL={top5:"var(--good)",challenger_compliance:"var(--violet)",reserve:"var(--warn)",weak:"var(--faint)",dropped:"var(--bad)"};
+const pill=s=>`<span class="pill s-${s}">${STATUS[s]||s}</span>`;
+const KIND=[["new_brand","New brands (under 24 months)","--k-new"],["generic_new","Unbranded sellers, new","--k-gen"],["older_brand_new_here","Established brands new to this product","--k-est"],["old_brand","Old brands","--k-old"],["generic_old","Unbranded sellers, old","--k-genold"]];
+const AGE=[["0-6","0-6 months","--a4"],["6-12","6-12 months","--a3"],["12-24","12-24 months","--a2"],["24+","24+ months","--a1"]];
+const SER=["--c1","--c2","--c3","--c4","--c5"];
+const W0=new Date(DATA.week0+"T00:00:00Z");
+const wdate=i=>new Date(W0.getTime()+i*7*864e5);
+const MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const dfmt=d=>`${MON[d.getUTCMonth()]} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
+const ymfmt=ym=>{const [y,m]=ym.split("-");return MON[+m-1]+" "+y};
+const ma=(v,k=4)=>v.map((_,i)=>{const s=v.slice(Math.max(0,i-k+1),i+1);return s.reduce((a,b)=>a+b,0)/s.length});
+const share=c=>c.shelf?c.nb/c.shelf:0;
+const revG=c=>{const s=c.reviews&&c.reviews.series.find(s=>s.growth!=null);return s?s.growth:null};
+const a90=c=>c.meta&&c.meta.active?c.meta.aged90/c.meta.active:null;
+
+function nice(max){if(max<=0)return 1;const p=Math.pow(10,Math.floor(Math.log10(max)));for(const m of[1,1.5,2,2.5,3,4,5,6,8,10])if(m*p>=max)return m*p;return 10*p}
+function tipAt(box,x,y,html){let t=$(".tip",box);if(!t){t=document.createElement("div");t.className="tip";box.appendChild(t)}t.innerHTML=html;t.hidden=false;
+  const w=box.clientWidth;t.style.left=Math.max(130,Math.min(w-130,x))+"px";t.style.top=y+"px"}
+function tipOff(box){const t=$(".tip",box);if(t)t.hidden=true}
+
+/* ---------- market map ---------- */
+function marketMap(){
+  const W=760,H=430,L=62,R=18,Tp=16,B=50;
+  const lx=v=>Math.log(v), X0=lx(.5),X1=lx(6.5);
+  const sx=v=>L+(lx(Math.max(.5,Math.min(6.5,v)))-X0)/(X1-X0)*(W-L-R);
+  const NEW=lens==="new", Y0=Math.log(1e4), Y1=Math.log(5e5);
+  const sy=NEW?(v=>H-B-Math.min(1,(v||0)/.32)*(H-Tp-B)):(v=>H-B-(Math.log(Math.max(1e4,v))-Y0)/(Y1-Y0)*(H-Tp-B));
+  const yv=c=>NEW?c.m.B1:c.m.A2, maxS=Math.max(...C.map(c=>c.m.A2||0));
+  let g=`<rect x="${L}" y="${Tp}" width="${sx(.8)-L}" height="${H-B-Tp}" fill="var(--bad-wash)"/>`+
+        `<text x="${L+6}" y="${Tp+16}" style="fill:var(--bad);font-weight:600">Search falling</text>`;
+  for(const v of[.5,.8,1,1.2,2,3,4,6]){const x=sx(v);g+=`<line x1="${x}" x2="${x}" y1="${Tp}" y2="${H-B}" stroke="var(--line)" ${v===1?'':'stroke-dasharray="2 4"'}/><text x="${x}" y="${H-B+18}" text-anchor="middle">×${v}</text>`}
+  for(const v of NEW?[0,.1,.2,.3]:[1e4,3e4,1e5,3e5]){const y=sy(v);g+=`<line x1="${L}" x2="${W-R}" y1="${y}" y2="${y}" stroke="var(--line)" stroke-dasharray="2 4"/><text x="${L-8}" y="${y+4}" text-anchor="end">${NEW?Math.round(v*100)+"%":kfmt(v)}</text>`}
+  g+=`<text x="${(L+W-R)/2}" y="${H-10}" text-anchor="middle" class="lbl">Google searches vs a year ago →</text>`;
+  g+=`<text transform="translate(14 ${(Tp+H-B)/2}) rotate(-90)" text-anchor="middle" class="lbl">${NEW?"Recent entrants selling 1,000+/mo →":"Bought per month on Amazon →"}</text>`;
+  const order=[...C].sort((a,b)=>(b.m.A2||0)-(a.m.A2||0));
+  for(const c of order){const r=5+20*Math.sqrt((c.m.A2||0)/maxS), x=sx(c.m.A1||1), y=sy(yv(c)), weak=c.m.flags.length>0;
+    g+=`<circle class="dot" data-s="${c.slug}" cx="${x}" cy="${y}" r="${r}" fill="${SCOL[c.status]}" fill-opacity="${weak?.25:.78}" stroke="${weak?SCOL[c.status]:"var(--card)"}" stroke-width="1.5" ${weak?'stroke-dasharray="3 2"':''} tabindex="0" role="link" aria-label="${esc(c.title)}"/>`;
+    if(c.status!=="dropped"||(NEW?c.m.B1>=.15:c.m.A2>=2e5))
+      g+=`<text x="${x+r+4}" y="${y+4}" class="lbl" style="pointer-events:none">${esc(c.short)}</text>`}
+  return `<div class="chartbox" id="map"><svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Market map of 20 categories">${g}</svg></div>`;
+}
+function wireMap(){const box=$("#map");if(!box)return;const svg=$("svg",box);
+  $$(".dot",box).forEach(d=>{const c=BY[d.dataset.s];
+    const show=e=>{const r=box.getBoundingClientRect(),b=d.getBoundingClientRect();
+      tipAt(box,b.left-r.left+b.width/2,b.top-r.top,`<b>${esc(c.title)}</b><br>${STATUS[c.status]} · #${c.rank}<br>Entrants selling 1,000+/mo: ${c.m.B2_1k} of ${c.m.B1_n} (${Math.round(c.m.B1*100)}%)<br>Bought / mo: ${fmt(c.m.A2)} · Search ${xf(c.m.A1)}${c.m.flags.length?"<br>⚠ "+c.m.flags.map(esc).join("<br>⚠ "):""}`)};
+    d.addEventListener("mouseenter",show);d.addEventListener("focus",show);d.addEventListener("mouseleave",()=>tipOff(box));d.addEventListener("blur",()=>tipOff(box));
+    d.addEventListener("click",()=>location.hash="c-"+c.slug);d.addEventListener("keydown",e=>{if(e.key==="Enter")location.hash="c-"+c.slug})})}
+
+/* ---------- sparkline ---------- */
+function spark(v){const s=ma(v.slice(-105,-1),4),W=200,H=34,mx=Math.max(...s,1);
+  const p=s.map((y,i)=>`${(i/(s.length-1)*W).toFixed(1)},${(H-2-y/mx*(H-4)).toFixed(1)}`).join(" ");
+  return `<svg class="spark" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" aria-hidden="true"><polyline points="${p}" fill="none" stroke="var(--accent)" stroke-width="1.6" vector-effect="non-scaling-stroke"/></svg>`}
+
+/* ---------- overview ---------- */
+let lens="new",sortKey="B1",sortDir=-1,filt="all";
+const shops90=c=>(c.m.B4_shops||[]).filter(s=>s.aged90>=30);
+const D2L={stable:"stable",mild:"mild pressure",war:"price war"};
+const COLS=[["rank","#",c=>c.rank,1],["short","Category",c=>c.short,0],["status","Status",c=>c.rank,0],
+  ["B1","Recent entrants selling 1,000+/mo",c=>c.m.B1??-1,1],["B2","Survivors 1K+ / 300+",c=>c.m.B2_1k,1],
+  ["B3","Concentration (HHI)",c=>c.m.B3_hhi,1],["A1","Search vs last year",c=>c.m.A1||0,1],["A2","Bought / mo",c=>c.m.A2||0,1],
+  ["B4","Shops with ads 90+ days",c=>c.m.B4_shops.length?shops90(c).length:-1,1],["C1","Leader store reviews",c=>revG(c)??-1,1],["D2","Prices, 12 mo",c=>({stable:1,mild:2,war:3}[c.m.D2]||0),0]];
+function heat(v,lo,hi,good=true){if(v==null)return"";const t=Math.max(0,Math.min(1,(v-lo)/(hi-lo)));return `background:color-mix(in srgb, var(${good?"--good":"--bad"}) ${Math.round(t*32)}%, transparent)`}
+function trendCell(c){const l=c.trend.label,v=c.trend.mean;const st=l==="growing"?"background:var(--good-wash);color:var(--good)":l==="falling"?"background:var(--bad-wash);color:var(--bad)":"";
+  return `<span class="cell" style="${st}">${xf(v)}</span>`}
+function rows(){const maxA=Math.max(...C.map(c=>c.m.A2||0));
+  let list=C.filter(c=>filt==="all"||(filt==="top5"&&c.status==="top5")||(filt==="mid"&&["challenger_compliance","reserve"].includes(c.status))||(filt===c.status));
+  const col=COLS.find(c=>c[0]===sortKey);list.sort((a,b)=>{const x=col[2](a),y=col[2](b);return (x>y?1:x<y?-1:0)*sortDir});
+  const dash='<span style="color:var(--faint)">—</span>';
+  return list.map(c=>{const m=c.m,r=revG(c),a1=m.A1,sh=shops90(c);
+   const a1st=a1>=1.2?"background:var(--good-wash);color:var(--good)":a1<.8?"background:var(--bad-wash);color:var(--bad)":"";
+   return `<tr data-s="${c.slug}" tabindex="0">
+   <td class="n">${c.rank}</td><td><b>${esc(c.short)}</b>${m.flags.length?` <span class="warn" title="${esc(m.flags.join("; "))}">⚠</span>`:""}</td><td>${pill(c.status)}</td>
+   <td class="n"><span class="cell" style="${heat(m.B1,0,.3)}">${Math.round(m.B1*100)}%</span> <span class="sub">of ${m.B1_n}</span></td>
+   <td class="n">${m.B2_1k} / ${m.B2_300}</td>
+   <td class="n"><span class="cell" style="${m.B3_hhi>1800?"background:var(--bad-wash);color:var(--bad)":""}">${fmt(m.B3_hhi)}</span> <span class="sub">top 3: ${Math.round(m.B3_top3*100)}%</span></td>
+   <td class="n"><span class="cell" style="${a1st}">${xf(a1)}</span></td>
+   <td class="n">${fmt(m.A2)}<span class="hbar" style="width:${Math.max(2,Math.round(50*(m.A2||0)/maxA))}px"></span></td>
+   <td class="n">${m.B4_shops.length?`<span title="${esc(m.B4_shops.map(s=>s.domain+": "+s.aged90+" of "+s.active).join("; "))}">${sh.length} of ${m.B4_shops.length}</span>`:dash}</td>
+   <td class="n">${r==null?dash:`<span class="cell" style="${r>=1.2?"background:var(--good-wash);color:var(--good)":r<.8?"background:var(--bad-wash);color:var(--bad)":""}">${xf(r)}</span>`}</td>
+   <td>${m.D2?`<span title="${esc(m.D2_note)}">${D2L[m.D2]}</span>`:dash}</td></tr>`}).join("")}
+function overview(scrollAll){
+  const top=C.filter(c=>c.status==="top5");
+  const mid=C.filter(c=>["challenger_compliance","reserve"].includes(c.status));
+  const card=c=>`<a class="card" href="#c-${c.slug}"><div class="ph">${c.photo?`<img src="${c.photo}" alt="" loading="lazy">`:""}<span class="rk">#${c.rank}</span></div>
+    <div class="bd"><h3>${esc(c.title)}</h3><p>${esc(c.verdict)}</p>${spark(c.trend.values||[0])}
+    <div class="minis"><div class="mini"><b>${kfmt(c.nb)}</b><span>new brands / mo</span></div><div class="mini"><b>${xf(c.trend.mean)}</b><span>search, YoY</span></div>
+    <div class="mini"><b>${revG(c)!=null?xf(revG(c)):"—"}</b><span>store reviews</span></div></div></div></a>`;
+  $("#app").innerHTML=`
+  <section class="hero"><span class="eyebrow">Market openness · United States · method v2.2</span>
+   <h1>Which of 20 product markets still let a new brand in?</h1>
+   <div class="filters lens" role="group" aria-label="Lens">${[["new","Can a newcomer follow the leader?"],["whole","Whole market, big players included"]].map(([k,v])=>`<button class="chip" data-lens="${k}" aria-pressed="${lens===k}">${v}</button>`).join("")}</div><div class="lede">${DATA.intro}</div></section>
+  <section class="panel"><div class="panel-h"><h2>The market map</h2>
+    <div class="legend">${Object.entries(STATUS).map(([k,v])=>`<span><i style="background:${SCOL[k]}"></i>${v}</span>`).join("")}</div></div>
+    ${marketMap()}
+    <p class="cap">${lens==="new"?`Up = a larger share of sellers who entered this product 3-24 months ago now sell 1,000+ a month on Amazon (established brands excluded; an upper bound, since sellers who dropped off search pages 1-5 are invisible) ${T2}.`:`Up = everything bought per month on the first five pages of Amazon search, big brands included ${T1}.`} Right = Google searches vs a year ago, all phrasings, corrected by 5 broad personal-care terms, mean of daily pulls ${T1}. Size = Amazon volume. Faded, dashed bubbles carry a data warning (hover). Colours show the owner's current status decision, not a score.</p></section>
+  <div class="section-title"><h2>Top 5</h2><span class="cap">Pass every test. Ranked by new-brand sales, trend and ad longevity together.</span></div>
+  <div class="cards">${top.map(card).join("")}</div>
+  <div class="section-title"><h2>Next in line</h2><span class="cap">Strong numbers, with a regulatory cost or a weaker trend.</span></div>
+  <div class="cards">${mid.map(card).join("")}</div>
+  <div class="section-title" id="all20"><h2>All 20, side by side</h2>
+    <div class="filters" role="group" aria-label="Filter by status">${[["all","All 20"],["top5","Top 5"],["mid","Next in line"],["weak","Weak"],["dropped","Dropped"]].map(([k,v])=>`<button class="chip" data-f="${k}" aria-pressed="${filt===k}">${v}</button>`).join("")}</div></div>
+  <div class="panel" style="padding:6px 6px 2px"><div class="tbl"><table class="grid20"><thead><tr>${COLS.map(c=>`<th data-k="${c[0]}" class="${c[3]?"n":""}" ${sortKey===c[0]?`aria-sort="${sortDir>0?"ascending":"descending"}"`:""}>${c[1]}</th>`).join("")}</tr></thead><tbody>${rows()}</tbody></table></div></div>
+  <p class="cap" style="margin-top:10px"><b>Recent entrants selling 1,000+/mo</b>: sellers whose first listing in this product is 3-24 months old (established brands excluded), share now selling 1,000+ a month on Amazon; an upper bound ${T2}. <b>Survivors</b>: how many of them sell 1,000+ / 300+ ${T1}. <b>HHI</b>: Herfindahl-Hirschman Index of brand shares; US DOJ/FTC: above 1,800 = highly concentrated (red) ${T1}. <b>Search</b>: Google Trends, last 12 weeks vs a year ago ${T1}. <b>Bought / mo</b>: Amazon "bought in past month" badges, pages 1-5, a floor ${T1}. <b>Shops with ads 90+ days</b>: leader stores (by their own domain) with 30+ Meta ads running 90+ days; only leaders measured ${T1}. <b>Leader store reviews</b>: Aug-Oct 2026 vs Aug-Oct 2025 ${T2}. <b>Prices</b>: 12-month Keepa charts read by eye + camelcamelcamel; "price war" only if prices keep falling ${T2}. ⚠ = data warning (hover). No combined score: weights between the groups are not decided yet. Click a column to sort, a row to open.</p>
+  ${foot()}`;
+  wireMap();
+  $$(".chip[data-lens]").forEach(b=>b.onclick=()=>{lens=b.dataset.lens;sortKey=lens==="new"?"B1":"A2";sortDir=-1;overview()});
+  $$(".chip[data-f]").forEach(b=>b.onclick=()=>{filt=b.dataset.f;$$(".chip[data-f]").forEach(x=>x.setAttribute("aria-pressed",x===b));$(".grid20 tbody").innerHTML=rows();wireRows()});
+  $$(".grid20 th").forEach(th=>th.onclick=()=>{const k=th.dataset.k;if(sortKey===k)sortDir*=-1;else{sortKey=k;sortDir=COLS.find(c=>c[0]===k)[3]&&k!=="rank"?-1:1}
+    $$(".grid20 th").forEach(x=>x.removeAttribute("aria-sort"));th.setAttribute("aria-sort",sortDir>0?"ascending":"descending");$(".grid20 tbody").innerHTML=rows();wireRows()});
+  wireRows();
+  if(scrollAll)setTimeout(()=>$("#all20").scrollIntoView({behavior:"smooth"}),30); else window.scrollTo(0,0);
+}
+function wireRows(){$$(".grid20 tbody tr").forEach(tr=>{tr.onclick=()=>location.hash="c-"+tr.dataset.s;tr.onkeydown=e=>{if(e.key==="Enter")location.hash="c-"+tr.dataset.s}})}
+function foot(){return `<footer class="foot"><span>Built ${DATA.built}</span><span>Method v2.2 (METRICS.md)</span><span>Search: ${DATA.pulls.length} of 3 daily pulls averaged</span>
+  <span class="tiers">${T1} counted by a platform · ${T2} estimate or our reading · ${T3} disputed</span></footer>`}
+
+/* ---------- charts for a category ---------- */
+function trendFig(c){const v=c.trend.values;if(!v)return"";
+  return `<div class="panel" data-chart="trend"><div class="panel-h"><h3 class="eyebrow">US Google searches, weekly, 5 years · “${esc(c.trend.term)}”</h3>
+   <div class="ctl"><label><input type="checkbox" id="t-sm-${c.slug}" checked> 4-week average</label><label><input type="checkbox" id="t-ct-${c.slug}"> Control terms</label></div></div>
+   <div class="readout" aria-live="polite">Hover the chart to read a week.</div><div class="chartbox"></div>
+   <p class="cap">Growth = the last 12 full weeks vs the same weeks a year ago, divided by the growth of two control terms (shampoo, body lotion). ${Object.entries(c.trend.pulls).map(([k,v])=>`${k.replace("pull","Pull ")}: ${xf(v)}`).join(" · ")}${Object.keys(c.trend.pulls).length?" → ":""}<b>${xf(c.trend.mean)}, ${c.trend.label}</b> ${T1}. The grey band in Apr-Jun 2026 is a Google-wide spike that hits the control terms too: an artifact, not demand.${c.trend.zeros>.05?` ${T3} ${Math.round(c.trend.zeros*100)}% of the last two years' weeks are zero: a rare term, so the number is noisy.`:""}</p></div>`}
+function drawTrend(el,c){const box=$(".chartbox",el),ro=$(".readout",el),v=c.trend.values,n=v.length;
+  const W=760,H=250,L=34,R=10,Tp=10,B=26;const sx=i=>L+i/(n-1)*(W-L-R),sy=y=>H-B-y/100*(H-Tp-B);
+  const sm=$(`#t-sm-${c.slug}`).checked,ct=$(`#t-ct-${c.slug}`).checked;
+  const line=(s,st,w,dash="")=>`<polyline fill="none" stroke="${st}" stroke-width="${w}" ${dash} stroke-linejoin="round" points="${s.map((y,i)=>sx(i).toFixed(1)+","+sy(y).toFixed(1)).join(" ")}"/>`;
+  let g="";
+  for(const y of[0,25,50,75,100])g+=`<line x1="${L}" x2="${W-R}" y1="${sy(y)}" y2="${sy(y)}" stroke="var(--line)"/><text x="${L-6}" y="${sy(y)+4}" text-anchor="end">${y}</text>`;
+  const idx=d=>Math.round((Date.UTC(...d)-W0.getTime())/(7*864e5));
+  const a0=idx([2026,3,1]),a1=idx([2026,5,30]);g+=`<rect x="${sx(a0)}" y="${Tp}" width="${sx(a1)-sx(a0)}" height="${H-B-Tp}" fill="var(--wash)"/><text x="${(sx(a0)+sx(a1))/2}" y="${Tp+12}" text-anchor="middle" style="font-size:11px">artifact</text>`;
+  const w=(s,e,lab)=>`<rect x="${sx(s)}" y="${Tp}" width="${sx(e)-sx(s)}" height="${H-B-Tp}" fill="var(--accent-wash)"/><text x="${sx(e)}" y="${H-B-6}" text-anchor="end" style="font-size:11px;fill:var(--accent)">${lab}</text>`;
+  g+=w(n-13,n-2,"now")+w(n-65,n-54,"a year ago");
+  for(let y=W0.getUTCFullYear()+1;y<=2026;y++){const i=idx([y,0,1]);if(i>0&&i<n)g+=`<line x1="${sx(i)}" x2="${sx(i)}" y1="${H-B}" y2="${H-B+4}" stroke="var(--faint)"/><text x="${sx(i)}" y="${H-6}" text-anchor="middle">${y}</text>`}
+  if(ct&&DATA.controls)Object.values(DATA.controls).forEach((s,k)=>{if(s)g+=line(sm?ma(s):s,"var(--faint)",1.2,k?'stroke-dasharray="4 3"':"")});
+  if(sm)g+=line(v,"var(--accent)",1,'stroke-opacity=".25"');
+  g+=line(sm?ma(v):v,"var(--accent)",2);
+  g+=`<line class="hx" x1="0" x2="0" y1="${Tp}" y2="${H-B}" stroke="var(--ink)" stroke-width="1" visibility="hidden"/><rect class="hit" x="${L}" y="${Tp}" width="${W-L-R}" height="${H-B-Tp}" fill="transparent"/>`;
+  box.innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Weekly search index for ${esc(c.trend.term)}">${g}</svg>`;
+  const svg=$("svg",box),hx=$(".hx",svg);
+  const mv=e=>{const r=svg.getBoundingClientRect(),px=(e.clientX-r.left)/r.width*W;const i=Math.max(0,Math.min(n-1,Math.round((px-L)/(W-L-R)*(n-1))));
+    hx.setAttribute("x1",sx(i));hx.setAttribute("x2",sx(i));hx.setAttribute("visibility","visible");
+    const cs=DATA.controls?Object.entries(DATA.controls).map(([k,s])=>s?`${k} ${s[i]}`:"").join(" · "):"";
+    ro.innerHTML=`Week of <b>${dfmt(wdate(i))}</b>: <b>${v[i]}</b>${sm?` (4-wk avg ${ma(v)[i].toFixed(0)})`:""}${ct?` · ${cs}`:""}`};
+  $(".hit",svg).addEventListener("pointermove",mv);$(".hit",svg).addEventListener("pointerleave",()=>hx.setAttribute("visibility","hidden"));
+  [`#t-sm-${c.slug}`,`#t-ct-${c.slug}`].forEach(id=>$(id).onchange=()=>drawTrend(el,c));
+}
+function stackBar(obj,keys){const tot=keys.reduce((a,k)=>a+(obj[k[0]]||0),0);if(!tot)return"";
+  return `<div class="stack">${keys.map(([k,l,col])=>{const v=obj[k]||0,p=v/tot*100;return p>0?`<div style="width:${p}%;background:var(${col})" title="${esc(l)}: ${fmt(v)}">${p>=9?Math.round(p)+"%":""}</div>`:""}).join("")}</div>
+  <div class="keys">${keys.map(([k,l,col])=>`<div><span><i style="background:var(${col})"></i>${esc(l)}</span><b>${fmt(obj[k]||0)}</b></div>`).join("")}</div>`}
+function shelfFig(c){if(!c.kind)return"";
+  return `<div class="panel" data-chart="shelf"><div class="panel-h"><h3 class="eyebrow">Who sells it on Amazon · ${fmt(c.shelf)} bought last month</h3></div>
+   <div class="stack-row"><div class="cap"><b>By kind of seller</b></div>${stackBar(c.kind,KIND)}</div>
+   ${c.age?`<div class="stack-row" style="margin-top:16px"><div class="cap"><b>By how long the seller has been on Amazon</b></div>${stackBar(c.age,AGE)}</div>`:""}
+   <p class="cap">Sum of "bought in past month" badges on search pages 1-5 (US delivery address) ${T1}; it is a floor and counts buyers, not units. Seller age is dated from Amazon product codes, about ±1-2 months ${T2}.</p></div>`}
+function leadersFig(c){const L=c.leaders||[];if(!L.length)return"";const mx=Math.max(...L.map(l=>l.units));
+  return `<div class="panel" data-chart="leaders"><div class="panel-h"><h3 class="eyebrow">The leaders on Amazon</h3><span class="cap">units / mo · revenue floor = units × price</span></div>
+  ${L.map(l=>`<div class="lrow"><div class="lname">${esc(l.name)}<span class="tag ${l.status==="NEW"?"new":"old"}">${l.status==="NEW"?"new":"established"}</span>
+    <small>${l.months!=null?`~${l.months} months on Amazon`:""}${l.listings>1?` · ${l.listings} listings`:""}</small></div>
+    <div class="lbar"><span class="b" style="width:${Math.max(2,l.units/mx*70)}%;background:${l.status==="NEW"?"var(--k-new)":"var(--k-old)"}"></span>${fmt(l.units)}</div>
+    <div class="lmeta">${l.price?`$${l.price.toFixed(2)}`:""}${l.stars?` · ${l.stars}★`:""}${l.price?` · ~$${kfmt(l.units*l.price)}/mo`:""}${l.asin?` · <a href="https://www.amazon.com/dp/${l.asin}" target="_blank" rel="noopener">listing</a>`:""}</div></div>`).join("")}
+  <p class="cap">${T1} units and prices from the listing cards; ${T2} months on Amazon and revenue.</p></div>`}
+function adsFig(c){const m=c.meta;if(!m||!m.active)return"";
+  const rows=[["Active today",m.active],["Running 30+ days",m.aged30],["Running 90+ days",m.aged90],["Running 180+ days",m.aged180]];
+  let bp="";if(c.brandPages&&c.brandPages.length){const mx=Math.max(...c.brandPages.map(b=>b.active||0),1);
+    bp=`<div class="cap" style="margin-top:16px"><b>Brand by brand, on each brand's own Facebook Page</b></div>
+    <div class="tbl"><table><thead><tr><th>Brand</th><th class="n">Active</th><th class="n">90+ days</th><th class="n">180+ days</th></tr></thead><tbody>
+    ${c.brandPages.map(b=>`<tr><td><b>${esc(b.name)}</b>${!b.pages?' <span style="color:var(--faint)">(no own Page found)</span>':""}</td><td class="num">${b.pages?fmt(b.active):"—"}</td><td class="num">${b.pages?fmt(b.aged90):"—"}</td><td class="num">${b.pages?fmt(b.aged180):"—"}</td></tr>`).join("")}</tbody></table></div>`}
+  const shops=(c.storesTop||[]).filter(s=>s[2]>=60).slice(0,8);
+  return `<div class="panel" data-chart="ads"><div class="panel-h"><h3 class="eyebrow">Meta ads, US · exact phrase “${esc(m.phrase)}” · ${esc(m.date)}</h3></div>
+  <div class="fun">${rows.map(([l,v])=>`<span>${l}</span><div style="display:flex;align-items:center"><div class="bar" style="width:${Math.max(.4,v/m.active*80)}%"></div><span class="val">${fmt(v)} <span style="color:var(--muted)">${pct(v,m.active)}</span></span></div>`).join("")}</div>
+  ${shops.length?`<div class="cap" style="margin-top:14px"><b>Shops with the oldest live ads</b> (days running)</div><div class="shops">${shops.map(s=>`<span class="shop">${esc(s[0])} <b>${s[2]}</b></span>`).join("")}</div>`:""}
+  ${bp}<p class="cap">Counts are Meta's own ${T1}. Advertisers switch off ads that lose money, so an ad still running after months is a sign it pays back ${T2}. Shares are of ads active today, not of all ads ever launched.</p></div>`}
+function reviewsFig(c){const r=c.reviews;if(!r)return"";
+  return `<div class="panel" data-chart="reviews"><div class="panel-h"><h3 class="eyebrow">Reviews per month in the leaders' own stores</h3>
+   <div class="ctl"><label><input type="radio" name="rv-${c.slug}" value="abs" checked> Reviews</label><label><input type="radio" name="rv-${c.slug}" value="rel"> Each store vs its own peak</label></div></div>
+   <div class="legend rvleg">${r.series.map((s,k)=>`<label style="cursor:pointer"><input type="checkbox" data-k="${k}" checked style="accent-color:var(${SER[k]})"> <i style="background:var(${SER[k]})"></i>${esc(s.name)}${s.growth!=null?` <b style="color:var(--ink);font-family:var(--f-mono);font-weight:500">${xf(s.growth)}</b>`:""}</label>`).join("")}</div>
+   <div class="readout">Hover the chart to read a month.</div><div class="chartbox"></div>
+   <p class="cap">×N = Aug-Oct 2026 vs Aug-Oct 2025. Solid: exact counts ${T1}. Dashed and hollow dots: estimated months ${T2} (older Judge.me months scaled from 1-4 star reviews; Loox stores counted from photo reviews in a 20% sample). Compare shapes, not levels: stores turn 3-10% of orders into reviews.</p></div>`}
+function drawReviews(el,c){const box=$(".chartbox",el),ro=$(".readout",el),S=c.reviews.series,M=DATA.months,n=M.length;
+  const on=$$(".rvleg input",el).map(i=>i.checked),rel=$(`input[name="rv-${c.slug}"]:checked`,el).value==="rel";
+  const W=760,H=260,L=44,R=10,Tp=12,B=26;
+  const val=(s,i)=>{const v=s.pts[i][1];if(v==null)return null;if(!rel)return v;const mx=Math.max(...s.pts.map(p=>p[1]||0));return mx?v/mx*100:null};
+  let mx=1;S.forEach((s,k)=>{if(on[k])for(let i=0;i<n;i++){const v=val(s,i);if(v!=null&&v>mx)mx=v}});mx=rel?100:nice(mx);
+  const sx=i=>L+i/(n-1)*(W-L-R),sy=y=>H-B-y/mx*(H-Tp-B);
+  let g="";for(let t=0;t<=4;t++){const y=mx*t/4;g+=`<line x1="${L}" x2="${W-R}" y1="${sy(y)}" y2="${sy(y)}" stroke="var(--line)"/><text x="${L-6}" y="${sy(y)+4}" text-anchor="end">${rel?Math.round(y)+"%":kfmt(y)}</text>`}
+  M.forEach((m,i)=>{if(m.endsWith("-01")||i===0)g+=`<text x="${sx(i)}" y="${H-6}" text-anchor="${i===0?"start":"middle"}">${i===0?ymfmt(m):m.slice(0,4)}</text><line x1="${sx(i)}" x2="${sx(i)}" y1="${H-B}" y2="${H-B+4}" stroke="var(--faint)"/>`});
+  const iA=M.indexOf("2025-08"),iB=M.indexOf("2026-08");
+  [[iA,"Aug-Oct 2025"],[iB,"Aug-Oct 2026"]].forEach(([i,l])=>{if(i>=0)g+=`<rect x="${sx(i)}" y="${Tp}" width="${sx(i+2)-sx(i)}" height="${H-B-Tp}" fill="var(--accent-wash)"/><text x="${sx(i)+3}" y="${Tp+11}" style="font-size:10.5px;fill:var(--accent)">${l}</text>`});
+  S.forEach((s,k)=>{if(!on[k])return;const col=`var(${SER[k]})`;
+    for(let i=1;i<n;i++){const a=val(s,i-1),b=val(s,i);if(a==null||b==null)continue;const est=s.pts[i-1][2]||s.pts[i][2];
+      g+=`<line x1="${sx(i-1)}" y1="${sy(a)}" x2="${sx(i)}" y2="${sy(b)}" stroke="${col}" stroke-width="2" ${est?'stroke-dasharray="4 3"':""} stroke-linecap="round"/>`}
+    for(let i=0;i<n;i++){const v=val(s,i);if(v==null)continue;g+=`<circle cx="${sx(i)}" cy="${sy(v)}" r="2.6" fill="${s.pts[i][2]?"var(--card)":col}" stroke="${col}" stroke-width="1.4"/>`}});
+  g+=`<line class="hx" x1="0" x2="0" y1="${Tp}" y2="${H-B}" stroke="var(--ink)" visibility="hidden"/><rect class="hit" x="${L}" y="${Tp}" width="${W-L-R}" height="${H-B-Tp}" fill="transparent"/>`;
+  box.innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Monthly reviews per store">${g}</svg>`;
+  const svg=$("svg",box),hx=$(".hx",svg);
+  $(".hit",svg).addEventListener("pointermove",e=>{const r=svg.getBoundingClientRect(),px=(e.clientX-r.left)/r.width*W;const i=Math.max(0,Math.min(n-1,Math.round((px-L)/(W-L-R)*(n-1))));
+    hx.setAttribute("x1",sx(i));hx.setAttribute("x2",sx(i));hx.setAttribute("visibility","visible");
+    ro.innerHTML=`<b>${ymfmt(M[i])}</b>: `+S.map((s,k)=>on[k]?`${esc(s.name.split(" · ")[0])} <b>${s.pts[i][1]==null?"—":fmt(s.pts[i][1])}</b>${s.pts[i][2]&&s.pts[i][1]!=null?" (est.)":""}`:"").filter(Boolean).join(" · ")});
+  $(".hit",svg).addEventListener("pointerleave",()=>hx.setAttribute("visibility","hidden"));
+  $$("input",el).forEach(i=>i.onchange=()=>drawReviews(el,c));
+}
+function adsGallery(c){const A=c.creatives||[];if(!A.length)return"";
+  return `<div data-chart="creatives"><div class="ads">${A.map(a=>`<figure class="ad" style="margin:0"><div class="im"><img src="${a.img}" alt="Ad image from ${esc(a.domain)}" loading="lazy"><span class="days">${a.days} days${a.video?" · video":""}</span></div>
+    <figcaption class="bd"><b>${esc(a.head||a.page)}</b><span>${esc(a.body)}${a.body&&a.body.length>=180?"…":""}</span><span>${esc(a.page)} → ${esc(a.domain)}</span><a href="${a.lib}" target="_blank" rel="noopener">Open in Ad Library</a></figcaption></figure>`).join("")}</div>
+    <p class="cap">The longest-running ads of the leading shops that land on the shop's own site, one per distinct creative ${T1} (running time from the Ad Library start date). Images are first frames for videos.</p></div>`}
+
+/* ---------- category page ---------- */
+const PLACE={trend:["trend"],shelf:["shelf","leaders"],ads:["ads"],reviews:["reviews"],creatives:["creatives"]};
+const FIG={trend:trendFig,shelf:shelfFig,leaders:leadersFig,ads:adsFig,reviews:reviewsFig,creatives:adsGallery};
+const FIGT={trend:"Search demand",shelf:"Who sells it",leaders:"Leaders",ads:"Ads",reviews:"Are the winners growing",creatives:"Ads that last"};
+function category(c){
+  const placed=new Set();
+  let secs=c.sections.map((s,i)=>{let figs="";(PLACE[s.kind]||[]).forEach(k=>{const h=FIG[k](c);if(h){placed.add(k);figs+=h}});
+    if(s.kind==="reviews"&&!c.reviews)figs="";
+    return {id:"s"+i,h:s.h,kind:s.kind,html:`<div class="prose">${s.html}</div>${figs?`<div class="fig">${figs}</div>`:""}`}});
+  const rest=Object.keys(FIG).filter(k=>!placed.has(k)&&FIG[k](c));
+  if(rest.length){const at=secs.findIndex(s=>s.kind==="sources");const blocks=rest.map(k=>({id:"x"+k,h:FIGT[k],kind:k,html:`<div class="fig">${FIG[k](c)}</div>`+(k==="reviews"&&c.reviewsNote?"":"")}));
+    secs.splice(at<0?secs.length:at,0,...blocks)}
+  const i=C.indexOf(c),prev=C[i-1],next=C[i+1],rg=revG(c),a=a90(c);
+  $("#app").innerHTML=`
+  <div class="crumb"><a href="#">Overview</a><span aria-hidden="true">/</span><a href="#all">All 20</a><span aria-hidden="true">/</span><span>${esc(c.short)}</span></div>
+  <section class="cathead"><div><div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">${pill(c.status)}<span class="eyebrow">#${c.rank} of 20</span>${c.compliance?`<span class="pill s-dropped">${esc(c.compliance)}</span>`:""}</div>
+    <h1>${esc(c.title)}</h1><p class="verdict">${esc(c.verdict)}</p></div>
+    ${c.photo?`<div class="photo"><img src="${c.photo}" alt="${esc(c.title)}, product photo from a leading store"></div>`:"<div></div>"}</section>
+  <div class="kpis">
+    <div class="kpi"><span>Bought last month</span><b>${kfmt(c.shelf)}</b><span>Amazon, pages 1-5 ${T1}</span></div>
+    <div class="kpi"><span>To new brands</span><b>${kfmt(c.nb)}</b><span>${Math.round(share(c)*100)}% of the shelf ${T2}</span></div>
+    <div class="kpi"><span>Search vs last year</span><b>${xf(c.trend.mean)}</b><em style="color:${c.trend.label==="growing"?"var(--good)":c.trend.label==="falling"?"var(--bad)":"var(--muted)"}">${esc(c.trend.label||"")}</em></div>
+    <div class="kpi"><span>Ads alive 90+ days</span><b>${a==null?"—":Math.round(a*100)+"%"}</b><span>${c.meta?fmt(c.meta.aged90)+" of "+fmt(c.meta.active)+" active":"not measured"}</span></div>
+    <div class="kpi"><span>Median price</span><b>${c.price!=null?"$"+(+c.price).toFixed(2):"—"}</b><span>${c.p25p75?`half between $${c.p25p75[0]}-${c.p25p75[1]}`:""}</span></div>
+    <div class="kpi"><span>Leader store reviews</span><b>${rg!=null?xf(rg):"—"}</b><span>${rg!=null?"Aug-Oct, year on year "+T2:"no readable store feed"}</span></div>
+  </div>
+  <nav class="toc" aria-label="Sections">${secs.filter(s=>s.kind!=="text"||1).map(s=>`<button class="chip" data-go="${s.id}">${esc(s.h)}</button>`).join("")}</nav>
+  <div class="lead prose">${c.lead}</div>
+  <div class="body">${secs.map(s=>`<section class="sec" id="${s.id}"><h2>${esc(s.h)}</h2>${s.html}</section>`).join("")}</div>
+  <nav class="pager" aria-label="Other categories">${prev?`<a href="#c-${prev.slug}"><small>← #${prev.rank}</small>${esc(prev.short)}</a>`:"<span></span>"}${next?`<a class="next" href="#c-${next.slug}"><small>#${next.rank} →</small>${esc(next.short)}</a>`:"<span></span>"}</nav>
+  ${foot()}`;
+  $$("[data-go]").forEach(b=>b.onclick=()=>document.getElementById(b.dataset.go).scrollIntoView({behavior:"smooth"}));
+  const tr=$('[data-chart="trend"]');if(tr)drawTrend(tr,c);
+  const rv=$('[data-chart="reviews"]');if(rv)drawReviews(rv,c);
+  window.scrollTo(0,0);
+}
+function methods(){const m=DATA.methods;
+  $("#app").innerHTML=`<section class="hero"><span class="eyebrow">Method v2.1</span><h1>How we measured</h1><div class="lede">${m.lead}</div>
+   <div class="tiers" style="margin-top:6px">${T1} counted by a platform · ${T2} an estimate or our reading · ${T3} disputed</div></section>
+   <div class="body">${m.secs.map(s=>`<section class="sec"><h2>${esc(s.h)}</h2><div class="prose">${s.html}</div></section>`).join("")}</div>${foot()}`;window.scrollTo(0,0)}
+
+function route(){const h=location.hash.slice(1);let nav="overview";
+  if(h.startsWith("c-")&&BY[h.slice(2)]){category(BY[h.slice(2)]);nav=""}
+  else if(h==="method"){methods();nav="method"}
+  else if(h==="all"){overview(true);nav="all"}
+  else overview(false);
+  $$(".nav a").forEach(a=>a.dataset.nav===nav?a.setAttribute("aria-current","page"):a.removeAttribute("aria-current"));
+  const c=h.startsWith("c-")&&BY[h.slice(2)];document.title=c?c.short+" · Shelf Survey":"Shelf Survey US 2026";
+}
+addEventListener("hashchange",route);route();
+</script>

@@ -1,0 +1,12 @@
+dog_fountain|theflowzy.com|/fountain/|90
+dog_fountain|winkflo.com|/fountain/|90
+pore_patch|vueswiss.com|/patch|pore/|90
+whitening_powder|trywhyteproducts.com|/powder|whiten/|90
+whitening_powder|boka.com|/powder|toothpaste/|60
+magnesium_spray|sringe.com|/magnesium|spray/|90
+magnesium_spray|ozcogoods.com|/magnesium/|
+exfoliating_towel|goshi.com|/towel|cloth/|90
+rosemary_oil|hairqare.co|/rosemary|oil/|
+turmeric_soap|earthlyderm.com|turmeric-glow-soap|
+turmeric_soap|glomelanin.com|/turmeric|soap/|
+chin_wrap|osanyinherbs.com|/chin|wrap/|

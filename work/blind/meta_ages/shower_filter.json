@@ -1,0 +1,275 @@
+{
+ "phrase": "shower filter",
+ "date": "2026-11-07",
+ "active": 1200,
+ "aged90": 240,
+ "aged180": 24,
+ "ads": [
+  {
+   "id": "1386959245682333",
+   "page": "bishwithbangs with Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1800029447393888",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1865284991008516",
+   "page": "Sproos",
+   "start": "2025-10-08",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "939186625470240",
+   "page": "Weddell Water",
+   "start": "2026-03-08",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1232159075007683",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "756935530329341",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "680734374786172",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1264039205153715",
+   "page": "Sproos",
+   "start": "2025-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1367781184981355",
+   "page": "Tubo",
+   "start": "2025-11-28",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1394021915730552",
+   "page": "Tubo",
+   "start": "2025-11-29",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1934853997160456",
+   "page": "My Filterbaby",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1298930351991778",
+   "page": "My Filterbaby",
+   "start": "2026-06-22",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1007955888830145",
+   "page": "My Filterbaby",
+   "start": "2026-06-19",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "923172634111190",
+   "page": "Gary Brecka",
+   "start": "2026-05-28",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "923015813464276",
+   "page": "AquaTru Water",
+   "start": "2026-08-03",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1737858990567206",
+   "page": "AquaTru Water",
+   "start": "2026-08-05",
+   "n": 1,
+   "domain": "aquatru.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2069078320676768",
+   "page": "Santevia Water Systems",
+   "start": "2026-06-08",
+   "n": 1,
+   "domain": "santevia.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1695374304795982",
+   "page": "Santevia Water Systems",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "santevia.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1026471526920680",
+   "page": "James Harrington MD",
+   "start": "2026-07-20",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "990698390423323",
+   "page": "Pure Water Freedom",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "purewaterfreedom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2013315625975094",
+   "page": "Santevia Water Systems",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "santevia.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3561239160690026",
+   "page": "Santevia Water Systems",
+   "start": "2026-06-12",
+   "n": 1,
+   "domain": "santevia.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3165312923857131",
+   "page": "Santevia Water Systems",
+   "start": "2026-05-13",
+   "n": 1,
+   "domain": "santevia.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2103655843866709",
+   "page": "The Glow",
+   "start": "2026-06-25",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1949378175731821",
+   "page": "My Filterbaby",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "filterbaby.com",
+   "window": "30-90"
+  },
+  {
+   "id": "913889521334012",
+   "page": "My Filterbaby",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "filterbaby.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1368659492136225",
+   "page": "Aquasana",
+   "start": "2026-08-24",
+   "n": 1,
+   "domain": "aquasana.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1431643769099150",
+   "page": "Aquasana",
+   "start": "2026-08-24",
+   "n": 1,
+   "domain": "aquasana.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1105492788670969",
+   "page": "Vita Prima",
+   "start": "2026-09-14",
+   "n": 1,
+   "domain": "vitaprima.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1759736071969433",
+   "page": "My Filterbaby",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "filterbaby.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2571703853275980",
+   "page": "Aquasana",
+   "start": "2026-08-24",
+   "n": 1,
+   "domain": "aquasana.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1911450440017523",
+   "page": "annalinie with My Filterbaby",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "filterbaby.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1642104843963954",
+   "page": "Miami Herald",
+   "start": "2026-10-21",
+   "n": 1,
+   "domain": "trendhunter.com",
+   "window": "0-30"
+  }
+ ],
+ "aged30": 650,
+ "aged30_date": "2026-11-08"
+}

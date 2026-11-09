@@ -1,0 +1,410 @@
+{
+ "phrase": "water fountain",
+ "date": "2026-11-08",
+ "active": 2800,
+ "aged30": 750,
+ "aged90": 190,
+ "aged180": 22,
+ "ads": [
+  {
+   "id": "1497660794082692",
+   "page": "Pro Pond and Lakes",
+   "start": "2022-10-05",
+   "n": 1,
+   "domain": "propondandlakes.com",
+   "window": "180+"
+  },
+  {
+   "id": "1435808345009037",
+   "page": "Flowzy",
+   "start": "2026-04-20",
+   "n": 1,
+   "domain": "theflowzy.com",
+   "window": "180+"
+  },
+  {
+   "id": "3487128704774113",
+   "page": "We Love Pets",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "winkflo.com",
+   "window": "180+"
+  },
+  {
+   "id": "1513784092997338",
+   "page": "Trending News A",
+   "start": "2025-11-24",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "949584760809397",
+   "page": "2 Trending News C",
+   "start": "2026-04-06",
+   "n": 1,
+   "domain": "lilesy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1462740222251062",
+   "page": "Flowzy",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "theflowzy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1230094929269348",
+   "page": "6 0 Trending News C Rain",
+   "start": "2026-02-27",
+   "n": 1,
+   "domain": "formulaaffiliate.com",
+   "window": "180+"
+  },
+  {
+   "id": "1927431347843985",
+   "page": "Boxiecat",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "www.amazon.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1567660928061868",
+   "page": "SelenePets",
+   "start": "2026-06-29",
+   "n": 1,
+   "domain": "selenepets.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1055270477073385",
+   "page": "Boxiecat",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "boxiecat.com",
+   "window": "90-180"
+  },
+  {
+   "id": "27750260754605859",
+   "page": "Jared Brubaker",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "selenepets.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1627044318379606",
+   "page": "Mike Bartens",
+   "start": "2026-06-29",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1536004051305483",
+   "page": "Dr. Sarah Mitchell",
+   "start": "2026-07-17",
+   "n": 1,
+   "domain": "selenepets.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1031150352980915",
+   "page": "Boxiecat",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "boxiecat.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2067942207178599",
+   "page": "Richard from Selene",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1764985491198393",
+   "page": "Debra Peters",
+   "start": "2026-06-25",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1054435407146071",
+   "page": "Marianne Whitman",
+   "start": "2026-06-29",
+   "n": 1,
+   "domain": "selenepets.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1515536880322662",
+   "page": "SelenePets",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2126874761211874",
+   "page": "Boxiecat",
+   "start": "2026-07-20",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4482980005316272",
+   "page": "Jared Brubaker",
+   "start": "2026-07-11",
+   "n": 1,
+   "domain": "selenepets.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1336247155335963",
+   "page": "Olivia Cordeiro",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "happywags.co",
+   "window": "90-180"
+  },
+  {
+   "id": "27171466402507957",
+   "page": "Petkitofficial",
+   "start": "2026-06-23",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3271489003035133",
+   "page": "Richard from Selene",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2130914244119251",
+   "page": "Scooter The Neutered Cat",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1720860569157057",
+   "page": "Susan Lynn",
+   "start": "2026-07-12",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "913562611610981",
+   "page": "Try Pure",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2048750816028248",
+   "page": "9251.minnie with Petkit US",
+   "start": "2026-07-13",
+   "n": 1,
+   "domain": "www.petkit.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1382251197192650",
+   "page": "Richard from Selene",
+   "start": "2026-07-27",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1692523248744023",
+   "page": "Try Pure",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4492438351033715",
+   "page": "SelenePets",
+   "start": "2026-06-29",
+   "n": 1,
+   "domain": "selenepets.com",
+   "window": "90-180"
+  },
+  {
+   "id": "887716170538783",
+   "page": "Actively BLACK with Lanny Smith",
+   "start": "2026-05-13",
+   "n": 1,
+   "domain": "activelyblack.com",
+   "window": "90-180"
+  },
+  {
+   "id": "972552719012531",
+   "page": "Pets Bring Joy Rescue",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3558554404311871",
+   "page": "Richard from Selene",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1390067819688858",
+   "page": "Dr. Sarah Mitchell",
+   "start": "2026-07-17",
+   "n": 1,
+   "domain": "selenepets.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2001603503807966",
+   "page": "Olivia Cordeiro",
+   "start": "2026-07-26",
+   "n": 1,
+   "domain": "happywags.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1560663042460146",
+   "page": "Olivia Cordeiro",
+   "start": "2026-07-23",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4422007234725373",
+   "page": "KittySpout",
+   "start": "2026-09-25",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1489713549950456",
+   "page": "Linda Hartley",
+   "start": "2026-09-02",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1618958829751183",
+   "page": "KittySpout",
+   "start": "2026-09-05",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "3399345203570485",
+   "page": "Japanese Cat Secrets",
+   "start": "2026-09-17",
+   "n": 1,
+   "domain": "happywags.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1413561277570876",
+   "page": "Mike Bartens",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "selenepets.com",
+   "window": "30-90"
+  },
+  {
+   "id": "27467135896295571",
+   "page": "Boxiecat",
+   "start": "2026-09-24",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2346159752457215",
+   "page": "Emily Harper",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28380730701590903",
+   "page": "Linda Hartley",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1576123027645944",
+   "page": "KittySpout",
+   "start": "2026-09-05",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2139354893658844",
+   "page": "WowPet - Eco Friendly Pet Supplies",
+   "start": "",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1110206578127313",
+   "page": "SelenePets",
+   "start": "2026-09-30",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1080025064911842",
+   "page": "Linda Hartley",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1161983436388090",
+   "page": "Julie Anderson",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "4506878529641009",
+   "page": "Anisainside with Valspar",
+   "start": "2026-11-02",
+   "n": 1,
+   "domain": "www.valspar.com",
+   "window": "0-30"
+  }
+ ]
+}

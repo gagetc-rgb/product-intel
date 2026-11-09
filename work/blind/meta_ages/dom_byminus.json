@@ -1,0 +1,426 @@
+{
+ "phrase": "byminus.com",
+ "date": "2026-11-09",
+ "active": 160,
+ "aged30": 120,
+ "aged90": 42,
+ "aged180": 17,
+ "ads": [
+  {
+   "id": "2459035927862292",
+   "page": "Minus SkinCare",
+   "start": "2026-01-01",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "4249339931989938",
+   "page": "Minus SkinCare",
+   "start": "2026-01-01",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "25451056014502967",
+   "page": "Minus SkinCare",
+   "start": "2026-01-01",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "2606103896440576",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "846025754976682",
+   "page": "Minus SkinCare",
+   "start": "2026-01-03",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "2046894346132970",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "1216899457063717",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2241064806382254",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1212019804236913",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "847662424832533",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "1328570089025755",
+   "page": "Minus SkinCare",
+   "start": "2026-01-06",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1921720362028970",
+   "page": "Minus SkinCare",
+   "start": "2026-01-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2292435441254005",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1186905763647039",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1543555310096824",
+   "page": "Minus SkinCare",
+   "start": "2026-01-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "744896131471427",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "848980787930525",
+   "page": "Minus SkinCare",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "1438367581450854",
+   "page": "Minus SkinCare",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1345147197796698",
+   "page": "Minus SkinCare",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1002308406134696",
+   "page": "Minus SkinCare",
+   "start": "2026-07-23",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1048590837670728",
+   "page": "Minus SkinCare",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "895924856742232",
+   "page": "Minus SkinCare",
+   "start": "2026-07-23",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1676770881115907",
+   "page": "Minus SkinCare",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1354067676296839",
+   "page": "Minus SkinCare",
+   "start": "2026-08-03",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1373153114194869",
+   "page": "Minus SkinCare",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1702105361072566",
+   "page": "Minus SkinCare",
+   "start": "2026-08-02",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1666581291076641",
+   "page": "Minus SkinCare",
+   "start": "2026-08-02",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2239978763453175",
+   "page": "Minus SkinCare",
+   "start": "2026-07-23",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1081561151063789",
+   "page": "Minus SkinCare",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1739780453812489",
+   "page": "Minus SkinCare",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1726455408397363",
+   "page": "Minus SkinCare",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2308929669871575",
+   "page": "Minus SkinCare",
+   "start": "2026-08-05",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1618921752991909",
+   "page": "Minus SkinCare",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1054492680709351",
+   "page": "Minus SkinCare",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2216856562218673",
+   "page": "Minus SkinCare",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1395568605832583",
+   "page": "Minus SkinCare",
+   "start": "2026-08-11",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1235242962061402",
+   "page": "Minus SkinCare",
+   "start": "2026-08-11",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4131447433815248",
+   "page": "Minus SkinCare",
+   "start": "2026-09-15",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1742772260379794",
+   "page": "Minus SkinCare",
+   "start": "2026-08-11",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "970708162725028",
+   "page": "Minus SkinCare",
+   "start": "2026-09-15",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4077245682406020",
+   "page": "Minus SkinCare",
+   "start": "2026-08-15",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1748429029690288",
+   "page": "Minus SkinCare",
+   "start": "2026-08-11",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "945329298162723",
+   "page": "Minus SkinCare",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1682109720300915",
+   "page": "Livingandlexi with Minus SkinCare",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "3135221806817034",
+   "page": "Livingandlexi with Minus SkinCare",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1831316448207475",
+   "page": "trialandtawsha with Minus SkinCare",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1460485332629834",
+   "page": "Livingandlexi with Minus SkinCare",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2107067049949328",
+   "page": "Livingandlexi with Minus SkinCare",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1450465090486483",
+   "page": "Livingandlexi with Minus SkinCare",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1104031079153986",
+   "page": "Livingandlexi with Minus SkinCare",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2061217127915810",
+   "page": "Livingandlexi with Minus SkinCare",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1007357825731156",
+   "page": "trialandtawsha with Minus SkinCare",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "0-30"
+  }
+ ]
+}

@@ -1,0 +1,410 @@
+{
+ "phrase": "luxe.com",
+ "date": "2026-11-09",
+ "active": 270,
+ "aged30": 150,
+ "aged90": 130,
+ "aged180": 100,
+ "ads": [
+  {
+   "id": "794285140162836",
+   "page": "GroundLuxe",
+   "start": "2025-10-20",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1964110907767323",
+   "page": "GroundLuxe",
+   "start": "2025-10-15",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1110184081318620",
+   "page": "GroundLuxe",
+   "start": "2025-10-13",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1423157409164245",
+   "page": "Reed Wommack",
+   "start": "2026-01-29",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "844090058137200",
+   "page": "GroundLuxe",
+   "start": "2025-10-20",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "2314265229015333",
+   "page": "GroundLuxe",
+   "start": "2025-10-31",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1256681219545681",
+   "page": "GroundLuxe",
+   "start": "2025-10-14",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1256259786428286",
+   "page": "GroundLuxe",
+   "start": "2026-01-30",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1571103830866181",
+   "page": "GroundLuxe",
+   "start": "2026-01-30",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "2044795679612569",
+   "page": "GroundLuxe",
+   "start": "2025-10-20",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1627899015190844",
+   "page": "GroundLuxe",
+   "start": "2025-10-20",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "814683047643208",
+   "page": "GroundLuxe",
+   "start": "2025-10-13",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "799968406199442",
+   "page": "GroundLuxe",
+   "start": "2025-10-20",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "2349718008794713",
+   "page": "GroundLuxe",
+   "start": "2025-10-15",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "2068576283878532",
+   "page": "GroundLuxe",
+   "start": "2025-12-31",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1952584869002750",
+   "page": "GroundLuxe",
+   "start": "2026-01-30",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "789865567283273",
+   "page": "GroundLuxe",
+   "start": "2025-12-04",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1198460161838416",
+   "page": "GroundLuxe",
+   "start": "2026-01-07",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "745528185286487",
+   "page": "GroundLuxe",
+   "start": "2026-01-31",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "2815064218825579",
+   "page": "GroundLuxe",
+   "start": "2026-01-16",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1340158717990758",
+   "page": "GroundLuxe",
+   "start": "2026-03-28",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1337835847743591",
+   "page": "GroundLuxe",
+   "start": "2025-10-31",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1604041887245461",
+   "page": "GroundLuxe",
+   "start": "2025-10-20",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1768164247235375",
+   "page": "GroundLuxe",
+   "start": "2025-11-03",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1128860409102812",
+   "page": "GroundLuxe",
+   "start": "2025-08-11",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1488558185968396",
+   "page": "GroundLuxe",
+   "start": "2026-03-18",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "725068843991314",
+   "page": "GroundLuxe",
+   "start": "2026-01-09",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "25750271414625441",
+   "page": "GroundLuxe",
+   "start": "2026-01-29",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1294167942755806",
+   "page": "GroundLuxe",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "180+"
+  },
+  {
+   "id": "851639648018849",
+   "page": "Cover Luxe Better Baseboard Covers",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "cover-luxe.com",
+   "window": "90-180"
+  },
+  {
+   "id": "27213133938385851",
+   "page": "Cover Luxe Better Baseboard Covers",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "cover-luxe.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1027652813038807",
+   "page": "Reed Wommack",
+   "start": "2026-05-24",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1309679604588520",
+   "page": "Reed Wommack",
+   "start": "2026-06-12",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1020363477595924",
+   "page": "Reed Wommack",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "groundluxe.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4668575246754502",
+   "page": "Cover Luxe Better Baseboard Covers",
+   "start": "2026-09-17",
+   "n": 1,
+   "domain": "cover-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1372520951682472",
+   "page": "Cover Luxe Better Baseboard Covers",
+   "start": "2026-08-13",
+   "n": 1,
+   "domain": "cover-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1407658730704771",
+   "page": "Resource Discovery Daily",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "saveluxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1787228175760251",
+   "page": "Cover Luxe Better Baseboard Covers",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "cover-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1587982119619520",
+   "page": "Azure Luxe Vacation Rentals",
+   "start": "2026-09-01",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2482981965511466",
+   "page": "Azure Luxe Vacation Rentals",
+   "start": "2026-09-03",
+   "n": 1,
+   "domain": "azure-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1080137211361217",
+   "page": "Cover Luxe Better Baseboard Covers",
+   "start": "2026-08-13",
+   "n": 1,
+   "domain": "cover-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "964848886634565",
+   "page": "Azure Luxe Vacation Rentals",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "azure-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1413600130856663",
+   "page": "Azure Luxe Vacation Rentals",
+   "start": "2026-08-14",
+   "n": 1,
+   "domain": "azure-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4510828185817666",
+   "page": "Azure Luxe Vacation Rentals",
+   "start": "2026-08-14",
+   "n": 1,
+   "domain": "azure-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1072951685424769",
+   "page": "Azure Luxe Vacation Rentals",
+   "start": "2026-08-14",
+   "n": 1,
+   "domain": "azure-luxe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1430788535237519",
+   "page": "Knowledge Insight World",
+   "start": "2026-10-29",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1577987090216248",
+   "page": "Road2luxe - Voyages en motos de Grand Tourisme",
+   "start": "2026-10-13",
+   "n": 1,
+   "domain": "docs.google.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1471760808191464",
+   "page": "",
+   "start": "2026-10-12",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1378880815312460",
+   "page": "Rb Luxe events",
+   "start": "2026-10-19",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2131969724076710",
+   "page": "Knowledge Insight World",
+   "start": "2026-11-02",
+   "n": 1,
+   "domain": "saveluxe.com",
+   "window": "0-30"
+  }
+ ]
+}

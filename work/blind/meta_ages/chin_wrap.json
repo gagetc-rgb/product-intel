@@ -1,0 +1,514 @@
+{
+ "phrase": "double chin",
+ "date": "2026-11-08",
+ "active": 7600,
+ "aged30": 2000,
+ "aged90": 570,
+ "aged180": 140,
+ "ads": [
+  {
+   "id": "809155088957075",
+   "page": "Soluna SKIN",
+   "start": "2025-11-10",
+   "n": 1,
+   "domain": "weareluna.store",
+   "window": "180+"
+  },
+  {
+   "id": "2115012119283537",
+   "page": "Online Data Center",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "clueblog.com",
+   "window": "180+"
+  },
+  {
+   "id": "947522368043239",
+   "page": "Online Data Center",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "clueblog.com",
+   "window": "180+"
+  },
+  {
+   "id": "1844307833178719",
+   "page": "Ageless by Isabelle Wilcox",
+   "start": "2025-08-14",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "180+"
+  },
+  {
+   "id": "1375251274624352",
+   "page": "Marée",
+   "start": "2026-04-08",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "457034287484964",
+   "page": "Studio-MD",
+   "start": "2024-09-20",
+   "n": 1,
+   "domain": "thestudiomd.com",
+   "window": "180+"
+  },
+  {
+   "id": "1370359694465547",
+   "page": "Monarch MD Medical Aesthetics and Wellness Clinic",
+   "start": "2025-11-06",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1601941020947049",
+   "page": "Full Harmony with dradalinaventura",
+   "start": "2026-03-04",
+   "n": 1,
+   "domain": "api.whatsapp.com",
+   "window": "180+"
+  },
+  {
+   "id": "1610434409966947",
+   "page": "Skult",
+   "start": "2026-02-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1235294714208200",
+   "page": "Osanyin Herbal Wellness",
+   "start": "2025-01-09",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "900883602883113",
+   "page": "Helios Aesthetic Center",
+   "start": "2026-01-26",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "180+"
+  },
+  {
+   "id": "1095195725796609",
+   "page": "AirSculpt",
+   "start": "2025-07-02",
+   "n": 11,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1324083199651741",
+   "page": "Konstantin Vasyukevich, MD - Facelift Surgeon",
+   "start": "2026-04-01",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "180+"
+  },
+  {
+   "id": "867502189549061",
+   "page": "Mariah - Beauty Services",
+   "start": "2025-12-31",
+   "n": 1,
+   "domain": "mariahbeautyservice.com",
+   "window": "180+"
+  },
+  {
+   "id": "1402578127746429",
+   "page": "Dream Body Spa",
+   "start": "2026-02-17",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1258003272531303",
+   "page": "trueformmedspa",
+   "start": "2025-07-01",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "180+"
+  },
+  {
+   "id": "805088342668858",
+   "page": "Royal Medical Spa",
+   "start": "2026-03-31",
+   "n": 1,
+   "domain": "royalmedspaillinois.com",
+   "window": "180+"
+  },
+  {
+   "id": "25243601778627823",
+   "page": "Soluna SKIN",
+   "start": "2025-11-10",
+   "n": 1,
+   "domain": "weareluna.store",
+   "window": "180+"
+  },
+  {
+   "id": "775949551585139",
+   "page": "Rejuveantiaging",
+   "start": "2025-08-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1652205295815762",
+   "page": "iCRYO Shadow Creek, TX",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "icryoshadowcreek.spaoffers.co",
+   "window": "180+"
+  },
+  {
+   "id": "1546370530001689",
+   "page": "Tryskult",
+   "start": "2026-01-10",
+   "n": 1,
+   "domain": "tryskult.com",
+   "window": "180+"
+  },
+  {
+   "id": "1490376376155730",
+   "page": "Anew Aesthetics & Dermatology by Physician Assistants, Inc.",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "180+"
+  },
+  {
+   "id": "959994899736036",
+   "page": "iCRYO - South Park, NC",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "icryosouthpark.spaoffers.co",
+   "window": "180+"
+  },
+  {
+   "id": "891667526783545",
+   "page": "Saba Med Spa",
+   "start": "2026-01-29",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "750833981402144",
+   "page": "Skult",
+   "start": "2025-12-15",
+   "n": 1,
+   "domain": "tryskult.com",
+   "window": "180+"
+  },
+  {
+   "id": "1201940861837809",
+   "page": "Marée",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "amazon.com",
+   "window": "180+"
+  },
+  {
+   "id": "3801010843523389",
+   "page": "Natures Vitality",
+   "start": "2025-05-27",
+   "n": 1,
+   "domain": "osanyinherbs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1298990588656408",
+   "page": "hannahann_sluss",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1042148238511600",
+   "page": "Idris Ali",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "mellowsleep.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1334197404875946",
+   "page": "Ever Cushion Store",
+   "start": "2026-07-03",
+   "n": 1,
+   "domain": "evercushion.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4592568737690661",
+   "page": "CALLIXE",
+   "start": "2026-08-03",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1408900981273221",
+   "page": "Kojeva",
+   "start": "2026-05-28",
+   "n": 1,
+   "domain": "kojeva.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1398311442199617",
+   "page": "Idris Ali",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "mellowsleep.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4357548667792451",
+   "page": "PRIA Clinic",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2108074543255838",
+   "page": "",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1532126995281967",
+   "page": "Selenaclinic Beauty Skin Anti-aging Clinic in Korea",
+   "start": "2026-06-08",
+   "n": 1,
+   "domain": "google.com",
+   "window": "90-180"
+  },
+  {
+   "id": "913755531721489",
+   "page": "Skult",
+   "start": "2026-05-22",
+   "n": 1,
+   "domain": "tryskult.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2784549055215142",
+   "page": "K Glow",
+   "start": "2026-05-23",
+   "n": 1,
+   "domain": "buykglow.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2549613925498814",
+   "page": "Skult",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "tryskult.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1059354803198037",
+   "page": "Dermalaser MD MedSpa",
+   "start": "2026-08-02",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2006968049993530",
+   "page": "AnnaV with CALLIXE",
+   "start": "2026-07-11",
+   "n": 1,
+   "domain": "callixe.com",
+   "window": "90-180"
+  },
+  {
+   "id": "918531187940775",
+   "page": "Cryoskin at Skinny Boutique",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "promotion.skinnyboutique.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1347648030631311",
+   "page": "PRIA Clinic",
+   "start": "2026-06-09",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1108598304856027",
+   "page": "Idris Ali",
+   "start": "2026-08-17",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2157107495228083",
+   "page": "Wellness Tipss",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1216456421334349",
+   "page": "IM8 Health",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "938128035611101",
+   "page": "IM8 Health",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1087122047297575",
+   "page": "Mirrored Aesthetics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "mirrored-aesthetics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1436331085353341",
+   "page": "IM8 Health",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1301917978502664",
+   "page": "Idris Ali",
+   "start": "2026-08-17",
+   "n": 1,
+   "domain": "mellowsleep.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1518886080014327",
+   "page": "flywithria with Ortaclinic.en",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "www.ortaclinic.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2245377396318428",
+   "page": "Ever Cushion Store",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "evercushion.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1287129130033060",
+   "page": "Beso Aesthetics",
+   "start": "2026-08-17",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1634154028112274",
+   "page": "bodenvy",
+   "start": "2026-09-18",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1588465862207553",
+   "page": "IM8 Health",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1510997247800114",
+   "page": "Ever Cushion Store",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "evercushion.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1996136471057977",
+   "page": "Everyday Vitality",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "lymphoria.co",
+   "window": "0-30"
+  },
+  {
+   "id": "1815024099515571",
+   "page": "EZ Buys with Restora",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "www.restoradaily.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2273039116880616",
+   "page": "SonoHealth",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2190454175013404",
+   "page": "Dr. Ralph Napolitano",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "mellowsleep.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1499971505307357",
+   "page": "Everyday Vitality",
+   "start": "2026-10-27",
+   "n": 1,
+   "domain": "lymphoria.co",
+   "window": "0-30"
+  },
+  {
+   "id": "1946673039640674",
+   "page": "EZ Buys with Cushion Lab",
+   "start": "2026-10-18",
+   "n": 1,
+   "domain": "thecushionlab.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2317389969058227",
+   "page": "SakerGoods with Sakerplus",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "m.sakerplus.com",
+   "window": "0-30"
+  }
+ ]
+}

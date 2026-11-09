@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B0G1VDB22X",
+  "brand": "luxe",
+  "units": 80000,
+  "price_scan": "$27.00",
+  "asin_age_m": 10
+ },
+ {
+  "asin": "B0G1VBDXYF",
+  "brand": "luxe",
+  "units": 70000,
+  "price_scan": "$27.99",
+  "asin_age_m": 10
+ },
+ {
+  "asin": "B0GN8JW57H",
+  "brand": "smooche",
+  "units": 40000,
+  "price_scan": "$49.00",
+  "asin_age_m": 9
+ },
+ {
+  "asin": "B0G1T61T7X",
+  "brand": "prime",
+  "units": 20000,
+  "price_scan": "$44.00",
+  "asin_age_m": 10
+ },
+ {
+  "asin": "B0GZP4FL6N",
+  "brand": "(no brand)",
+  "units": 10000,
+  "price_scan": "$39.99",
+  "asin_age_m": 7
+ },
+ {
+  "asin": "B0H6S4DVKC",
+  "brand": "(no brand)",
+  "units": 10000,
+  "price_scan": "$44.98",
+  "asin_age_m": 4
+ },
+ {
+  "asin": "B0HDHZ35FT",
+  "brand": "(no brand)",
+  "units": 9000,
+  "price_scan": "$28.99",
+  "asin_age_m": 2
+ },
+ {
+  "asin": "B0G1VT7GMP",
+  "brand": "luminess",
+  "units": 7000,
+  "price_scan": "$26.99",
+  "asin_age_m": 10
+ },
+ {
+  "asin": "B00L2SNFPQ",
+  "brand": "loreal",
+  "units": 6000,
+  "price_scan": "$10.97",
+  "asin_age_m": 91
+ },
+ {
+  "asin": "B0HHFB3DGK",
+  "brand": "(no brand)",
+  "units": 4000,
+  "price_scan": "$39.99",
+  "asin_age_m": 2
+ }
+]

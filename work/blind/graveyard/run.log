@@ -1,0 +1,71 @@
+page 1 48
+page 2 48
+page 3 60
+page 4 48
+page 5 48
+Traceback (most recent call last):
+  File "C:\Users\Kirill\Desktop\product int\work\blind\graveyard_amz.py", line 54, in <module>
+    pg.goto(f"https://www.amazon.com/s?k={urllib.parse.quote_plus(query)}&page={p}", wait_until="domcontentloaded", timeout=60000)
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 9903, in goto
+    self._sync(
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 157, in goto
+    await self._channel.send(
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_FAILED at https://www.amazon.com/s?k=magnesium+oil+spray&page=6
+Call log:
+  - navigating to "https://www.amazon.com/s?k=magnesium+oil+spray&page=6", waiting until "domcontentloaded"
+
+Traceback (most recent call last):
+  File "C:\Users\Kirill\Desktop\product int\work\blind\graveyard_amz.py", line 54, in <module>
+    pg.goto(f"https://www.amazon.com/s?k={urllib.parse.quote_plus(query)}&page={p}", wait_until="domcontentloaded", timeout=60000)
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 9903, in goto
+    self._sync(
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 157, in goto
+    await self._channel.send(
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://www.amazon.com/s?k=exfoliating+towel&page=1
+Call log:
+  - navigating to "https://www.amazon.com/s?k=exfoliating+towel&page=1", waiting until "domcontentloaded"
+
+Traceback (most recent call last):
+  File "C:\Users\Kirill\Desktop\product int\work\blind\graveyard_amz.py", line 54, in <module>
+    pg.goto(f"https://www.amazon.com/s?k={urllib.parse.quote_plus(query)}&page={p}", wait_until="domcontentloaded", timeout=60000)
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\sync_api\_generated.py", line 9903, in goto
+    self._sync(
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py", line 562, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 157, in goto
+    await self._channel.send(
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 76, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kirill\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 632, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_NETWORK_ACCESS_DENIED at https://www.amazon.com/s?k=turmeric+soap+bar&page=1
+Call log:
+  - navigating to "https://www.amazon.com/s?k=turmeric+soap+bar&page=1", waiting until "domcontentloaded"
+

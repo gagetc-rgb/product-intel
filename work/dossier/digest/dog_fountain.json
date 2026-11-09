@@ -1,0 +1,311 @@
+{
+ "pid": "dog_fountain",
+ "name": "Stainless-steel pet water fountain",
+ "verdict_row": {
+  "pid": "dog_fountain",
+  "name": "Stainless-steel pet water fountain",
+  "flag": "",
+  "shelf": 220150,
+  "nb": 7750,
+  "gen": 94350,
+  "winB": 2,
+  "winG": 26,
+  "price": 39.99,
+  "act": 2800,
+  "a30": 750,
+  "a90": 190,
+  "a180": 22,
+  "stores": 23,
+  "stores90": 18,
+  "trend": 1.44,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "phrase 'water fountain' hits pond and garden fountains",
+  "nb_id": 8500
+ },
+ "amazon_us": {
+  "listings_on_target": 228,
+  "shelf_units": 220150,
+  "units_by_brand_age": {
+   "24+": 117050,
+   "12-24": 72600,
+   "0-6": 12150,
+   "6-12": 18350
+  },
+  "units_by_kind": {
+   "older_brand_new_here": 57900,
+   "generic_new": 94350,
+   "generic_old": 18450,
+   "old_brand": 41700,
+   "new_brand": 7750
+  },
+  "top_brands": [
+   {
+    "key": "veken",
+    "units": 56900,
+    "listings": 9,
+    "best": {
+     "asin": "B0FPFZ7XFJ",
+     "title": "Veken Innovation Award Winner Stainless Steel Cat Water Fountain, 108oz, C1",
+     "units": 30000,
+     "price": "$27.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/71QGrRi1o1L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 66,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "petlibro",
+    "units": 13950,
+    "listings": 16,
+    "best": {
+     "asin": "B0G6ZMT8T3",
+     "title": "PETLIBRO Cat Water Fountain Stainless Steel Tray, Wireless Pump Cat Fountain, Ultra Quiet Pet Water Fountain, ",
+     "units": 4000,
+     "price": "$45.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61dQ9PDNzoL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 51,
+    "status": "old"
+   },
+   {
+    "key": "oneisall",
+    "units": 4900,
+    "listings": 5,
+    "best": {
+     "asin": "B0D5B6RLYY",
+     "title": "oneisall 7L/230oz Dog Water Fountain for Multi-pet Household,PWF002",
+     "units": 3000,
+     "price": "$42.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/81xaZz9ijAL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 43,
+    "status": "old"
+   },
+   {
+    "key": "giotohun",
+    "units": 4000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DFMBP2BJ",
+     "title": "GIOTOHUN Cat Water Fountain Filter: 12 Cat Fountain Filter Replacement",
+     "units": 4000,
+     "price": "$16.98",
+     "stars": "4.7",
+     "img": "https://m.media-amazon.com/images/I/71H5zEBUwtL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 26,
+    "status": "old"
+   },
+   {
+    "key": "petkit",
+    "units": 3500,
+    "listings": 4,
+    "best": {
+     "asin": "B0BF5CQMKX",
+     "title": "PETKIT Eversweet Solo SE Cat Water Fountain 65oz/1.85L Wireless Pump",
+     "units": 2000,
+     "price": "$25.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61ogYg1BT6L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 57,
+    "status": "old"
+   },
+   {
+    "key": "petsafe",
+    "units": 2800,
+    "listings": 8,
+    "best": {
+     "asin": "B088RLTP1Q",
+     "title": "PetSafe Seaside Stainless Cat & Dog Fountain, 60 oz, 2 Filters & Pump",
+     "units": 1000,
+     "price": "$41.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61jT1-ZDvfL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "downypaws",
+    "units": 2400,
+    "listings": 2,
+    "best": {
+     "asin": "B0C8TG35BF",
+     "title": "DownyPaws Cat Water Fountain Cordless, Pet Fountain, 84oz/2.5L, Black Pro",
+     "units": 2000,
+     "price": "$29.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/71-O3yuZqWL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 43,
+    "status": "old"
+   },
+   {
+    "key": "wonder",
+    "units": 2000,
+    "listings": 2,
+    "best": {
+     "asin": "B07SBXDMZQ",
+     "title": "Wonder Creature Cat Water Fountain Stainless Steel Lid 81oz/2.4L-3 Filters",
+     "units": 1000,
+     "price": "$19.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61PWmA0lpDL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 81,
+    "status": "old"
+   },
+   {
+    "key": "feelneedy",
+    "units": 1900,
+    "listings": 2,
+    "best": {
+     "asin": "B0HF83JRM8",
+     "title": "FeelNeedy Stainless Steel Cat Water Fountain, 118oz/3.5L Auto Pet Water Fountain, 20dB Ultra Quiet Pump for Ti",
+     "units": 1000,
+     "price": "$31.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/71H5bWcH06L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 45,
+    "status": "old"
+   },
+   {
+    "key": "pektaco",
+    "units": 1900,
+    "listings": 4,
+    "best": {
+     "asin": "B0C5R7CM7Y",
+     "title": "PEKTACO Cat Water Fountain, 3.2L/108oz Stainless Steel Pet Water Fountain",
+     "units": 900,
+     "price": "$29.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/716dtihqeVL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 44,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    10000,
+    "B0FJMF2T4J",
+    "Cat Water Fountain Stainless Steel: 74oz/2.2L Cat Fountain for Drinking",
+    "$19.98",
+    null
+   ],
+   [
+    8000,
+    "B0F5BF98CW",
+    "Cat Water Fountain Stainless Steel: Cat Fountain for Drinking - 88oz/2.6L",
+    "$19.99",
+    null
+   ],
+   [
+    8000,
+    "B0DDPYHHFX",
+    "Cat Water Fountain Stainless Steel: 74oz/2.2L Cat Fountain for Drinking",
+    "$19.99",
+    null
+   ],
+   [
+    7000,
+    "B0FBS5L5BY",
+    "Cat Water Fountain Stainless Steel - 74oz/2.2L Automatic Large Pet Watering Bowl",
+    "$18.99",
+    null
+   ]
+  ],
+  "winners_1k": 59
+ },
+ "price_us": {
+  "price_usd_median": 39.99,
+  "price_usd_p25_p75": [
+   27.29,
+   56.74
+  ]
+ },
+ "meta_category": {
+  "phrase": "water fountain",
+  "active": 2800,
+  "aged30": 750,
+  "aged90": 190,
+  "aged180": 22,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "propondandlakes.com",
+   1,
+   1494,
+   1
+  ],
+  [
+   "page:trending news a",
+   2,
+   348,
+   1
+  ],
+  [
+   "formulaaffiliate.com",
+   1,
+   253,
+   1
+  ],
+  [
+   "lilesy.com",
+   1,
+   215,
+   1
+  ],
+  [
+   "theflowzy.com",
+   2,
+   201,
+   1
+  ],
+  [
+   "winkflo.com",
+   1,
+   200,
+   1
+  ],
+  [
+   "page:pets bring joy rescue",
+   1,
+   179,
+   1
+  ],
+  [
+   "activelyblack.com",
+   1,
+   178,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "pet water fountain",
+  "rel_yoy": 1.44,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "35.1",
+ "creatives": []
+}

@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B0FG8K9QYK",
+  "brand": "goda",
+  "units": 20000,
+  "price_scan": "$31.49",
+  "asin_age_m": 18
+ },
+ {
+  "asin": "B0FB9LWGY5",
+  "brand": "palmer",
+  "units": 10000,
+  "price_scan": "$13.99",
+  "asin_age_m": 19
+ },
+ {
+  "asin": "B004L17FKC",
+  "brand": "osea",
+  "units": 10000,
+  "price_scan": "$52.00",
+  "asin_age_m": 91
+ },
+ {
+  "asin": "B08D43LHYP",
+  "brand": "aveeno",
+  "units": 10000,
+  "price_scan": "$9.58",
+  "asin_age_m": 69
+ },
+ {
+  "asin": "B0CSTCYSF7",
+  "brand": "eoscashmere",
+  "units": 10000,
+  "price_scan": "$12.99",
+  "asin_age_m": 33
+ },
+ {
+  "asin": "B07SWJ5PVH",
+  "brand": "amazon",
+  "units": 10000,
+  "price_scan": "$6.28",
+  "asin_age_m": 73
+ },
+ {
+  "asin": "B000056W74",
+  "brand": "palmer",
+  "units": 10000,
+  "price_scan": "$7.48",
+  "asin_age_m": 91
+ },
+ {
+  "asin": "B0FB9LRL1V",
+  "brand": "palmer",
+  "units": 10000,
+  "price_scan": "$13.97",
+  "asin_age_m": 19
+ },
+ {
+  "asin": "B00008BK7H",
+  "brand": "neutrogena",
+  "units": 9000,
+  "price_scan": "$30.10",
+  "asin_age_m": 91
+ },
+ {
+  "asin": "B001B0ZZFS",
+  "brand": "neutrogena",
+  "units": 9000,
+  "price_scan": "$11.96",
+  "asin_age_m": 91
+ }
+]

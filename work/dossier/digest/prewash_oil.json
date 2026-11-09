@@ -1,0 +1,311 @@
+{
+ "pid": "prewash_oil",
+ "name": "Pre-wash hair oil (squeeze bottle)",
+ "verdict_row": {
+  "pid": "prewash_oil",
+  "name": "Pre-wash hair oil (squeeze bottle)",
+  "flag": "",
+  "shelf": 203900,
+  "nb": 11650,
+  "gen": 400,
+  "winB": 4,
+  "winG": 0,
+  "price": 18.99,
+  "act": 500,
+  "a30": 140,
+  "a90": 71,
+  "a180": 11,
+  "stores": 36,
+  "stores90": 23,
+  "trend": 3.41,
+  "zeros": 0.71,
+  "kill": "",
+  "note": "phrase 'pre wash' hits laundry and car-detailing ads",
+  "nb_id": null
+ },
+ "amazon_us": {
+  "listings_on_target": 101,
+  "shelf_units": 203900,
+  "units_by_brand_age": {
+   "24+": 181850,
+   "12-24": 11750,
+   "6-12": 10150,
+   "0-6": 150
+  },
+  "units_by_kind": {
+   "old_brand": 146850,
+   "new_brand": 11650,
+   "older_brand_new_here": 34000,
+   "generic_new": 400,
+   "generic_old": 11000
+  },
+  "top_brands": [
+   {
+    "key": "mielle",
+    "units": 52350,
+    "listings": 5,
+    "best": {
+     "asin": "B07N7PK9QK",
+     "title": "Mielle Organics Rosemary Mint Hair Oil with Biotin, 2 oz",
+     "units": 50000,
+     "price": "$8.84",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61FtCYIjw5L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 80,
+    "status": "old"
+   },
+   {
+    "key": "moroccanoil",
+    "units": 25000,
+    "listings": 5,
+    "best": {
+     "asin": "B001AO0WCG",
+     "title": "Moroccanoil Treatment Hair Oil",
+     "units": 10000,
+     "price": "$50.00",
+     "stars": "4.8",
+     "img": "https://m.media-amazon.com/images/I/61W1f+F8LuL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "loreal",
+    "units": 24000,
+    "listings": 3,
+    "best": {
+     "asin": "B0BCGZLKKM",
+     "title": "L'Oreal Paris Sulfate Free Bond Repair+ Pre Shampoo Concentrate, Hair Treatment with Bond + Amino Acid Complex",
+     "units": 10000,
+     "price": "$9.97",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/71OgXILnpnL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "ouai",
+    "units": 12000,
+    "listings": 2,
+    "best": {
+     "asin": "B0C2PPB5YZ",
+     "title": "OUAI Hair Oil, Heat Protectant, Hair Frizz Control, Travel Size, 0.45 Fl Oz",
+     "units": 6000,
+     "price": "$18.00",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/41oVrj4u9LL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "ogxextra",
+    "units": 10000,
+    "listings": 1,
+    "best": {
+     "asin": "B01M5KZTAQ",
+     "title": "OGX Extra Strength Damage Remedy + Coconut Miracle Hair Oil, 3.3 fl. oz",
+     "units": 10000,
+     "price": "$7.97",
+     "stars": "4.7",
+     "img": "https://m.media-amazon.com/images/I/71hW4FKvmJL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "ogxrenewing",
+    "units": 10000,
+    "listings": 1,
+    "best": {
+     "asin": "B0048EZNR4",
+     "title": "OGX Renewing + Argan Oil of Morocco Penetrating Hair Oil, 3.3 fl. oz",
+     "units": 10000,
+     "price": "$7.97",
+     "stars": "4.7",
+     "img": "https://m.media-amazon.com/images/I/71Pf3MkSyOL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "olaplex",
+    "units": 10000,
+    "listings": 1,
+    "best": {
+     "asin": "B0GHSXYY3Z",
+     "title": "Olaplex N°.3PLUS Hair Repair Pre-Shampoo Treatment | Repairs Damage",
+     "units": 10000,
+     "price": "$34.00",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/610sljWCCzL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 10,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "carol",
+    "units": 9000,
+    "listings": 1,
+    "best": {
+     "asin": "B07YFD3T2T",
+     "title": "Carol's Daughter Goddess Strength 7 Oil Blend Scalp and Hair Oil for Waves, Coils and Curls, Hair Treatment wi",
+     "units": 9000,
+     "price": "$10.52",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61-Q6OkEKpL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 72,
+    "status": "old"
+   },
+   {
+    "key": "lebanta",
+    "units": 6000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DZDV2FLB",
+     "title": "Lebanta Batana Oil for Hair - Organic Castor Rosemary Scalp Oil 3.38 Fl Oz",
+     "units": 6000,
+     "price": "$22.97",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/71-XzltUcRL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 20,
+    "status": "NEW"
+   },
+   {
+    "key": "k18molecular",
+    "units": 4000,
+    "listings": 1,
+    "best": {
+     "asin": "B0CD84PNDD",
+     "title": "K18 Molecular Repair Hair Oil",
+     "units": 4000,
+     "price": "$27.00",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/512XpnrcZ2L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 41,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    9000,
+    "B09JKRHB15",
+    "African Pride Moisture Miracle Pre-Shampoo Hair Detangler, 18 Oz",
+    "$8.24",
+    null
+   ],
+   [
+    2000,
+    "B0B8TB41PF",
+    "African Pride Moisture Miracle 5 Essential Hair Oils, 8 Oz",
+    "$9.98",
+    null
+   ],
+   [
+    300,
+    "B0DNMSWTNG",
+    "Pure Red Onion Hair Oil for Women & Men, Hair and Scalp Massage & Growth Oil for",
+    "$8.95",
+    null
+   ],
+   [
+    100,
+    "B0H6GS989Z",
+    "Hair Boomer Scalp Oil for Fuller-Looking Hair",
+    "$36.00",
+    null
+   ]
+  ],
+  "winners_1k": 34
+ },
+ "price_us": {
+  "price_usd_median": 18.99,
+  "price_usd_p25_p75": [
+   9.99,
+   30.0
+  ]
+ },
+ "meta_category": {
+  "phrase": "pre wash",
+  "active": 500,
+  "aged30": 140,
+  "aged90": 71,
+  "aged180": 11,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "sockcatcher.com",
+   1,
+   1375,
+   1
+  ],
+  [
+   "page:fresh laundromat on cicero",
+   1,
+   987,
+   1
+  ],
+  [
+   "page:pronounce labs",
+   1,
+   358,
+   1
+  ],
+  [
+   "ekmiveda.com",
+   6,
+   337,
+   2
+  ],
+  [
+   "page:rc luxury detail",
+   1,
+   271,
+   1
+  ],
+  [
+   "page:grid werks automotive llc",
+   1,
+   222,
+   1
+  ],
+  [
+   "page:active",
+   1,
+   204,
+   1
+  ],
+  [
+   "page:number 4 high performance hair care",
+   1,
+   198,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "pre wash hair oil",
+  "rel_yoy": 3.41,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.71
+ },
+ "tiktok_top_item_sold_k": "46.9",
+ "creatives": []
+}

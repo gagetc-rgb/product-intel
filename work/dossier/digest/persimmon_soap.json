@@ -1,0 +1,452 @@
+{
+ "pid": "persimmon_soap",
+ "name": "Persimmon soap (aging odor)",
+ "verdict_row": {
+  "pid": "persimmon_soap",
+  "name": "Persimmon soap (aging odor)",
+  "flag": "",
+  "shelf": 69550,
+  "nb": 7350,
+  "gen": 25450,
+  "winB": 3,
+  "winG": 5,
+  "price": 12.99,
+  "act": 2700,
+  "a30": 830,
+  "a90": 130,
+  "a180": 11,
+  "stores": 10,
+  "stores90": 7,
+  "trend": 4.59,
+  "zeros": 0.13,
+  "kill": "",
+  "note": "",
+  "nb_id": 5900
+ },
+ "amazon_us": {
+  "listings_on_target": 136,
+  "shelf_units": 69550,
+  "units_by_brand_age": {
+   "24+": 36750,
+   "6-12": 18700,
+   "12-24": 3600,
+   "0-6": 10500
+  },
+  "units_by_kind": {
+   "generic_old": 11300,
+   "generic_new": 25450,
+   "old_brand": 25450,
+   "new_brand": 7350
+  },
+  "top_brands": [
+   {
+    "key": "mirai",
+    "units": 25300,
+    "listings": 6,
+    "best": {
+     "asin": "B0DP37D91R",
+     "title": "Mirai Clinical Persimmon Soap for Old People Smell,Nonenal® Odor Eliminator",
+     "units": 20000,
+     "price": "$19.95",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61kITfhgwvL._AC_UL320_.jpg",
+     "amazon_brand": "Mirai"
+    },
+    "entry_months": 70,
+    "status": "old"
+   },
+   {
+    "key": "kaori",
+    "units": 1950,
+    "listings": 8,
+    "best": {
+     "asin": "B0H3K8VN7Z",
+     "title": "KAORI Original Persimmon Soap Eliminates The Stubborn Aging Odor That Regular Soap Can'T Remove.",
+     "units": 1000,
+     "price": "$14.99",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/51dsag0mJsL._AC_UL320_.jpg",
+     "amazon_brand": "KAORI"
+    },
+    "entry_months": 5,
+    "status": "NEW"
+   },
+   {
+    "key": "kakiyu",
+    "units": 1300,
+    "listings": 8,
+    "best": {
+     "asin": "B0HHF9C894",
+     "title": "Kakiyu Persimmon Soap 2 Pack, Eliminate Odor & Long-Lasting Scent, 100g/per",
+     "units": 500,
+     "price": "$29.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71zWBfjkhbL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 2,
+    "status": "NEW"
+   },
+   {
+    "key": "morovan",
+    "units": 1100,
+    "listings": 2,
+    "best": {
+     "asin": "B0FT31T6FL",
+     "title": "Morovan Persimmon Soap for Body Odor Control - Old People Smell Cleansr",
+     "units": 1000,
+     "price": "$9.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/81Xr2IIvOrL._AC_UL320_.jpg",
+     "amazon_brand": "Morovan"
+    },
+    "entry_months": 13,
+    "status": "NEW"
+   },
+   {
+    "key": "gpp3",
+    "units": 1000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DWMRPCYG",
+     "title": "GPP 3 PCS Persimmon Soap Bar for Body Odor Control, 3.53oz/per",
+     "units": 1000,
+     "price": "$9.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71gDSx9FGRL._AC_UL320_.jpg",
+     "amazon_brand": "GPP"
+    },
+    "entry_months": 21,
+    "status": "NEW"
+   },
+   {
+    "key": "pelican",
+    "units": 1000,
+    "listings": 3,
+    "best": {
+     "asin": "B0GTTWYQZ6",
+     "title": "Pelican Soap Family Persimmon Tannin Deodorizing Soap 2 pieces set (2.82oz ×2) for Body Odor Care, Deep Cleans",
+     "units": 500,
+     "price": "$9.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61h+JikjVmL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 7,
+    "status": "NEW"
+   },
+   {
+    "key": "roycederm",
+    "units": 300,
+    "listings": 1,
+    "best": {
+     "asin": "B0H6YFPSK2",
+     "title": "Roycederm Japanese Persimmon Soap for Body Odor, 2 Bars x 4 OZ | Persimmon Soap for Old People Smell, Purifyin",
+     "units": 300,
+     "price": "$19.95",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71OkUov9aLL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 4,
+    "status": "NEW"
+   },
+   {
+    "key": "official",
+    "units": 200,
+    "listings": 1,
+    "best": {
+     "asin": "B0HGLX3133",
+     "title": "Official KAORI Deodorizing Persimmon Soap |Feel fresh and clean all day long | with Persimmon Extract for Men ",
+     "units": 200,
+     "price": "$15.99",
+     "stars": "3.5",
+     "img": "https://m.media-amazon.com/images/I/6168GSMnp5L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 2,
+    "status": "NEW"
+   },
+   {
+    "key": "wavertree",
+    "units": 150,
+    "listings": 3,
+    "best": {
+     "asin": "B07QF3KLGC",
+     "title": "Wavertree & London Persimmon & Red Currant Scented Natural Soap Bars (2 Bars), 7 oz Moisturizing French Triple",
+     "units": 100,
+     "price": "$15.98",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/81f598h6yfL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "mra",
+    "units": 100,
+    "listings": 1,
+    "best": {
+     "asin": "B0GLM6GFYF",
+     "title": "MR.A 6Pack Persimmon Soap Bar for Old People Smell Body Odor",
+     "units": 100,
+     "price": "$9.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61+Zj9ZXglL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 9,
+    "status": "NEW"
+   }
+  ],
+  "top_generics": [
+   [
+    10000,
+    "B0D4LX75GN",
+    "3 PCS Persimmon Soap for Body Odor Control, Old People Smell",
+    "$9.99",
+    "yoniagood"
+   ],
+   [
+    8000,
+    "B0GFMMW31V",
+    "5 Pcs Persimmon Soap for Old People Smell with 2 Mesh Soap Bag",
+    "$7.99",
+    "NXPPYY"
+   ],
+   [
+    4000,
+    "B0GJ6N1VYS",
+    "Japanese Persimmon Soap for Old People Smell & nonenal Odor, 2 Pack",
+    "$34.99",
+    "Swarva"
+   ],
+   [
+    1000,
+    "B0HDQXZWWW",
+    "Japanese Persimmon Soap for Old People Smell & nonenal Odor, 1 Pack",
+    "$19.99",
+    "Swarva"
+   ]
+  ],
+  "winners_1k": 13
+ },
+ "price_us": {
+  "price_usd_median": 12.99,
+  "price_usd_p25_p75": [
+   9.99,
+   17.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "persimmon soap",
+  "active": 2700,
+  "aged30": 830,
+  "aged90": 130,
+  "aged180": 11,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "miraiclinical.com",
+   12,
+   492,
+   1
+  ],
+  [
+   "page:grandma's glow",
+   7,
+   206,
+   1
+  ],
+  [
+   "try-kaori.com",
+   11,
+   173,
+   2
+  ],
+  [
+   "page:linda doxey",
+   2,
+   164,
+   1
+  ],
+  [
+   "page:grandma's care journal",
+   2,
+   162,
+   1
+  ],
+  [
+   "page:sara garret",
+   3,
+   126,
+   1
+  ],
+  [
+   "page:margaret whittaker",
+   2,
+   98,
+   1
+  ],
+  [
+   "swarva.com",
+   3,
+   84,
+   1
+  ]
+ ],
+ "meta_brand_pages": {
+  "Kaori": {
+   "own": {
+    "650844748111692": {
+     "name": "Kaori",
+     "active": 190,
+     "aged30": 140,
+     "aged90": 40,
+     "aged180": 4
+    },
+    "1245940191932931": {
+     "name": "Kaori Shop",
+     "active": 8,
+     "aged30": 8,
+     "aged90": 8,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 7
+  },
+  "Mirai Clinical": {
+   "own": {
+    "145667285455246": {
+     "name": "Mirai Clinical",
+     "active": 96,
+     "aged30": 40,
+     "aged90": 19,
+     "aged180": 17
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 25
+  },
+  "Kakiyu": {
+   "own": {
+    "1272577889275593": {
+     "name": "Kakiyu",
+     "active": 470,
+     "aged30": 120,
+     "aged90": 0,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 20
+  }
+ },
+ "meta_brand_phrase_v20": {
+  "Mirai Clinical": {
+   "active": 130,
+   "aged90": 20,
+   "aged180": 18
+  },
+  "Kakiyu": {
+   "active": 760,
+   "aged90": 0,
+   "aged180": 0
+  },
+  "Kaori": {
+   "active": 850,
+   "aged90": 210,
+   "aged180": 58
+  }
+ },
+ "trend": {
+  "term": "persimmon soap",
+  "rel_yoy": 4.59,
+  "yearly_means_v20": [
+   0.2,
+   0.7,
+   1.8,
+   6.4,
+   45.3
+  ],
+  "zero_share_2y": 0.13
+ },
+ "tiktok_top_item_sold_k": "12.1",
+ "creatives": [
+  {
+   "domain": "try-kaori.com",
+   "ads_180d_total_meta": "53",
+   "loaded": 30,
+   "product": "Original Persimmon Soap",
+   "oldest": [
+    {
+     "days": 233,
+     "page": "Grandma's Care Journal",
+     "headline": "",
+     "body": "I've taught over 600 children how to read. I still remember most of their names. Then one September, they replaced me with a teacher half my age. Everyone knew ",
+     "img": "dashboard/ads_media/78c4bc932f710b9a.jpg"
+    },
+    {
+     "days": 233,
+     "page": "Grandma's Care Journal",
+     "headline": "",
+     "body": "My grandson was at my house every afternoon. He was everything to me. Then one day he was gone.\nHis name is Jack. His mom dropped him off on her way to work and",
+     "img": "dashboard/ads_media/042a2297c820e30e.jpg"
+    },
+    {
+     "days": 233,
+     "page": "Grandma's Care Journal",
+     "headline": "",
+     "body": "I've taught over 600 children how to read. I still remember most of their names. Then one September, they replaced me with a teacher half my age. Everyone knew ",
+     "img": "dashboard/ads_media/2a8dd1f0ffa655bb.jpg"
+    },
+    {
+     "days": 233,
+     "page": "Grandma's Care Journal",
+     "headline": "",
+     "body": "I've taught over 600 children how to read. I still remember most of their names. Then one September, they replaced me with a teacher half my age. Everyone knew ",
+     "img": "dashboard/ads_media/1b0b86f1a89d8088.jpg"
+    }
+   ]
+  },
+  {
+   "domain": "miraiclinical.com",
+   "ads_180d_total_meta": "17",
+   "loaded": 17,
+   "product": "Mix & Match Persimmon Soap Set",
+   "oldest": [
+    {
+     "days": 517,
+     "page": "Mirai Clinical",
+     "headline": "Say Goodbye to ‘Old People Smell’ for Good · Clinically proven to eliminate aging odor. Tr",
+     "body": "Did you know that during menopause, your skin starts producing a compound called Nonenal, and normal soap can’t wash it away? 😳\nThat subtle \"old people smell\" i",
+     "img": "dashboard/ads_media/86e92b9bd2ce9753.jpg"
+    },
+    {
+     "days": 509,
+     "page": "Koko Face Yoga",
+     "headline": "Say Goodbye to ‘Old People Smell’ for Good · Clinically proven to eliminate aging odor. Tr",
+     "body": "Did you know that during menopause, your skin starts producing a compound called Nonenal, and normal soap can’t wash it away? 😳\nThat subtle \"old people smell\" i",
+     "img": "dashboard/ads_media/3b561c4021d2e4d7.jpg"
+    },
+    {
+     "days": 493,
+     "page": "Mirai Clinical",
+     "headline": "Say Goodbye to ‘Old People Smell’ for Good · Clinically proven to eliminate aging odor. Tr",
+     "body": "Did you know that during menopause, your skin starts producing a compound called Nonenal, and normal soap can’t wash it away? 😳\nThat subtle \"old people smell\" i",
+     "img": "dashboard/ads_media/26a5e29405bf1ea9.jpg"
+    },
+    {
+     "days": 349,
+     "page": "Mirai Clinical",
+     "headline": "Say Goodbye to ‘Old People Smell’ for Good · Clinically proven to eliminate aging odor. Tr",
+     "body": "Did you know that during menopause, your skin starts producing a compound called Nonenal, and normal soap can’t wash it away? 😳\nThat subtle \"old people smell\" i",
+     "img": "dashboard/ads_media/819de0e9bb5404a3.jpg"
+    }
+   ]
+  }
+ ]
+}

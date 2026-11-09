@@ -1,0 +1,602 @@
+{
+ "color_foundation": {
+  "term": "color changing foundation",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 5.24,
+    "rel_yoy": 4.66,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 4.93,
+    "rel_yoy": 4.38,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 4.52,
+  "rel_yoy_range": [
+   4.38,
+   4.66
+  ],
+  "label": "growing",
+  "labels_agree": true
+ },
+ "persimmon_soap": {
+  "term": "persimmon soap",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 5.16,
+    "rel_yoy": 4.59,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.13
+   },
+   "pull2_2026-11-09": {
+    "yoy": 5.4,
+    "rel_yoy": 4.8,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.11
+   }
+  },
+  "rel_yoy_mean": 4.7,
+  "rel_yoy_range": [
+   4.59,
+   4.8
+  ],
+  "label": "growing",
+  "labels_agree": true
+ },
+ "scent_diffuser": {
+  "term": "waterless diffuser",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 2.27,
+    "rel_yoy": 2.02,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 2.26,
+    "rel_yoy": 2.01,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 2.01,
+  "rel_yoy_range": [
+   2.01,
+   2.02
+  ],
+  "label": "growing",
+  "labels_agree": true
+ },
+ "neck_cream": {
+  "term": "neck cream",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.34,
+    "rel_yoy": 1.19,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.34,
+    "rel_yoy": 1.19,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 1.19,
+  "rel_yoy_range": [
+   1.19,
+   1.19
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "shower_filter": {
+  "term": "shower filter",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.23,
+    "rel_yoy": 1.09,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.23,
+    "rel_yoy": 1.09,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 1.09,
+  "rel_yoy_range": [
+   1.09,
+   1.09
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "tallow_balm": {
+  "term": "tallow balm",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.18,
+    "rel_yoy": 1.05,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.16,
+    "rel_yoy": 1.03,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 1.04,
+  "rel_yoy_range": [
+   1.03,
+   1.05
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "body_oil": {
+  "term": "crepey skin",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.15,
+    "rel_yoy": 1.02,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.16,
+    "rel_yoy": 1.03,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 1.02,
+  "rel_yoy_range": [
+   1.02,
+   1.03
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "rosemary_oil": {
+  "term": "rosemary oil for hair",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 0.86,
+    "rel_yoy": 0.76,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 0.86,
+    "rel_yoy": 0.76,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 0.76,
+  "rel_yoy_range": [
+   0.76,
+   0.76
+  ],
+  "label": "falling",
+  "labels_agree": true
+ },
+ "turmeric_soap": {
+  "term": "turmeric soap",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 0.75,
+    "rel_yoy": 0.67,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 0.75,
+    "rel_yoy": 0.67,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 0.67,
+  "rel_yoy_range": [
+   0.67,
+   0.67
+  ],
+  "label": "falling",
+  "labels_agree": true
+ },
+ "compression_socks": {
+  "term": "compression socks",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.1,
+    "rel_yoy": 0.98,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.13,
+    "rel_yoy": 1.0,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 0.99,
+  "rel_yoy_range": [
+   0.98,
+   1.0
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "dog_fountain": {
+  "term": "pet water fountain",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.62,
+    "rel_yoy": 1.44,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.65,
+    "rel_yoy": 1.47,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 1.46,
+  "rel_yoy_range": [
+   1.44,
+   1.47
+  ],
+  "label": "growing",
+  "labels_agree": true
+ },
+ "pore_patch": {
+  "term": "pore patches",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 0.91,
+    "rel_yoy": 0.81,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.3
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.06,
+    "rel_yoy": 0.94,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.26
+   }
+  },
+  "rel_yoy_mean": 0.88,
+  "rel_yoy_range": [
+   0.81,
+   0.94
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "hair_removal_cream": {
+  "term": "hair removal cream",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.08,
+    "rel_yoy": 0.96,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.08,
+    "rel_yoy": 0.96,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 0.96,
+  "rel_yoy_range": [
+   0.96,
+   0.96
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "exfoliating_towel": {
+  "term": "exfoliating towel",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.83,
+    "rel_yoy": 1.63,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.02
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.54,
+    "rel_yoy": 1.37,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.02
+   }
+  },
+  "rel_yoy_mean": 1.5,
+  "rel_yoy_range": [
+   1.37,
+   1.63
+  ],
+  "label": "growing",
+  "labels_agree": true
+ },
+ "magnesium_spray": {
+  "term": "magnesium spray",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.09,
+    "rel_yoy": 0.97,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.06,
+    "rel_yoy": 0.94,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 0.95,
+  "rel_yoy_range": [
+   0.94,
+   0.97
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "chin_wrap": {
+  "term": "double chin",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 0.94,
+    "rel_yoy": 0.84,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 0.94,
+    "rel_yoy": 0.84,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 0.84,
+  "rel_yoy_range": [
+   0.84,
+   0.84
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "whitening_powder": {
+  "term": "teeth whitening powder",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.25,
+    "rel_yoy": 1.11,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.17,
+    "rel_yoy": 1.04,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 1.08,
+  "rel_yoy_range": [
+   1.04,
+   1.11
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "lash_serum": {
+  "term": "lash serum",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.32,
+    "rel_yoy": 1.17,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.32,
+    "rel_yoy": 1.17,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 1.17,
+  "rel_yoy_range": [
+   1.17,
+   1.17
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "hair_serum": {
+  "term": "hair growth serum",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 1.28,
+    "rel_yoy": 1.14,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   },
+   "pull2_2026-11-09": {
+    "yoy": 1.29,
+    "rel_yoy": 1.15,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.0
+   }
+  },
+  "rel_yoy_mean": 1.15,
+  "rel_yoy_range": [
+   1.14,
+   1.15
+  ],
+  "label": "flat",
+  "labels_agree": true
+ },
+ "prewash_oil": {
+  "term": "pre wash hair oil",
+  "pulls": {
+   "pull1_2026-11-08": {
+    "yoy": 3.84,
+    "rel_yoy": 3.41,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.71
+   },
+   "pull2_2026-11-09": {
+    "yoy": null,
+    "rel_yoy": null,
+    "controls_yoy": [
+     1.08,
+     1.17
+    ],
+    "zero_share_2y": 0.76
+   }
+  },
+  "rel_yoy_mean": 3.41,
+  "rel_yoy_range": [
+   3.41,
+   3.41
+  ],
+  "label": "growing",
+  "labels_agree": true
+ }
+}

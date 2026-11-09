@@ -1,0 +1,242 @@
+{
+ "phrase": "moxielash.com",
+ "date": "2026-11-09",
+ "active": 30,
+ "aged30": 30,
+ "aged90": 29,
+ "aged180": 25,
+ "ads": [
+  {
+   "id": "1408230960861877",
+   "page": "Sydney Danielle",
+   "start": "2025-11-23",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1318073813615567",
+   "page": "MoxieLash",
+   "start": "2026-05-08",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1360334654955405",
+   "page": "MoxieLash",
+   "start": "2025-11-22",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "968706332084860",
+   "page": "Lashies",
+   "start": "2025-04-14",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "769147822830203",
+   "page": "Lashies",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "810814261789700",
+   "page": "MoxieLash",
+   "start": "2025-11-29",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1279848214340806",
+   "page": "Lashies",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "812777811632557",
+   "page": "MoxieLash",
+   "start": "2025-11-21",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1380448263676626",
+   "page": "Sydney Danielle",
+   "start": "2025-11-19",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "533409799538313",
+   "page": "MoxieLash",
+   "start": "2025-04-14",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "936752246074454",
+   "page": "MoxieLash",
+   "start": "2026-04-16",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1652392009133115",
+   "page": "Lash Obsession",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1483135606649922",
+   "page": "MoxieLash",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1315871133732918",
+   "page": "Lash Obsession",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1129617712277932",
+   "page": "Sydney Danielle",
+   "start": "2025-11-14",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "857133353483776",
+   "page": "MoxieLash",
+   "start": "2025-11-21",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "2502744950112066",
+   "page": "Lashies",
+   "start": "2026-04-01",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "751941354596362",
+   "page": "MoxieLash",
+   "start": "2025-11-21",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1910758903179046",
+   "page": "MoxieLash",
+   "start": "2025-11-22",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "953511410825714",
+   "page": "Lash Obsession",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1642405540285816",
+   "page": "Lash Obsession",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "795627966678802",
+   "page": "Sydney Danielle",
+   "start": "2025-11-14",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1667007288059393",
+   "page": "Lash Obsession",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "841455928360614",
+   "page": "Sydney Danielle",
+   "start": "2025-11-14",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "974272788798288",
+   "page": "Lashies",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2551308658637928",
+   "page": "MoxieLash",
+   "start": "2026-05-15",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1315064144022448",
+   "page": "Lashies",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "moxielash.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1582211270166491",
+   "page": "MoxieLash",
+   "start": "2026-08-02",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1471050391903891",
+   "page": "MoxieLash",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+color_foundation Prime Prometics      own pages 1 {'active': 3000, 'aged30': 1100, 'aged90': 660, 'aged180': 340} | phrase sample 29, own domain 16
+color_foundation Smooche              own pages 1 {'active': 6800, 'aged30': 2900, 'aged90': 760, 'aged180': 540} | phrase sample 29, own domain 3
+color_foundation Lumine Skin          own pages 0 {'active': 0, 'aged30': 0, 'aged90': 0, 'aged180': 0} | phrase sample 23, own domain 12
+color_foundation Luxe                 own pages 2 {'active': 2604, 'aged30': 104, 'aged90': 78, 'aged180': 7} | phrase sample 26, own domain 8
+body_oil         GODA                 own pages 1 {'active': 140, 'aged30': 80, 'aged90': 11, 'aged180': 0} | phrase sample 30, own domain 24
+body_oil         DRMTLGY              own pages 1 {'active': 1200, 'aged30': 710, 'aged90': 200, 'aged180': 36} | phrase sample 28, own domain 6
+tallow_balm      Terra Lotus          own pages 1 {'active': 130, 'aged30': 78, 'aged90': 0, 'aged180': 0} | phrase sample 24, own domain 16
+tallow_balm      Ancestral Cosmetics  own pages 1 {'active': 130, 'aged30': 100, 'aged90': 77, 'aged180': 55} | phrase sample 28, own domain 23
+tallow_balm      Bare Ritual          own pages 1 {'active': 77, 'aged30': 72, 'aged90': 43, 'aged180': 21} | phrase sample 27, own domain 8
+tallow_balm      Forge                own pages 1 {'active': 74, 'aged30': 17, 'aged90': 4, 'aged180': 0} | phrase sample 30, own domain 10
+tallow_balm      byminus              own pages 1 {'active': 150, 'aged30': 120, 'aged90': 38, 'aged180': 17} | phrase sample 30, own domain 25
+scent_diffuser   Scentify             own pages 1 {'active': 320, 'aged30': 190, 'aged90': 100, 'aged180': 89} | phrase sample 23, own domain 4
+scent_diffuser   Aura House           own pages 2 {'active': 212, 'aged30': 24, 'aged90': 22, 'aged180': 3} | phrase sample 29, own domain 22
+scent_diffuser   Aroma360             own pages 1 {'active': 370, 'aged30': 96, 'aged90': 77, 'aged180': 0} | phrase sample 29, own domain 18
+scent_diffuser   Hotel Collection     own pages 2 {'active': 563, 'aged30': 248, 'aged90': 158, 'aged180': 5} | phrase sample 30, own domain 10
+scent_diffuser   AirScent             own pages 1 {'active': 4, 'aged30': 0, 'aged90': 0, 'aged180': 0} | phrase sample 4, own domain 0
+persimmon_soap   Kaori                own pages 2 {'active': 198, 'aged30': 148, 'aged90': 48, 'aged180': 4} | phrase sample 30, own domain 7
+persimmon_soap   Mirai Clinical       own pages 1 {'active': 96, 'aged30': 40, 'aged90': 19, 'aged180': 17} | phrase sample 30, own domain 25
+persimmon_soap   Kakiyu               own pages 1 {'active': 470, 'aged30': 120, 'aged90': 0, 'aged180': 0} | phrase sample 30, own domain 20
+shower_filter    sproos               own pages 1 {'active': 130, 'aged30': 120, 'aged90': 110, 'aged180': 94} | phrase sample 20, own domain 11
+shower_filter    Filterbaby           own pages 1 {'active': 450, 'aged30': 280, 'aged90': 71, 'aged180': 7} | phrase sample 30, own domain 21
+shower_filter    Santevia             own pages 1 {'active': 720, 'aged30': 360, 'aged90': 210, 'aged180': 0} | phrase sample 30, own domain 23

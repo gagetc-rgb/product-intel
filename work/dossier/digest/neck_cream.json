@@ -1,0 +1,317 @@
+{
+ "pid": "neck_cream",
+ "name": "Neck firming cream",
+ "verdict_row": {
+  "pid": "neck_cream",
+  "name": "Neck firming cream",
+  "flag": "",
+  "shelf": 103400,
+  "nb": 8500,
+  "gen": 5500,
+  "winB": 2,
+  "winG": 2,
+  "price": 24.99,
+  "act": 4200,
+  "a30": 1300,
+  "a90": 420,
+  "a180": 83,
+  "stores": 11,
+  "stores90": 10,
+  "trend": 1.19,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 7500
+ },
+ "amazon_us": {
+  "listings_on_target": 110,
+  "shelf_units": 103400,
+  "units_by_brand_age": {
+   "0-6": 6200,
+   "24+": 59400,
+   "12-24": 6450,
+   "6-12": 31350
+  },
+  "units_by_kind": {
+   "generic_new": 5500,
+   "old_brand": 49450,
+   "older_brand_new_here": 39000,
+   "new_brand": 8500,
+   "generic_old": 950
+  },
+  "top_brands": [
+   {
+    "key": "medicube",
+    "units": 30000,
+    "listings": 1,
+    "best": {
+     "asin": "B0GVQ6NYR3",
+     "title": "medicube PDRN Collagen Gua Sha Neck Wrinkle Cream - Firming, Contour Care",
+     "units": 30000,
+     "price": "$29.90",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61GNP2d5SyL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 7,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "gold",
+    "units": 20000,
+    "listings": 2,
+    "best": {
+     "asin": "B01B5D3VOC",
+     "title": "Gold Bond Age Renew Neck & Chest Firming Age Renew Cream, 2 oz",
+     "units": 20000,
+     "price": "$11.97",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/717jzIuGmTL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "gopure",
+    "units": 10300,
+    "listings": 3,
+    "best": {
+     "asin": "B0CGB215HR",
+     "title": "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of W",
+     "units": 10000,
+     "price": "$31.99",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/613gXRGC9XL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 40,
+    "status": "old"
+   },
+   {
+    "key": "lilyana",
+    "units": 7000,
+    "listings": 1,
+    "best": {
+     "asin": "B01ES349CY",
+     "title": "LilyAna Naturals Anti Aging Retinol Face Cream for Women – Wrinkle & Neck Cream for Firming, Retinol Moisturiz",
+     "units": 7000,
+     "price": "$21.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81Mm0sBwXHL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "drmelaxin",
+    "units": 5000,
+    "listings": 1,
+    "best": {
+     "asin": "B0CNC4FM93",
+     "title": "Dr.Melaxin Necksphalt Firming Cream with ECM-5 20,000ppm, Firming & Lifting Neck Cream for Wrinkles & Sagging ",
+     "units": 5000,
+     "price": "$22.00",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/71MtoCAZrTL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 36,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "eight",
+    "units": 4000,
+    "listings": 1,
+    "best": {
+     "asin": "B0F2J966QL",
+     "title": "Eight Saints Firm Intentions Anti Aging Neck Cream For Firming Skin and Reducing Wrinkles, with Protein Peptid",
+     "units": 4000,
+     "price": "$34.00",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61Vy-04Jw+L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 20,
+    "status": "NEW"
+   },
+   {
+    "key": "strivectin",
+    "units": 4000,
+    "listings": 3,
+    "best": {
+     "asin": "B0C5FD2G3V",
+     "title": "StriVectin Tighten and Lift Advanced Neck Cream PLUS with Alpha-3 Peptides for Neck and Décolleté, Smoothing L",
+     "units": 2000,
+     "price": "$62.00",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61BTbG+l3jL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 45,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "nivea",
+    "units": 2000,
+    "listings": 1,
+    "best": {
+     "asin": "B0CF2TGX9K",
+     "title": "NIVEA Skin Firming & Anti Wrinkle Neck & Chest Cream, Q10, Creatine, 6.7 Oz",
+     "units": 2000,
+     "price": "$14.64",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61qXui9K5dL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 40,
+    "status": "old"
+   },
+   {
+    "key": "yczah",
+    "units": 1700,
+    "listings": 2,
+    "best": {
+     "asin": "B0DJ1B11NY",
+     "title": "Ycz AH-8 Neck Cream for Tightening and Firming, Reduce Wrinkles, 4.23 Fl Oz",
+     "units": 1000,
+     "price": "$16.97",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/81XYU-8B+2L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 25,
+    "status": "old"
+   },
+   {
+    "key": "revision",
+    "units": 1700,
+    "listings": 3,
+    "best": {
+     "asin": "B0CYN2CK73",
+     "title": "Revision Skincare Nectifirm Advanced® Neck Cream – Clinically Proven to Firm, Lift & Contour the Neck, Jawline",
+     "units": 800,
+     "price": "$64.00",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61PeDT3iJOL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    2000,
+    "B0DSLGHPPW",
+    "Retinol Neck Cream, Hyaluronic Acid and Caffeine Enriched Neck Firming Cream to ",
+    "$9.99",
+    null
+   ],
+   [
+    1000,
+    "B0HF3D72FD",
+    "PDRN Collagen Gua Sha Neck Wrinkle Cream - Moisturizing Neck Care Cream",
+    "$9.99",
+    null
+   ],
+   [
+    900,
+    "B0H28R1RSR",
+    "Neck Firming Cream - Tightening & Lifting Retinol Cream for Sagging Jawline",
+    "$14.99",
+    null
+   ],
+   [
+    500,
+    "B0HF7VDYWN",
+    "Collagen PDRN Gua Sha Neck Cream for Fine Lines 3.17 Oz",
+    "$9.99",
+    null
+   ]
+  ],
+  "winners_1k": 15
+ },
+ "price_us": {
+  "price_usd_median": 24.99,
+  "price_usd_p25_p75": [
+   18.97,
+   40.0
+  ]
+ },
+ "meta_category": {
+  "phrase": "neck cream",
+  "active": 4200,
+  "aged30": 1300,
+  "aged90": 420,
+  "aged180": 83,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "sreemed.com",
+   1,
+   722,
+   1
+  ],
+  [
+   "particleformen.com",
+   4,
+   274,
+   1
+  ],
+  [
+   "vibriance.com",
+   36,
+   225,
+   11
+  ],
+  [
+   "page:beauty after 50",
+   4,
+   225,
+   1
+  ],
+  [
+   "whatgracebought.com",
+   1,
+   220,
+   1
+  ],
+  [
+   "nourishmax.com",
+   1,
+   189,
+   1
+  ],
+  [
+   "kindscience.com",
+   1,
+   157,
+   1
+  ],
+  [
+   "saeskyn.com",
+   2,
+   151,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "neck cream",
+  "rel_yoy": 1.19,
+  "yearly_means_v20": [
+   6.0,
+   6.6,
+   8.3,
+   9.9,
+   24.6
+  ],
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "653.0",
+ "creatives": []
+}

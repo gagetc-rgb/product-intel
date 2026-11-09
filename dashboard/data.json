@@ -1,0 +1,623 @@
+{
+ "meta": {
+  "title": "US Product Shortlist",
+  "date": "2026-11-07",
+  "funnel": [
+   [
+    "Videos processed",
+    177
+   ],
+   [
+    "Products found (incl. 30 supplements)",
+    124
+   ],
+   [
+    "Pass all gates, three witnesses (tier A)",
+    19
+   ],
+   [
+    "Favourites",
+    8
+   ]
+  ],
+  "signals": [
+   [
+    "Amazon",
+    "'Bought in past month' badges summed over on-target top-20 listings; listings selling 1K+/mo = sellers that actually sell."
+   ],
+   [
+    "TikTok Shop",
+    "Lifetime 'sold' of the top on-target product (keyword pages, cached)."
+   ],
+   [
+    "Meta ad age",
+    "Active US ads started 180+ days ago (category phrase or the leader's domain): someone keeps paying."
+   ],
+   [
+    "Openness",
+    "Share of Amazon top-20 units held by newcomers (listings under 500 reviews), and how many newcomers sell at all."
+   ],
+   [
+    "Leader depth",
+    "For the soap and sock leaders only: site traffic Jun-Sep, dated review curves, offers and economics."
+   ]
+  ],
+  "version": "v3",
+  "lede": "124 products from the corpus re-ranked by category sales on Amazon, TikTok Shop and Meta. 14 products and 5 supplements pass every gate; 5 + 3 of them are our favourites."
+ },
+ "products": [
+  {
+   "id": "turmeric",
+   "name": "Turmeric glow soap",
+   "sub": "For melanin-rich skin",
+   "model": "Earthly Derm",
+   "domain": "earthlyderm.com",
+   "verdict": "Favourite · soap brand SKU 1",
+   "verdictKind": "take",
+   "thesis": "Established ads, traffic up 3.4× in four months, a consumable with near-zero unit cost. Reviews and traffic rise together.",
+   "traffic": [
+    269,
+    219,
+    348,
+    913
+   ],
+   "us": 96,
+   "ads": {
+    "total": 468,
+    "d90": 89,
+    "d180": 44,
+    "note": "Top-impression ad running since 19 Feb 2026."
+   },
+   "aov": 45,
+   "aovEst": false,
+   "repeats": "~3 / yr (1 bar ≈ 1 month)",
+   "ltv": 92,
+   "maxCac": "~$23 + repeat",
+   "search": {
+    "category": "21% ('turmeric soap')",
+    "brand": "2.2%"
+   },
+   "price": "1 bar $42 · 3 for $49 · 5 for $69 (store, 7 Nov 2026)",
+   "unitCost": "$0.55-1.3 per bar ◈",
+   "duty": "37.5% (China) ◆",
+   "reviews": {
+    "kind": "loox",
+    "key": "earthlyderm_turmeric",
+    "label": "Loox reviews per month (6,860 dated reviews, main product)",
+    "trust": {
+     "total": 367,
+     "score": 4.8,
+     "neg": null
+    }
+   },
+   "clones": {
+    "count": "~320",
+    "phrase": "active US ads with 'turmeric soap'; ~1,000 with kojic + soap",
+    "rivals": [
+     "Kaoli (trykaoli.com) ~96 ads, launched 28 Oct 2026",
+     "Stem & Soul",
+     "Herb'N Eden",
+     "GloMelanin",
+     "Honey Glow"
+    ],
+    "read": "Clones are only now arriving."
+   },
+   "findings": [
+    [
+     "◆",
+     "Loox reviews per month: Mar 209 → Jun 484 → Sep 957 → Oct 853. The curve tracks traffic (Sep peak 913K).",
+     "Loox, full set"
+    ],
+    [
+     "◆",
+     "44 ads still running after 180+ days; 89 after 90+ days.",
+     "Meta Ad Library"
+    ],
+    [
+     "◆",
+     "96% of visitors are in the US.",
+     "SimilarWeb"
+    ],
+    [
+     "◆",
+     "Real search demand beyond ads: 'turmeric soap' 21% of 'ski boots', 'kojic acid soap' 13%.",
+     "Google Trends"
+    ],
+    [
+     "◈",
+     "October is ~11% below September: possibly the start of a plateau.",
+     "Loox"
+    ],
+    [
+     "◈",
+     "Trustpilot 4.8 on 367 reviews, but complaint themes are billing: double charges, held funds.",
+     "Trustpilot"
+    ],
+    [
+     "◇",
+     "Revenue band $0.8-1.2M/mo (visits × 2-3% conversion × AOV), vs the YouTuber's $7-14M claim (~11× inflated).",
+     "Our model"
+    ]
+   ],
+   "risks": [
+    "'Fades / blocks pigment' is a drug claim (FDA warning letters on skin lighteners, 2022)",
+    "Meta personal-attributes policy: no 'your Black skin…'",
+    "Turmeric/kojic bars can irritate: the leader attacks 'copycats that burn'",
+    "MoCRA cosmetic duties (registration, listing, adverse events)"
+   ],
+   "conditions": [
+    "Cosmetic-only claims: brightens, evens the look of tone",
+    "A gentle, tested formula",
+    "Product-statement copy ('made for melanin-rich skin')",
+    "Bundles of 3-5 bars, results timeline"
+   ],
+   "heroIdx": 0,
+   "catId": "turmeric_soap"
+  },
+  {
+   "id": "socks",
+   "name": "Compression socks",
+   "sub": "Bamboo, multi-pair packs",
+   "model": "Everstride",
+   "domain": "everstridesocks.com",
+   "verdict": "Favourite #1",
+   "verdictKind": "take",
+   "thesis": "The most proven business on the list: 190 ads alive 180+ days and two years of rising reviews. The category is huge and crowded, so we win on an angle.",
+   "traffic": [
+    376,
+    387,
+    226,
+    330
+   ],
+   "us": 73,
+   "ads": {
+    "total": 1423,
+    "d90": 460,
+    "d180": 190,
+    "note": "Advertising nonstop since 2024."
+   },
+   "aov": 50,
+   "aovEst": true,
+   "repeats": "~1 / yr (socks wear out)",
+   "ltv": 68,
+   "maxCac": "~$28 ◇",
+   "search": {
+    "category": "289% ('compression socks')",
+    "brand": "5.0%"
+   },
+   "price": "Main product $34; bundles up to 8 pairs",
+   "unitCost": "n/a",
+   "duty": "n/a",
+   "reviews": {
+    "kind": "loox",
+    "key": "everstride_main",
+    "label": "Loox reviews per month (29,358 dated reviews, main product)",
+    "trust": {
+     "total": 1865,
+     "score": 4.7,
+     "neg": 5.6
+    },
+    "snapshots": [
+     [
+      "Jun 2025",
+      173
+     ],
+     [
+      "Sep 2025",
+      307
+     ],
+     [
+      "Nov 2025",
+      404
+     ],
+     [
+      "Nov 2026",
+      1865
+     ]
+    ]
+   },
+   "clones": {
+    "count": "~15,000",
+    "phrase": "active US ads with the exact phrase 'compression socks' (~610 of them 180+ days old)",
+    "rivals": [
+     "Medical and athletic brands share the phrase"
+    ],
+    "read": "Crowded category: the opening is an angle, not the product."
+   },
+   "angles": [
+    [
+     "Baseline: compression socks",
+     15000,
+     610
+    ],
+    [
+     "+ wide calf",
+     860,
+     30
+    ],
+    [
+     "+ nurse",
+     2000,
+     55
+    ],
+    [
+     "+ flight",
+     1000,
+     16
+    ],
+    [
+     "+ men",
+     830,
+     10
+    ],
+    [
+     "+ standing",
+     4100,
+     47
+    ],
+    [
+     "+ plus size",
+     330,
+     3
+    ],
+    [
+     "+ pregnancy",
+     370,
+     0
+    ]
+   ],
+   "findings": [
+    [
+     "◆",
+     "Reviews grew from ≤350/mo (2024) to 2,100-2,300/mo in Jul-Sep 2026: a two-year business, not a spike.",
+     "Loox, full set"
+    ],
+    [
+     "◆",
+     "The June 2026 review dip matches the traffic dip (387K → 226K): reviews and traffic agree.",
+     "Loox + SimilarWeb"
+    ],
+    [
+     "◆",
+     "Trustpilot count 173 (Jun 2025) → 1,865 (Nov 2026).",
+     "Wayback + Trustpilot"
+    ],
+    [
+     "◆",
+     "190 ads still running after 180+ days, the most on our list.",
+     "Meta Ad Library"
+    ],
+    [
+     "◈",
+     "Wide calf and nurse are proven angles: their ads survive about as long as the category average.",
+     "Ad Library angle scan"
+    ],
+    [
+     "◇",
+     "Men, plus size and pregnancy get tested but almost never survive 180 days: open but unproven.",
+     "Ad Library angle scan"
+    ],
+    [
+     "◇",
+     "October reviews −36% vs September: review-request lag or a real slowdown. Re-check in December.",
+     "Loox"
+    ]
+   ],
+   "risks": [
+    "Crowded category (~15,000 active ads on the phrase)",
+    "Lymphedema / lipedema wording = medical claims",
+    "Sizing and fit complaints (slipping, tight bands) on Trustpilot",
+    "Returns and durability complaints"
+   ],
+   "conditions": [
+    "A niche angle: wide calf, nurses / 12-hour shifts, men's dress",
+    "Multi-pair packs",
+    "No medical claims: 'tired, swollen-feeling legs' only",
+    "Fit as a selling point"
+   ],
+   "heroIdx": 3,
+   "catId": "compression_socks"
+  },
+  {
+   "id": "persimmon",
+   "name": "Persimmon soap",
+   "sub": "For age-related body odor",
+   "model": "Kaori",
+   "domain": "try-kaori.com",
+   "verdict": "Soap brand SKU 2",
+   "verdictKind": "second",
+   "thesis": "Real, rising demand and consumable economics, but the most cloned niche on the list. Worth it only as a second bar sharing supplier, funnel and compliance with the turmeric soap.",
+   "traffic": [
+    49,
+    246,
+    653,
+    556
+   ],
+   "us": 34,
+   "ads": {
+    "total": 747,
+    "d90": 200,
+    "d180": 53,
+    "note": "Swarva, the earlier leader, has 0 ads past 90 days (fading)."
+   },
+   "aov": 40,
+   "aovEst": true,
+   "repeats": "~3 / yr (consumable, subscriptions)",
+   "ltv": 82,
+   "maxCac": "~$22 + repeat",
+   "search": {
+    "category": "13% ('persimmon soap', peak Oct 2026)",
+    "brand": "2.1%"
+   },
+   "price": "Bar $19.95; deodorant $14.99; body wash $19.99 (store)",
+   "unitCost": "~$0.5-1.6 per bar ◈",
+   "duty": "37.5% (China) ◆",
+   "reviews": {
+    "kind": "trust",
+    "label": "Trustpilot new reviews per month (recent)",
+    "trust": {
+     "total": 750,
+     "score": 4.7,
+     "neg": 2.0
+    },
+    "recent": [
+     [
+      "Sep 2026",
+      74
+     ],
+     [
+      "Oct 2026",
+      108
+     ]
+    ]
+   },
+   "geo": [
+    [
+     "SimilarWeb, Sep 2026",
+     34
+    ],
+    [
+     "Hypestat, Jun-Jul 2026",
+     71
+    ]
+   ],
+   "clones": {
+    "count": "~2,600",
+    "phrase": "active US ads mentioning 'persimmon soap'",
+    "rivals": [
+     "Kaori ~750 ads",
+     "Swarva ~354 ads (fading)",
+     "Mirai Clinical (Shark Tank, HuffPost)",
+     "Kakiyu ~830 ads, ~13K visits",
+     "Grandma's Glow"
+    ],
+    "read": "Most crowded niche on the list; fake-persona pages everywhere."
+   },
+   "findings": [
+    [
+     "◆",
+     "Traffic 49K → 246K → 653K → 556K (Jun-Sep).",
+     "SimilarWeb"
+    ],
+    [
+     "◆",
+     "53 ads still running after 180+ days.",
+     "Meta Ad Library"
+    ],
+    [
+     "◆",
+     "Trustpilot 4.7 on 750 reviews; 1-2★ only 2%; ~108 new reviews in Oct 2026.",
+     "Trustpilot"
+    ],
+    [
+     "◆",
+     "Search for 'persimmon soap' peaked in Oct 2026.",
+     "Google Trends"
+    ],
+    [
+     "◇",
+     "US share unresolved: 34% (SimilarWeb, Sep) vs 71% (Hypestat, Jun-Jul).",
+     "Two traffic estimators"
+    ],
+    [
+     "◇",
+     "The '97% nonenal removal' claim rests on weak public science: a 2001 Shiseido study on 22 people, a 2012 trial on 20 men.",
+     "Osmia review, HuffPost"
+    ]
+   ],
+   "risks": [
+    "Clone flood (~2,600 ads), comparison ads already running",
+    "Fake-persona playbook is the norm",
+    "Unclear real US share",
+    "Customers say: too expensive, small bars, subscription cancellations"
+   ],
+   "conditions": [
+    "Only as the 2nd SKU of the turmeric soap brand",
+    "Honest claims as a differentiator",
+    "Possible angle: unscented or larger bars, price per wash",
+    "Check AU / CA / EU demand separately"
+   ],
+   "heroIdx": 0,
+   "catId": "persimmon_soap"
+  }
+ ],
+ "dropped": [
+  [
+   "Men's leak-proof boxers (Menvault)",
+   "Small category demand on Amazon and TikTok; young ads; 1-2★ share 9.5%; FDA fee"
+  ],
+  [
+   "2-in-1 carry-on duffel (Luhxe)",
+   "One-off purchase; fewer than 5 Amazon sellers at 1K+/mo; duty ~55%"
+  ],
+  [
+   "Tennis bracelet (MLMT)",
+   "TikTok 65K sold (PAVOI) but no Amazon sellers with badges; one-off gift; leader ~11K visits"
+  ],
+  [
+   "Brand-owned categories",
+   "Collagen multi-balm, retinol cream, collagen night mask (medicube, Anua), ceramide cleanser (CeraVe), work insoles (Dr. Scholl's)"
+  ],
+  [
+   "Seat cushion (Travlr)",
+   "Small traffic (~27K); category ~8K units/mo on Amazon"
+  ],
+  [
+   "Ski sleeve (SkiGuards)",
+   "No category demand found; seasonal (judge in Dec-Feb)"
+  ],
+  [
+   "Silvervine cat sticks (Purriq)",
+   "Small traffic, falling; no Amazon seller at 1K+"
+  ],
+  [
+   "16-head massager (Alythera)",
+   "~2K visits; category ~2K units/mo"
+  ],
+  [
+   "Men's compression tank (North Alpine)",
+   "Traffic falling 1.9M → 1.1M; category ~9.5K units/mo on Amazon"
+  ],
+  [
+   "Rodent repellent pouches (Sofyre)",
+   "All ads under 90 days; only 2 Amazon sellers at 1K+; EPA + state registration"
+  ],
+  [
+   "Needs a compliance route (tier B)",
+   "Lash serum, hair-growth serum, LED mask: strong demand, parked until a compliant formula or FDA-cleared OEM"
+  ]
+ ],
+ "blind": [
+  [
+   "One snapshot",
+   "Amazon, TikTok and Meta were read once (7 Nov 2026). No trend except for the soap and sock leaders."
+  ],
+  [
+   "Openness from Amazon only",
+   "'Newcomer' = listing under 500 reviews in the top 20; DTC newcomers on Meta are not measured yet."
+  ],
+  [
+   "TikTok counts are lifetime",
+   "Cached keyword pages, date unknown; one wrong page made turmeric soap look dead."
+  ],
+  [
+   "Economics only for 3 leaders",
+   "AOV, LTV and max CAC exist for the soaps and socks; the new favourites have none yet."
+  ],
+  [
+   "Ads ≠ profit",
+   "Refunds, chargebacks and real margins are unknown."
+  ]
+ ],
+ "next": [
+  "Unit economics for every favourite: landed cost, margin, AOV, LTV, max ad cost per order",
+  "Research the leader brand for magnesium spray, scent diffuser and tallow balm (traffic, aged ads by domain, review curve)",
+  "Finish the newcomer-survival check for all favourites (Amazon blocked the run after magnesium spray)",
+  "Owner decision: supplements in or out",
+  "Samples and supplier quotes; claims review for the soaps, tallow and magnesium",
+  "$200-500 Meta demand test per product, pass threshold set in advance from margin and LTV"
+ ],
+ "favs": [
+  {
+   "id": "compression_socks",
+   "tab": "socks",
+   "mark": "◆",
+   "why": "Strongest proof of all: 610 category ads aged 180+ days, 16 Amazon sellers at 1K+/mo, leader growing for two years.",
+   "risk": "Mature category; newcomers hold ~0% of Amazon units, so sell DTC through a proven angle (wide calf, nurses) and multi-packs."
+  },
+  {
+   "id": "turmeric_soap",
+   "tab": "turmeric",
+   "mark": "◆",
+   "why": "Leader's traffic and reviews rose together (Earthly Derm 269K → 913K visits); category confirmed: 819K sold on TikTok, Amazon 58-131K/mo. Persimmon soap = SKU 2 of the same brand.",
+   "risk": "Execution bet on a brand, not a category wave; cosmetic claims only."
+  },
+  {
+   "id": "magnesium_spray",
+   "tab": null,
+   "mark": "◈",
+   "why": "Most open market we measured: newcomers hold 41% of Amazon units and 4 of 5 newcomers sell. Consumable, simple formula, can be made in the US.",
+   "risk": "Sleep and cramp wording is a claims risk; leader brand not researched yet."
+  },
+  {
+   "id": "scent_diffuser",
+   "tab": null,
+   "mark": "◈",
+   "why": "Device + refill oils at ~$80: the best repeat model on the list. Newcomers hold 27% of Amazon units; 6 of 10 sell.",
+   "risk": "Only 17 Meta ads aged 180+ days: the weakest proof of the five."
+  },
+  {
+   "id": "tallow_balm",
+   "tab": null,
+   "mark": "◈",
+   "why": "Strong in all three channels (TikTok 663K sold, 52 aged Meta ads); consumable; raw material available in the US.",
+   "risk": "Trend may be late-stage (not checked); newcomers hold only 2% of Amazon units."
+  }
+ ],
+ "suppFavs": [
+  {
+   "id": "s_shilajit_gummies",
+   "mark": "◆",
+   "why": "Strongest supplement evidence: TikTok 411K sold, 210 Meta ads aged 180+ days; 9 of 10 Amazon newcomers sell.",
+   "risk": "Heavy-metal (lead) testing and a Prop 65 warning are a must."
+  },
+  {
+   "id": "s_pumpkin_oil",
+   "mark": "◆",
+   "why": "Broadest open market: Amazon 82K/mo with 15 sellers at 1K+, TikTok 184K sold; 8 of 9 newcomers sell.",
+   "risk": "Low price (~$25): needs bundles or a subscription."
+  },
+  {
+   "id": "s_moringa",
+   "mark": "◈",
+   "why": "Corpus brand Rosabella sold 171K on TikTok; 10 Amazon sellers at 1K+; 4 of 4 newcomers sell.",
+   "risk": "Newcomers hold only 6% of units; claims discipline."
+  }
+ ],
+ "suppGate": "Supplements were outside our filters until now. To sell them: a cGMP contract manufacturer, third-party testing (Amazon requires it), and structure/function wording only. Owner decides whether this block is in.",
+ "notes": {
+  "color_foundation": "Concentrated: top 3 hold 79% of Amazon units",
+  "neck_cream": "Brand-led (GoPure 653K on TikTok)",
+  "rosemary_oil": "No newcomer sells in the Amazon top 20",
+  "hair_removal_cream": "Top 3 hold 78%; no newcomer share",
+  "exfoliating_towel": "Category passes; model brand Blissal is fading",
+  "chin_wrap": "Category passes; model brand Skult has ~16K visits",
+  "persimmon_soap": "SKU 2 of the soap brand; 9 of 9 newcomers sell",
+  "shower_filter": "Refill cartridges",
+  "dog_fountain": "Refill filters",
+  "s_menopause": "Crowded (19 aged advertisers); hormone claims",
+  "s_beef_liver": "Few newcomers"
+ },
+ "changes": [
+  [
+   "out",
+   "Men's leak-proof boxers",
+   "Category demand is small (Amazon ~2.5-3.6K units/mo, no TikTok hit); only 8 of 234 leader ads aged 180+ days."
+  ],
+  [
+   "out",
+   "2-in-1 carry-on duffel",
+   "One-off purchase; fewer than 5 Amazon sellers at 1K+/mo; a TikTok-only wave."
+  ],
+  [
+   "kept",
+   "Compression socks",
+   "Held up in every version and in all three channels."
+  ],
+  [
+   "kept",
+   "Turmeric + persimmon soap",
+   "Turmeric briefly fell to #60 because one TikTok page was wrong (888 vs 819K sold); back in tier A."
+  ],
+  [
+   "new",
+   "Magnesium spray, scent diffuser, tallow balm",
+   "Found by the blind category pass; strongest openness or repeat economics in tier A."
+  ],
+  [
+   "new",
+   "Supplements block",
+   "Ranked separately: shilajit gummies, pumpkin seed oil, moringa."
+  ]
+ ]
+}

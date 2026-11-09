@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B0FFW9SQRW",
+  "brand": "terra",
+  "units": 10000,
+  "price_scan": "$19.99",
+  "asin_age_m": 18
+ },
+ {
+  "asin": "B0BJMSH4JX",
+  "brand": "hearth",
+  "units": 10000,
+  "price_scan": "$29.97",
+  "asin_age_m": 51
+ },
+ {
+  "asin": "B0D1NGHSZ8",
+  "brand": "forge",
+  "units": 10000,
+  "price_scan": "$39.95",
+  "asin_age_m": 31
+ },
+ {
+  "asin": "B0DTQ8FGQX",
+  "brand": "richgrand",
+  "units": 7000,
+  "price_scan": "$21.99",
+  "asin_age_m": 22
+ },
+ {
+  "asin": "B0FFPMJKVC",
+  "brand": "terra",
+  "units": 4000,
+  "price_scan": "$34.99",
+  "asin_age_m": 18
+ },
+ {
+  "asin": "B0BRTQYJZL",
+  "brand": "hearth",
+  "units": 4000,
+  "price_scan": "$31.97",
+  "asin_age_m": 51
+ },
+ {
+  "asin": "B0DWMZR8WD",
+  "brand": "elbbub",
+  "units": 3000,
+  "price_scan": "$11.19",
+  "asin_age_m": 21
+ },
+ {
+  "asin": "B0GS9KCQD5",
+  "brand": "(no brand)",
+  "units": 3000,
+  "price_scan": "$19.99",
+  "asin_age_m": 8
+ },
+ {
+  "asin": "B0FFWL5YVN",
+  "brand": "terra",
+  "units": 3000,
+  "price_scan": "$19.99",
+  "asin_age_m": 18
+ },
+ {
+  "asin": "B0FFWY7L61",
+  "brand": "terra",
+  "units": 3000,
+  "price_scan": "$19.99",
+  "asin_age_m": 18
+ }
+]

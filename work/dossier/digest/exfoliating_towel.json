@@ -1,0 +1,311 @@
+{
+ "pid": "exfoliating_towel",
+ "name": "Exfoliating shower towel",
+ "verdict_row": {
+  "pid": "exfoliating_towel",
+  "name": "Exfoliating shower towel",
+  "flag": "",
+  "shelf": 53700,
+  "nb": 900,
+  "gen": 5950,
+  "winB": 0,
+  "winG": 2,
+  "price": 12.99,
+  "act": 460,
+  "a30": 310,
+  "a90": 130,
+  "a180": 64,
+  "stores": 11,
+  "stores90": 8,
+  "trend": 1.63,
+  "zeros": 0.02,
+  "kill": "",
+  "note": "",
+  "nb_id": 5100
+ },
+ "amazon_us": {
+  "listings_on_target": 137,
+  "shelf_units": 53700,
+  "units_by_brand_age": {
+   "24+": 40950,
+   "6-12": 4500,
+   "0-6": 1250,
+   "12-24": 7000
+  },
+  "units_by_kind": {
+   "old_brand": 22500,
+   "generic_old": 18450,
+   "generic_new": 5950,
+   "new_brand": 900,
+   "older_brand_new_here": 5900
+  },
+  "top_brands": [
+   {
+    "key": "goshi",
+    "units": 13000,
+    "listings": 5,
+    "best": {
+     "asin": "B0897859VJ",
+     "title": "GOSHI Exfoliating Shower Towel - Long Body Scrubber, Grey",
+     "units": 4000,
+     "price": "$19.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/61LGqnqRSPL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 70,
+    "status": "old"
+   },
+   {
+    "key": "salux",
+    "units": 3650,
+    "listings": 8,
+    "best": {
+     "asin": "B08DT52KKQ",
+     "title": "SALUX Nylon Japanese Beauty Skin Bath Wash Cloth Towel 3 Count Pink Yellow Blue",
+     "units": 2000,
+     "price": "$17.99",
+     "stars": "4.7",
+     "img": "https://m.media-amazon.com/images/I/81n4RPBQDAL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "mainbasics",
+    "units": 3500,
+    "listings": 3,
+    "best": {
+     "asin": "B0DXX86FWP",
+     "title": "MainBasics Deep Exfoliating Japanese Shower Towel, 3 Pack, Earthy Love",
+     "units": 2000,
+     "price": "$9.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/81++2hhT2gL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 21,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "blissal",
+    "units": 2400,
+    "listings": 10,
+    "best": {
+     "asin": "B0DQLW8HDP",
+     "title": "Blissal Exfoliating Shower Towel 48\" Silver Ion Infused,Premium Scrub Wash Cloth for Body Face, Exfoliating Wa",
+     "units": 900,
+     "price": "$13.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71Eg9nCHNoL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 23,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "tatuo",
+    "units": 1350,
+    "listings": 3,
+    "best": {
+     "asin": "B07HRM2XSW",
+     "title": "Tatuo 5 Pcs Exfoliating Face and Body Wash Cloths Towel, Beige",
+     "units": 1000,
+     "price": "$8.21",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81-dcbawk4L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "sima",
+    "units": 800,
+    "listings": 4,
+    "best": {
+     "asin": "B0C7CD499H",
+     "title": "SIMA Exfoliating Face & Body Scrub Towel, 47\" x 10\" (Pink)",
+     "units": 500,
+     "price": "$22.90",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81EffiODE7L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 43,
+    "status": "old"
+   },
+   {
+    "key": "terry",
+    "units": 800,
+    "listings": 1,
+    "best": {
+     "asin": "B082YH4LVB",
+     "title": "Terry Wash Cloths for Face and Body, Dual-Sided Cleansing and Exfoliating Washcloths, Machine Wash, Black, 3 C",
+     "units": 800,
+     "price": "$7.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/91JrQ7kEHKL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 71,
+    "status": "old"
+   },
+   {
+    "key": "soft",
+    "units": 800,
+    "listings": 1,
+    "best": {
+     "asin": "B09DC4Q73B",
+     "title": "Soft Weave Washcloth for Face - Face Washcloths - Exfoliating Washcloths for Dead Skin - Exfoliating Towel Pac",
+     "units": 800,
+     "price": "$9.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/715cRMTBjxL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 62,
+    "status": "old"
+   },
+   {
+    "key": "zomchi",
+    "units": 600,
+    "listings": 2,
+    "best": {
+     "asin": "B0BPLFKB9B",
+     "title": "ZOMCHI Exfoliating Washcloth for Face and Body, 3 Pack, Smoke",
+     "units": 400,
+     "price": "$14.24",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/A1YdQR49UhL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 51,
+    "status": "old"
+   },
+   {
+    "key": "cleanlogic",
+    "units": 400,
+    "listings": 1,
+    "best": {
+     "asin": "B08M5FRYZ1",
+     "title": "Cleanlogic Exfoliating Stretch Bath and Shower Cloth - 3 Count",
+     "units": 400,
+     "price": "$23.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/71TSnccNZ1L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 67,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    8000,
+    "B07WKBYXRC",
+    "Exfoliating Washcloth & Japanese Shower Towel, 3 Pack, Body Scrubber",
+    "$9.99",
+    null
+   ],
+   [
+    3000,
+    "B0BT1WJS6J",
+    "Exfoliating Washcloth Face & Body Scrub Towel - Japanese Exfoliating Towel with ",
+    "$22.90",
+    null
+   ],
+   [
+    2000,
+    "B0BV68KDFD",
+    "Extra Rough Exfoliating Washcloth, Extreme Body & Back Scrubber for Shower",
+    "$19.99",
+    null
+   ],
+   [
+    2000,
+    "B004C8DR1U",
+    "8 pcs Asian Exfoliating Bath Washcloth - Red & Green",
+    "$6.50",
+    null
+   ]
+  ],
+  "winners_1k": 14
+ },
+ "price_us": {
+  "price_usd_median": 12.99,
+  "price_usd_p25_p75": [
+   9.24,
+   18.49
+  ]
+ },
+ "meta_category": {
+  "phrase": "exfoliating towel",
+  "active": 460,
+  "aged30": 310,
+  "aged90": 130,
+  "aged180": 64,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "page:alorin",
+   28,
+   319,
+   1
+  ],
+  [
+   "goshi.com",
+   2,
+   294,
+   1
+  ],
+  [
+   "page:katie davis",
+   5,
+   257,
+   1
+  ],
+  [
+   "page:emily weston",
+   1,
+   229,
+   1
+  ],
+  [
+   "melbob.com",
+   1,
+   223,
+   1
+  ],
+  [
+   "simabrand.com",
+   1,
+   149,
+   1
+  ],
+  [
+   "page:the deals directory",
+   1,
+   149,
+   1
+  ],
+  [
+   "page:susan miller",
+   5,
+   106,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "exfoliating towel",
+  "rel_yoy": 1.63,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.02
+ },
+ "tiktok_top_item_sold_k": "79.5",
+ "creatives": []
+}

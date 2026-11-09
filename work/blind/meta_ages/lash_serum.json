@@ -1,0 +1,466 @@
+{
+ "phrase": "lash serum",
+ "date": "2026-11-08",
+ "active": 3200,
+ "aged30": 1100,
+ "aged90": 400,
+ "aged180": 90,
+ "ads": [
+  {
+   "id": "879663954476806",
+   "page": "MoxieLash",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "www.moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1228929582625456",
+   "page": "MoxieLash",
+   "start": "2025-11-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1228822819044588",
+   "page": "Babe Original",
+   "start": "2026-04-10",
+   "n": 1,
+   "domain": "babeoriginal.com",
+   "window": "180+"
+  },
+  {
+   "id": "2116425882542447",
+   "page": "Babe Original",
+   "start": "2026-04-10",
+   "n": 1,
+   "domain": "babeoriginal.com",
+   "window": "180+"
+  },
+  {
+   "id": "35169218616025078",
+   "page": "Babe Original",
+   "start": "2026-04-11",
+   "n": 1,
+   "domain": "babeoriginal.com",
+   "window": "180+"
+  },
+  {
+   "id": "1301974928116854",
+   "page": "MoxieLash",
+   "start": "2026-05-05",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1337582111047260",
+   "page": "The Beauty Edit with Nicole Wagner",
+   "start": "2025-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "927678166764336",
+   "page": "MoxieLash",
+   "start": "2026-05-02",
+   "n": 1,
+   "domain": "www.moxielash.com",
+   "window": "180+"
+  },
+  {
+   "id": "1972901729986508",
+   "page": "Natural Beauty by Melissa Rae",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "26688674717407565",
+   "page": "Diablo Cosmetics",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "diablocosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1445739903282140",
+   "page": "Borboleta",
+   "start": "2025-07-02",
+   "n": 1,
+   "domain": "www.borboleta.com",
+   "window": "180+"
+  },
+  {
+   "id": "909738541973811",
+   "page": "Natural Beauty by Melissa Rae",
+   "start": "2026-02-26",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "875189561859199",
+   "page": "AMA LASH BAR",
+   "start": "2025-12-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1863289287532440",
+   "page": "Borboleta",
+   "start": "2024-11-12",
+   "n": 1,
+   "domain": "borboleta.com",
+   "window": "180+"
+  },
+  {
+   "id": "2012605959525128",
+   "page": "The Beauty Edit with Nicole Wagner",
+   "start": "2025-07-29",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "839747251869212",
+   "page": "RevitaLash Cosmetics",
+   "start": "2026-04-25",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "180+"
+  },
+  {
+   "id": "1842824582942920",
+   "page": "Natural Beauty by Melissa Rae",
+   "start": "2025-06-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "801432586034965",
+   "page": "The Beauty Edit with Nicole Wagner",
+   "start": "2025-11-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "29252125887707950",
+   "page": "Natural Beauty by Melissa Rae",
+   "start": "2025-02-19",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "955746563817395",
+   "page": "Melissa Radke",
+   "start": "2026-04-01",
+   "n": 1,
+   "domain": "borboleta.com",
+   "window": "180+"
+  },
+  {
+   "id": "3784339298525380",
+   "page": "LiLash Beauty",
+   "start": "2025-09-19",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1770559823814847",
+   "page": "Mastering Inner & Outer Beauty-Hollie O'Brien",
+   "start": "2025-07-29",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "623494927044793",
+   "page": "Natural Beauty by Melissa Rae",
+   "start": "2025-02-19",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "718951920541818",
+   "page": "Borboleta",
+   "start": "2025-05-30",
+   "n": 1,
+   "domain": "www.borboleta.com",
+   "window": "180+"
+  },
+  {
+   "id": "1153226796895476",
+   "page": "Melissa Radke",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "937140035713021",
+   "page": "Natural Beauty by Melissa Rae",
+   "start": "2026-03-25",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2446826312329394",
+   "page": "The Beauty Edit with Nicole Wagner",
+   "start": "2025-03-27",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1339313100652044",
+   "page": "Borboleta",
+   "start": "2025-03-14",
+   "n": 1,
+   "domain": "borboleta.com",
+   "window": "180+"
+  },
+  {
+   "id": "1859561918095248",
+   "page": "The Beauty Edit with Nicole Wagner",
+   "start": "2026-03-05",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "4258126427783903",
+   "page": "MoxieLash",
+   "start": "2026-06-21",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1733107414407422",
+   "page": "Facelove Cosmetics",
+   "start": "2026-06-24",
+   "n": 1,
+   "domain": "facelove-cosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1055240747464725",
+   "page": "Colorescience",
+   "start": "2026-07-13",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2953975634943522",
+   "page": "MoxieLash",
+   "start": "2026-07-11",
+   "n": 1,
+   "domain": "www.moxielash.com",
+   "window": "90-180"
+  },
+  {
+   "id": "996386726335541",
+   "page": "Beauty reviews",
+   "start": "2026-06-06",
+   "n": 1,
+   "domain": "facelove-cosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1325404415803316",
+   "page": "Kosas",
+   "start": "2026-06-24",
+   "n": 1,
+   "domain": "www.sephora.com",
+   "window": "90-180"
+  },
+  {
+   "id": "859351887017948",
+   "page": "Hanae Korea",
+   "start": "2026-07-19",
+   "n": 1,
+   "domain": "hanaekorea.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1865496614425819",
+   "page": "Facelove Cosmetics",
+   "start": "2026-06-20",
+   "n": 1,
+   "domain": "facelove-cosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1395692392484364",
+   "page": "Marée",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2100033524058112",
+   "page": "Trending In Korea",
+   "start": "2026-08-05",
+   "n": 1,
+   "domain": "hanaekorea.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2084914146234239",
+   "page": "Trending In Korea",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "hanaekorea.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1530996918232162",
+   "page": "Brit + Co with terez and honor",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "analytics.wywrd.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1399317562109061",
+   "page": "The Lash Hause",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "thelashhause.co.uk",
+   "window": "90-180"
+  },
+  {
+   "id": "28657050787314799",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1098251069820343",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "927584353239830",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4723609744591931",
+   "page": "Kaloni Products",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "productoskaloni.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2343591173116869",
+   "page": "Trending In Korea",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "hanaekorea.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1739708257297422",
+   "page": "Trending In Korea",
+   "start": "2026-09-16",
+   "n": 1,
+   "domain": "hanaekorea.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2397191707702420",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "983951397297856",
+   "page": "Kayla Ryan Socials",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2090359535178445",
+   "page": "Prime Prometics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "primeprometics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1587995889433666",
+   "page": "Flashes Herald",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "tryflashes.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1057107366964271",
+   "page": "Frøya Organics",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "froyaorganics.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1858066292176406",
+   "page": "Lash by Maya London",
+   "start": "2026-09-26",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "988967054235650",
+   "page": "Trending In Korea",
+   "start": "2026-10-11",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1684011486391983",
+   "page": "Shayla Gressman with Sky Organics",
+   "start": "2026-10-22",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2206233106996575",
+   "page": "Colorescience",
+   "start": "2026-11-04",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

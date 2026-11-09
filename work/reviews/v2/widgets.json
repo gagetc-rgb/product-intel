@@ -1,0 +1,292 @@
+{
+ "luxe.com": {
+  "len": 842780,
+  "myshopify": [
+   "luxe-cosmetics-us.myshopify.com"
+  ],
+  "loox": true,
+  "judgeme": true,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": "2fdde6cc8b1d6aa2027111d39d7b9adb",
+  "shop_id": "65177583874"
+ },
+ "smooche.com": {
+  "len": 592716,
+  "myshopify": [
+   "08f531-2.myshopify.com"
+  ],
+  "loox": true,
+  "judgeme": false,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "62149886108"
+ },
+ "primeprometics.com": {
+  "len": 1003116,
+  "myshopify": [
+   "safeopticss.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": false,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": true,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": "pubkey-e2o4V2PFmdr446c9iVlE482l0q3q72",
+  "shop_id": "27336310807"
+ },
+ "goda.co": {
+  "len": 389819,
+  "myshopify": [
+   "a248c2-2.myshopify.com"
+  ],
+  "loox": true,
+  "judgeme": false,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": null
+ },
+ "drmtlgy.com": {
+  "len": 2752129,
+  "myshopify": [
+   "drmtlgy.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": true,
+  "okendo": true,
+  "yotpo": true,
+  "stamped": true,
+  "junip": false,
+  "okendo_id": "bc5a81a7-4b4d-4981-9d18-c69611520929",
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "14620006"
+ },
+ "terralotus.shop": {
+  "len": 1328878,
+  "myshopify": [
+   "20e2e7-b6.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": true,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "64888471749"
+ },
+ "try-forge.com": {
+  "len": 370915,
+  "myshopify": [
+   "2d38e7.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": true,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "84071285054"
+ },
+ "ancestralcosmetics.com": {
+  "len": 791725,
+  "myshopify": [
+   "ancestral-cosmetics.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": true,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "65104281865"
+ },
+ "bare-ritual.com": {
+  "len": 569217,
+  "myshopify": [
+   "088f7b.myshopify.com",
+   "pdbxmz-hh.myshopify.com"
+  ],
+  "loox": true,
+  "judgeme": false,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "61136011319"
+ },
+ "wildgoldtallow.com": {
+  "len": 1475462,
+  "myshopify": [
+   "mvdmxq-fz.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": true,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "93987176742"
+ },
+ "scentifyhome.com": {
+  "len": 684544,
+  "myshopify": [
+   "scentify-home.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": true,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "48727982229"
+ },
+ "aurahouse.com": {
+  "len": 609859,
+  "myshopify": [
+   "aurahouse-8728.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": false,
+  "okendo": true,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": "a1c620b2-9613-49c5-a819-1860bd89deb2",
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "73637986578"
+ },
+ "aroma360.com": {
+  "len": 2859483,
+  "myshopify": [
+   "new-aroma360.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": false,
+  "okendo": true,
+  "yotpo": false,
+  "stamped": true,
+  "junip": false,
+  "okendo_id": "d1f7cce2-c16c-4e43-9f31-5381cc2f4c60",
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "51724026050"
+ },
+ "try-kaori.com": {
+  "len": 281958,
+  "myshopify": [
+   "cc0czq-b8.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": false,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "100118003976"
+ },
+ "miraiclinical.com": {
+  "len": 923964,
+  "myshopify": [
+   "mirai-clinical.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": false,
+  "okendo": false,
+  "yotpo": true,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": "PPdTmH1cqbGSPwZ0tpX8eb4yxWLk0i8z5PDtOlt2",
+  "stamped_key": null,
+  "shop_id": "29364519044"
+ },
+ "sproos.co": {
+  "len": 388138,
+  "myshopify": [
+   "sprooshome.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": false,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": true,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "58362429605"
+ },
+ "borboleta.com": {
+  "len": 461435,
+  "myshopify": [
+   "26bc9a-51.myshopify.com",
+   "3qck1c-vb.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": true,
+  "okendo": false,
+  "yotpo": true,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": "ffeWw0eSvtL5P7XwLRMo6jOZp1f0YfMHGoqiBrc6",
+  "stamped_key": null,
+  "shop_id": null
+ },
+ "officialbodywise.com": {
+  "len": 482162,
+  "myshopify": [
+   "w0hpuy-c1.myshopify.com"
+  ],
+  "loox": false,
+  "judgeme": false,
+  "okendo": false,
+  "yotpo": false,
+  "stamped": false,
+  "junip": false,
+  "okendo_id": null,
+  "yotpo_key": null,
+  "stamped_key": null,
+  "shop_id": "96321667357"
+ }
+}

@@ -1,0 +1,317 @@
+{
+ "pid": "turmeric_soap",
+ "name": "Turmeric soap (glow / dark spots)",
+ "verdict_row": {
+  "pid": "turmeric_soap",
+  "name": "Turmeric soap (glow / dark spots)",
+  "flag": "",
+  "shelf": 109800,
+  "nb": 13100,
+  "gen": 21200,
+  "winB": 3,
+  "winG": 4,
+  "price": 9.99,
+  "act": 330,
+  "a30": 70,
+  "a90": 24,
+  "a180": 14,
+  "stores": 12,
+  "stores90": 9,
+  "trend": 0.67,
+  "zeros": 0.0,
+  "kill": "a: falling demand",
+  "note": "",
+  "nb_id": 13900
+ },
+ "amazon_us": {
+  "listings_on_target": 205,
+  "shelf_units": 109800,
+  "units_by_brand_age": {
+   "12-24": 27050,
+   "24+": 73500,
+   "0-6": 2600,
+   "6-12": 6650
+  },
+  "units_by_kind": {
+   "new_brand": 13100,
+   "old_brand": 58250,
+   "generic_new": 21200,
+   "generic_old": 11250,
+   "older_brand_new_here": 6000
+  },
+  "top_brands": [
+   {
+    "key": "valitic",
+    "units": 49850,
+    "listings": 14,
+    "best": {
+     "asin": "B09MFMCTRK",
+     "title": "VALITIC Kojic Acid Dark Spot Remover Soap Bars, Turmeric Bar Soaps 2 Pack",
+     "units": 30000,
+     "price": "$13.17",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/71FF60ZljPL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 59,
+    "status": "old"
+   },
+   {
+    "key": "treeroot",
+    "units": 6100,
+    "listings": 3,
+    "best": {
+     "asin": "B0FNMCX3MP",
+     "title": "Treeroot 5 Pack 80g Turmeric Kojic Acid Soap Bar for Face and Body",
+     "units": 4000,
+     "price": "$6.74",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/71Nlqhqt5JL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 13,
+    "status": "NEW"
+   },
+   {
+    "key": "kitsch",
+    "units": 4000,
+    "listings": 1,
+    "best": {
+     "asin": "B0D827ZY5Y",
+     "title": "Kitsch Kojic Acid Soap – Turmeric Soap Bar – Made in USA, 4 oz",
+     "units": 4000,
+     "price": "$11.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71OViVkrDxL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 28,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "qooq",
+    "units": 3000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DX1QDSGF",
+     "title": "QOOQ Turmeric Kojic Acid Soap for Dark Spot Remover - Facial Cleansing Bar",
+     "units": 3000,
+     "price": "$9.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/716GYMkeVoL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 21,
+    "status": "NEW"
+   },
+   {
+    "key": "glomelanin",
+    "units": 2000,
+    "listings": 1,
+    "best": {
+     "asin": "B0CKFK7XXZ",
+     "title": "Glo Melanin Turmeric Brightening Soap with Vitamin C, Alpha Arbutin & Oats",
+     "units": 2000,
+     "price": "$15.95",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/81Omn419vdL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 39,
+    "status": "old"
+   },
+   {
+    "key": "drmelaxin",
+    "units": 2000,
+    "listings": 1,
+    "best": {
+     "asin": "B0GRZCBQSX",
+     "title": "Dr.Melaxin Kojic Acid Turmeric Serum Soap with Niacinamide, Tone Care Cleansing Bar for Uneven Skin Tone & Dar",
+     "units": 2000,
+     "price": "$15.00",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61eaU8vCByL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 8,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "earthly",
+    "units": 1500,
+    "listings": 4,
+    "best": {
+     "asin": "B0GVRBQ5K4",
+     "title": "Earthly Derm Turmeric Glow Soap, Handmade Turmeric Cleansing Soap, Body Skin Care Handmade Soap, Gentle Formul",
+     "units": 800,
+     "price": "$15.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61iXKIvxXXL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 7,
+    "status": "NEW"
+   },
+   {
+    "key": "amvital",
+    "units": 1450,
+    "listings": 5,
+    "best": {
+     "asin": "B0C7LV57NZ",
+     "title": "AMVital Turmeric Soap Bars for Face & Body, 2-Pack",
+     "units": 1000,
+     "price": "$8.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/81+RvueZmvL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 43,
+    "status": "old"
+   },
+   {
+    "key": "liyalan",
+    "units": 1400,
+    "listings": 3,
+    "best": {
+     "asin": "B0CG2CSD93",
+     "title": "LIYALAN Turmeric Soap Bar for Face Body Smooth Skin,Deep Cleansing, Natural Vegan Handmade Soap Sensitive Skin",
+     "units": 900,
+     "price": "$5.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/611gkQ3L7kL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 59,
+    "status": "old"
+   },
+   {
+    "key": "himalaya",
+    "units": 1150,
+    "listings": 4,
+    "best": {
+     "asin": "B01D54QJHU",
+     "title": "Himalaya Purifying Neem & Turmeric Cleansing Bar Soap,Bath Soap Bars,6 Pack",
+     "units": 700,
+     "price": "$14.94",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61ffn9w8auL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    10000,
+    "B0FMF7SFPG",
+    "5 Pcs 80g Turmeric Kojic Acid Soap Bars with 2 Foaming Mesh Nets",
+    "$7.99",
+    null
+   ],
+   [
+    5000,
+    "B0D4QHYD6R",
+    "Kojic Acid Soap, Turmeric Soap Bar for Dark Spots, 3 Pack",
+    "$5.99",
+    null
+   ],
+   [
+    2000,
+    "B0H41QPZXX",
+    "Turmeric Soap Bar for Face and Body, Handmade Turmeric Cleansing Soap, Gentle Da",
+    "$14.99",
+    null
+   ],
+   [
+    1000,
+    "B0F47ZZJC8",
+    "Kojic Acid Soap, Turmeric Soap Bar for Dark Spots Brightening & Moisturizing wit",
+    "$9.99",
+    null
+   ]
+  ],
+  "winners_1k": 20
+ },
+ "price_us": {
+  "price_usd_median": 9.99,
+  "price_usd_p25_p75": [
+   8.11,
+   15.72
+  ]
+ },
+ "meta_category": {
+  "phrase": "turmeric soap",
+  "active": 330,
+  "aged30": 70,
+  "aged90": 24,
+  "aged180": 14,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "glomelanin.com",
+   1,
+   337,
+   1
+  ],
+  [
+   "earthlyderm.com",
+   25,
+   253,
+   9
+  ],
+  [
+   "page:florigene esuma",
+   2,
+   210,
+   1
+  ],
+  [
+   "trystrawberry.com",
+   2,
+   182,
+   2
+  ],
+  [
+   "honeyglownewyork.com",
+   2,
+   173,
+   2
+  ],
+  [
+   "herbneden.com",
+   3,
+   130,
+   1
+  ],
+  [
+   "fourerasbeauty.com",
+   1,
+   111,
+   1
+  ],
+  [
+   "stemandsoul.co",
+   3,
+   105,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "turmeric soap",
+  "rel_yoy": 0.67,
+  "yearly_means_v20": [
+   9.8,
+   18.6,
+   39.8,
+   37.9,
+   35.9
+  ],
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "819.0",
+ "creatives": []
+}

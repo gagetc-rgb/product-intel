@@ -1,0 +1,514 @@
+{
+ "phrase": "hair removal cream",
+ "date": "2026-11-08",
+ "active": 2600,
+ "aged30": 1300,
+ "aged90": 630,
+ "aged180": 76,
+ "ads": [
+  {
+   "id": "932513162621716",
+   "page": "Aurlux",
+   "start": "2026-02-13",
+   "n": 1,
+   "domain": "aurlux.co",
+   "window": "180+"
+  },
+  {
+   "id": "1014684144022472",
+   "page": "Shop.Luuma",
+   "start": "2025-06-25",
+   "n": 1,
+   "domain": "shopluuma.com",
+   "window": "180+"
+  },
+  {
+   "id": "832721049193228",
+   "page": "Shop.Luuma",
+   "start": "2025-10-06",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1209673627898563",
+   "page": "Aurlux",
+   "start": "2026-02-13",
+   "n": 1,
+   "domain": "aurlux.co",
+   "window": "180+"
+  },
+  {
+   "id": "809858091563736",
+   "page": "Shop.Luuma",
+   "start": "2025-09-14",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1475128396877242",
+   "page": "Shop.Luuma",
+   "start": "2025-07-04",
+   "n": 1,
+   "domain": "shopluuma.com",
+   "window": "180+"
+  },
+  {
+   "id": "776875348175856",
+   "page": "Shop.Luuma",
+   "start": "2025-08-04",
+   "n": 1,
+   "domain": "shopluuma.com",
+   "window": "180+"
+  },
+  {
+   "id": "963563429467537",
+   "page": "The PCOS Doctor",
+   "start": "2026-04-06",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1418746309178069",
+   "page": "Shop.Luuma",
+   "start": "2025-07-29",
+   "n": 1,
+   "domain": "shopluuma.com",
+   "window": "180+"
+  },
+  {
+   "id": "1750611115547350",
+   "page": "Shop.Luuma",
+   "start": "2025-07-19",
+   "n": 1,
+   "domain": "shopluuma.com",
+   "window": "180+"
+  },
+  {
+   "id": "2785673438309683",
+   "page": "Shop.Luuma",
+   "start": "2025-07-12",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "880451061650675",
+   "page": "PCOS And Me",
+   "start": "2026-02-13",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1669607200894483",
+   "page": "macrolook.net",
+   "start": "2026-04-27",
+   "n": 1,
+   "domain": "www.fb.com",
+   "window": "180+"
+  },
+  {
+   "id": "1155009913165678",
+   "page": "Bumzzy Co",
+   "start": "2025-09-24",
+   "n": 1,
+   "domain": "bumzzy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1450702049964384",
+   "page": "Savannah Grace",
+   "start": "2026-02-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1868090063890370",
+   "page": "Anrdre cool",
+   "start": "2026-03-12",
+   "n": 1,
+   "domain": "anrdre.com",
+   "window": "180+"
+  },
+  {
+   "id": "1000477956478517",
+   "page": "The PCOS Doctor",
+   "start": "2026-02-15",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1602917747490434",
+   "page": "Margaret",
+   "start": "2026-04-20",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1522408249124306",
+   "page": "Shop.Luuma",
+   "start": "2025-08-27",
+   "n": 1,
+   "domain": "shopluuma.com",
+   "window": "180+"
+  },
+  {
+   "id": "977565115216046",
+   "page": "Margaret",
+   "start": "2026-04-24",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "24352861527674812",
+   "page": "Bumzzy Co",
+   "start": "2025-09-19",
+   "n": 1,
+   "domain": "bumzzy.com",
+   "window": "180+"
+  },
+  {
+   "id": "2491404237928696",
+   "page": "Aurlux",
+   "start": "2026-02-13",
+   "n": 1,
+   "domain": "aurlux.co",
+   "window": "180+"
+  },
+  {
+   "id": "1245700137657159",
+   "page": "Aurlux",
+   "start": "2026-02-13",
+   "n": 1,
+   "domain": "aurlux.co",
+   "window": "180+"
+  },
+  {
+   "id": "914524174897450",
+   "page": "Margaret",
+   "start": "2026-04-20",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1632799191238028",
+   "page": "Aurlux",
+   "start": "2026-03-12",
+   "n": 1,
+   "domain": "aurlux.co",
+   "window": "180+"
+  },
+  {
+   "id": "711025572005719",
+   "page": "TrySnatched",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "simplesnatched.com",
+   "window": "180+"
+  },
+  {
+   "id": "745336538476069",
+   "page": "Shop.Luuma",
+   "start": "2025-08-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "928843463231666",
+   "page": "Aurlux",
+   "start": "2026-03-12",
+   "n": 1,
+   "domain": "aurlux.co",
+   "window": "180+"
+  },
+  {
+   "id": "1314330207177472",
+   "page": "NO HAIR CREW",
+   "start": "2026-08-05",
+   "n": 1,
+   "domain": "nohaircrew.us",
+   "window": "90-180"
+  },
+  {
+   "id": "3178963698956000",
+   "page": "NO HAIR CREW",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "nohaircrew.us",
+   "window": "90-180"
+  },
+  {
+   "id": "1355416636737254",
+   "page": "NO HAIR CREW",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "nohaircrew.us",
+   "window": "90-180"
+  },
+  {
+   "id": "1050312034481621",
+   "page": "NO HAIR CREW",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "nohaircrew.us",
+   "window": "90-180"
+  },
+  {
+   "id": "1059563219828964",
+   "page": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+   "start": "2026-06-21",
+   "n": 1,
+   "domain": "meravae.co",
+   "window": "90-180"
+  },
+  {
+   "id": "2679138385790106",
+   "page": "Bumzzy Co",
+   "start": "2026-05-22",
+   "n": 1,
+   "domain": "bumzzy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2322879528467475",
+   "page": "NO HAIR CREW",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "nohaircrew.us",
+   "window": "90-180"
+  },
+  {
+   "id": "1562303005261461",
+   "page": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+   "start": "2026-06-21",
+   "n": 1,
+   "domain": "meravae.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1023459783648287",
+   "page": "NO HAIR CREW",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "nohaircrew.us",
+   "window": "90-180"
+  },
+  {
+   "id": "1651608329453530",
+   "page": "Megan",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2049690195583411",
+   "page": "Barbara",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "874003108479407",
+   "page": "Megan",
+   "start": "2026-06-17",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1570754078015153",
+   "page": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+   "start": "2026-06-21",
+   "n": 1,
+   "domain": "meravae.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1469921158484741",
+   "page": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+   "start": "2026-06-21",
+   "n": 1,
+   "domain": "meravae.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1342334394663658",
+   "page": "Barbara",
+   "start": "2026-06-09",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2421446944933912",
+   "page": "Megan",
+   "start": "2026-06-17",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2430225280820736",
+   "page": "Barbara",
+   "start": "2026-06-07",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1478704624007583",
+   "page": "Karen Williams",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "27711416985132252",
+   "page": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+   "start": "2026-06-21",
+   "n": 1,
+   "domain": "meravae.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1554154606495233",
+   "page": "TrySnatched",
+   "start": "2026-06-26",
+   "n": 1,
+   "domain": "simplesnatched.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2495762370898777",
+   "page": "Blauue shop",
+   "start": "2026-09-01",
+   "n": 1,
+   "domain": "blauue.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1781101586416998",
+   "page": "Flamingo",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "www.shopflamingo.com",
+   "window": "30-90"
+  },
+  {
+   "id": "27936582295983877",
+   "page": "Flamingo",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "www.shopflamingo.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1558797905930634",
+   "page": "Flamingo",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "www.shopflamingo.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2548747885586053",
+   "page": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+   "start": "2026-08-19",
+   "n": 1,
+   "domain": "meravae.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1609865407186457",
+   "page": "Ilvana Body Care",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "tryilvana.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1960610454544209",
+   "page": "Bestusly",
+   "start": "2026-09-15",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1456643003182239",
+   "page": "Dr. Amy Spence M.D I Board Certified Dermatologist",
+   "start": "2026-08-19",
+   "n": 1,
+   "domain": "meravae.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1090293266746447",
+   "page": "Radralfliclin Nuduvuvuck",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "beatulicc.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2121849512067995",
+   "page": "Kingwwy shop",
+   "start": "2026-08-13",
+   "n": 1,
+   "domain": "kingwwy.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1771709583744273",
+   "page": "Bumzzy Co",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "bumzzy.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1588631656254676",
+   "page": "Elyrias Co.",
+   "start": "2026-08-22",
+   "n": 1,
+   "domain": "elyrias.com",
+   "window": "30-90"
+  },
+  {
+   "id": "961472927035006",
+   "page": "Michael Todd Beauty",
+   "start": "2026-10-20",
+   "n": 4,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1891093808939004",
+   "page": "Dr. Amy Spence",
+   "start": "2026-10-21",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "28382325434800584",
+   "page": "Dr. Amy Spence",
+   "start": "2026-10-11",
+   "n": 1,
+   "domain": "meravae.co",
+   "window": "0-30"
+  }
+ ]
+}

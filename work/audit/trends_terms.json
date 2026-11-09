@@ -1,0 +1,26 @@
+{
+ "date": "2026-11-09",
+ "method": "Google Trends US, 5 years, weekly, each term pulled alone (in-page API). rel = (last 12 full weeks / same weeks a year ago) / controls (shampoo, body lotion; this pull 1.12). zeros = share of zero weeks in the last 2 years (>0.2 = too rare to trust). Current terms: mean of pulls 1-2 from trends_series_summary.json.",
+ "categories": {
+  "color_foundation": {"current": ["color changing foundation", 4.52, 0.0], "alt": [["color changing makeup", 0, 0.65]]},
+  "body_oil": {"current": ["crepey skin", 1.02, 0.0], "alt": [["body oil", 1.06, 0.0], ["firming body oil", 1.52, 0.21]]},
+  "scent_diffuser": {"current": ["waterless diffuser", 2.01, 0.0], "alt": [["scent diffuser", 1.13, 0.0], ["hotel scent diffuser", 1.0, 0.0]]},
+  "tallow_balm": {"current": ["tallow balm", 1.04, 0.0], "alt": [["beef tallow for skin", 0.54, 0.0], ["tallow skincare", 0.84, 0.0]]},
+  "persimmon_soap": {"current": ["persimmon soap", 4.7, 0.13], "alt": [["nonenal", 2.95, 0.03]]},
+  "shower_filter": {"current": ["shower filter", 1.09, 0.0], "alt": [["filtered shower head", 1.22, 0.0]]},
+  "lash_serum": {"current": ["lash serum", 1.17, 0.0], "alt": [["eyelash serum", 1.02, 0.0]]},
+  "hair_serum": {"current": ["hair growth serum", 1.15, 0.0], "alt": [["hair serum", 1.28, 0.0]]},
+  "prewash_oil": {"current": ["pre wash hair oil", null, null], "alt": [["hair oil", 0.94, 0.0], ["pre shampoo oil", 1.85, 0.48]]},
+  "neck_cream": {"current": ["neck cream", 1.19, 0.0], "alt": [["neck firming cream", 0.81, 0.0]]},
+  "dog_fountain": {"current": ["pet water fountain", 1.46, 0.0], "alt": [["cat water fountain", 1.35, 0.0]]},
+  "chin_wrap": {"current": ["double chin", 0.84, 0.0], "alt": [["double chin mask", 2.31, 0.71], ["v line mask", null, 0.67]]},
+  "pore_patch": {"current": ["pore patches", 0.88, 0.0], "alt": [["nose strips", 0.97, 0.0], ["pore strips", 0.87, 0.0]]},
+  "whitening_powder": {"current": ["teeth whitening powder", 1.08, 0.0], "alt": [["tooth powder", 0.81, 0.0]]},
+  "magnesium_spray": {"current": ["magnesium spray", 0.95, 0.0], "alt": [["magnesium oil", 0.62, 0.0]]},
+  "exfoliating_towel": {"current": ["exfoliating towel", 1.5, 0.0], "alt": [["exfoliating washcloth", 1.37, 0.49]]},
+  "rosemary_oil": {"current": ["rosemary oil for hair", 0.76, 0.0], "alt": [["rosemary oil", 0.8, 0.0]]},
+  "turmeric_soap": {"current": ["turmeric soap", 0.67, 0.0], "alt": [["kojic acid soap", 0.74, 0.0]]},
+  "compression_socks": {"current": ["compression socks", 0.99, 0.0], "alt": []},
+  "hair_removal_cream": {"current": ["hair removal cream", 0.96, 0.0], "alt": []}
+ }
+}

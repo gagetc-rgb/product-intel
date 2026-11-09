@@ -1,0 +1,74 @@
+{
+ "phrase": "try-forge.com",
+ "date": "2026-11-09",
+ "active": 8,
+ "aged30": 0,
+ "aged90": 0,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1418371066495377",
+   "page": "Boyuan from emailmarketer.com",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "call.emailmarketer.com",
+   "window": "0-30"
+  },
+  {
+   "id": "39277213115260319",
+   "page": "Boyuan from emailmarketer.com",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "call.emailmarketer.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1453099066728795",
+   "page": "Boyuan from emailmarketer.com",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "call.emailmarketer.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1010406061459893",
+   "page": "Boyuan from emailmarketer.com",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "call.emailmarketer.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1142328852077178",
+   "page": "Boyuan from emailmarketer.com",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "call.emailmarketer.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2337006670408175",
+   "page": "Boyuan from emailmarketer.com",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "call.emailmarketer.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1943277567056848",
+   "page": "Boyuan from emailmarketer.com",
+   "start": "2026-11-04",
+   "n": 1,
+   "domain": "call.emailmarketer.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1179858924375068",
+   "page": "Boyuan from emailmarketer.com",
+   "start": "2026-11-05",
+   "n": 1,
+   "domain": "call.emailmarketer.com",
+   "window": "0-30"
+  }
+ ]
+}

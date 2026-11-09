@@ -1,0 +1,431 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Product Evaluation Method</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Source+Sans+3:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+:root{
+  --bg:#f5f7fa; --panel:#fff; --ink:#0f1720; --ink2:#4a5563; --muted:#7b8594; --line:#dfe4ea; --soft:#eef2f7;
+  --demand:#2a78d6; --clones:#eb6834; --fad:#8b5cf6; --proof:#1baf7a;
+  --good:#1f8a4c; --warn:#b26a00; --bad:#c23a3a;
+  --sA:#eef1f5; --sB:#e3eefb; --sC:#dff3ea; --sD:#fdf1e3; --sE:#fbe6e6;
+  --f-d:"Archivo",system-ui,sans-serif; --f-b:"Source Sans 3",system-ui,sans-serif; --f-m:"JetBrains Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#12161c; --panel:#1a1f27; --ink:#eef1f5; --ink2:#b7c0cc; --muted:#8a94a3; --line:#2c333d; --soft:#20262f;
+  --demand:#4a95ec; --clones:#f07a48; --fad:#a78bfa; --proof:#2cc28c;
+  --good:#3fb26f; --warn:#e0a03a; --bad:#e66767;
+  --sA:#1d2229; --sB:#1a2a3d; --sC:#18312a; --sD:#33291a; --sE:#3a1f22; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12161c; --panel:#1a1f27; --ink:#eef1f5; --ink2:#b7c0cc; --muted:#8a94a3; --line:#2c333d; --soft:#20262f;
+  --demand:#4a95ec; --clones:#f07a48; --fad:#a78bfa; --proof:#2cc28c;
+  --good:#3fb26f; --warn:#e0a03a; --bad:#e66767;
+  --sA:#1d2229; --sB:#1a2a3d; --sC:#18312a; --sD:#33291a; --sE:#3a1f22; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 var(--f-b)}
+.wrap{max-width:1080px;margin:0 auto;padding:32px 16px 64px}
+h1,h2,h3{font-family:var(--f-d);margin:0;letter-spacing:-.01em}
+h1{font-size:clamp(28px,5vw,42px);font-weight:800;line-height:1.1}
+h2{font-size:clamp(21px,3vw,27px);font-weight:700;margin-bottom:6px}
+h3{font-size:17px;font-weight:700}
+.kicker{font:600 12px var(--f-m);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.lede{color:var(--ink2);font-size:18px;max-width:760px;margin:12px 0 0}
+section{margin-top:48px}
+.sub{color:var(--ink2);max-width:780px;margin:0 0 18px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px}
+.mk{font-family:var(--f-m);font-size:13px;color:var(--muted)}
+.legend-marks{margin-top:14px;font-size:14px;color:var(--muted)}
+
+/* 3 questions + gate */
+.qgrid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:24px}
+.q{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 16px 18px;position:relative}
+.q .n{font:700 13px var(--f-m);color:var(--muted)}
+.q h3{margin:4px 0 6px;font-size:20px}
+.q p{margin:0;color:var(--ink2);font-size:15px}
+.q .lvl{display:inline-block;margin-top:10px;font:600 12px var(--f-m);padding:3px 8px;border-radius:99px;background:var(--soft);color:var(--ink2)}
+.q.gate{border-style:dashed}
+.q::before{content:"";position:absolute;left:0;top:14px;bottom:14px;width:4px;border-radius:0 4px 4px 0}
+.q.d::before{background:var(--demand)} .q.p::before{background:var(--proof)} .q.s::before{background:var(--clones)} .q.gate::before{background:var(--muted)}
+
+/* lifecycle */
+.chart-wrap{overflow-x:auto}
+svg text{font-family:var(--f-b)}
+.legend{display:flex;flex-wrap:wrap;gap:16px;margin:10px 0 0;font-size:14px;color:var(--ink2)}
+.legend i{display:inline-block;width:22px;height:0;border-top:3px solid;vertical-align:middle;margin-right:6px}
+
+/* fingerprint table */
+.tbl-wrap{overflow-x:auto;margin-top:16px;border:1px solid var(--line);border-radius:14px;background:var(--panel)}
+table{border-collapse:collapse;width:100%;min-width:860px;font-size:14px}
+th,td{padding:10px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+thead th{font-family:var(--f-d);font-size:15px}
+tbody th{font-weight:600;color:var(--ink2);white-space:nowrap;background:var(--panel);position:sticky;left:0}
+tr:last-child td,tr:last-child th{border-bottom:0}
+.cA{background:var(--sA)} .cB{background:var(--sB)} .cC{background:var(--sC)} .cD{background:var(--sD)} .cE{background:var(--sE)}
+td.move{font-weight:700}
+.tag{display:inline-block;font:600 11px var(--f-m);padding:2px 7px;border-radius:99px;margin-left:4px;vertical-align:1px}
+.t-best{background:var(--good);color:#fff}
+
+/* channel absence flow */
+.flow{display:grid;grid-template-columns:1fr auto 1fr auto 1fr auto 1fr;gap:10px;align-items:stretch}
+.step{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px}
+.step .q2{font-weight:700;font-family:var(--f-d)}
+.step .no{margin-top:8px;font-size:14px;color:var(--ink2)}
+.step .no b{color:var(--good)}
+.arrow{align-self:center;color:var(--muted);font:700 22px var(--f-m)}
+.step.final{border-color:var(--bad);border-width:2px}
+.step.final .q2{color:var(--bad)}
+.evidence{margin-top:14px;display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.ev{background:var(--soft);border-radius:12px;padding:12px 14px;font-size:14px;color:var(--ink2)}
+.ev b{color:var(--ink);font-size:20px;font-family:var(--f-d);display:block}
+
+/* currency */
+.cur{display:grid;gap:8px}
+.row{display:grid;grid-template-columns:1.2fr 1.6fr auto;gap:12px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.row .sig{font-weight:700}
+.row .conv{color:var(--ink2);font-size:15px}
+.tier{font:600 12px var(--f-m);padding:3px 9px;border-radius:99px;white-space:nowrap}
+.t1{background:var(--good);color:#fff}.t2{background:var(--warn);color:#fff}.t3{background:var(--bad);color:#fff}.t0{background:var(--soft);color:var(--ink2)}
+.callout{margin-top:14px;border-left:4px solid var(--demand);background:var(--panel);padding:12px 16px;border-radius:0 12px 12px 0}
+
+/* two-col */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.bars{display:grid;gap:8px;margin-top:8px}
+.bar{display:grid;grid-template-columns:80px 1fr 56px;gap:10px;align-items:center;font-size:14px}
+.bar .track{height:18px;background:var(--soft);border-radius:4px;overflow:hidden}
+.bar .fill{height:100%;background:var(--proof);border-radius:4px}
+.bar .v{font-family:var(--f-m);text-align:right}
+ul.clean{margin:8px 0 0;padding-left:18px;color:var(--ink2)} ul.clean li{margin:4px 0}
+
+/* quadrant */
+.quad{position:relative}
+.rules{counter-reset:r;display:grid;gap:8px}
+.rule{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:10px 14px}
+.rule .k{font:700 13px var(--f-m);padding:3px 9px;border-radius:8px;white-space:nowrap}
+pre.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px;font:13px/1.6 var(--f-m);overflow-x:auto;margin:0;color:var(--ink2)}
+.src{font-size:13px;color:var(--muted)} .src a{color:var(--demand)}
+.src li{margin:3px 0}
+
+@media (max-width:820px){
+  .qgrid{grid-template-columns:1fr 1fr}
+  .flow{grid-template-columns:1fr}
+  .arrow{transform:rotate(90deg);justify-self:center}
+  .evidence{grid-template-columns:1fr}
+  .two{grid-template-columns:1fr}
+  .row{grid-template-columns:1fr;gap:4px}
+}
+@media (max-width:480px){.qgrid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="kicker">Product Intel · method v1 · 7 Nov 2026</div>
+  <h1>How we judge a product</h1>
+  <p class="lede">Every hit follows the same path: one seller breaks out, clones arrive and spread to other channels, the market fills up, then fades. We read <b>where a product is on that path</b> from public signals, instead of blending everything into one score.</p>
+  <div class="qgrid">
+    <div class="q d"><div class="n">Q1</div><h3>Demand</h3><p>How many units move per month, summed over Amazon + TikTok Shop + own stores?</p><span class="lvl">category level</span></div>
+    <div class="q p"><div class="n">Q2</div><h3>Proof</h3><p>Do people who see the real numbers keep paying for ads and keep getting buyers for months?</p><span class="lvl">leader brands</span></div>
+    <div class="q s"><div class="n">Q3</div><h3>Stage</h3><p>Where on the life cycle, and how crowded relative to demand? Is an angle still open?</p><span class="lvl">category + leaders</span></div>
+    <div class="q gate"><div class="n">GATE</div><h3>Fit</h3><p>Can we sell it: rules, margin, AOV/LTV, logistics, creatives? Pass or fail, not a score.</p><span class="lvl">us</span></div>
+  </div>
+  <p class="legend-marks">Marks: ◆ confirmed · ◈ likely (one decent or vendor source) · ◇ heuristic / our assumption. AOV = average order value, LTV = lifetime value of a customer.</p>
+</header>
+
+<section>
+  <div class="kicker">1 · The map</div>
+  <h2>The life cycle of a hit, and what each channel shows at each stage</h2>
+  <p class="sub">Demand rises first, sellers follow with a lag, and the product appears channel by channel. The fad (dashed) spikes and dies before it reaches the other channels.</p>
+  <div class="panel chart-wrap">
+    <svg viewBox="-40 0 1040 470" width="100%" style="min-width:720px" role="img" aria-label="Life cycle chart">
+      <!-- stage bands -->
+      <rect x="60" y="20" width="80" height="270" fill="var(--sA)"/>
+      <rect x="140" y="20" width="150" height="270" fill="var(--sB)"/>
+      <rect x="290" y="20" width="260" height="270" fill="var(--sC)"/>
+      <rect x="550" y="20" width="250" height="270" fill="var(--sD)"/>
+      <rect x="800" y="20" width="180" height="270" fill="var(--sE)"/>
+      <g font-size="14" font-weight="700" fill="var(--ink)" font-family="Archivo, sans-serif">
+        <text x="100" y="42" text-anchor="middle">A</text>
+        <text x="215" y="42" text-anchor="middle">B · Breakout</text>
+        <text x="420" y="42" text-anchor="middle">C · Clone wave</text>
+        <text x="675" y="42" text-anchor="middle">D · Maturity</text>
+        <text x="890" y="42" text-anchor="middle">E · Decline</text>
+      </g>
+      <g font-size="12" fill="var(--muted)">
+        <text x="100" y="58" text-anchor="middle">Test</text>
+        <text x="215" y="58" text-anchor="middle">1–3 mo</text>
+        <text x="420" y="58" text-anchor="middle">3–9 mo</text>
+        <text x="675" y="58" text-anchor="middle">9+ mo</text>
+        <text x="890" y="58" text-anchor="middle">falling YoY</text>
+      </g>
+      <!-- axes -->
+      <line x1="60" y1="290" x2="980" y2="290" stroke="var(--line)" stroke-width="1.5"/>
+      <text x="22" y="160" font-size="12" fill="var(--muted)" transform="rotate(-90 22 160)" text-anchor="middle">relative level</text>
+      <!-- best window marker -->
+      <rect x="300" y="66" width="230" height="20" rx="10" fill="var(--good)"/>
+      <text x="415" y="80" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">best entry window if an angle is open</text>
+      <!-- demand curve -->
+      <path d="M60,282 C120,280 150,262 200,220 C260,170 300,130 380,112 C460,96 520,100 600,104 C680,108 760,112 820,150 C870,182 930,215 980,232" fill="none" stroke="var(--demand)" stroke-width="4" stroke-linecap="round"/>
+      <!-- clones curve -->
+      <path d="M60,286 C160,286 220,284 280,272 C340,250 380,200 450,160 C520,122 600,100 680,96 C740,94 780,104 820,130 C880,170 930,205 980,224" fill="none" stroke="var(--clones)" stroke-width="3.5" stroke-linecap="round"/>
+      <!-- fad curve -->
+      <path d="M150,284 C185,270 200,120 228,110 C252,104 262,250 300,280 C330,288 400,288 450,288" fill="none" stroke="var(--fad)" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+      <g font-size="13" font-weight="700">
+        <text x="600" y="128" fill="var(--demand)">Category demand</text>
+        <text x="686" y="88" fill="var(--clones)">Sellers / clones</text>
+        <text x="236" y="102" fill="var(--fad)">Fad</text>
+      </g>
+      <!-- channel lanes -->
+      <g font-size="13" fill="var(--ink2)">
+        <text x="56" y="322" text-anchor="end">Meta ads</text>
+        <text x="56" y="350" text-anchor="end">TikTok Shop</text>
+        <text x="56" y="378" text-anchor="end">Amazon</text>
+        <text x="56" y="406" text-anchor="end">Ads 180+ d</text>
+        <text x="56" y="434" text-anchor="end">Search</text>
+      </g>
+      <!-- lane bars: opacity = intensity -->
+      <g>
+        <rect x="70" y="310" width="70" height="16" rx="4" fill="var(--demand)" opacity=".35"/>
+        <rect x="140" y="310" width="150" height="16" rx="0" fill="var(--demand)" opacity=".7"/>
+        <rect x="290" y="310" width="260" height="16" fill="var(--demand)" opacity="1"/>
+        <rect x="550" y="310" width="250" height="16" fill="var(--demand)" opacity=".75"/>
+        <rect x="800" y="310" width="170" height="16" rx="4" fill="var(--demand)" opacity=".3"/>
+
+        <rect x="200" y="338" width="90" height="16" rx="4" fill="var(--demand)" opacity=".4"/>
+        <rect x="290" y="338" width="260" height="16" fill="var(--demand)" opacity=".95"/>
+        <rect x="550" y="338" width="250" height="16" fill="var(--demand)" opacity=".75"/>
+        <rect x="800" y="338" width="170" height="16" rx="4" fill="var(--demand)" opacity=".35"/>
+
+        <rect x="340" y="366" width="210" height="16" rx="4" fill="var(--demand)" opacity=".55"/>
+        <rect x="550" y="366" width="250" height="16" fill="var(--demand)" opacity="1"/>
+        <rect x="800" y="366" width="170" height="16" rx="4" fill="var(--demand)" opacity=".55"/>
+
+        <rect x="470" y="394" width="80" height="16" rx="4" fill="var(--proof)" opacity=".6"/>
+        <rect x="550" y="394" width="250" height="16" fill="var(--proof)" opacity="1"/>
+        <rect x="800" y="394" width="80" height="16" rx="4" fill="var(--proof)" opacity=".35"/>
+
+        <rect x="170" y="422" width="120" height="16" rx="4" fill="var(--demand)" opacity=".3"/>
+        <rect x="290" y="422" width="260" height="16" fill="var(--demand)" opacity=".7"/>
+        <rect x="550" y="422" width="250" height="16" fill="var(--demand)" opacity=".9"/>
+        <rect x="800" y="422" width="170" height="16" rx="4" fill="var(--demand)" opacity=".4"/>
+      </g>
+      <g font-size="11" fill="var(--ink)">
+        <text x="345" y="378" font-weight="700" fill="#fff">clones list here</text>
+        <text x="476" y="406" font-weight="700" fill="#fff">first 180 d</text>
+      </g>
+    </svg>
+    <div class="legend">
+      <span><i style="border-color:var(--demand)"></i>Category demand</span>
+      <span><i style="border-color:var(--clones)"></i>Number of sellers</span>
+      <span><i style="border-color:var(--fad);border-top-style:dashed"></i>Fad: spike and crash in 4–8 weeks</span>
+      <span>Lane darkness = how strong the channel is at that stage</span>
+    </div>
+  </div>
+  <p class="mk" style="margin-top:8px">Schematic. ◆ Stages follow the classic product life cycle. ◈ Clone and saturation markers: several dropshipping research guides that agree. ◈ TikTok → Amazon spillover: The Bluebird Group, 37 brands. ◈ Fad vs trend by curve shape: Exploding Topics.</p>
+
+  <div class="tbl-wrap">
+  <table>
+    <thead><tr><th></th><th class="cA">A · Test</th><th class="cB">B · Breakout</th><th class="cC">C · Clone wave</th><th class="cD">D · Maturity</th><th class="cE">E · Decline</th></tr></thead>
+    <tbody>
+      <tr><th>Meta Ad Library</th><td class="cA">1 advertiser, ads &lt;30 d</td><td class="cB">Leader's ads multiply, many variants, all young</td><td class="cC">Many advertisers, most ads young; leader's first ads pass 90 d</td><td class="cD">Few survivors with 180+ d ads; creatives look alike</td><td class="cE">Aged ads stop; few newcomers</td></tr>
+      <tr><th>TikTok Shop</th><td class="cA">—</td><td class="cB">First sellers, sold count jumping</td><td class="cC">Many shops and creators</td><td class="cD">High but flat</td><td class="cE">Flat or falling</td></tr>
+      <tr><th>Amazon</th><td class="cA">—</td><td class="cB">Maybe 1 listing</td><td class="cC">Several listings with badges; first 1K+/mo</td><td class="cD">Many 1K+ listings, prices falling, many sellers</td><td class="cE">Sellers leave, price war</td></tr>
+      <tr><th>Search (Trends)</th><td class="cA">—</td><td class="cB">Brand search appears</td><td class="cC">Category rising year on year</td><td class="cD">High, flat, seasonal pattern repeats</td><td class="cE">Falling year on year</td></tr>
+      <tr><th>Reviews / traffic</th><td class="cA">—</td><td class="cB">Steep rise</td><td class="cC">Still rising</td><td class="cD">Flat</td><td class="cE">Falling 3+ months</td></tr>
+      <tr><th>Our move</th><td class="cA move">Ignore</td><td class="cB move">Cheap fast test only (fad risk)</td><td class="cC move">Main target <span class="tag t-best">BEST</span></td><td class="cD move">Only with a new angle / segment / offer</td><td class="cE move">Skip</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p class="mk" style="margin-top:8px">Read the stage twice: for the <b>category</b> and for the <b>leader brand</b>. A brand can be in B while its category is in D.</p>
+</section>
+
+<section>
+  <div class="kicker">2 · Your question</div>
+  <h2>A product is not on TikTok. Is it weaker?</h2>
+  <p class="sub">Only if three things are all true. Otherwise the gap is neutral: "not yet" or "not suited".</p>
+  <div class="flow">
+    <div class="step"><div class="q2">Selling visibly for 6+ months?</div><div class="no">No → <b>neutral</b>: clones haven't had time to arrive.</div></div>
+    <div class="arrow">→</div>
+    <div class="step"><div class="q2">Does the channel suit it?</div><div class="no">No → <b>neutral</b>. TikTok: 5-second demo, impulse price. Amazon: people search for it. Meta + own store: needs a story, higher AOV. ◇</div></div>
+    <div class="arrow">→</div>
+    <div class="step"><div class="q2">Does the channel allow the category?</div><div class="no">No → <b>neutral</b>. Some health and medical items are restricted on TikTok Shop and Amazon.</div></div>
+    <div class="arrow">→</div>
+    <div class="step final"><div class="q2">Then the gap counts against it</div><div class="no">Demand is narrower than it looks: it depends on one brand's ads or one creator wave. ◈</div></div>
+  </div>
+  <div class="evidence">
+    <div class="ev"><b>~65%</b>of 37 brands saw Amazon search rise in the same month their TikTok Shop sales grew. ◈ The Bluebird Group, 2025</div>
+    <div class="ev"><b>48.8% vs 9.5%</b>prefer to buy on Amazon vs TikTok Shop after discovering on social. ◇ one survey (Envision Horizons, via Modern Retail)</div>
+    <div class="ev"><b>Order is not fixed</b>Real hits spread across channels, but some start on Amazon or TikTok. So we count channels as a <i>stage</i> signal, not a demand signal.</div>
+  </div>
+</section>
+
+<section>
+  <div class="kicker">3 · Q1 Demand</div>
+  <h2>One currency: units per month, summed across channels</h2>
+  <p class="sub">Every volume signal is turned into orders a month with an error band. Signals that cannot be turned into volume are used for proof or stage only.</p>
+  <div class="cur">
+    <div class="row"><div class="sig">Amazon "X+ bought in past month"</div><div class="conv">Floor of unique buyers in 30 days; sum on-target top-20. ◈ Within one bucket of real sales &gt;90% of the time (PMG). Needs 50+ buyers.</div><span class="tier t1">Tier 1 · counted</span></div>
+    <div class="row"><div class="sig">TikTok Shop "sold"</div><div class="conv">Lifetime units ÷ months listed. 28-day units need FastMoss / Kalodata (paid).</div><span class="tier t1">Tier 1 · counted</span></div>
+    <div class="row"><div class="sig">Store traffic (SimilarWeb)</div><div class="conv">Visits × 2–3% conversion ◇. Weak under ~50K visits ◆.</div><span class="tier t2">Tier 2 · estimate</span></div>
+    <div class="row"><div class="sig">Reviews per month</div><div class="conv">Amazon × 50–100 (◈ 1–2% of buyers review). Own store with review emails × 10–30 ◇. Use the <b>shape</b>, not the level.</div><span class="tier t2">Tier 2 · estimate</span></div>
+    <div class="row"><div class="sig">Google Trends · Meta ads</div><div class="conv">No volume. Trends = shape and season. Ads = proof and stage.</div><span class="tier t0">not volume</span></div>
+    <div class="row"><div class="sig">Guru / case-study revenue</div><div class="conv">Never converted. ◆ Ran 2× to 400× above our sanity band.</div><span class="tier t3">Tier 3 · lead only</span></div>
+  </div>
+  <div class="callout"><b>Fix to our blind pass:</b> it scored demand as the <i>mean</i> of Amazon and TikTok, which halves a product that sells on one channel. Demand is the <i>sum</i>. Channel count goes to Stage.</div>
+</section>
+
+<section>
+  <div class="kicker">4 · Q2 Proof</div>
+  <h2>Proof = someone with real numbers keeps paying</h2>
+  <div class="two">
+    <div class="panel">
+      <h3>How rare a long-running ad is</h3>
+      <p class="mk">Share of 4,634 US Facebook ads still running at each age (Adligator, Aug 2026) ◈</p>
+      <div class="bars">
+        <div class="bar"><span>7+ days</span><div class="track"><div class="fill" style="width:97%"></div></div><span class="v">19.4%</span></div>
+        <div class="bar"><span>14+ days</span><div class="track"><div class="fill" style="width:53%"></div></div><span class="v">10.6%</span></div>
+        <div class="bar"><span>30+ days</span><div class="track"><div class="fill" style="width:32.5%"></div></div><span class="v">6.5%</span></div>
+        <div class="bar"><span>60+ days</span><div class="track"><div class="fill" style="width:15%"></div></div><span class="v">3.0%</span></div>
+        <div class="bar"><span>90+ days</span><div class="track"><div class="fill" style="width:10.5%"></div></div><span class="v">2.1%</span></div>
+      </div>
+      <p class="mk" style="margin-top:10px">◇ Another study of DTC brand ads found 26% past 90 days (Funnelens). Rarity depends on the sample, so compare ads <b>within one category</b>. Our bar: 180+ days.</p>
+    </div>
+    <div class="panel">
+      <h3>Proof needs two independent signals that agree</h3>
+      <ul class="clean">
+        <li><b>Ads 90–180+ days</b>, many variants, relaunches ◈</li>
+        <li><b>Review curve</b> rising or stable for 6+ months ◆ (Earthly Derm and Everstride matched their traffic)</li>
+        <li><b>Traffic / Amazon rank history</b> without a cliff for 3–6+ months ◈</li>
+        <li><b>Search</b> compounding over months, not a 6–8 week spike ◈</li>
+      </ul>
+      <p class="mk" style="margin-top:10px">Traps: brand-awareness and retargeting ads run long without selling much ◈; reviews can be gated or imported ◆.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="kicker">5 · Q3 Stage + crowding</div>
+  <h2>Crowded is relative: sellers vs demand, and how fast they arrive</h2>
+  <div class="two">
+    <div class="panel">
+      <ul class="clean">
+        <li><b>Demand per seller</b>: Amazon units ÷ listings selling 1K+; TikTok revenue per shop ◈ (Kalodata uses it)</li>
+        <li><b>Concentration</b>: top-3 sellers' share. Spread out = easier to enter</li>
+        <li><b>Entry speed</b>: share of advertisers whose ads are all under 30 days ◇</li>
+        <li><b>Price war</b>: seller count up while price falls ◈ (Keepa reading guides)</li>
+        <li><b>Same hook everywhere</b> = the obvious angle is burned ◇</li>
+      </ul>
+    </div>
+    <div class="panel">
+      <h3>Open angle test (ours, ◈)</h3>
+      <p class="sub" style="margin:6px 0 0">Inside one category, compare active ads with ads aged 180+ per angle. Compression socks: <b>wide calf</b> and <b>nurses</b> survive (proven); <b>men</b>, <b>plus size</b>, <b>pregnancy</b> are tried but rarely survive (open but unproven).</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="kicker">6 · Why our shortlists disagree</div>
+  <h2>One list ranked categories, the other ranked brands</h2>
+  <p class="sub">Placement is our judgment from the data in CONCLUSIONS.md and BLIND_PASS.md, not a measurement.</p>
+  <div class="panel chart-wrap">
+    <svg viewBox="0 0 900 470" width="100%" style="min-width:640px" role="img" aria-label="Category demand vs leader proof">
+      <rect x="90" y="20" width="390" height="190" fill="var(--sB)"/>
+      <rect x="480" y="20" width="390" height="190" fill="var(--sC)"/>
+      <rect x="90" y="210" width="390" height="190" fill="var(--sA)"/>
+      <rect x="480" y="210" width="390" height="190" fill="var(--sD)"/>
+      <g font-family="Archivo, sans-serif" font-weight="700" font-size="15" fill="var(--ink)">
+        <text x="104" y="44">Execution bet</text>
+        <text x="856" y="44" text-anchor="end">Category bet, proven</text>
+        <text x="104" y="390">Unproven</text>
+        <text x="856" y="390" text-anchor="end">Big but nobody shows how</text>
+      </g>
+      <g font-size="12" fill="var(--muted)">
+        <text x="104" y="62">a brand wins in an average market: copy what it does better</text>
+        <text x="856" y="62" text-anchor="end">ride the demand, enter on an open angle</text>
+        <text x="104" y="372">watch, or measure the category better</text>
+        <text x="856" y="372" text-anchor="end">look for the leader first</text>
+      </g>
+      <line x1="90" y1="400" x2="870" y2="400" stroke="var(--ink2)" stroke-width="1.5"/>
+      <line x1="90" y1="20" x2="90" y2="400" stroke="var(--ink2)" stroke-width="1.5"/>
+      <text x="480" y="432" text-anchor="middle" font-size="14" fill="var(--ink2)">Category demand, all channels → (blind pass)</text>
+      <text x="40" y="210" text-anchor="middle" font-size="14" fill="var(--ink2)" transform="rotate(-90 40 210)">Leader proof → (conclusions)</text>
+      <!-- points -->
+      <g font-size="14" font-weight="700" fill="var(--ink)">
+        <circle cx="790" cy="80" r="10" fill="var(--good)"/><text x="776" y="110" text-anchor="end">Compression socks</text>
+        <circle cx="330" cy="95" r="10" fill="var(--demand)"/><text x="346" y="100">Turmeric soap</text>
+        <circle cx="540" cy="170" r="10" fill="var(--demand)"/><text x="556" y="175">Persimmon soap</text>
+        <circle cx="430" cy="235" r="10" fill="var(--clones)"/><text x="446" y="240">Carry-on duffel</text>
+        <circle cx="170" cy="275" r="10" fill="var(--clones)"/><text x="186" y="280">Leak-proof boxers</text>
+      </g>
+      <g font-size="12" fill="var(--muted)">
+        <text x="776" y="126" text-anchor="end">all 3 channels · 190 aged ads</text>
+        <text x="346" y="116">blind #60 · traffic 269K→913K</text>
+        <text x="556" y="191">blind #24 · 34–71% US traffic</text>
+        <text x="446" y="256">TikTok-only · ads rotate fast</text>
+        <text x="186" y="296">blind #88 · 8 of 234 ads 180+ d</text>
+      </g>
+    </svg>
+  </div>
+  <p class="mk" style="margin-top:8px">Both lists were right about what they measured. The decision is which bet we make. An execution bet needs more brand and creative work than a category bet.</p>
+</section>
+
+<section>
+  <div class="kicker">7 · Output</div>
+  <h2>Decision rules and the product card</h2>
+  <div class="two">
+    <div class="rules">
+      <div class="rule"><span class="k t0">Gate</span><span>Fit fails → <b>skip</b>, whatever the signals say.</span></div>
+      <div class="rule"><span class="k t0">Q1</span><span>Category below ~5–10K units/mo across channels → skip, unless it is a clear execution bet. ◇ threshold to calibrate</span></div>
+      <div class="rule"><span class="k" style="background:var(--sA)">A / Fad</span><span>Watch only.</span></div>
+      <div class="rule"><span class="k" style="background:var(--sB)">B</span><span>Two agreeing proof signals → small, fast test.</span></div>
+      <div class="rule"><span class="k" style="background:var(--sC)">C</span><span>Main target; enter on an angle that is not crowded.</span></div>
+      <div class="rule"><span class="k" style="background:var(--sD)">D</span><span>Only with a named, evidenced open angle.</span></div>
+      <div class="rule"><span class="k" style="background:var(--sE)">E</span><span>Skip.</span></div>
+    </div>
+<pre class="card">Product / category:
+  Demand   : ~N units/mo (range)
+             AMZ __ · TT __ · DTC __  [tier]
+  Proof    : leader __ months
+             agreeing: __ + __
+  Stage    : category _ / leader _  ◆◈◇
+  Channels : present __ · absent __
+             (neutral / against, why)
+  Crowding : per seller __ · entry __
+             open angles __
+  Fit gate : rules · margin/LTV ·
+             logistics · creatives → pass/fail
+  Verdict  : take / test / watch / skip
+             + the one fact that would
+               change it</pre>
+  </div>
+</section>
+
+<section>
+  <div class="kicker">Limits</div>
+  <h2>What this method still can't see</h2>
+  <ul class="clean">
+    <li>Free Amazon and TikTok data are snapshots. Direction over time needs Keepa (Amazon history) or FastMoss / Kalodata (TikTok history), both paid. ◆</li>
+    <li>Meta never shows spend; logged-off Ad Library loads only ~30 top ads per query. ◆</li>
+    <li>Conversion factors (2–3% site conversion, own-store review rate) are guesses until checked on one store with known sales. ◇</li>
+    <li>Saturation and demand thresholds come from vendor blogs, not research. ◇</li>
+  </ul>
+</section>
+
+<section>
+  <div class="kicker">Sources</div>
+  <ul class="src">
+    <li>Amazon badge rules: Amazon Seller Support reply on <a href="https://sellercentral.amazon.com/seller-forums/discussions/t/0e83887a-e6f2-4584-85ce-0d8f8143eeaa">Seller Central forum</a> (2026); accuracy: <a href="https://pmg.com/insights-and-news/amazon-serp-bought-in-last-tags">PMG</a>; <a href="https://arbitragehero.com/blog/amazon-sales-estimate-accuracy">Arbitrage Hero</a></li>
+    <li>Review rate 1–2%: <a href="https://supplykick.com/blog/why-your-amazon-product-reviews-matter">SupplyKick</a>, <a href="https://ridgeworldwide.com/pages/blog/posts/review-velocity-analysis-amazon.html">Ridge</a>, <a href="https://emplicit.co/how-review-trends-impact-amazon-sales">Emplicit</a></li>
+    <li>Ad survival: <a href="https://adligator.com/blog/signals-competitor-facebook-ad-is-winning">Adligator</a>, <a href="https://funnelens.com/studies/dtc-ad-longevity-study-2026">Funnelens</a>, <a href="https://ad-radar.dev/blog/winning-products-from-ads">Ad-Radar</a></li>
+    <li>TikTok → Amazon: <a href="https://thebluebirdgrp.com/wp-content/uploads/2025/12/TikTok-Impact-on-Commerce-The-Bluebird-Group.pdf">The Bluebird Group</a>; <a href="https://affiversemedia.com/tiktok-shop-amazon-halo-attribution-gap">Affiverse (Modern Retail survey)</a></li>
+    <li>Saturation stages: <a href="https://pyratrend.com/insights/product-saturation-analysis">Pyratrend</a>, <a href="https://astools.app/en/blog/how-to-identify-saturated-products">AS Tools</a>, <a href="https://dropshipseek.com/blog/how-to-tell-if-dropshipping-product-is-saturated">DropshipSeek</a></li>
+    <li>TikTok Shop metrics: <a href="https://kalodata.com/blog/kalodata/tiktok-shop-beauty-product-research">Kalodata</a>, <a href="https://fastmoss.com/blog/how-to-find-trending-products-tiktok-shop">FastMoss</a>; Keepa reading: <a href="https://oabeans.com/how-to-read-keepa-graph">OA Beans</a>; fad vs trend: <a href="https://explodingtopics.com/blog/inventory-de-risking">Exploding Topics</a></li>
+    <li>Full text: EVALUATION_METHOD.md</li>
+  </ul>
+</section>
+
+</div>
+</body>
+</html>

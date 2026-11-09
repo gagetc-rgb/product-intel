@@ -1,0 +1,317 @@
+{
+ "pid": "rosemary_oil",
+ "name": "Rosemary hair oil (roller)",
+ "verdict_row": {
+  "pid": "rosemary_oil",
+  "name": "Rosemary hair oil (roller)",
+  "flag": "",
+  "shelf": 200700,
+  "nb": 25950,
+  "gen": 5900,
+  "winB": 6,
+  "winG": 1,
+  "price": 13.99,
+  "act": 4300,
+  "a30": 1300,
+  "a90": 260,
+  "a180": 60,
+  "stores": 35,
+  "stores90": 21,
+  "trend": 0.76,
+  "zeros": 0.0,
+  "kill": "a: falling demand",
+  "note": "",
+  "nb_id": 24150
+ },
+ "amazon_us": {
+  "listings_on_target": 164,
+  "shelf_units": 200700,
+  "units_by_brand_age": {
+   "24+": 162650,
+   "12-24": 23050,
+   "6-12": 6900,
+   "0-6": 8100
+  },
+  "units_by_kind": {
+   "old_brand": 145400,
+   "generic_old": 8250,
+   "new_brand": 25950,
+   "generic_new": 5900,
+   "older_brand_new_here": 15200
+  },
+  "top_brands": [
+   {
+    "key": "mielle",
+    "units": 56100,
+    "listings": 6,
+    "best": {
+     "asin": "B07N7PK9QK",
+     "title": "Mielle Organics Rosemary Mint Hair Oil with Biotin, 2 oz",
+     "units": 50000,
+     "price": "$8.84",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61FtCYIjw5L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 80,
+    "status": "old"
+   },
+   {
+    "key": "bask",
+    "units": 28000,
+    "listings": 2,
+    "best": {
+     "asin": "B0CFYS7M4L",
+     "title": "BASK & LATHER Scalp Stimulator Hair Growth Oil, Cold Pressed Mint and Rosemary Blend with Grapeseed for Hair G",
+     "units": 20000,
+     "price": "$13.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61fhM8F1qmL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 40,
+    "status": "old"
+   },
+   {
+    "key": "botanic",
+    "units": 21800,
+    "listings": 14,
+    "best": {
+     "asin": "B0C6XJMSGP",
+     "title": "Botanic Hearth Rosemary Oil for Hair Growth - 6.7 Fl oz",
+     "units": 10000,
+     "price": "$18.95",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/612qVrX3w7L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 44,
+    "status": "old"
+   },
+   {
+    "key": "handcraft",
+    "units": 10500,
+    "listings": 8,
+    "best": {
+     "asin": "B0757Y44SK",
+     "title": "Handcraft Blends Rosemary Essential Oil - Huge 4 Fl Oz",
+     "units": 6000,
+     "price": "$11.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/71-H-sDUmaL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "aveya",
+    "units": 10000,
+    "listings": 1,
+    "best": {
+     "asin": "B0FLTHN3XH",
+     "title": "AVEYA Hair Growth Spray, infused with Rosemary Oil,rice water,Batana Oil&Biotin for Scalp – Strengthens,Thicke",
+     "units": 10000,
+     "price": "$29.85",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/61Vxta+xHPL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 15,
+    "status": "NEW"
+   },
+   {
+    "key": "kitsch",
+    "units": 9000,
+    "listings": 2,
+    "best": {
+     "asin": "B0BSJ42G9M",
+     "title": "Kitsch Rosemary Oil for Hair Growth -With Castor Oil, Biotin & Jojoba- 60mL",
+     "units": 7000,
+     "price": "$14.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/7130PCyM9mL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 51,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "lebanta",
+    "units": 6000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DZDV2FLB",
+     "title": "Lebanta Batana Oil for Hair - Organic Castor Rosemary Scalp Oil 3.38 Fl Oz",
+     "units": 6000,
+     "price": "$22.97",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/71-XzltUcRL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 20,
+    "status": "NEW"
+   },
+   {
+    "key": "blend",
+    "units": 5750,
+    "listings": 4,
+    "best": {
+     "asin": "B0DJS3X3C4",
+     "title": "Blend Of Pure Rosemary Oil For Hair Growth 6 Fl Oz With Castor, Batana Oil",
+     "units": 5000,
+     "price": "$19.98",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/71rI5spXlYL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 25,
+    "status": "old"
+   },
+   {
+    "key": "medicube",
+    "units": 5000,
+    "listings": 1,
+    "best": {
+     "asin": "B0H71K75Q9",
+     "title": "medicube Rosemary PDRN Silk Hair Oil, Lightweight Glass Oil & Adds Shine",
+     "units": 5000,
+     "price": "$21.80",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61rjH88QRIL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 4,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "difeel",
+    "units": 4650,
+    "listings": 9,
+    "best": {
+     "asin": "B0B64BKP2Q",
+     "title": "Difeel Rosemary and Mint Hair Oil Blend with Biotin 7.1 Ounce - Strengthening Scalp & Hair Treatment Oil Blend",
+     "units": 3000,
+     "price": "$8.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61n+HqCihNL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 52,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    6000,
+    "B09PR9R9SL",
+    "100% Pure Rosemary Essential Oil for Hair, Undiluted - 4 Fl Oz",
+    "$11.99",
+    null
+   ],
+   [
+    1000,
+    "B0DNRFHG9C",
+    "Organic Rosemary Oil for Hair Growth, 100% Pure USDA Certified, 4 Fl Oz",
+    "$36.99",
+    null
+   ],
+   [
+    800,
+    "B0G43DF7VL",
+    "Hair Growth Serum Roll On with 3% Rosemary,3% Batana Oil,2% Pea Extract,2% Ginge",
+    "$9.99",
+    null
+   ],
+   [
+    800,
+    "B0DX1DMD8W",
+    "3 Pack Rosemary Oil for Hair Growth,Rosemary Hair Oil,Hair Strengthening Oil for",
+    "$9.99",
+    null
+   ]
+  ],
+  "winners_1k": 37
+ },
+ "price_us": {
+  "price_usd_median": 13.99,
+  "price_usd_p25_p75": [
+   9.99,
+   17.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "rosemary oil",
+  "active": 4300,
+  "aged30": 1300,
+  "aged90": 260,
+  "aged180": 60,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "exotichairdoctor.com",
+   1,
+   2860,
+   1
+  ],
+  [
+   "jcsmiracleproducts.com",
+   6,
+   622,
+   1
+  ],
+  [
+   "hairqare.co",
+   2,
+   411,
+   1
+  ],
+  [
+   "page:self care from maree",
+   10,
+   267,
+   1
+  ],
+  [
+   "lgbeauty.com",
+   1,
+   254,
+   1
+  ],
+  [
+   "page:ella & eden",
+   1,
+   240,
+   1
+  ],
+  [
+   "vitaecharm.com",
+   4,
+   221,
+   1
+  ],
+  [
+   "officialbodywise.com",
+   8,
+   212,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "rosemary oil for hair",
+  "rel_yoy": 0.76,
+  "yearly_means_v20": [
+   23.8,
+   37.2,
+   39.9,
+   31.5,
+   37.8
+  ],
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "598.0",
+ "creatives": []
+}

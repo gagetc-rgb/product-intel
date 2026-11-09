@@ -1,0 +1,311 @@
+{
+ "pid": "hair_serum",
+ "name": "Hair-growth scalp serum",
+ "verdict_row": {
+  "pid": "hair_serum",
+  "name": "Hair-growth scalp serum",
+  "flag": "COMPLIANCE",
+  "shelf": 240900,
+  "nb": 31650,
+  "gen": 10200,
+  "winB": 8,
+  "winG": 2,
+  "price": 21.99,
+  "act": 3000,
+  "a30": 1200,
+  "a90": 220,
+  "a180": 53,
+  "stores": 25,
+  "stores90": 20,
+  "trend": 1.14,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": null
+ },
+ "amazon_us": {
+  "listings_on_target": 107,
+  "shelf_units": 240900,
+  "units_by_brand_age": {
+   "0-6": 10300,
+   "24+": 197050,
+   "12-24": 21850,
+   "6-12": 11700
+  },
+  "units_by_kind": {
+   "generic_new": 10200,
+   "old_brand": 181350,
+   "new_brand": 31650,
+   "generic_old": 8700,
+   "older_brand_new_here": 9000
+  },
+  "top_brands": [
+   {
+    "key": "bare",
+    "units": 71000,
+    "listings": 2,
+    "best": {
+     "asin": "B0DK6W7RPS",
+     "title": "Bare Anatomy Nature x Science Rosemary Water Spray for Hair Growth & Hair Thickness with Rice Water |100% Natu",
+     "units": 70000,
+     "price": "$11.99",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/51PPWO9ngzL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 25,
+    "status": "old"
+   },
+   {
+    "key": "botanic",
+    "units": 28000,
+    "listings": 4,
+    "best": {
+     "asin": "B0C6XJMSGP",
+     "title": "Botanic Hearth Rosemary Oil for Hair Growth - 6.7 Fl oz",
+     "units": 10000,
+     "price": "$18.95",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/612qVrX3w7L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 44,
+    "status": "old"
+   },
+   {
+    "key": "bask",
+    "units": 20000,
+    "listings": 1,
+    "best": {
+     "asin": "B0CFYS7M4L",
+     "title": "BASK & LATHER Scalp Stimulator Hair Growth Oil, Cold Pressed Mint and Rosemary Blend with Grapeseed for Hair G",
+     "units": 20000,
+     "price": "$13.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/61fhM8F1qmL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 40,
+    "status": "old"
+   },
+   {
+    "key": "lilyeve",
+    "units": 14000,
+    "listings": 3,
+    "best": {
+     "asin": "B0GYYKQL9Z",
+     "title": "lilyeve GROWTURN Exosome Hair Growth Serum with Built-In Brush, 3.38 fl oz",
+     "units": 10000,
+     "price": "$29.00",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/61YkfIFyixL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 15,
+    "status": "NEW"
+   },
+   {
+    "key": "wild",
+    "units": 10000,
+    "listings": 2,
+    "best": {
+     "asin": "B000V8MTIC",
+     "title": "Wild Growth Hair Oil 4 Oz",
+     "units": 8000,
+     "price": "$9.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/61vjTfBptaL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "bebodywise",
+    "units": 8800,
+    "listings": 3,
+    "best": {
+     "asin": "B0GD1KRPT3",
+     "title": "Be Bodywise Rosemary Hair Growth Serum Roll-On, Saw Palmetto, 0.84 fl oz",
+     "units": 7000,
+     "price": "$30.00",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/51IQjI9LC4L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 30,
+    "status": "old"
+   },
+   {
+    "key": "drgroot",
+    "units": 7000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DK22L979",
+     "title": "Dr. Groot Award-Winning Hair Thickening Serum for Thinning Hair",
+     "units": 7000,
+     "price": "$26.00",
+     "stars": "2.9",
+     "img": "https://m.media-amazon.com/images/I/61ERUmjGPvL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 25,
+    "status": "old"
+   },
+   {
+    "key": "kitsch",
+    "units": 7000,
+    "listings": 1,
+    "best": {
+     "asin": "B0BSJ42G9M",
+     "title": "Kitsch Rosemary Oil for Hair Growth -With Castor Oil, Biotin & Jojoba- 60mL",
+     "units": 7000,
+     "price": "$14.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/7130PCyM9mL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 51,
+    "status": "older brand, new here"
+   },
+   {
+    "key": "divi",
+    "units": 5400,
+    "listings": 2,
+    "best": {
+     "asin": "B09PLNNSYV",
+     "title": "divi Scalp Serum for Thinning Hair, Hair Growth Serum, 30ml",
+     "units": 5000,
+     "price": "$48.00",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/51DeMFVkS4L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 58,
+    "status": "old"
+   },
+   {
+    "key": "blend",
+    "units": 5000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DJS3X3C4",
+     "title": "Blend Of Pure Rosemary Oil For Hair Growth 6 Fl Oz With Castor, Batana Oil",
+     "units": 5000,
+     "price": "$19.98",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/71rI5spXlYL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 25,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    4000,
+    "B08CZYWRT1",
+    "Organic Castor Oil Eyelash Growth Serum, Eyebrow Lash Serum for Hair Growth",
+    "$15.99",
+    null
+   ],
+   [
+    3000,
+    "B0G44137Y7",
+    "Batana Oil Hair Growth Serum -Traditional Honduran Formula for Thinner Hair, Thi",
+    "$25.85",
+    null
+   ],
+   [
+    3000,
+    "B0DL5LB7JH",
+    "Batana Oil for Hair Growth - 100% Raw & Organic Unrefined Batana Oil - Cold Pres",
+    "$15.99",
+    null
+   ],
+   [
+    1000,
+    "B0FPMLZYG1",
+    "Hair Growth Serum Spray for Women & Men Hair Loss – Biotin & Caffeine, Anti-Thin",
+    "$29.99",
+    null
+   ]
+  ],
+  "winners_1k": 45
+ },
+ "price_us": {
+  "price_usd_median": 21.99,
+  "price_usd_p25_p75": [
+   17.99,
+   29.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "hair growth serum",
+  "active": 3000,
+  "aged30": 1200,
+  "aged90": 220,
+  "aged180": 53,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "page:gardenpurejoy selections",
+   2,
+   644,
+   1
+  ],
+  [
+   "jcsmiracleproducts.com",
+   3,
+   543,
+   1
+  ],
+  [
+   "page:marée",
+   3,
+   348,
+   1
+  ],
+  [
+   "officialbodywise.com",
+   11,
+   345,
+   1
+  ],
+  [
+   "cphgrooming.com",
+   1,
+   257,
+   1
+  ],
+  [
+   "reversehairco.com",
+   1,
+   226,
+   1
+  ],
+  [
+   "averastore.co",
+   7,
+   219,
+   1
+  ],
+  [
+   "rennorabeauty.com",
+   1,
+   212,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "hair growth serum",
+  "rel_yoy": 1.14,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "111.8",
+ "creatives": []
+}

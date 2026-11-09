@@ -1,0 +1,298 @@
+{
+ "phrase": "whitening powder",
+ "date": "2026-11-08",
+ "active": 150,
+ "aged30": 43,
+ "aged90": 2,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "2117396765857663",
+   "page": "WHYTE",
+   "start": "2026-07-25",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1643002116983098",
+   "page": "DailySale",
+   "start": "2026-05-17",
+   "n": 1,
+   "domain": "dailysale.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2560135037836608",
+   "page": "Boka",
+   "start": "2026-09-01",
+   "n": 1,
+   "domain": "www.boka.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1397524699174120",
+   "page": "WHYTE with Shubhangi Tyagi",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1624762649043868",
+   "page": "Boka",
+   "start": "2026-09-23",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1774584087024973",
+   "page": "WHYTE",
+   "start": "2026-09-16",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28268554389422011",
+   "page": "Boka",
+   "start": "2026-09-01",
+   "n": 1,
+   "domain": "www.boka.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1394367955544108",
+   "page": "Modern Wellness Journal",
+   "start": "2026-09-18",
+   "n": 1,
+   "domain": "oralcarereviews.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2368327893575173",
+   "page": "Boka",
+   "start": "2026-09-03",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1241966631447999",
+   "page": "Modern Wellness Journal",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "oralcarereviews.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2139280233652263",
+   "page": "Boka",
+   "start": "2026-09-03",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1073081578442442",
+   "page": "Oral Health Tips",
+   "start": "2026-08-23",
+   "n": 1,
+   "domain": "trymooths.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1084872924105158",
+   "page": "WHYTE with Shubhangi Tyagi",
+   "start": "2026-08-18",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1070708792036977",
+   "page": "Eco Bright Smile",
+   "start": "2026-09-08",
+   "n": 1,
+   "domain": "ecobrightsmile.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1734295334907692",
+   "page": "WHYTE",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1565031814853715",
+   "page": "Mooths",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "trymooths.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2081418542477476",
+   "page": "Insight Point Hub",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "related.markedscripts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1628835268643273",
+   "page": "WHYTE",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1055172657163740",
+   "page": "WHYTE with Shubhangi Tyagi",
+   "start": "2026-08-18",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1345802304061947",
+   "page": "Modern Wellness Journal",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "oralcarereviews.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28610568058560668",
+   "page": "Eco Bright Smile",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "ecobrightsmile.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1360883202797452",
+   "page": "WHYTE with Shubhangi Tyagi",
+   "start": "2026-08-18",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2087867572121742",
+   "page": "WHYTE with Shubhangi Tyagi",
+   "start": "2026-08-18",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2243870363101621",
+   "page": "WHYTE with Shubhangi Tyagi",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1847993593315237",
+   "page": "WHYTE",
+   "start": "2026-09-08",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1411820496947052",
+   "page": "Mooths",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "trymooths.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1028598733527001",
+   "page": "The New Find",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "www.thenewfind.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1123451110121363",
+   "page": "Lucent Globe",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "lucentglobe.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1039639508901795",
+   "page": "WHYTE",
+   "start": "2026-09-08",
+   "n": 1,
+   "domain": "trywhyteproducts.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2504351426738742",
+   "page": "Mooths",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "trymooths.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1277727861155851",
+   "page": "Living Well with Dr. Michelle Jorgensen",
+   "start": "2026-10-13",
+   "n": 1,
+   "domain": "livingwellwithdrmichelle.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1804115597509666",
+   "page": "Living Well with Dr. Michelle Jorgensen",
+   "start": "2026-10-13",
+   "n": 1,
+   "domain": "livingwellwithdrmichelle.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1038279132566833",
+   "page": "Healthylivingco.net with Healthy living",
+   "start": "2026-10-23",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1101900115813540",
+   "page": "NicoletteA with WHYTE",
+   "start": "2026-10-27",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1633707815078528",
+   "page": "Eco Bright Smile",
+   "start": "2026-10-17",
+   "n": 1,
+   "domain": "ecobrightsmile.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1005631565883166",
+   "page": "Eco Bright Smile",
+   "start": "2026-10-14",
+   "n": 1,
+   "domain": "ecobrightsmile.com",
+   "window": "0-30"
+  }
+ ]
+}

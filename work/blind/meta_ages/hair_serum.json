@@ -1,0 +1,410 @@
+{
+ "phrase": "hair growth serum",
+ "date": "2026-11-08",
+ "active": 3000,
+ "aged30": 1200,
+ "aged90": 220,
+ "aged180": 53,
+ "ads": [
+  {
+   "id": "805877581801967",
+   "page": "BodyWise",
+   "start": "2026-02-23",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "1579059543183089",
+   "page": "BodyWise",
+   "start": "2026-04-10",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "1384742323030665",
+   "page": "Marée",
+   "start": "2025-11-24",
+   "n": 1,
+   "domain": "amazon.com",
+   "window": "180+"
+  },
+  {
+   "id": "1513354020422051",
+   "page": "EveryMarket",
+   "start": "2026-05-08",
+   "n": 1,
+   "domain": "everymarket.com",
+   "window": "180+"
+  },
+  {
+   "id": "887463344116505",
+   "page": "BodyWise",
+   "start": "2026-02-23",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "1857482851553987",
+   "page": "Marée",
+   "start": "2025-11-24",
+   "n": 1,
+   "domain": "amazon.com",
+   "window": "180+"
+  },
+  {
+   "id": "1281550094093394",
+   "page": "HINU",
+   "start": "2026-04-10",
+   "n": 1,
+   "domain": "hinu.co",
+   "window": "180+"
+  },
+  {
+   "id": "1168734178682908",
+   "page": "BodyWise",
+   "start": "2025-11-27",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "1811773526117124",
+   "page": "BodyWise",
+   "start": "2026-02-23",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "27169112956007018",
+   "page": "Avera",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "averastore.co",
+   "window": "180+"
+  },
+  {
+   "id": "1386667286560973",
+   "page": "Avera",
+   "start": "2026-04-12",
+   "n": 1,
+   "domain": "averastore.co",
+   "window": "180+"
+  },
+  {
+   "id": "926052576694225",
+   "page": "Reverse HairCo",
+   "start": "2026-03-26",
+   "n": 1,
+   "domain": "reversehairco.com",
+   "window": "180+"
+  },
+  {
+   "id": "1936536243614318",
+   "page": "BodyWise",
+   "start": "2026-02-23",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "898749226122438",
+   "page": "BodyWise",
+   "start": "2026-02-23",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "917246611078395",
+   "page": "Avera",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "averastore.co",
+   "window": "180+"
+  },
+  {
+   "id": "1386065439988795",
+   "page": "BodyWise",
+   "start": "2026-02-25",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "1377016440079228",
+   "page": "JC'S all natural",
+   "start": "2025-05-13",
+   "n": 1,
+   "domain": "jcsmiracleproducts.com",
+   "window": "180+"
+  },
+  {
+   "id": "24509291825418504",
+   "page": "JC'S all natural",
+   "start": "2025-09-25",
+   "n": 1,
+   "domain": "jcsmiracleproducts.com",
+   "window": "180+"
+  },
+  {
+   "id": "1652321512430821",
+   "page": "JC'S all natural",
+   "start": "2026-03-10",
+   "n": 1,
+   "domain": "jcsmiracleproducts.com",
+   "window": "180+"
+  },
+  {
+   "id": "1483439600150260",
+   "page": "Kerotin Hair Care",
+   "start": "2026-04-24",
+   "n": 1,
+   "domain": "kerotin.com",
+   "window": "180+"
+  },
+  {
+   "id": "2433953210280420",
+   "page": "Gardenpurejoy Selections",
+   "start": "2025-02-01",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "935928202237111",
+   "page": "Garrin M. Bulani with Copenhagen Grooming",
+   "start": "2026-02-23",
+   "n": 1,
+   "domain": "redir.cphgrooming.com",
+   "window": "180+"
+  },
+  {
+   "id": "1823382035313923",
+   "page": "Ekmiveda",
+   "start": "2026-05-11",
+   "n": 1,
+   "domain": "ekmiveda.com",
+   "window": "180+"
+  },
+  {
+   "id": "975133074882070",
+   "page": "Avera",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "averastore.co",
+   "window": "180+"
+  },
+  {
+   "id": "1241705887458989",
+   "page": "BodyWise",
+   "start": "2026-02-25",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "906031665167941",
+   "page": "BodyWise",
+   "start": "2026-02-23",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "1428906815177926",
+   "page": "Rennora Beauty",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "try.rennorabeauty.com",
+   "window": "180+"
+  },
+  {
+   "id": "1147317410855362",
+   "page": "Avera",
+   "start": "2026-04-26",
+   "n": 1,
+   "domain": "averastore.co",
+   "window": "180+"
+  },
+  {
+   "id": "2383596515481349",
+   "page": "Vedix USA",
+   "start": "2026-05-02",
+   "n": 1,
+   "domain": "us.vedix.com",
+   "window": "180+"
+  },
+  {
+   "id": "1916824389019010",
+   "page": "Vedix",
+   "start": "2026-05-14",
+   "n": 1,
+   "domain": "us.vedix.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1648824296355779",
+   "page": "BodyWise",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2068325940727504",
+   "page": "CurlMix",
+   "start": "2026-06-02",
+   "n": 1,
+   "domain": "curlmix.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2861795564176321",
+   "page": "Curadose",
+   "start": "2026-07-29",
+   "n": 1,
+   "domain": "trycuradose.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1340085428252547",
+   "page": "OrréNaturals",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1749689413078840",
+   "page": "Avera",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "averastore.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1687324395932692",
+   "page": "Curadose",
+   "start": "2026-06-17",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1735497040905650",
+   "page": "Mohni Makers",
+   "start": "2026-08-08",
+   "n": 1,
+   "domain": "ugcmasteryacademy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1674273473688989",
+   "page": "Avera",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "averastore.co",
+   "window": "90-180"
+  },
+  {
+   "id": "979032781859261",
+   "page": "Eleanor Roseford Bennett",
+   "start": "2026-07-24",
+   "n": 1,
+   "domain": "www.elevarekoreanbeauty-global.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1041169448704318",
+   "page": "Da Wave Essentials",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "dawaveessentials.shop",
+   "window": "90-180"
+  },
+  {
+   "id": "1061714993056856",
+   "page": "Derm. Michael Reynolds",
+   "start": "2026-07-19",
+   "n": 1,
+   "domain": "simplyrevival.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1821330512172004",
+   "page": "Marée",
+   "start": "2026-07-29",
+   "n": 1,
+   "domain": "amazon.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1027173106864460",
+   "page": "Curadose",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "trycuradose.com",
+   "window": "90-180"
+  },
+  {
+   "id": "910150675125188",
+   "page": "Beauty hacks",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "mareehairgrowth.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1805845610730715",
+   "page": "Ekmiveda",
+   "start": "2026-10-03",
+   "n": 1,
+   "domain": "ekmiveda.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1693642402331040",
+   "page": "Dista",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1446121427414922",
+   "page": "Gubba Homestead",
+   "start": "2026-09-28",
+   "n": 1,
+   "domain": "shop.gubbahomestead.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2147443966121645",
+   "page": "LilyeveGlobal",
+   "start": "2026-09-14",
+   "n": 1,
+   "domain": "www.lilyeveus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1415222117425368",
+   "page": "Beauty hacks",
+   "start": "2026-09-30",
+   "n": 1,
+   "domain": "mareehairgrowth.com",
+   "window": "30-90"
+  },
+  {
+   "id": "966214702739387",
+   "page": "Hair Science",
+   "start": "2026-10-25",
+   "n": 1,
+   "domain": "quiz.peptonix.com",
+   "window": "0-30"
+  }
+ ]
+}

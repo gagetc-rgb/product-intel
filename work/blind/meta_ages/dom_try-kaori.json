@@ -1,0 +1,466 @@
+{
+ "phrase": "try-kaori.com",
+ "date": "2026-11-09",
+ "active": 750,
+ "aged30": 590,
+ "aged90": 210,
+ "aged180": 53,
+ "ads": [
+  {
+   "id": "2463307244116286",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1625631348661977",
+   "page": "Kaori",
+   "start": "2026-05-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "940339115461352",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "930973682901016",
+   "page": "Grandma's Glow",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "792071233983709",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2265810344183130",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1405332804960982",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1689955155654254",
+   "page": "Kaori",
+   "start": "2026-05-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1444542816961530",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2389156421581461",
+   "page": "Grandma's Glow",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1486709756421429",
+   "page": "Grandma's Glow",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "929874813193103",
+   "page": "Grandma's Glow",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "956685357109166",
+   "page": "Grandma's Glow",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "912361951800422",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1847857372573722",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1969413184460717",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2110458689872129",
+   "page": "Grandma's Glow",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1634806461070566",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "4364434483795106",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2330372864056320",
+   "page": "Grandma's Care Journal",
+   "start": "2026-03-20",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "949368220884779",
+   "page": "Grandma's Care Journal",
+   "start": "2026-03-20",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1159318819556156",
+   "page": "Grandma's Glow",
+   "start": "2026-04-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "3351762968320526",
+   "page": "Grandma's Care Journal",
+   "start": "2026-03-20",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1883424232357762",
+   "page": "Barbara Robertson",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1610717713493150",
+   "page": "Kaori",
+   "start": "2026-05-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "3068470856674003",
+   "page": "Grandma's Care Journal",
+   "start": "2026-03-21",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "851188487991904",
+   "page": "Grandma's Glow",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2094415481392000",
+   "page": "Grandma's Care Journal",
+   "start": "2026-03-20",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "26036475366023775",
+   "page": "Grandma's Glow",
+   "start": "2026-04-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "929210179983649",
+   "page": "Grandma's Glow",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1621971626261673",
+   "page": "Margaret Whittaker",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "967935396231214",
+   "page": "Kaori",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1804257660950823",
+   "page": "Sara Garret",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1565581295012773",
+   "page": "Kaori",
+   "start": "2026-07-29",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2789922944722784",
+   "page": "Grandma's Glow",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "983716060727547",
+   "page": "Grandma's Glow",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "967019179392643",
+   "page": "Patti Clayton",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "991794330383847",
+   "page": "Linda Doxey",
+   "start": "2026-05-27",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1025671480393101",
+   "page": "Kaori",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1579177730231251",
+   "page": "Linda Doxey",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1639887427697405",
+   "page": "Kaori Shop",
+   "start": "2026-07-24",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2306653410079985",
+   "page": "Margaret Whittaker",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1739235567095325",
+   "page": "Kaori",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1335869718681520",
+   "page": "Sara Garret",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1460916198625716",
+   "page": "Linda Doxey",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3091965810973725",
+   "page": "Kaori",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1820629072237859",
+   "page": "Kaori",
+   "start": "2026-05-18",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2608073929624891",
+   "page": "Margaret Whittaker",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1377178010919161",
+   "page": "Grandma's Care Journal",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1550677329737467",
+   "page": "Grandma's Glow",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1502590001354906",
+   "page": "Grandma's Glow",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "980798198271512",
+   "page": "Linda Doxey",
+   "start": "2026-05-27",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1769391397845733",
+   "page": "Kaori Shop",
+   "start": "2026-07-24",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1314359264134182",
+   "page": "Grandma's Care Journal",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "992070430102584",
+   "page": "Kaori",
+   "start": "2026-06-19",
+   "n": 1,
+   "domain": "try-kaori.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2087244121898662",
+   "page": "Sara Garret",
+   "start": "2026-08-26",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1028292446858815",
+   "page": "Sara Garret",
+   "start": "2026-08-29",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  }
+ ]
+}

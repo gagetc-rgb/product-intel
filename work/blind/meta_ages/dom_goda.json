@@ -1,0 +1,450 @@
+{
+ "phrase": "goda.co",
+ "date": "2026-11-09",
+ "active": 4400,
+ "aged30": 2700,
+ "aged90": 580,
+ "aged180": 12,
+ "ads": [
+  {
+   "id": "4547218922172707",
+   "page": "Steve The Perfumer",
+   "start": "2026-04-03",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "910357261546510",
+   "page": "Natasha Knows Scents",
+   "start": "2026-02-19",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "1960157368706097",
+   "page": "Natasha Knows Scents",
+   "start": "2026-04-06",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "26174187262281070",
+   "page": "Natasha Knows Scents",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "2208901776543074",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "1369875781608188",
+   "page": "Natasha Knows Scents",
+   "start": "2026-02-19",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "1631224587995559",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-02-19",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "1307288491332757",
+   "page": "Natasha Knows Scents",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "915048818204193",
+   "page": "Natasha Knows Scents",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "1494179585447693",
+   "page": "Natasha Knows Scents",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "1879923972633058",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-03-05",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "1364249598812264",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "180+"
+  },
+  {
+   "id": "1706213364164159",
+   "page": "Natasha Knows Scents",
+   "start": "2026-05-21",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1569611851471085",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "2549374265526310",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-21",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1746810696498814",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1842893810453967",
+   "page": "Natasha Knows Scents",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "4303825696613854",
+   "page": "Natasha Knows Scents",
+   "start": "2026-06-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1838296150908627",
+   "page": "Natasha Knows Scents",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1017565504345443",
+   "page": "Goda Perfume",
+   "start": "2026-06-28",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1645967020007809",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-26",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "3427445204106285",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-14",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1968823853726878",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-05-25",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "2405353986609862",
+   "page": "Natasha Knows Scents",
+   "start": "2026-06-03",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "3107190786144541",
+   "page": "Natasha Knows Scents",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "2283664175785800",
+   "page": "Dr Lila Merrit",
+   "start": "2026-06-28",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1738088080843396",
+   "page": "Natasha Knows Scents",
+   "start": "2026-06-03",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "27555911767380270",
+   "page": "Dr Lila Merrit",
+   "start": "2026-06-29",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "26739821579047876",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-06-15",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1359356459652010",
+   "page": "Natasha Knows Scents",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1282953723705229",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-07-10",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1345006171149983",
+   "page": "Natasha Knows Scents",
+   "start": "2026-08-02",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1517986679398559",
+   "page": "Natasha Knows Scents",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1343876374022532",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-07-23",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1300034812206132",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-07-05",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "4385595305019833",
+   "page": "Natasha Knows Scents",
+   "start": "2026-06-03",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1438640681627446",
+   "page": "Natasha Knows Scents",
+   "start": "2026-08-17",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1324956469710052",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-08-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1606424340921010",
+   "page": "Natasha Knows Scents",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1965671787438484",
+   "page": "Goda Perfume",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1044321215009660",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-08-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1090356816705960",
+   "page": "Natasha Knows Scents",
+   "start": "2026-09-18",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1444293227600989",
+   "page": "Natasha Knows Scents",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "2439215199821157",
+   "page": "Natasha Knows Scents",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1795726984646609",
+   "page": "Goda Perfume",
+   "start": "2026-08-13",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2328337018001549",
+   "page": "Natasha Knows Scents",
+   "start": "2026-08-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1367191762149086",
+   "page": "Natasha Knows Scents",
+   "start": "2026-09-02",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1046929428219967",
+   "page": "Natasha Knows Scents",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1414686233341208",
+   "page": "Natasha Knows Scents",
+   "start": "2026-09-17",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "28809259365368964",
+   "page": "Over 40 & Fabulous",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "2282270405956780",
+   "page": "Natasha Knows Scents",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1148945617560877",
+   "page": "Natasha Knows Scents",
+   "start": "2026-10-02",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2296384114492704",
+   "page": "Natasha Knows Scents",
+   "start": "2026-09-03",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1616042943507778",
+   "page": "Natasha Knows Scents",
+   "start": "2026-10-12",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "0-30"
+  },
+  {
+   "id": "1113520664516484",
+   "page": "Natasha Knows Scents",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "goda.co",
+   "window": "0-30"
+  }
+ ]
+}

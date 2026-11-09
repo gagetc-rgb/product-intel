@@ -1,0 +1,274 @@
+{
+ "phrase": "compression socks",
+ "date": "2026-11-08",
+ "active": 15000,
+ "aged30": 5000,
+ "aged90": 2200,
+ "aged180": 610,
+ "ads": [
+  {
+   "id": "1641464393901192",
+   "page": "Everstride",
+   "start": "2025-11-15",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "3566754950175951",
+   "page": "Elliekeepsbusy with Everstride",
+   "start": "2026-01-31",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1468697991002889",
+   "page": "Senzio",
+   "start": "2025-08-22",
+   "n": 1,
+   "domain": "senzio.store",
+   "window": "180+"
+  },
+  {
+   "id": "987603642882107",
+   "page": "Everstride",
+   "start": "2025-03-06",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "1197914664823726",
+   "page": "Everstride",
+   "start": "2024-09-09",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "1352694846621684",
+   "page": "One Compress",
+   "start": "2026-04-06",
+   "n": 1,
+   "domain": "www.onecompress.com",
+   "window": "180+"
+  },
+  {
+   "id": "896576833049969",
+   "page": "Aesthetically Elevated with Everstride",
+   "start": "2026-01-18",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1577919416738238",
+   "page": "Judy Noelle",
+   "start": "2026-01-16",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "889144100219447",
+   "page": "Alana's Corner with Everstride",
+   "start": "2025-12-19",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "3971156376469359",
+   "page": "Pacas",
+   "start": "2025-10-20",
+   "n": 1,
+   "domain": "pacas.com",
+   "window": "180+"
+  },
+  {
+   "id": "604598305469201",
+   "page": "Everstride",
+   "start": "2024-11-14",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "691792323390293",
+   "page": "Hushed Eucalyptus Socks",
+   "start": "2025-09-28",
+   "n": 1,
+   "domain": "hushedsocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "26217087331260959",
+   "page": "Alana's Corner with Everstride",
+   "start": "2026-02-06",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1438236513891274",
+   "page": "Everstride",
+   "start": "2025-08-03",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "1136361717989749",
+   "page": "Everstride",
+   "start": "2025-09-29",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "983864503286321",
+   "page": "Everstride",
+   "start": "2025-03-06",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "1313917403950513",
+   "page": "Everstride",
+   "start": "2026-04-07",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "2001438363961172",
+   "page": "Everstride",
+   "start": "2025-10-05",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1449486449784229",
+   "page": "Comrad Socks",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "www.comradsocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "508669578445820",
+   "page": "Everstride",
+   "start": "2024-09-09",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "2498988070484837",
+   "page": "The Mommy Care Kit",
+   "start": "2025-08-18",
+   "n": 1,
+   "domain": "mommycarekits.com",
+   "window": "180+"
+  },
+  {
+   "id": "2956861031184401",
+   "page": "Hushed Eucalyptus Socks",
+   "start": "2025-10-31",
+   "n": 1,
+   "domain": "hushedsocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "1172981988237460",
+   "page": "Everstride",
+   "start": "2026-01-09",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "670358822236556",
+   "page": "Everstride",
+   "start": "2025-03-01",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "1641943806525441",
+   "page": "Everstride",
+   "start": "2025-04-06",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "978348954546736",
+   "page": "Pure Living Digest",
+   "start": "2026-04-07",
+   "n": 1,
+   "domain": "www.onecompress.com",
+   "window": "180+"
+  },
+  {
+   "id": "1584617682567289",
+   "page": "Judy Noelle",
+   "start": "2026-01-16",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1130921142461485",
+   "page": "Truform",
+   "start": "2025-11-05",
+   "n": 1,
+   "domain": "www.amazon.com",
+   "window": "180+"
+  },
+  {
+   "id": "1578316903556874",
+   "page": "Everstride",
+   "start": "2025-01-31",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "180+"
+  },
+  {
+   "id": "1657116361921984",
+   "page": "catherinewellbeing with Everstride",
+   "start": "2026-01-13",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2621332808269343",
+   "page": "Everstride",
+   "start": "2026-05-29",
+   "n": 1,
+   "domain": "everstridesocks.com",
+   "window": "90-180"
+  },
+  {
+   "id": "876369025540847",
+   "page": "Sockwell Socks",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "sockwellusa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "28900009913013511",
+   "page": "Bombas",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "bombas.com",
+   "window": "0-30"
+  }
+ ]
+}

@@ -1,0 +1,483 @@
+{
+ "phrase": "rosemary oil",
+ "date": "2026-11-07",
+ "active": 4300,
+ "aged90": 260,
+ "aged180": 60,
+ "ads": [
+  {
+   "id": "949974187763668",
+   "page": "BodyWise",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "officialbodywise.com",
+   "window": "180+"
+  },
+  {
+   "id": "1941042070619719",
+   "page": "SpoiledChild",
+   "start": "2026-04-14",
+   "n": 1,
+   "domain": "spoiledchild.com",
+   "window": "180+"
+  },
+  {
+   "id": "1692576592048821",
+   "page": "SpoiledChild",
+   "start": "2026-04-20",
+   "n": 1,
+   "domain": "spoiledchild.com",
+   "window": "180+"
+  },
+  {
+   "id": "1709847513737508",
+   "page": "Sarah Tran",
+   "start": "2025-09-22",
+   "n": 1,
+   "domain": "hairqare.co",
+   "window": "180+"
+  },
+  {
+   "id": "1429609088293905",
+   "page": "VitaeCharm",
+   "start": "2026-03-31",
+   "n": 1,
+   "domain": "vitaecharm.com",
+   "window": "180+"
+  },
+  {
+   "id": "1693790904899998",
+   "page": "JC'S all natural",
+   "start": "2025-02-23",
+   "n": 1,
+   "domain": "jcsmiracleproducts.com",
+   "window": "180+"
+  },
+  {
+   "id": "1338919590957255",
+   "page": "Sarah Tran",
+   "start": "2025-09-22",
+   "n": 1,
+   "domain": "hairqare.co",
+   "window": "180+"
+  },
+  {
+   "id": "1964378737485322",
+   "page": "Dr. Groot",
+   "start": "2026-02-26",
+   "n": 1,
+   "domain": "lgbeauty.com",
+   "window": "180+"
+  },
+  {
+   "id": "1872991283314595",
+   "page": "VegaMane",
+   "start": "",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1372782917563150",
+   "page": "VegaMane",
+   "start": "",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1278300294519303",
+   "page": "BodyWise",
+   "start": "2026-05-10",
+   "n": 4,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "25994287333573830",
+   "page": "Ella & Eden",
+   "start": "2026-03-12",
+   "n": 1,
+   "domain": "instagram.com",
+   "window": "180+"
+  },
+  {
+   "id": "1765893364214907",
+   "page": "JC'S all natural",
+   "start": "2026-05-06",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1291061405853675",
+   "page": "James Kilgour, MD",
+   "start": "2026-04-29",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1482388650299405",
+   "page": "Sringe",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "sringe.com",
+   "window": "180+"
+  },
+  {
+   "id": "4374195559566222",
+   "page": "Essential Hair Growth Hacks",
+   "start": "2026-05-05",
+   "n": 1,
+   "domain": "www.irestorelaser.com",
+   "window": "180+"
+  },
+  {
+   "id": "1085796528290959",
+   "page": "Exotic Hair Doctor",
+   "start": "2019-01-08",
+   "n": 1,
+   "domain": "exotichairdoctor.com",
+   "window": "180+"
+  },
+  {
+   "id": "1446874523574333",
+   "page": "Laura Bennett",
+   "start": "2026-04-13",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "35720108957604703",
+   "page": "James Kilgour, MD",
+   "start": "2026-05-06",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "940803451967389",
+   "page": "Self Care from Maree",
+   "start": "2026-02-13",
+   "n": 10,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "4353809701537734",
+   "page": "JC'S all natural",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "jcsmiracleproducts.com",
+   "window": "180+"
+  },
+  {
+   "id": "1306668701556070",
+   "page": "James Kilgour, MD",
+   "start": "2026-04-29",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1501384481185785",
+   "page": "JC'S all natural",
+   "start": "2025-10-15",
+   "n": 1,
+   "domain": "jcsmiracleproducts.com",
+   "window": "180+"
+  },
+  {
+   "id": "1183520636917650",
+   "page": "JC'S all natural",
+   "start": "2025-08-31",
+   "n": 1,
+   "domain": "jcsmiracleproducts.com",
+   "window": "180+"
+  },
+  {
+   "id": "1031313055906367",
+   "page": "Vita Prima",
+   "start": "2026-06-05",
+   "n": 1,
+   "domain": "vitaprima.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1563448048616109",
+   "page": "Glov Beauty",
+   "start": "2026-07-18",
+   "n": 1,
+   "domain": "glovbeauty.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1490928475691031",
+   "page": "Hair Pro Tips",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "spoiledchild.com",
+   "window": "90-180"
+  },
+  {
+   "id": "999615966372070",
+   "page": "Chebeauty",
+   "start": "2026-06-18",
+   "n": 1,
+   "domain": "chebeauty.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1526817108967790",
+   "page": "Jessica Soares",
+   "start": "2026-05-17",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1313914817132536",
+   "page": "Aureph",
+   "start": "2026-07-03",
+   "n": 1,
+   "domain": "www.aureph.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2092971731251140",
+   "page": "Lumin",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "trylumin.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1524613952731044",
+   "page": "UpCircle",
+   "start": "2026-06-03",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "993804869768041",
+   "page": "MarwanAwan with Simply Revival",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "simplyrevival.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1034316482659844",
+   "page": "Black Hair Growth Magazine",
+   "start": "2026-07-25",
+   "n": 1,
+   "domain": "trylumin.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1770713637643523",
+   "page": "JC'S all natural",
+   "start": "2026-06-25",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3006281636243721",
+   "page": "Dr. Amanda Graham Trichologist",
+   "start": "2026-07-18",
+   "n": 1,
+   "domain": "glovbeauty.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1409714141023408",
+   "page": "BodyWise",
+   "start": "2026-07-29",
+   "n": 3,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1045196558051295",
+   "page": "Black Hair Growth Magazine",
+   "start": "2026-07-25",
+   "n": 1,
+   "domain": "trylumin.co",
+   "window": "90-180"
+  },
+  {
+   "id": "1252716023575900",
+   "page": "Women’s Hair Loss Institute",
+   "start": "2026-08-12",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1299530585582911",
+   "page": "Sandra Mitchell",
+   "start": "2026-09-20",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2240017143508784",
+   "page": "VitaeCharm",
+   "start": "2026-08-18",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1777100490281729",
+   "page": "SpoiledChild",
+   "start": "2026-09-10",
+   "n": 3,
+   "domain": "spoiledchild.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3125395601185164",
+   "page": "Kitsch",
+   "start": "2026-09-12",
+   "n": 1,
+   "domain": "www.mykitsch.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1046518848198646",
+   "page": "Vita Prima",
+   "start": "2026-09-14",
+   "n": 1,
+   "domain": "vitaprima.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1580607776806004",
+   "page": "Women's Wellness Daily",
+   "start": "2026-09-04",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1054936223909352",
+   "page": "Yoracare Warehouse",
+   "start": "2026-08-20",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "933186932487839",
+   "page": "Yoracare",
+   "start": "2026-08-20",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4656615707958850",
+   "page": "Theradome",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1392871775510516",
+   "page": "VitaeCharm",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "vitaecharm.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2346600929443093",
+   "page": "Everly",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "shopeverly.shop",
+   "window": "30-90"
+  },
+  {
+   "id": "1679628323126475",
+   "page": "The Men's Hair Code",
+   "start": "2026-08-17",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1723773178696087",
+   "page": "Keeps",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1645452333599358",
+   "page": "Julie Anderson",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1676657707519844",
+   "page": "Haircare Guide",
+   "start": "2026-10-11",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2152446732148078",
+   "page": "Keeps",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1074575755457169",
+   "page": "Azure Boutique",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "www.azureboutique.co",
+   "window": "0-30"
+  },
+  {
+   "id": "2336246227141377",
+   "page": "Keeps",
+   "start": "2026-10-22",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1602776517991206",
+   "page": "The Earthling Co.",
+   "start": "2026-10-21",
+   "n": 1,
+   "domain": "theearthlingco.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1353420806682572",
+   "page": "Julie Anderson",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  }
+ ],
+ "aged30": 1300,
+ "aged30_date": "2026-11-08"
+}

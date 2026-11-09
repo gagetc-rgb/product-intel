@@ -1,0 +1,72 @@
+[
+ {
+  "asin": "B0DP37D91R",
+  "brand": "mirai",
+  "units": 20000,
+  "price_scan": "$19.95",
+  "asin_age_m": 23
+ },
+ {
+  "asin": "B0D4LX75GN",
+  "brand": "(no brand)",
+  "units": 10000,
+  "price_scan": "$9.99",
+  "asin_age_m": 29
+ },
+ {
+  "asin": "B0GFMMW31V",
+  "brand": "(no brand)",
+  "units": 8000,
+  "price_scan": "$7.99",
+  "asin_age_m": 10
+ },
+ {
+  "asin": "B0GJ6N1VYS",
+  "brand": "(no brand)",
+  "units": 4000,
+  "price_scan": "$34.99",
+  "asin_age_m": 9
+ },
+ {
+  "asin": "B0FJ2S57DQ",
+  "brand": "mirai",
+  "units": 3000,
+  "price_scan": "$59.99",
+  "asin_age_m": 16
+ },
+ {
+  "asin": "B0GXVQ4C5Y",
+  "brand": "(no brand)",
+  "units": 1000,
+  "price_scan": "$6.99",
+  "asin_age_m": 7
+ },
+ {
+  "asin": "B0FT31T6FL",
+  "brand": "morovan",
+  "units": 1000,
+  "price_scan": "$9.99",
+  "asin_age_m": 13
+ },
+ {
+  "asin": "B0H3K8VN7Z",
+  "brand": "kaori",
+  "units": 1000,
+  "price_scan": "$14.99",
+  "asin_age_m": 5
+ },
+ {
+  "asin": "B087VQG6L5",
+  "brand": "mirai",
+  "units": 1000,
+  "price_scan": "$22.97",
+  "asin_age_m": 70
+ },
+ {
+  "asin": "B0DWMRPCYG",
+  "brand": "gpp3",
+  "units": 1000,
+  "price_scan": "$9.99",
+  "asin_age_m": 21
+ }
+]

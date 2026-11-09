@@ -1,0 +1,512 @@
+{
+ "label": "sproos",
+ "kind": "junip",
+ "counted": 2427,
+ "cutoff": "2024-07",
+ "monthly": {
+  "2024-07": {
+   "all": 5,
+   "below5": 0,
+   "top_products": [
+    [
+     "Hand Shower - Yellow",
+     2
+    ],
+    [
+     "The Minimalist - Red",
+     1
+    ],
+    [
+     "Lookin' Good - Black",
+     1
+    ]
+   ]
+  },
+  "2024-08": {
+   "all": 8,
+   "below5": 2,
+   "top_products": [
+    [
+     "Hand Shower - Green (Pre-Order)",
+     2
+    ],
+    [
+     "The Minimalist - Yellow",
+     1
+    ],
+    [
+     "Filtered Hand Shower - Pink",
+     1
+    ]
+   ]
+  },
+  "2024-09": {
+   "all": 15,
+   "below5": 3,
+   "top_products": [
+    [
+     "Filtered Hand Shower - Yellow",
+     2
+    ],
+    [
+     "Shower Filter Upgrade - Yellow",
+     2
+    ],
+    [
+     "Filtered Hand Shower - Green",
+     2
+    ]
+   ]
+  },
+  "2024-10": {
+   "all": 10,
+   "below5": 0,
+   "top_products": [
+    [
+     "Fluted Shower Liner Yellow",
+     2
+    ],
+    [
+     "The Minimalist - White",
+     1
+    ],
+    [
+     "Shower Filter Upgrade - Black",
+     1
+    ]
+   ]
+  },
+  "2024-11": {
+   "all": 14,
+   "below5": 0,
+   "top_products": [
+    [
+     "Shower Filter Set - Pink",
+     3
+    ],
+    [
+     "Hand Shower - Black",
+     2
+    ],
+    [
+     "Hand Shower - Pink",
+     2
+    ]
+   ]
+  },
+  "2024-12": {
+   "all": 23,
+   "below5": 1,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     3
+    ],
+    [
+     "Shower Filter Set - Pink",
+     3
+    ],
+    [
+     "Shower Filter Set - Yellow",
+     2
+    ]
+   ]
+  },
+  "2025-01": {
+   "all": 31,
+   "below5": 3,
+   "top_products": [
+    [
+     "Shower Filter Set - Black",
+     4
+    ],
+    [
+     "Shower Filter Set - Green",
+     3
+    ],
+    [
+     "Shower Filter Set - Yellow",
+     3
+    ]
+   ]
+  },
+  "2025-02": {
+   "all": 11,
+   "below5": 1,
+   "top_products": [
+    [
+     "Hand Shower - Red",
+     2
+    ],
+    [
+     "Shower Filter Set - Green",
+     1
+    ],
+    [
+     "Stayin' Connected - Black",
+     1
+    ]
+   ]
+  },
+  "2025-03": {
+   "all": 5,
+   "below5": 0,
+   "top_products": [
+    [
+     "Shower Filter Set",
+     1
+    ],
+    [
+     "Shower Filter Set - Pink",
+     1
+    ],
+    [
+     "Shower Filter Set - Green",
+     1
+    ]
+   ]
+  },
+  "2025-04": {
+   "all": 13,
+   "below5": 3,
+   "top_products": [
+    [
+     "Shower Filter Set - Pink",
+     3
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     3
+    ],
+    [
+     "Shower Filter Set - Green",
+     2
+    ]
+   ]
+  },
+  "2025-05": {
+   "all": 12,
+   "below5": 0,
+   "top_products": [
+    [
+     "Shower Filter Set - Pink",
+     4
+    ],
+    [
+     "Shower Filter Set - Green",
+     3
+    ],
+    [
+     "Shower Filter Set - Yellow",
+     1
+    ]
+   ]
+  },
+  "2025-06": {
+   "all": 15,
+   "below5": 1,
+   "top_products": [
+    [
+     "Shower Filter Set - Black",
+     2
+    ],
+    [
+     "Hand Shower - Yellow",
+     2
+    ],
+    [
+     "Shower Filter Set - Pink",
+     2
+    ]
+   ]
+  },
+  "2025-07": {
+   "all": 18,
+   "below5": 3,
+   "top_products": [
+    [
+     "Shower Filter Set - Green",
+     4
+    ],
+    [
+     "Filtered Shower",
+     3
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     2
+    ]
+   ]
+  },
+  "2025-08": {
+   "all": 112,
+   "below5": 6,
+   "top_products": [
+    [
+     "Hand Shower + Filter - Black",
+     13
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     9
+    ],
+    [
+     "Hand Shower + Filter - Green",
+     9
+    ]
+   ]
+  },
+  "2025-09": {
+   "all": 106,
+   "below5": 13,
+   "top_products": [
+    [
+     "Hand Shower + Filter - Green",
+     21
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     17
+    ],
+    [
+     "Eucalyptus Bundle",
+     13
+    ]
+   ]
+  },
+  "2025-10": {
+   "all": 126,
+   "below5": 5,
+   "top_products": [
+    [
+     "Hand Shower + Filter - Black",
+     19
+    ],
+    [
+     "Hand Shower + Filter - Green",
+     18
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     13
+    ]
+   ]
+  },
+  "2025-11": {
+   "all": 137,
+   "below5": 14,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     18
+    ],
+    [
+     "Hand Shower + Filter - Black",
+     15
+    ],
+    [
+     "Hand Shower + Filter - Green",
+     14
+    ]
+   ]
+  },
+  "2025-12": {
+   "all": 175,
+   "below5": 11,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     27
+    ],
+    [
+     "Hand Shower + Filter - Green",
+     16
+    ],
+    [
+     "Hand Shower + Filter - Black",
+     15
+    ]
+   ]
+  },
+  "2026-01": {
+   "all": 229,
+   "below5": 14,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     41
+    ],
+    [
+     "Metallic Hand Shower + Filter - Moonligh",
+     29
+    ],
+    [
+     "Hand Shower + Filter - Green",
+     18
+    ]
+   ]
+  },
+  "2026-02": {
+   "all": 180,
+   "below5": 17,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     31
+    ],
+    [
+     "Hand Shower + Filter - Pink",
+     15
+    ],
+    [
+     "Hand Shower + Filter - Black",
+     13
+    ]
+   ]
+  },
+  "2026-03": {
+   "all": 295,
+   "below5": 17,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     58
+    ],
+    [
+     "Metallic Hand Shower + Filter - Moonligh",
+     34
+    ],
+    [
+     "Hand Shower + Filter - Black",
+     27
+    ]
+   ]
+  },
+  "2026-04": {
+   "all": 235,
+   "below5": 7,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     43
+    ],
+    [
+     "Hand Shower + Filter - Lilac",
+     29
+    ],
+    [
+     "Hand Shower + Filter - Green",
+     21
+    ]
+   ]
+  },
+  "2026-05": {
+   "all": 103,
+   "below5": 7,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     25
+    ],
+    [
+     "Hand Shower + Filter - Lilac",
+     12
+    ],
+    [
+     "Hand Shower + Filter - Green",
+     11
+    ]
+   ]
+  },
+  "2026-06": {
+   "all": 111,
+   "below5": 9,
+   "top_products": [
+    [
+     "Shower Filter Cartridge - Filter",
+     24
+    ],
+    [
+     "Hand Shower + Filter - Lilac",
+     9
+    ],
+    [
+     "Metallic Hand Shower + Filter - Moonligh",
+     8
+    ]
+   ]
+  },
+  "2026-07": {
+   "all": 109,
+   "below5": 9,
+   "top_products": [
+    [
+     "Shower Filter Cartridge with Subscriptio",
+     17
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     8
+    ],
+    [
+     "Hand Shower + Filter - Pink",
+     6
+    ]
+   ]
+  },
+  "2026-08": {
+   "all": 110,
+   "below5": 18,
+   "top_products": [
+    [
+     "Shower Filter Cartridge with Subscriptio",
+     21
+    ],
+    [
+     "Metallic Hand Shower + Filter - Moonligh",
+     10
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     6
+    ]
+   ]
+  },
+  "2026-09": {
+   "all": 125,
+   "below5": 13,
+   "top_products": [
+    [
+     "Shower Filter Cartridge with Subscriptio",
+     31
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     7
+    ],
+    [
+     "Moonlight Filtered Hand Shower - Moonlig",
+     6
+    ]
+   ]
+  },
+  "2026-10": {
+   "all": 94,
+   "below5": 7,
+   "top_products": [
+    [
+     "Shower Filter Cartridge with Subscriptio",
+     40
+    ],
+    [
+     "Moonlight Filtered Hand Shower - Moonlig",
+     8
+    ],
+    [
+     "Shower Filter Cartridge - Filter",
+     6
+    ]
+   ]
+  }
+ }
+}

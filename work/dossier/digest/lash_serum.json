@@ -1,0 +1,311 @@
+{
+ "pid": "lash_serum",
+ "name": "Eyelash growth serum (cosmetic)",
+ "verdict_row": {
+  "pid": "lash_serum",
+  "name": "Eyelash growth serum (cosmetic)",
+  "flag": "COMPLIANCE",
+  "shelf": 213450,
+  "nb": 33250,
+  "gen": 13850,
+  "winB": 8,
+  "winG": 3,
+  "price": 26.98,
+  "act": 3200,
+  "a30": 1100,
+  "a90": 400,
+  "a180": 90,
+  "stores": 24,
+  "stores90": 17,
+  "trend": 1.17,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": null
+ },
+ "amazon_us": {
+  "listings_on_target": 205,
+  "shelf_units": 213450,
+  "units_by_brand_age": {
+   "24+": 157650,
+   "12-24": 29350,
+   "0-6": 12200,
+   "6-12": 14250
+  },
+  "units_by_kind": {
+   "generic_old": 14150,
+   "old_brand": 142900,
+   "new_brand": 33250,
+   "generic_new": 13850,
+   "older_brand_new_here": 9300
+  },
+  "top_brands": [
+   {
+    "key": "grande",
+    "units": 52000,
+    "listings": 6,
+    "best": {
+     "asin": "B082WZTJV5",
+     "title": "Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula for Longer, Thicker, F",
+     "units": 30000,
+     "price": "$28.80",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/71Whd2okyBL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "viebeauti",
+    "units": 12650,
+    "listings": 5,
+    "best": {
+     "asin": "B0FBT2D135",
+     "title": "VieBeauti EyeLash Growth Serum for Longer Fuller Thicker Looking Lashes 3mL",
+     "units": 9000,
+     "price": "$21.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/717z6uLxQfL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 24,
+    "status": "old"
+   },
+   {
+    "key": "epais",
+    "units": 10000,
+    "listings": 1,
+    "best": {
+     "asin": "B0C8SQN7S6",
+     "title": "EPAIS Eyelash Serum 7 Peptide & Biotin for Fuller Lashes Growth, 0.50 fl. oz",
+     "units": 10000,
+     "price": "$20.00",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61BIAptGU6L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 43,
+    "status": "old"
+   },
+   {
+    "key": "nuna",
+    "units": 8000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DZDBBNFT",
+     "title": "NUNA Eyelash Growth Support Serum 6ml – Eye Lash and Eyebrow Enhancing Serum for Women & Men with Biotin - Kor",
+     "units": 8000,
+     "price": "$42.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/51qz8JuapLL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 20,
+    "status": "NEW"
+   },
+   {
+    "key": "babe",
+    "units": 7100,
+    "listings": 5,
+    "best": {
+     "asin": "B0DW6F1L45",
+     "title": "Babe Original Renewing Lash Serum for Longer-Looking Lashes, Peptides",
+     "units": 4000,
+     "price": "$29.00",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/61ynZLaL83L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 51,
+    "status": "old"
+   },
+   {
+    "key": "forchics",
+    "units": 7000,
+    "listings": 1,
+    "best": {
+     "asin": "B097R35Y3Q",
+     "title": "ForChics Prostaglandin-Free Eyelash Growth Serum – Rebuilds Thin Lashes",
+     "units": 7000,
+     "price": "$26.00",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61K1YZ5NHaL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 65,
+    "status": "old"
+   },
+   {
+    "key": "upnature",
+    "units": 6000,
+    "listings": 1,
+    "best": {
+     "asin": "B0DRDLJSVV",
+     "title": "UpNature Castor Oil Eyelash & Eyebrow Growth Serum, USDA Organic, 2oz",
+     "units": 6000,
+     "price": "$9.97",
+     "stars": "4.7",
+     "img": "https://m.media-amazon.com/images/I/71mZKOB-bSL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 22,
+    "status": "NEW"
+   },
+   {
+    "key": "enhancing",
+    "units": 6000,
+    "listings": 1,
+    "best": {
+     "asin": "B07NDN3R9P",
+     "title": "Enhancing Lash Serum, Korean Prostaglandin-Free Eyelash & Brow Conditioner",
+     "units": 6000,
+     "price": "$22.49",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/61DVTI4DVYL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 79,
+    "status": "old"
+   },
+   {
+    "key": "hanae",
+    "units": 5500,
+    "listings": 2,
+    "best": {
+     "asin": "B0HBZXGY4W",
+     "title": "Hanae Korea Eyelash Serum 2 Pack, Peptide Lash Serum, Prostaglandin-Free",
+     "units": 5000,
+     "price": "$34.95",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71t-Nu1LKLL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 2,
+    "status": "NEW"
+   },
+   {
+    "key": "obagi",
+    "units": 5000,
+    "listings": 2,
+    "best": {
+     "asin": "B09C82MWZX",
+     "title": "Obagi Nu-Cil Eyelash Enhancing Serum",
+     "units": 3000,
+     "price": "$125.00",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/51nB-8TvsuL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 63,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    7000,
+    "B01ICGFKDU",
+    "Organic Castor Oil Lash Serum for Eyelash Growth Serum and Eyebrow Growth",
+    "$13.99",
+    null
+   ],
+   [
+    4000,
+    "B0FD3FSCVD",
+    "Lash Serum for Eyelash Growth, Premium Lash Enhancing Serum with Advanced Formul",
+    "$11.95",
+    null
+   ],
+   [
+    4000,
+    "B08CZYWRT1",
+    "Organic Castor Oil Eyelash Growth Serum, Eyebrow Lash Serum for Hair Growth",
+    "$15.99",
+    null
+   ],
+   [
+    3000,
+    "B0G456Q746",
+    "Castor Oil for Eyelashes & Eyebrows, Lash & Brow Serum, 2 x 10 ml",
+    "$9.99",
+    null
+   ]
+  ],
+  "winners_1k": 48
+ },
+ "price_us": {
+  "price_usd_median": 26.98,
+  "price_usd_p25_p75": [
+   17.99,
+   44.0
+  ]
+ },
+ "meta_category": {
+  "phrase": "lash serum",
+  "active": 3200,
+  "aged30": 1100,
+  "aged90": 400,
+  "aged180": 90,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "borboleta.com",
+   6,
+   725,
+   2
+  ],
+  [
+   "page:natural beauty by melissa rae",
+   6,
+   626,
+   1
+  ],
+  [
+   "page:nicole wagner",
+   5,
+   590,
+   1
+  ],
+  [
+   "page:mastering inner & outer beauty-hollie o'brien",
+   1,
+   466,
+   1
+  ],
+  [
+   "page:lilash beauty",
+   1,
+   414,
+   1
+  ],
+  [
+   "moxielash.com",
+   6,
+   349,
+   1
+  ],
+  [
+   "page:ama lash bar",
+   1,
+   341,
+   1
+  ],
+  [
+   "babeoriginal.com",
+   3,
+   211,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "lash serum",
+  "rel_yoy": 1.17,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "343.7",
+ "creatives": []
+}

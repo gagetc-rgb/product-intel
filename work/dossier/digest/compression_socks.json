@@ -1,0 +1,310 @@
+{
+ "pid": "compression_socks",
+ "name": "Compression socks",
+ "verdict_row": {
+  "pid": "compression_socks",
+  "name": "Compression socks",
+  "flag": "",
+  "shelf": 66850,
+  "nb": 3700,
+  "gen": 18200,
+  "winB": 0,
+  "winG": 3,
+  "price": 16.79,
+  "act": 15000,
+  "a30": 5000,
+  "a90": 2200,
+  "a180": 610,
+  "stores": 10,
+  "stores90": 9,
+  "trend": 0.98,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 3500
+ },
+ "amazon_us": {
+  "listings_on_target": 59,
+  "shelf_units": 66850,
+  "units_by_brand_age": {
+   "24+": 44950,
+   "6-12": 12550,
+   "12-24": 7600,
+   "0-6": 1750
+  },
+  "units_by_kind": {
+   "generic_old": 30850,
+   "old_brand": 14100,
+   "generic_new": 18200,
+   "new_brand": 3700
+  },
+  "top_brands": [
+   {
+    "key": "copper",
+    "units": 11900,
+    "listings": 3,
+    "best": {
+     "asin": "B071ZZBZRD",
+     "title": "Copper Compression Socks 15-20 mmHg for Men & Women 8 Pairs – Circulation Support for Nurses, Travel, Running,",
+     "units": 8000,
+     "price": "$19.98",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/81YjtgcUZ9L._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 91,
+    "status": "old"
+   },
+   {
+    "key": "merino",
+    "units": 800,
+    "listings": 3,
+    "best": {
+     "asin": "B0H8MSCHZ9",
+     "title": "Merino Wool Compression Socks for Women Men 15-20 mmHg for flying",
+     "units": 300,
+     "price": "$19.99",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/71Q-5IqdKTL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 10,
+    "status": "NEW"
+   },
+   {
+    "key": "medical",
+    "units": 700,
+    "listings": 1,
+    "best": {
+     "asin": "B097XS47KV",
+     "title": "Medical 15-20 mmHg Zipper Compression Socks Women Men",
+     "units": 700,
+     "price": "$15.99",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/61sL9Fl1qPL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 65,
+    "status": "old"
+   },
+   {
+    "key": "silky",
+    "units": 600,
+    "listings": 1,
+    "best": {
+     "asin": "B0GZVQBTLC",
+     "title": "Silky-Soft Merino Wool Compression Socks 15-20 mmHg for Women & Men 2 Pairs",
+     "units": 600,
+     "price": "$24.99",
+     "stars": "4.6",
+     "img": "https://m.media-amazon.com/images/I/91f9M3CGZjL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 7,
+    "status": "NEW"
+   },
+   {
+    "key": "pima",
+    "units": 600,
+    "listings": 1,
+    "best": {
+     "asin": "B0HCYBFXC5",
+     "title": "Pima Cotton Compression Socks for Women Men Soft & Breathable",
+     "units": 600,
+     "price": "$19.98",
+     "stars": "4.5",
+     "img": "https://m.media-amazon.com/images/I/71Bpo4gN5GL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 2,
+    "status": "NEW"
+   },
+   {
+    "key": "bamboo",
+    "units": 600,
+    "listings": 4,
+    "best": {
+     "asin": "B0FHP3FD7T",
+     "title": "Bamboo Viscose Compression Socks for Women Men",
+     "units": 400,
+     "price": "$23.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/712UjgLb9XL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 16,
+    "status": "NEW"
+   },
+   {
+    "key": "zipper",
+    "units": 400,
+    "listings": 1,
+    "best": {
+     "asin": "B089CTPV9T",
+     "title": "Zipper Compression Socks Women & Men，2Pairs Calf Knee High 15-20mmHg Open Toe Compression Stocking suit for Wa",
+     "units": 400,
+     "price": "$16.79",
+     "stars": "4.2",
+     "img": "https://m.media-amazon.com/images/I/81QCHap2TEL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 70,
+    "status": "old"
+   },
+   {
+    "key": "cute",
+    "units": 400,
+    "listings": 1,
+    "best": {
+     "asin": "B0FFG5JL7B",
+     "title": "Cute Compression Socks for Women",
+     "units": 400,
+     "price": "$19.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81+7hsJd2aL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 18,
+    "status": "NEW"
+   },
+   {
+    "key": "breathable",
+    "units": 300,
+    "listings": 1,
+    "best": {
+     "asin": "B07ZTWMM5B",
+     "title": "Breathable Knee High Compression Socks with Targeted Arch Support",
+     "units": 300,
+     "price": "$33.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71JDU0PhviL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 72,
+    "status": "old"
+   },
+   {
+    "key": "thick",
+    "units": 300,
+    "listings": 1,
+    "best": {
+     "asin": "B0DYDSH5L5",
+     "title": "Thick Soft Cotton Compression Socks",
+     "units": 300,
+     "price": "$23.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/81qfQ0b9HgL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 20,
+    "status": "NEW"
+   }
+  ],
+  "top_generics": [
+   [
+    10000,
+    "B0GJP9CW3Q",
+    "Compression Socks for Women & Men 15-20 mmHg, Knee High, 3 Pairs",
+    "$9.99",
+    null
+   ],
+   [
+    10000,
+    "B0B3RFNH1G",
+    "4 Pairs-Compression Socks for Women&Men Circulation-Best Support for Nurses,Runn",
+    "$9.99",
+    null
+   ],
+   [
+    8000,
+    "B0BN75Z32T",
+    "4 Pairs Compression Socks for Women & Men -Best Support for Nurses,Flying,pregna",
+    "$9.99",
+    null
+   ],
+   [
+    6000,
+    "B0FD21WM9H",
+    "Compression Socks for Women and Men,15-20 mmHg Support(3 Pairs)",
+    "$14.99",
+    null
+   ]
+  ],
+  "winners_1k": 11
+ },
+ "price_us": {
+  "price_usd_median": 16.79,
+  "price_usd_p25_p75": [
+   9.99,
+   19.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "compression socks",
+  "active": 15000,
+  "aged30": 5000,
+  "aged90": 2200,
+  "aged180": 610,
+  "date": "2026-11-08"
+ },
+ "meta_stores_top": [
+  [
+   "everstridesocks.com",
+   30,
+   789,
+   6
+  ],
+  [
+   "mommycarekits.com",
+   1,
+   446,
+   1
+  ],
+  [
+   "senzio.store",
+   1,
+   442,
+   1
+  ],
+  [
+   "hushedsocks.com",
+   2,
+   405,
+   1
+  ],
+  [
+   "pacas.com",
+   1,
+   383,
+   1
+  ],
+  [
+   "page:truform",
+   1,
+   367,
+   1
+  ],
+  [
+   "onecompress.com",
+   2,
+   215,
+   2
+  ],
+  [
+   "comradsocks.com",
+   1,
+   190,
+   1
+  ]
+ ],
+ "meta_brand_pages": {},
+ "meta_brand_phrase_v20": {},
+ "trend": {
+  "term": "compression socks",
+  "rel_yoy": 0.98,
+  "yearly_means_v20": null,
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "70.9",
+ "creatives": []
+}

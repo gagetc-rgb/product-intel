@@ -1,0 +1,483 @@
+{
+ "pid": "scent_diffuser",
+ "name": "Waterless luxury scent diffuser (+ oils)",
+ "verdict_row": {
+  "pid": "scent_diffuser",
+  "name": "Waterless luxury scent diffuser (+ oils)",
+  "flag": "",
+  "shelf": 58000,
+  "nb": 21200,
+  "gen": 20400,
+  "winB": 4,
+  "winG": 2,
+  "price": 64.49,
+  "act": 690,
+  "a30": 210,
+  "a90": 110,
+  "a180": 18,
+  "stores": 13,
+  "stores90": 11,
+  "trend": 2.02,
+  "zeros": 0.0,
+  "kill": "",
+  "note": "",
+  "nb_id": 19400
+ },
+ "amazon_us": {
+  "listings_on_target": 174,
+  "shelf_units": 58000,
+  "units_by_brand_age": {
+   "6-12": 14500,
+   "12-24": 19850,
+   "0-6": 7250,
+   "24+": 16400
+  },
+  "units_by_kind": {
+   "generic_new": 20400,
+   "new_brand": 21200,
+   "old_brand": 13800,
+   "generic_old": 2600
+  },
+  "top_brands": [
+   {
+    "key": "airversa",
+    "units": 11400,
+    "listings": 13,
+    "best": {
+     "asin": "B0F99KD5K2",
+     "title": "Airversa AN8 Waterless Essential Oil Diffuser Starter Kit, Black",
+     "units": 3000,
+     "price": "$39.99",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/61RSjPAQQJL._AC_UL320_.jpg",
+     "amazon_brand": "Airversa"
+    },
+    "entry_months": 34,
+    "status": "old"
+   },
+   {
+    "key": "airscent",
+    "units": 11100,
+    "listings": 5,
+    "best": {
+     "asin": "B0DXHGTMQL",
+     "title": "The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil Machine",
+     "units": 8000,
+     "price": "$99.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61XTghTDE8L._AC_UL320_.jpg",
+     "amazon_brand": "Air-Scent"
+    },
+    "entry_months": 23,
+    "status": "NEW"
+   },
+   {
+    "key": "anzwaterless",
+    "units": 3700,
+    "listings": 2,
+    "best": {
+     "asin": "B0FSQYDJ91",
+     "title": "ANZ Waterless Diffuser for Essential Oil for Home, Room, Black",
+     "units": 3000,
+     "price": "$19.98",
+     "stars": "4.0",
+     "img": "https://m.media-amazon.com/images/I/51QiJLOTVFL._AC_UL320_.jpg",
+     "amazon_brand": "ScentBots"
+    },
+    "entry_months": 13,
+    "status": "NEW"
+   },
+   {
+    "key": "vinevida",
+    "units": 1400,
+    "listings": 4,
+    "best": {
+     "asin": "B0DFMVDHPK",
+     "title": "VINEVIDA (32oz) Hotel Fragrance Diffuser Oil - Hotel Scents for Home - Cold Air Diffuser Oil - Essential Oil -",
+     "units": 1000,
+     "price": "$92.99",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/51FQuTfTdmL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 26,
+    "status": "old"
+   },
+   {
+    "key": "feppo",
+    "units": 1100,
+    "listings": 4,
+    "best": {
+     "asin": "B0GKGH1R5X",
+     "title": "FEPPO Waterless Diffuser - Diffusers for Home Hotel Office Spa Large Room",
+     "units": 1000,
+     "price": "$65.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/61yTRVwLL4L._AC_UL320_.jpg",
+     "amazon_brand": "FEPPO"
+    },
+    "entry_months": 9,
+    "status": "NEW"
+   },
+   {
+    "key": "tower",
+    "units": 1000,
+    "listings": 1,
+    "best": {
+     "asin": "B0GCYW7VRV",
+     "title": "Tower Waterless Diffuser with 5 Hotel-inspried Scent Oil Set",
+     "units": 1000,
+     "price": "$89.99",
+     "stars": "4.1",
+     "img": "https://m.media-amazon.com/images/I/61nT3LPNN2L._AC_UL320_.jpg",
+     "amazon_brand": "XEITIN"
+    },
+    "entry_months": 10,
+    "status": "NEW"
+   },
+   {
+    "key": "metal",
+    "units": 900,
+    "listings": 2,
+    "best": {
+     "asin": "B0GLZ6223G",
+     "title": "Metal Waterless Essential Oil Diffuser, Scent Diffuser with Remote, Black",
+     "units": 900,
+     "price": "$89.99",
+     "stars": "4.4",
+     "img": "https://m.media-amazon.com/images/I/71vyj8-UFOL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 9,
+    "status": "NEW"
+   },
+   {
+    "key": "urpower",
+    "units": 900,
+    "listings": 4,
+    "best": {
+     "asin": "B0FKGWQJ9S",
+     "title": "URPOWER Waterless Essential Oil Diffuser Cordless with 2 x 20mL Oils",
+     "units": 800,
+     "price": "$32.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/71gr4DrpzEL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 15,
+    "status": "NEW"
+   },
+   {
+    "key": "plug",
+    "units": 700,
+    "listings": 3,
+    "best": {
+     "asin": "B0FHQ1KPWQ",
+     "title": "Plug in Scent Diffuser, Waterless Essential Oil Diffuser, Cover Up to 500 Sq. Ft., Hotel Collection Diffuser, ",
+     "units": 700,
+     "price": "$39.99",
+     "stars": "4.3",
+     "img": "https://m.media-amazon.com/images/I/513co3QNUAL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 16,
+    "status": "NEW"
+   },
+   {
+    "key": "homedics",
+    "units": 600,
+    "listings": 3,
+    "best": {
+     "asin": "B0GWKDNP1Y",
+     "title": "Homedics SereneScent Waterless Diffuser, Cold Air Scent Machine for Home",
+     "units": 300,
+     "price": "$99.99",
+     "stars": "3.9",
+     "img": "https://m.media-amazon.com/images/I/61Y0rXI1ASL._AC_UL320_.jpg",
+     "amazon_brand": null
+    },
+    "entry_months": 35,
+    "status": "old"
+   }
+  ],
+  "top_generics": [
+   [
+    4000,
+    "B0GGQ6ZPT9",
+    "Waterless Diffuser Pro with 5 Scent Oils, Luxury Hotel-Class Essential Oil Diffu",
+    "$89.99",
+    "NoxLumina"
+   ],
+   [
+    1000,
+    "B0GKSGZCMV",
+    "Waterless Essential Oil Diffuser with App Control for Home, Black",
+    "$79.99",
+    "AMAZING FLOWER"
+   ],
+   [
+    1000,
+    "B0DHBZ2TX9",
+    "3500 Sq.Ft Smart Scent Diffuser - HVAC System",
+    "$169.99",
+    "Aromadd"
+   ],
+   [
+    1000,
+    "B0DCJPK87K",
+    "3500 Sq.Ft Smart Scent Diffuser - HVAC System",
+    "$169.99",
+    "Aromadd"
+   ]
+  ],
+  "winners_1k": 13
+ },
+ "price_us": {
+  "price_usd_median": 64.49,
+  "price_usd_p25_p75": [
+   39.99,
+   89.99
+  ]
+ },
+ "meta_category": {
+  "phrase": "scent diffuser",
+  "active": 690,
+  "aged30": 210,
+  "aged90": 110,
+  "aged180": 18,
+  "date": "2026-11-07"
+ },
+ "meta_stores_top": [
+  [
+   "scentifyhome.com",
+   8,
+   795,
+   1
+  ],
+  [
+   "scentfinity.com",
+   1,
+   535,
+   1
+  ],
+  [
+   "alltimeairconditioning.com",
+   1,
+   297,
+   1
+  ],
+  [
+   "houseofduaa.com",
+   1,
+   236,
+   1
+  ],
+  [
+   "aurahouse.com",
+   3,
+   200,
+   3
+  ],
+  [
+   "page:toretark shop",
+   1,
+   190,
+   1
+  ],
+  [
+   "page:the adam olsen team",
+   1,
+   183,
+   1
+  ],
+  [
+   "hotelcollection.com",
+   20,
+   162,
+   6
+  ]
+ ],
+ "meta_brand_pages": {
+  "Scentify": {
+   "own": {
+    "110331710713745": {
+     "name": "Scentify",
+     "active": 320,
+     "aged30": 190,
+     "aged90": 100,
+     "aged180": 89
+    }
+   },
+   "phrase_sample": 23,
+   "own_domain": 4
+  },
+  "Aura House": {
+   "own": {
+    "103384242680452": {
+     "name": "Aura House",
+     "active": 210,
+     "aged30": 23,
+     "aged90": 21,
+     "aged180": 3
+    },
+    "792612253944779": {
+     "name": "Aura House Co",
+     "active": 2,
+     "aged30": 1,
+     "aged90": 1,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 29,
+   "own_domain": 22
+  },
+  "Aroma360": {
+   "own": {
+    "938501912844088": {
+     "name": "Aroma360",
+     "active": 370,
+     "aged30": 96,
+     "aged90": 77,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 29,
+   "own_domain": 18
+  },
+  "Hotel Collection": {
+   "own": {
+    "103587581444428": {
+     "name": "Hotel Collection",
+     "active": 550,
+     "aged30": 240,
+     "aged90": 150,
+     "aged180": 5
+    },
+    "111276030713729": {
+     "name": "The Chicago Hotel Collection",
+     "active": 13,
+     "aged30": 8,
+     "aged90": 8,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 30,
+   "own_domain": 10
+  },
+  "AirScent": {
+   "own": {
+    "108789320857920": {
+     "name": "Airscent Diffusers",
+     "active": 4,
+     "aged30": 0,
+     "aged90": 0,
+     "aged180": 0
+    }
+   },
+   "phrase_sample": 4,
+   "own_domain": 0
+  }
+ },
+ "meta_brand_phrase_v20": {
+  "Scentify": {
+   "active": 330,
+   "aged90": 100,
+   "aged180": 89
+  },
+  "Aura House": {
+   "active": 280,
+   "aged90": 27,
+   "aged180": 4
+  },
+  "Aroma360": {
+   "active": 370,
+   "aged90": 78,
+   "aged180": 0
+  },
+  "AirScent": {
+   "active": 4,
+   "aged90": 0,
+   "aged180": 0
+  }
+ },
+ "trend": {
+  "term": "waterless diffuser",
+  "rel_yoy": 2.02,
+  "yearly_means_v20": [
+   0.8,
+   2.4,
+   5.6,
+   9.1,
+   34.5
+  ],
+  "zero_share_2y": 0.0
+ },
+ "tiktok_top_item_sold_k": "87.2",
+ "creatives": [
+  {
+   "domain": "scentifyhome.com",
+   "ads_180d_total_meta": "89",
+   "loaded": 22,
+   "product": "Scentify Lux Diffuser V2",
+   "oldest": [
+    {
+     "days": 899,
+     "page": "Scentify",
+     "headline": "",
+     "body": "Get your first 100ml Scent FREE for a limited time only with the purchase of a Plug-in Diffuser V2 ($30 Value)\nGive your home the sense of scent with our all ne",
+     "img": "dashboard/ads_media/aef4ed1766ededfc.jpg"
+    },
+    {
+     "days": 796,
+     "page": "Scentify",
+     "headline": "Get a FREE Scent with Your V2 Diffuser | Build Your Kit · Limited time offer",
+     "body": "Get your first 100ml Scent FREE for a limited time only with the purchase of a Plug-in Diffuser V2 ($30 Value)\nGive your home the sense of scent with our all ne",
+     "img": "dashboard/ads_media/bef21be205500c80.jpg"
+    },
+    {
+     "days": 796,
+     "page": "Scentify",
+     "headline": "Get a FREE Scent with Your V2 Diffuser | Build Your Kit · Limited time offer",
+     "body": "Get your first 100ml Scent FREE for a limited time only with the purchase of a Plug-in Diffuser V2 ($30 Value)\nGive your home the sense of scent with our all ne",
+     "img": "dashboard/ads_media/f858fd42d406c31c.jpg"
+    },
+    {
+     "days": 739,
+     "page": "Scentify",
+     "headline": "Get a FREE Scent with Your V2 Diffuser | Build Your Kit · Limited time offer",
+     "body": "Get your first 100ml Scent FREE for a limited time only with the purchase of a Plug-in Diffuser V2 ($30 Value)\nGive your home the sense of scent with our all ne",
+     "img": "dashboard/ads_media/43b3c528779a6837.jpg"
+    }
+   ]
+  },
+  {
+   "domain": "aurahouse.com",
+   "ads_180d_total_meta": "3",
+   "loaded": 3,
+   "product": "The Diffuser Cleaner (included with your Trade package)",
+   "oldest": [
+    {
+     "days": 201,
+     "page": "Aura House",
+     "headline": "\"Best scent diffuser?\" · 30 days supply left.",
+     "body": "Why I'm Obsessed With This Scent Diffuser Brand:\n✨ Elevated, Aesthetic Design\n🏠 Clean Home Fragrances\n💖 Scents Inspired By Luxury Hotels\n💚 Sephora-Clean",
+     "img": "dashboard/ads_media/38c7d0df174ff7bd.jpg"
+    },
+    {
+     "days": 201,
+     "page": "Aura House",
+     "headline": "",
+     "body": "Why I'm Obsessed With This Scent Diffuser Brand:\n✨ Elevated, Aesthetic Design\n🏠 Clean Home Fragrances\n💖 Scents Inspired By Luxury Hotels\n💚 Sephora-Clean\n\"Best s",
+     "img": "dashboard/ads_media/e68f801d93d7280c.jpg"
+    },
+    {
+     "days": 201,
+     "page": "Aura House",
+     "headline": "",
+     "body": "Why I'm Obsessed With This Scent Diffuser Brand:\n✨ Elevated, Aesthetic Design\n🏠 Clean Home Fragrances\n💖 Scents Inspired By Luxury Hotels\n💚 Sephora-Clean\n\"Best s",
+     "img": "dashboard/ads_media/fa3e0df9378a93b1.jpg"
+    }
+   ]
+  }
+ ]
+}
