@@ -1,0 +1,58 @@
+{
+ "phrase": "koprez.com",
+ "date": "2026-11-10",
+ "active": 6,
+ "aged30": 0,
+ "aged90": 0,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1136801382223996",
+   "page": "The Nurse Veteran",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "978927964764196",
+   "page": "The Nurse Veteran",
+   "start": "2026-11-03",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1894799745016915",
+   "page": "The Nurse Veteran",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1684736193268460",
+   "page": "The Nurse Veteran",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1383715316947552",
+   "page": "The Nurse Veteran",
+   "start": "2026-11-08",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1125111326692257",
+   "page": "Foot Health Digest",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "offers.koprez.com",
+   "window": "0-30"
+  }
+ ]
+}

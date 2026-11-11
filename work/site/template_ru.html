@@ -22,7 +22,7 @@ h1,h2,h3,.disp{font-family:Unbounded,Manrope,sans-serif;letter-spacing:-.02em;li
 .logo{font:700 17px Unbounded;text-decoration:none;display:flex;gap:9px;align-items:center}
 .logo i{width:12px;height:12px;border-radius:4px;background:var(--acc);display:block}
 .nav nav{margin-left:auto;display:flex;gap:4px}
-.nav nav a{text-decoration:none;font-weight:600;font-size:15px;padding:8px 14px;border-radius:99px;color:var(--soft)}
+.nav nav a{white-space:nowrap;text-decoration:none;font-weight:600;font-size:15px;padding:8px 14px;border-radius:99px;color:var(--soft)}
 .nav nav a[aria-current]{background:var(--ink);color:#fff}
 .nav nav a .soon{font-size:11px;opacity:.6;margin-left:4px}
 /* cover */
@@ -34,7 +34,7 @@ h1,h2,h3,.disp{font-family:Unbounded,Manrope,sans-serif;letter-spacing:-.02em;li
 .switch button{font:600 15px Manrope;border:0;background:transparent;padding:11px 20px;border-radius:99px;cursor:pointer;color:var(--soft);transition:.25s}
 .switch button[aria-pressed=true]{background:var(--ink);color:#fff}
 .switch-sub{font-size:15px;color:var(--soft);margin:0 0 22px;min-height:24px}
-.tiles{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.tiles{display:grid;grid-template-columns:repeat(var(--n,5),1fr);gap:14px}
 .tile{position:relative;border-radius:var(--radius);overflow:hidden;background:var(--wash);aspect-ratio:3/4;text-decoration:none;color:#fff;transition:transform .35s cubic-bezier(.2,.8,.2,1)}
 .tile:hover{transform:translateY(-6px)}
 .tile img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:opacity .4s}
@@ -42,7 +42,7 @@ h1,h2,h3,.disp{font-family:Unbounded,Manrope,sans-serif;letter-spacing:-.02em;li
 .tile .no{position:absolute;top:12px;left:14px;z-index:2;font:800 30px Unbounded;text-shadow:0 2px 12px rgba(0,0,0,.35)}
 .tile .tx{position:absolute;left:14px;right:14px;bottom:14px;z-index:2}
 .tile .tx b{display:block;font:700 16px/1.2 Unbounded;margin-bottom:6px}
-.tile .tx span{font-size:13px;opacity:.88}
+.tile .tx span{display:block;font-size:13px;opacity:.88;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 /* sections */
 section.blk{padding:72px 0 0}
 .sh{display:flex;align-items:end;justify-content:space-between;gap:20px;margin-bottom:26px;flex-wrap:wrap}
@@ -63,11 +63,18 @@ section.blk{padding:72px 0 0}
 /* indicators */
 .ind{display:inline-flex;align-items:center;gap:7px;font-size:13.5px;font-weight:600;padding:5px 11px 5px 9px;border-radius:99px;white-space:nowrap;cursor:help}
 .ind:before{content:"";width:8px;height:8px;border-radius:50%;background:currentColor}
-.ind.g{background:var(--g-w);color:var(--g)}.ind.y{background:var(--y-w);color:var(--y)}.ind.r{background:var(--r-w);color:var(--r)}.ind.n{background:var(--n-w);color:var(--n)}
+.ind.g{background:var(--g-w);color:var(--g)}.ind.y{background:var(--y-w);color:var(--y)}.ind.r{background:var(--r-w);color:var(--r)}.ind.n{background:var(--n-w);color:var(--n)}.ind.o{background:transparent;color:inherit;box-shadow:inset 0 0 0 1px var(--faint)}
 .flag{font-size:12.5px;font-weight:700;color:var(--y);cursor:help}
 /* leaderboard */
 .board{background:var(--card);border-radius:var(--radius);padding:8px 10px}
-.bh,.br{display:grid;grid-template-columns:44px minmax(220px,1.6fr) repeat(4,minmax(120px,1fr));align-items:center;gap:12px;padding:12px 14px}
+.bh,.br{display:grid;grid-template-columns:minmax(260px,1fr) repeat(5,128px);align-items:center;gap:10px;padding:12px 14px}
+.br .ic{display:none}.br .nm>span{min-width:0}
+.br .why{display:block;font-weight:500;color:var(--soft);font-size:13.5px;line-height:1.45;margin-top:3px}
+.br .chg{display:block;font-weight:500;color:#9a6600;font-size:13px;line-height:1.45;margin-top:4px}
+.gh{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;padding:22px 14px 8px;border-top:1px solid var(--line)}
+.gh:first-of-type{border-top:0}.gh b{font:700 20px Unbounded;display:flex;align-items:center;gap:10px}
+.gh b:before{content:"";width:12px;height:12px;border-radius:50%;background:var(--c)}.gh span{color:var(--soft);font-size:14.5px}
+.gh.go{--c:var(--g)}.gh.watch{--c:var(--y)}.gh.no{--c:var(--r)}
 .bh{font-size:12.5px;font-weight:700;color:var(--faint);text-transform:uppercase;letter-spacing:.08em;border-bottom:1px solid var(--line)}
 .br{border-radius:14px;cursor:pointer;text-decoration:none;transition:background .2s}
 .br:hover{background:var(--bg)}
@@ -79,6 +86,28 @@ section.blk{padding:72px 0 0}
 .cut{height:1px;background:var(--line);margin:6px 14px}
 .legend{display:flex;gap:18px;flex-wrap:wrap;font-size:14px;color:var(--soft);margin-top:14px}
 .legend .ind{cursor:default}
+.i{display:inline-grid;place-items:center;width:18px;height:18px;border-radius:50%;border:1.5px solid currentColor;color:var(--faint);font:700 11px/1 Manrope;cursor:help;vertical-align:2px;margin-left:6px;background:transparent;padding:0;flex:none}
+.i:hover,.i:focus-visible{color:var(--ink);outline:none}
+.howl{background:var(--card);border-radius:var(--radius);padding:6px 26px}
+.howl div{display:grid;grid-template-columns:180px 1fr;gap:16px;padding:14px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.howl div:last-child{border-bottom:0}.howl b{font-weight:700}.howl span{color:var(--soft)}
+.wins{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.win{background:var(--card);border-radius:var(--radius);padding:22px;text-decoration:none;display:flex;flex-direction:column;gap:8px;transition:transform .3s}
+.win:hover{transform:translateY(-3px)}.win b{font:700 19px Unbounded}.win small{color:var(--faint);font-size:13px}
+.win p{margin:0;font-size:15px;color:var(--soft);flex:1}.win .ch{font-size:13.5px;font-weight:700;color:var(--acc)}
+.mbar{display:flex;height:48px;border-radius:14px;overflow:hidden;background:var(--wash)}
+.mbar i{display:flex;align-items:center;justify-content:center;font:700 13px Manrope;color:#fff;white-space:nowrap;overflow:hidden;min-width:3px}
+.mleg{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:12px;font-size:14.5px;color:var(--soft)}
+.mleg span:before{content:"";display:inline-block;width:10px;height:10px;border-radius:3px;background:var(--c);margin-right:7px}
+.cc{background:var(--card);border-radius:var(--radius);padding:6px 10px}
+.ccr{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.5fr) 210px;gap:18px;padding:16px 14px;border-bottom:1px solid var(--line);align-items:start;font-size:15.5px}
+.ccr:last-child{border-bottom:0}.ccr.h{font-size:12.5px;font-weight:700;color:var(--faint);text-transform:uppercase;letter-spacing:.08em}
+.ccr .q{font-weight:700}.ccr .ev{color:var(--soft)}.ccr .ind{cursor:default;white-space:normal}
+.sum3{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:14px}
+.sum3 div{background:var(--card);border-radius:var(--radius);padding:20px 22px}.sum3 b{display:block;font-weight:700;margin-bottom:10px}
+.sum3 p{margin:0 0 4px;font-size:14.5px;color:var(--soft)}.sum3 p em{font-style:normal;font-weight:700;color:var(--ink)}
+.lead2{font-size:18px;max-width:70ch;margin:0 0 20px;color:var(--soft)}
+@media (max-width:760px){.howl div{grid-template-columns:1fr;gap:4px}.ccr{grid-template-columns:1fr;gap:8px}.ccr.h{display:none}.sum3{grid-template-columns:1fr}}
 /* cards */
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .card{background:var(--card);border-radius:var(--radius);overflow:hidden;text-decoration:none;display:flex;flex-direction:column;transition:transform .3s cubic-bezier(.2,.8,.2,1),box-shadow .3s}
@@ -90,8 +119,15 @@ section.blk{padding:72px 0 0}
 .card .bd{padding:20px 22px 22px;display:flex;flex-direction:column;gap:14px;flex:1}
 .card h3{font-size:19px;font-weight:700}
 .card p{margin:0;font-size:15px;color:var(--soft);flex:1}
-.nums{display:flex;gap:22px}.nums div b{display:block;font:700 19px Unbounded}.nums div span{font-size:12.5px;color:var(--faint)}
+.nums{display:flex;gap:22px;flex-wrap:wrap}.nums div b{display:block;font:700 19px Unbounded;white-space:nowrap}.nums div span{font-size:12.5px;color:var(--faint)}
 .inds{display:flex;flex-wrap:wrap;gap:6px}
+.grv{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:12px;margin:14px 0}
+.tomb{background:#ECEAE4;border-radius:80px 80px 10px 10px;padding:26px 14px 14px;text-align:center;font-size:13px;line-height:1.4;color:var(--ink);position:relative}
+.tomb:before{content:"✝";position:absolute;top:6px;left:0;right:0;color:#9C978E;font-size:14px}
+.tomb b{display:block;font-size:14px;margin-bottom:2px;word-break:break-all}.tomb .d{color:#6F6A62}.tomb .h{font-style:italic;color:#6F6A62;margin-top:6px}
+.tomb .k{display:inline-block;margin:6px 3px 0;padding:1px 8px;border-radius:10px;background:#fff;font-size:12px}
+.tomb.alive{background:#E7F0E6}
+.chl{margin:0 0 14px;font-size:15px;line-height:1.5}.chl p{margin:0 0 4px}.ilab{margin:6px 0 6px;font-size:13px;color:var(--faint)}
 /* article */
 .back{display:inline-flex;gap:8px;align-items:center;font-weight:600;color:var(--soft);text-decoration:none;margin:34px 0 0}
 .ahead{display:grid;grid-template-columns:1.2fr 1fr;gap:40px;align-items:center;padding:28px 0 10px}
@@ -111,8 +147,145 @@ section.blk{padding:72px 0 0}
 .fact{background:var(--card);border-radius:var(--radius);padding:24px}
 .fact h3{font-size:17px;font-weight:700;margin-bottom:10px}
 .fact p{margin:0;font-size:15.5px;color:var(--soft)}
+.mlist{margin:0;padding-left:18px;font-size:15px;color:var(--soft)}.mlist li{margin:0 0 6px}
+/* story home (v2.5) */
+.hero{display:grid;grid-template-columns:1.35fr 1fr;gap:40px;align-items:end}.hero h1{font-size:clamp(34px,4.8vw,62px);max-width:17ch}
+.ans{background:var(--ink);color:#fff;border-radius:var(--radius);padding:28px 28px 22px}.ans .eyebrow{color:#B9B6AE}
+.ans p{margin:14px 0 0;font-size:16.5px;line-height:1.5;color:#E9E7E1}.ans b{color:#fff}.ans a{color:#fff}
+.ctas{display:flex;gap:10px;flex-wrap:wrap;margin-top:30px}
+.btn{font:700 15px Manrope;border:0;border-radius:99px;padding:13px 22px;background:var(--acc);color:#fff;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--ink)}
+.cnt{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}
+.cnt div{background:var(--card);border-radius:var(--radius);padding:22px 18px}.cnt b{display:block;font:800 clamp(28px,3.4vw,42px)/1 Unbounded;color:var(--acc)}
+.cnt span{display:block;margin-top:10px;font-size:14px;color:var(--soft);line-height:1.35}
+.vcs{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.vc{background:var(--card);border-radius:var(--radius);padding:20px;display:flex;flex-direction:column;gap:12px}
+.vc .q{font:700 16px/1.3 Unbounded;margin:0;color:var(--ink)}
+.why3{margin:0 0 12px;padding-left:18px;color:var(--soft)}.why3 li{margin-bottom:8px}.why3 b{color:var(--ink)}
+.cv p{color:var(--soft)}
+.tally{display:grid;gap:12px}.trow{background:var(--card);border-radius:var(--radius);padding:18px 20px}.trow>b{display:block;font:700 16px Unbounded;margin-bottom:12px}
+.tcols{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}.tcols .ind{cursor:default}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}.chip{display:flex;align-items:center;gap:7px;background:var(--bg);border-radius:99px;padding:3px 10px 3px 3px;text-decoration:none;font-size:13px}
+.chip img,.chip i{width:26px;height:26px;border-radius:50%;object-fit:cover;background:var(--wash);display:block}
+.vc .ind{align-self:flex-start;cursor:default}.vc p{margin:0;font-size:14.5px;color:var(--soft)}
+.ind.hold{background:var(--acc);color:#fff}
+abbr.ab{text-decoration:underline dotted 1.5px;text-underline-offset:3px;cursor:help}
+.ico{width:30px;height:30px;color:var(--acc);display:block}.ico.sm{width:20px;height:20px;display:inline-block;vertical-align:-4px;margin-right:8px}
+.mq{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}.mq div{background:var(--card);border-radius:var(--radius);padding:22px 20px;position:relative}
+.mq .n{position:absolute;top:18px;right:20px;font:800 22px Unbounded;color:var(--line)}.mq b{display:block;margin:14px 0 8px;font-size:16.5px;line-height:1.3}.mq p{margin:0 0 14px;color:var(--soft);font-size:14.5px}
+.src{display:flex;flex-wrap:wrap;gap:5px}.src span{font-size:12px;background:var(--wash);border-radius:99px;padding:3px 9px;color:var(--soft)}
+.eq{display:grid;grid-template-columns:1fr auto 1fr auto 1fr;gap:14px;align-items:center}.eq>i{font:800 30px Unbounded;font-style:normal;color:var(--faint);text-align:center}
+.eq div{background:var(--card);border-radius:var(--radius);padding:22px}.eq b{display:block;margin:12px 0 6px;font:700 18px Unbounded}.eq span{color:var(--soft);font-size:14px}.eq .ok{box-shadow:inset 0 0 0 2px var(--acc)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}.two>div{background:var(--card);border-radius:var(--radius);padding:22px}.two h3{font-size:18px;margin-bottom:10px}.two ul{margin:0;padding-left:18px;color:var(--soft)}.two li{margin-bottom:8px}.two li b{color:var(--ink)}
+@media (max-width:980px){.mq{grid-template-columns:1fr 1fr}.eq{grid-template-columns:1fr}.eq>i{display:none}}@media (max-width:620px){.mq,.two{grid-template-columns:1fr}}
+.kcnt{display:grid;grid-template-columns:1fr 1fr;gap:12px}.kcnt div{background:var(--card);border-radius:var(--radius);padding:20px}.kcnt b{display:block;font:800 clamp(26px,3vw,36px)/1 Unbounded;color:var(--acc)}.kcnt span{display:block;margin-top:8px;color:var(--soft);font-size:14px}
+.vs{background:var(--card);border-radius:var(--radius);padding:6px 20px}.vs .vh,.vs .vr{display:grid;grid-template-columns:1fr 1.3fr 1.3fr;gap:14px;padding:12px 0;border-bottom:1px solid var(--line)}.vs .vr:last-child{border-bottom:0}.vs .vh b{font:700 17px Manrope}.vs .vh a{color:var(--ink)}.vs .vr span{color:var(--faint);font-size:14px}.vs .vr p{margin:0;font-size:15px}
+@media (max-width:760px){.vs .vh,.vs .vr{grid-template-columns:1fr 1fr}.vs .vh span,.vs .vr span{grid-column:1/-1}}
+.lash3{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}.lash3 div{background:var(--card);border-radius:var(--radius);padding:20px}.lash3 b{display:block;font:700 19px Unbounded;margin:6px 0 8px}.lash3 p{margin:0;color:var(--soft);font-size:14.5px}
+@media (max-width:760px){.lash3{grid-template-columns:1fr}}
+.jump{display:flex;flex-wrap:wrap;gap:6px;margin-top:22px}.jump button,.jump a{font:600 13.5px Manrope;border:1px solid var(--line);background:var(--card);border-radius:99px;padding:7px 13px;cursor:pointer;color:var(--ink);text-decoration:none;transition:background .2s,border-color .2s}
+.jump button:hover,.jump a:hover{border-color:var(--ink)}.jump a{background:var(--ink);color:#fff;border-color:var(--ink)}
+.rv{opacity:0;transform:translateY(32px);transition:opacity .8s ease,transform .9s cubic-bezier(.2,.8,.2,1)}.rv.in{opacity:1;transform:none}
+.fx .gt i{transform:scaleX(0);transform-origin:right;transition:transform 1.1s cubic-bezier(.2,.8,.2,1) .1s}.fx .gt i.ad{transition-delay:.7s}.fx.in .gt i{transform:none}
+.fx .gt em{opacity:0;transition:opacity .4s 1.6s}.fx.in .gt em{opacity:1}
+.fx .rr i{transform:scaleX(0);transform-origin:left;transition:transform .6s ease var(--d,0ms)}.fx.in .rr i{transform:none}
+.fx .dots i{opacity:0;transition:opacity .6s ease var(--d,0ms)}.fx.in .dots i{opacity:1}
+.mbar.fx i{transform:scaleX(0);transform-origin:left;transition:transform .9s cubic-bezier(.2,.8,.2,1) .2s}.mbar.fx.in i{transform:none}
+.card{transition:transform .3s cubic-bezier(.2,.8,.2,1),box-shadow .3s}.card:hover{transform:translateY(-4px);box-shadow:0 14px 30px -18px rgba(0,0,0,.35)}
+.tstrip{display:flex;justify-content:space-between;align-items:center;gap:22px;background:var(--ink);color:#fff;border-radius:var(--radius);padding:26px 28px;text-decoration:none;transition:transform .3s}
+.tstrip:hover{transform:translateY(-3px)}.tstrip .eyebrow{color:#B9B6AE}.tstrip b{display:block;font:700 clamp(20px,2.4vw,28px) Unbounded;margin:8px 0}.tstrip p{margin:0;color:#D9D6CE;max-width:60ch}
+.tstrip .go{white-space:nowrap;font-weight:700;background:#fff;color:var(--ink);border-radius:99px;padding:11px 18px}
+.tchips{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}.tchips span{font-size:13px;border-radius:99px;padding:5px 11px;background:rgba(255,255,255,.12)}
+.tg .tchips span{background:var(--wash);color:var(--soft)}
+.qs{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}.qs div{background:var(--card);border-radius:var(--radius);padding:20px}.qs .n{font:800 22px Unbounded;color:var(--acc)}.qs b{display:block;margin:6px 0;font-size:16px}.qs p{margin:0;color:var(--soft);font-size:14.5px}
+.mx{background:var(--card);border-radius:var(--radius);overflow-x:auto}.mx table{border-collapse:collapse;width:100%;min-width:680px}
+.mx th,.mx td{padding:11px 14px;border-bottom:1px solid var(--line);text-align:left;font-size:14.5px}.mx th{font-size:12.5px;color:var(--soft);background:var(--wash)}.mx .c{text-align:center}
+.mx td small{display:block;color:var(--faint);font-size:12.5px}.mx tr.g td{background:var(--wash);font-size:12px;font-weight:700;color:var(--soft);text-transform:uppercase;letter-spacing:.05em;padding:7px 14px}
+.mdot{display:inline-block;width:14px;height:14px;border-radius:50%;vertical-align:middle}.mdot.main{background:var(--ink)}.mdot.aux{border:2px solid var(--faint);width:12px;height:12px}
+.tchip{display:inline-block;font-size:12.5px;font-weight:700;border-radius:99px;padding:4px 10px;white-space:nowrap}
+.c-have{color:var(--g);background:var(--g-w)}.c-free{color:var(--acc);background:#E6E6FF}.c-trial{color:var(--y);background:var(--y-w)}.c-paid{color:var(--r);background:var(--r-w)}.c-off{color:var(--soft);background:var(--n-w)}
+.tg{margin-bottom:22px}.tgh{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:10px}.tgh p{margin:0;color:var(--soft);font-size:14.5px}
+.tcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+.tc{background:var(--card);border-radius:16px;padding:16px 18px;border-left:4px solid var(--line)}.tc.have{border-left-color:var(--g)}.tc.free{border-left-color:var(--acc)}.tc.trial{border-left-color:var(--y)}.tc.paid{border-left-color:var(--r)}
+.tc .top{display:flex;justify-content:space-between;gap:10px;align-items:baseline}.tc .top span{font-weight:700;font-size:14px;white-space:nowrap}.tc p{margin:8px 0 6px;font-size:14.5px}.tc small{color:var(--faint);font-size:12.5px}
+.bud{background:var(--card);border-radius:var(--radius);padding:22px}.bbar{display:flex;height:46px;border-radius:12px;overflow:hidden}
+.bbar i{display:flex;align-items:center;justify-content:center;font:700 13px Manrope;color:#fff;white-space:nowrap;overflow:hidden}.bbar .need{background:var(--r)}.bbar .opt{background:var(--y)}.bbar .opt2{background:color-mix(in srgb,var(--y) 65%,#fff)}.bbar .opt3{background:color-mix(in srgb,var(--y) 40%,#fff);color:var(--ink)}
+.btot{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:16px}.btot b{display:block;font:700 26px Unbounded}.btot span{color:var(--soft);font-size:14px}
+@media (max-width:760px){.tstrip{flex-direction:column;align-items:flex-start}.qs{grid-template-columns:1fr 1fr}.btot{grid-template-columns:1fr}}
+@media (max-width:620px){.qs{grid-template-columns:1fr}}
+.tt{background:var(--card);border-radius:var(--radius);padding:6px 22px}
+.tth,.ttr{display:grid;grid-template-columns:1.6fr 1fr 1fr auto;gap:14px;align-items:center;padding:13px 0;border-bottom:1px solid var(--line)}
+.tth span{font-size:12.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);font-weight:700}
+.ttr{text-decoration:none}.ttr:last-child{border-bottom:0}.ttr small{display:block;color:var(--faint);font-size:13px}.ttr>span:nth-child(2),.ttr>span:nth-child(3){font:700 17px Unbounded}.ttr>span:nth-child(2){color:var(--faint)}
+.ttr .ind{cursor:default;justify-self:end}
+@media (max-width:620px){.tth{display:none}.ttr{grid-template-columns:1fr 1fr}.ttr>span:first-child{grid-column:1/-1}.ttr .ind{justify-self:start}}
+.amz{background:var(--card);border-radius:var(--radius);padding:22px 24px;margin-top:14px;border-left:4px solid var(--acc)}.amz b{font:700 17px Unbounded}.amz p{margin:10px 0 0;color:var(--soft)}
+.card .fbl{flex:0;color:var(--ink);font-size:14.5px}
+.trk{display:grid;grid-template-columns:repeat(5,1fr);gap:12px}.trk div{background:var(--card);border-radius:var(--radius);padding:20px}.trk b{display:block;font-size:16px;margin-bottom:8px}.trk p{margin:0;font-size:14.5px;color:var(--soft)}
+@media (max-width:980px){.trk{grid-template-columns:1fr 1fr}}@media (max-width:620px){.trk{grid-template-columns:1fr}}
+.lc{display:grid;grid-template-columns:1fr auto 1fr;gap:14px;align-items:stretch}
+.lc>div:not(.vs){background:var(--card);border-radius:var(--radius);padding:24px}.lc b{display:block;font:700 22px Unbounded;margin:8px 0}.lc p{margin:0;color:var(--soft)}
+.lc>div:last-child{background:var(--wash);border:1.5px dashed var(--faint)}
+.lc .vs{align-self:center;font:700 13px Unbounded;color:var(--faint);text-transform:uppercase}
+.h3{font-size:clamp(20px,2.2vw,26px);font-weight:700;margin:40px 0 16px}
+.dgrid{background:var(--card);border-radius:var(--radius);padding:10px 22px 16px}
+.dr{display:grid;grid-template-columns:minmax(150px,260px) 1fr;gap:14px;align-items:center;padding:7px 0;border-bottom:1px solid var(--line);text-decoration:none;color:var(--soft);font-size:15px}
+.dr.on{color:var(--ink);font-weight:700}.dots{display:flex;gap:6px;flex-wrap:wrap}
+.dots i{width:14px;height:14px;border-radius:50%;border:2px solid var(--n);display:block}.dots i.y{background:var(--acc);border-color:var(--acc)}
+.dots em{font-style:normal;font-size:13px;color:var(--faint);white-space:nowrap}
+.dl{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;font-size:13px;color:var(--faint);margin-top:12px}
+.dgrid .dl.top{margin:6px 0 10px}.dl .k{width:12px;height:12px;border-radius:50%;display:inline-block;border:2px solid var(--n);margin-right:-10px}.dl .k.y{background:var(--acc);border-color:var(--acc)}
+.dl .k.life{border-radius:3px;border:0;background:#D9D5CC;width:18px}.dl .k.ad{border-radius:3px;border:0;background:var(--acc);width:18px}
+.pgrid{background:var(--card);border-radius:var(--radius);padding:10px 22px 16px}.pgrid .dl.top{margin:6px 0 10px}
+.dl .k.own,.dl .k.oth{border-radius:3px;border:0;width:18px;margin-right:0}.dl .k.own{background:var(--acc)}.dl .k.oth{background:var(--r)}
+.pr{display:grid;grid-template-columns:minmax(130px,220px) 1fr 70px;gap:14px;align-items:center;padding:8px 0;border-bottom:1px solid var(--line)}
+.pr b{display:block;font-size:15px}.pr small{color:var(--faint);font-size:12.5px}.pn{font-size:14px;color:var(--soft);text-align:right;white-space:nowrap}
+.pbar{display:flex;height:14px;border-radius:7px;overflow:hidden;background:var(--n-w)}.pbar i{background:var(--acc)}.pbar em{background:var(--r)}
+@media (max-width:620px){.pr{grid-template-columns:1fr auto;gap:6px 12px}.pr .pbar{grid-column:1/-1;grid-row:2}}
+.gantt{background:var(--card);border-radius:var(--radius);padding:16px 22px}
+.gr{display:grid;grid-template-columns:minmax(120px,190px) 1fr;gap:14px;align-items:center;padding:8px 0}
+.gl{text-decoration:none}.gl b{display:block;font-size:15px}.gl small{color:var(--faint);font-size:12.5px}
+.gt{position:relative;height:26px}.gt i{position:absolute;top:4px;bottom:4px;border-radius:5px}.gt i.life{background:#E6E2D9}.gt i.ad{background:var(--acc);top:8px;bottom:8px}
+.gt em{position:absolute;top:-14px;font:700 11.5px Manrope;font-style:normal;color:var(--acc);white-space:nowrap}
+.gax{position:relative;height:18px;margin-left:calc(min(190px,30%) + 14px);border-bottom:1px solid var(--line);margin-bottom:6px}
+.gax span{position:absolute;bottom:3px;transform:translateX(-50%);font-size:11.5px;color:var(--faint);white-space:nowrap}
+.race{background:var(--card);border-radius:var(--radius);padding:16px 22px 10px}
+.race .gax{margin-left:0;border-bottom:0;border-top:1px solid var(--line);margin:6px 0 0;height:20px}.race .gax span{bottom:auto;top:4px}
+.rr{position:relative;height:5px;margin:1px 0}.rr i{position:absolute;top:1px;bottom:1px;background:#C9C4BA;border-radius:2px;min-width:3px}
+.rr.lab{height:26px;margin:2px 0}.rr.lab i{top:auto;bottom:3px;height:8px;background:#8C877E}.rr.long{height:26px;margin:2px 0}.rr.long i{background:var(--acc);top:auto;bottom:3px;height:8px}
+.rr em{position:absolute;top:0;font:700 12px/1.2 Manrope;font-style:normal;color:var(--ink);white-space:nowrap}
+.rr.side{height:16px;margin:5px 0}.rr.side i{top:4px;bottom:auto;height:8px}.rr.side em{top:1px}
+@media (max-width:640px){.rr.side{height:26px;margin:2px 0}.rr.side i{top:auto;bottom:3px}.rr.side em{top:0;right:0!important}}
+.feat{display:grid;grid-template-columns:1fr 1.4fr;gap:14px}.feat img{width:100%;height:100%;max-height:300px;object-fit:cover;border-radius:var(--radius)}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.pc2{background:var(--card);border-radius:var(--radius);padding:22px}.pc2 b{display:block;font:700 22px Unbounded;margin:6px 0 12px}
+.pc2 p{margin:0 0 8px;color:var(--soft);font-size:14.5px}.pc2 p em{display:block;font:800 22px Unbounded;color:var(--ink);font-style:normal}
+.pc2:last-child{box-shadow:inset 0 0 0 2px var(--acc)}.pc2:last-child p em{color:var(--acc)}
+.chk4{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.chk4 div{background:var(--card);border-radius:var(--radius);padding:20px}.chk4 .n{font:800 22px Unbounded;color:var(--acc)}
+.chk4 b{display:block;margin:8px 0;font-size:16px}.chk4 p{margin:0;font-size:14.5px;color:var(--soft)}
+.tcard{display:grid;grid-template-columns:320px 1fr;gap:24px;background:var(--card);border-radius:var(--radius);overflow:hidden;text-decoration:none;align-items:center}
+.tcard img{width:100%;height:100%;min-height:240px;object-fit:cover}.tcard>div{padding:26px 26px 26px 0}.tcard h2{font-size:clamp(24px,2.8vw,34px);margin:8px 0 14px}
+.tcard p{color:var(--soft);margin:0 0 10px}.tcard .ch{font-weight:700;color:var(--acc)}
+.know{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.know div{background:var(--card);border-radius:var(--radius);padding:22px}
+.know b{font:700 17px Unbounded}.know ul{margin:12px 0 0;padding-left:18px;color:var(--soft)}.know li{margin-bottom:6px}
+.know .k0{box-shadow:inset 0 0 0 2px var(--g)}.know .k1{box-shadow:inset 0 0 0 2px var(--y)}.know .k2{background:var(--wash)}
+.plan{background:var(--card);border-radius:var(--radius);padding:6px 22px}
+.plan .ph,.plan .pr{display:grid;grid-template-columns:170px 1fr 1.4fr;gap:18px;padding:14px 0;border-bottom:1px solid var(--line)}
+.plan .ph b{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint)}
+.plan .pr span{font:700 15px Unbounded}.plan .pr p{margin:0;color:var(--soft);font-size:15px}.plan .pr:last-child{border-bottom:0}
+.plan .pr.stop span{color:var(--r)}.plan .pr.go span{color:var(--g)}.plan .pr.go p:nth-child(2){color:var(--ink);font-weight:700}
+.tools{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.tools div{background:var(--card);border-radius:var(--radius);padding:22px}
+.tools b{display:block;font:700 22px Unbounded}.tools .pr2{display:inline-block;margin:10px 0 12px;background:var(--wash);border-radius:99px;padding:5px 12px;font-weight:700;font-size:14px}
+.tools p{margin:0;color:var(--soft);font-size:15px}.total{font-size:18px;margin:18px 4px 0}
+details.more .blk{padding-top:10px}
+@media (max-width:980px){.hero{grid-template-columns:1fr}.cnt{grid-template-columns:repeat(3,1fr)}.vcs{grid-template-columns:1fr 1fr}.chk4{grid-template-columns:1fr 1fr}.feat{grid-template-columns:1fr}.tcard{grid-template-columns:1fr}.tcard>div{padding:0 22px 22px}.tcard img{max-height:240px}}
+@media (max-width:620px){.cnt{grid-template-columns:1fr 1fr}.vcs,.chk4,.know,.tools,.pair{grid-template-columns:1fr}.lc{grid-template-columns:1fr}.lc .vs{text-align:center}
+  .dr{grid-template-columns:1fr;gap:4px}.gr{grid-template-columns:1fr;gap:2px}.gax{margin-left:0}.plan .ph{display:none}.plan .pr{grid-template-columns:1fr;gap:6px}
+  .plan .pr p:nth-child(2):before{content:"Подготовка: ";font-weight:700;color:var(--ink)}.plan .pr p:nth-child(3):before{content:"Разведка: ";font-weight:700;color:var(--ink)}.dgrid,.gantt,.race,.plan{padding-left:16px;padding-right:16px}}
+@media (prefers-reduced-motion: reduce){.rv,.fx .gt i,.fx .rr i,.mbar.fx i{transform:none!important}}
 .take{font:700 clamp(22px,2.6vw,32px)/1.3 Unbounded;letter-spacing:-.015em;max-width:30ch;margin:0}
-.next{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}.next span{background:var(--card);border:1px dashed var(--faint);border-radius:99px;padding:8px 14px;font-size:14.5px}
+.next{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}.next b{flex-basis:100%;font-size:14px}.next span{background:var(--card);border:1px dashed var(--faint);border-radius:99px;padding:8px 14px;font-size:14.5px}
 .figs{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
 .fig{background:var(--card);border-radius:var(--radius);padding:24px 24px 18px}
 .fig h3{font-size:16px;font-weight:700;margin-bottom:4px}
@@ -131,8 +304,10 @@ section.blk{padding:72px 0 0}
 .ad div{padding:14px 16px;font-size:14px}.ad b{display:block;margin-bottom:4px}
 details.more{background:var(--card);border-radius:var(--radius);padding:6px 26px;margin-top:14px}
 details.more summary{cursor:pointer;font-weight:700;padding:16px 0;list-style:none}
-details.more summary:after{content:" +";color:var(--faint)}
-details.more[open] summary:after{content:" −"}
+details.more summary{display:flex;align-items:center;gap:12px}details.more summary::-webkit-details-marker{display:none}
+details.more summary:after{content:"+";flex:none;width:30px;height:30px;border-radius:50%;background:var(--ink);color:#fff;display:inline-flex;align-items:center;justify-content:center;font:600 20px/1 Manrope,system-ui,sans-serif;transition:transform .2s}
+details.more summary:hover:after{background:var(--acc)}
+details.more[open] summary:after{content:"−"}
 .kv{display:grid;grid-template-columns:1fr auto;gap:0;font-size:15px;padding-bottom:16px}
 .kv div{padding:9px 0;border-bottom:1px solid var(--line)}.kv div:nth-child(even){text-align:right;font-weight:700}
 .kv div.c{grid-column:1/-1;color:var(--soft);font-size:13.5px;border:0;padding-top:12px}
@@ -143,23 +318,36 @@ details.more[open] summary:after{content:" −"}
 .cr .strike{text-decoration:line-through;text-decoration-color:var(--r);text-decoration-thickness:2px;color:var(--soft)}
 .cr .gap{font:800 22px Unbounded;color:var(--r)}.cr .gap i{font:400 13px Manrope;color:var(--faint);font-style:normal}
 .cap2{font-size:14px;color:var(--faint);margin:12px 4px 0;max-width:80ch}
+.cvs{display:grid;gap:14px}.cv{background:var(--card);border-radius:var(--radius);padding:26px}
+.cv-h{display:flex;justify-content:space-between;align-items:start;gap:12px;flex-wrap:wrap}.cv-h b{font:700 22px Unbounded}.cv-h small{display:block;color:var(--faint);font-size:13.5px;margin-top:4px}
+.cv-h .ind{cursor:default}.cv-q{font-style:italic;color:var(--soft);margin:14px 0 18px;font-size:16px}
+.cv-steps{display:flex;align-items:center;gap:14px;flex-wrap:wrap;background:var(--bg);border-radius:16px;padding:14px 18px}
+.cv-steps .st span{display:block;font-size:12.5px;color:var(--faint)}.cv-steps .st b{font:700 20px Unbounded}.cv-steps .op{font:700 22px Unbounded;color:var(--faint)}
+.cv-two{display:grid;grid-template-columns:1fr 1fr;gap:26px;margin-top:22px}.chk h4{font:700 15px Unbounded;margin:0 0 12px}
+.chk p{margin:12px 0 0;font-size:15px}.chk .warn{color:var(--soft);font-size:14px;border-left:3px solid var(--y);padding-left:10px}
+.dots{display:grid;grid-template-columns:repeat(20,1fr);gap:4px;max-width:340px;position:relative}.dots i{aspect-ratio:1;border-radius:50%;background:var(--n-w)}
+.dots i.on{background:var(--r)}.dots i.mid{background:#F0A9A3}.dots .x{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--ink);color:#fff;padding:6px 16px;border-radius:99px;font:800 24px Unbounded;white-space:nowrap}
+.dl{font-size:12.5px;color:var(--faint);margin-top:8px}.dl .k{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--n-w);margin:0 4px 0 8px;vertical-align:-1px}
+.dl .k.on{background:var(--r)}.dl .k.mid{background:#F0A9A3}.dl .k:first-child{margin-left:0}
+.big{font:800 34px Unbounded;color:var(--r)}.cv-v{margin:22px 0 0;padding-top:16px;border-top:1px solid var(--line);font-size:16px}
+@media (max-width:760px){.cv-two{grid-template-columns:1fr}.cv{padding:20px}}
 @media (max-width:760px){.cr{grid-template-columns:1fr 1fr;row-gap:6px}.cr.ch{display:none}.cr .gap{grid-column:2;grid-row:1;text-align:right}}
 .empty{background:var(--card);border-radius:var(--radius);padding:30px;color:var(--soft)}
 footer{padding:80px 0 50px;color:var(--faint);font-size:14px;display:flex;gap:24px;flex-wrap:wrap}
 .tip{position:fixed;z-index:50;background:var(--ink);color:#fff;font-size:13.5px;line-height:1.45;padding:10px 13px;border-radius:12px;max-width:290px;pointer-events:none;opacity:0;transition:opacity .15s}
 .fade{animation:fd .5s ease both}@keyframes fd{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
-@media (max-width:980px){.tiles{grid-template-columns:repeat(5,minmax(150px,1fr));overflow-x:auto;scroll-snap-type:x mandatory}.tile{scroll-snap-align:start}
+@media (max-width:980px){.tiles{grid-template-columns:repeat(var(--n,5),minmax(150px,1fr));overflow-x:auto;scroll-snap-type:x mandatory}.tile{scroll-snap-align:start}
   .pre{grid-template-columns:1fr 1fr}.finds{grid-template-columns:1fr}.fd:nth-last-child(2){border-bottom:1px solid var(--line)}
   .cards,.facts,.ads{grid-template-columns:1fr 1fr}.figs{grid-template-columns:1fr}.ahead{grid-template-columns:1fr}.ahead .ph{max-height:320px;aspect-ratio:16/10}
-  .bh{display:none}.br{grid-template-columns:34px 1fr;row-gap:8px}.br .ic{grid-column:2/-1;display:flex;flex-wrap:wrap;gap:6px}.br>.ind{display:none}
+  .bh{display:none}.br{grid-template-columns:1fr;row-gap:8px}.br .ic{display:flex;flex-wrap:wrap;gap:6px}.br>.ind{display:none}
   .claim{grid-template-columns:1fr}.claim .money{text-align:left}}
-@media (max-width:620px){.wrap{padding:0 16px}.pre,.cards,.facts,.ads{grid-template-columns:1fr}.cover{padding-top:40px}.nav nav a{padding:7px 9px;font-size:14px}.nav nav a .soon{display:none}
+@media (max-width:620px){.nav .wrap{gap:10px}.logo{font-size:15px}.nav nav{overflow-x:auto;scrollbar-width:none}.wrap{padding:0 16px}.pre,.cards,.facts,.ads{grid-template-columns:1fr}.cover{padding-top:40px}.nav nav a{padding:7px 9px;font-size:14px}.nav nav a .soon{display:none}
   .switch{display:flex}.switch button{flex:1;padding:10px 8px;font-size:14px}.claim{padding:26px 22px}.finds{padding:6px 20px}}
 </style>
 </head>
 <body>
 <header class="nav" id="nav"><div class="wrap"><a class="logo" href="#"><i></i>Полка США</a>
-<nav><a href="#" data-n="home">Обзор</a><a href="#all" data-n="all">Все 20</a><a href="#tips" data-n="tips">Хитрости</a><a href="#method" data-n="method">Методика</a></nav></div></header>
+<nav><a href="#" data-n="home">Обзор</a><a href="#all" data-n="all">Все 20</a><a href="#video" data-n="video">Видео</a><a href="#tools" data-n="tools">Инструменты</a><a href="#tips" data-n="tips">Хитрости</a><a href="#method" data-n="method">Методика</a></nav></div></header>
 <main id="app"></main>
 <div class="tip" id="tip"></div>
 <script>
@@ -171,124 +359,433 @@ const nf=n=>n==null?"—":Math.round(n).toLocaleString("ru-RU");
 const kf=n=>n==null?"—":n>=1e6?(n/1e6).toFixed(1).replace(".",",")+" млн":n>=1e3?Math.round(n/1e3)+" тыс.":String(n);
 const pc=x=>(x>=1?"+":"−")+Math.abs(Math.round((x-1)*100))+"%";
 const nm=c=>RU.name[c.pid]||c.short;
-let lens="newcomer";
+const MG=DATA.margin, GR=DATA.groups;
+const groupOf=p=>GR.go.includes(p)?"go":GR.watch.includes(p)?"watch":"no";
+const info=t=>`<button class="i" type="button" aria-label="Пояснение" data-tip="${esc(t)}">i</button>`;
+const fx=x=>Math.abs(x).toFixed(Math.abs(x)>=100?0:1).replace(".",",").replace(/,0$/,"");
+const usd=x=>(x<0?"−":"")+"$"+fx(x), prc=x=>"$"+x.toFixed(2).replace(".",",");
+const usdR=a=>a[0]>=0?`$${fx(a[0])}–${fx(a[1])}`:`от ${usd(a[0])} до ${usd(a[1])}`;
+const pctR=a=>a[0]>=0?`${Math.round(a[0]*100)}–${Math.round(a[1]*100)}%`:`от −${Math.abs(Math.round(a[0]*100))}% до ${Math.round(a[1]*100)}%`;
 
-/* four plain-language signals, thresholds fixed in METRICS.md v2.2 */
+/* four plain-language signals, thresholds fixed in METRICS.md v2.3 */
+const qTerms=m=>(m.A1_terms||"").replace(/, summed$/,"").split(" + ").join("» + «");
 function inds(c){const m=c.m;const o=[];
   const small=m.flags.some(f=>f.startsWith("small sample")),rare=m.flags.some(f=>f.startsWith("search term too rare"));
-  const b=m.B1;o.push({k:"new",l:small?"n":b>=.2?"g":b>=.1?"y":"r",t:small?`Новички: мало данных`:`Новички ${Math.round(b*100)}%`,tip:`Из ${m.B1_n} продавцов, пришедших за 3–24 месяца, ${m.B2_1k} продают 1 000+ в месяц на Amazon. Верхняя оценка: ушедших с первых страниц поиска не видно.`});
-  const a=m.A1;o.push({k:"dem",l:rare?"n":a>=1.2?"g":a>=.8?"y":"r",t:rare?"Спрос: мало данных":`Спрос ${pc(a)}`,tip:rare?`Запрос слишком редкий: больше 20% недель без данных. Формально ${pc(a)}, но читать это нельзя.`:`Поиск в Google за последние 12 недель против тех же недель год назад, с поправкой на общий фон.`});
-  const d=m.D2;o.push({k:"pr",l:d==="stable"?"g":d==="mild"?"y":d==="war"?"r":"n",t:d==="stable"?"Цены ровные":d==="mild"?"Цены слегка ползут":d==="war"?"Ценовая война":"Цены не мерили",tip:d?`Цены топ-10 за 12 месяцев: ${m.D2_note}`:"Историю цен по этой категории не снимали."});
-  const h=m.B3_hhi;o.push({k:"cmp",l:h<1000?"g":h<=1800?"y":"r",t:h<1000?"Рынок открыт":h<=1800?"Рынок плотный":"Рынок захвачен",tip:`У трёх крупнейших брендов ${Math.round(m.B3_top3*100)}% продаж. Индекс концентрации ${nf(h)}; по стандарту антимонопольных органов США выше 1 800 — высокая концентрация.`});
+  const b=m.B1,p0=Math.round(b*100),lo=Math.round(m.B1_lo*100),hi=Math.round(m.B1_hi*100);
+  o.push({k:"new",l:small?"n":m.B1_grp==="above"?"g":m.B1_grp==="below"?"r":"y",t:small?`Новички: мало данных`:`Новички ${p0}% (${lo}–${hi}%)`,s:small?"мало данных":`${p0}%`,tip:`Из ${m.B1_n} продавцов, пришедших за 3–24 месяца, ${m.B2_1k} продают 1 000+ в месяц на Amazon. С учётом погрешности — от ${lo} до ${hi}%; в среднем по 20 товарам 12%. Зелёный — явно выше среднего, красный — явно ниже, жёлтый — разницу со средним данные не показывают. Верхняя оценка: ушедших с первых страниц поиска не видно.`});
+  const a=m.A1,bad=GR.a1_invalid&&GR.a1_invalid[c.pid];
+  o.push(bad?{k:"dem",l:"n",t:bad[0],s:bad[2]||"не виден",tip:bad[1]}
+    :{k:"dem",l:rare?"n":"o",t:rare?"Google: мало данных":`Google ${pc(a)}/год`,s:rare?"мало данных":pc(a),tip:(rare?`Запрос «${qTerms(m)}» слишком редкий: больше 20% недель без данных. Тренд по нему читать нельзя.`:`Google Trends, США, запрос «${qTerms(m)}»: последние 12 недель против тех же недель год назад, ${pc(a)}, с поправкой на общий рост Google. Среднее по ${m.A1_pulls} замерам.`)+(GR.a1_caveat&&GR.a1_caveat[c.pid]?" "+GR.a1_caveat[c.pid]:" Это спрос на товар целиком, а не на конкретный бренд.")});
+  const d=m.D2;o.push({k:"pr",l:d==="stable"?"g":d==="mild"?"y":d==="war"?"r":"n",t:d==="stable"?"Цены ровные":d==="mild"?"Цены ползут":d==="war"?"Ценовая война":"Цены не мерили",s:d==="stable"?"ровные":d==="mild"?"ползут":d==="war"?"война":"не мерили",tip:d?`Цены топ-10 за 12 месяцев: ${m.D2_note}`:"Историю цен по этой категории не снимали."});
+  const h=m.B3_hhi;o.push({k:"cmp",l:h<1000?"g":h<=1800?"y":"r",t:h<1000?"Рынок открыт":h<=1800?"Рынок плотный":"Рынок захвачен",s:h<1000?"открыт":h<=1800?"плотный":"захвачен",tip:`У трёх крупнейших брендов ${Math.round(m.B3_top3*100)}% продаж. Индекс концентрации ${nf(h)}; по стандарту антимонопольных органов США выше 1 800 — высокая концентрация.`});
+  o.push(mInd(c));
   return o}
+/* money left per sale before ads, Amazon FBA (work/margin/margin.py) */
+function mInd(c){const g=MG[c.pid];if(!g)return{k:"mon",l:"n",t:"Деньги: не считали",s:"не считали",tip:"Экономику этого товара не считали."};
+  const L={good:["g","Деньги есть","есть"],tight:["y","Денег впритык","впритык"],bad:["r","Денег нет","нет"]}[g.verdict];
+  return{k:"mon",l:L[0],t:L[1],s:L[2],tip:`С продажи за ${prc(g.price)} до рекламы остаётся ${usdR(g.before_ads)} (${pctR(g.before_ads_pct)} цены). Amazon забирает ${usd(g.amazon_take)}, товар с доставкой и пошлиной стоит ${usdR(g.landed)}. Оценка по ценам поставщиков и тарифам Amazon 2027 года.`}}
 const indHtml=i=>`<span class="ind ${i.l}" data-tip="${esc(i.tip)}">${esc(i.t)}</span>`;
 const flagHtml=c=>c.m.flags.length?`<span class="flag" data-tip="${esc(c.m.flags.map(trF).join(". "))}">⚠ данные под вопросом</span>`:"";
 const FL={"small sample: under 20 entrants":"Мало новичков в выборке (меньше 20)","search term too rare (>20% zero weeks)":"Поисковый запрос слишком редкий",
- "Amazon data collected by hand, not re-verified":"Данные Amazon собраны вручную, не перепроверены","hair serum, pre-wash oil and rosemary oil overlap: partly one market":"Пересекается с соседними товарами для волос",
+ "Amazon data collected by hand, not re-verified":"Данные Amazon сняты отдельно со страниц поиска, повторно не сверены","hair serum, pre-wash oil and rosemary oil overlap: partly one market":"Пересекается с соседними товарами для волос",
  "shelf = all body oils, not only firming/crepey":"В замер попали все масла для тела","brand-only titles: shelf undercounted by ~43K/mo":"Полка недосчитана примерно на 43 тыс./мес"};
 const trF=f=>FL[f]||f;
-function order(){const ids=RU.tops[lens].ids;const top=ids.map(p=>BYP[p]);
-  const rest=C.filter(c=>!ids.includes(c.pid)).sort((a,b)=>lens==="newcomer"?a.rank-b.rank:(b.m.A1-a.m.A1));return [top,rest]}
+const tile=c=>`<a class="tile" href="#c-${c.slug}">${c.photo?`<img src="${c.photo}" alt="">`:""}
+  <span class="tx"><b>${esc(nm(c))}</b><span>пробиваются ${Math.round(c.m.B1*100)}% (${Math.round(c.m.B1_lo*100)}–${Math.round(c.m.B1_hi*100)}%)</span><span>с продажи ${pctR(MG[c.pid].before_ads_pct)} цены</span></span></a>`;
 
 /* ---------- home ---------- */
+/* ---------- home = the report as a story (site plan v2.5, work/site/SITE_PLAN_V25_2026-11-10.md; data: story_ru.json) ---------- */
+const ST=DATA.story, HOLD=new Set(ST.grid.filter(g=>g[2]>0).map(g=>g[0]));
+const toStory=id=>`document.getElementById('${id}').scrollIntoView({behavior:'smooth'})`;
 function home(){
-  const T=RU.tops[lens],[top,rest]=order();
+  const soap=BYP.persimmon_soap;
   $("#app").innerHTML=`<div class="wrap fade">
-  <section class="cover"><span class="eyebrow">Исследование рынка · США · ноябрь 2026</span>
-    <h1>Куда заходить новому бренду</h1>
-    <p class="lede">Мы проверили 20 товаров из видео про e-commerce на реальных данных Amazon, Google и рекламы Meta. Вот где у новичка есть шанс.</p>
-    <div class="switch" role="group">${Object.entries(RU.tops).map(([k,v])=>`<button data-l="${k}" aria-pressed="${lens===k}">${v.name}</button>`).join("")}</div>
-    <p class="switch-sub">${esc(T.sub)}</p>
-    <div class="tiles">${top.map((c,i)=>`<a class="tile" href="#c-${c.slug}">${c.photo?`<img src="${c.photo}" alt="">`:""}<span class="no">${i+1}</span>
-      <span class="tx"><b>${esc(nm(c))}</b><span>${lens==="newcomer"?`выживает ${Math.round(c.m.B1*100)}% новичков`:`спрос ${pc(c.m.A1)} за год`}</span></span></a>`).join("")}</div>
+  <section class="cover hero"><div>
+    <span class="eyebrow">Разведка рынка · США · ноябрь 2026</span>
+    <h1>Можно ли скопировать чужой магазин и заработать?</h1>
+    <p class="lede">Канал Daily Ecommerce разбирает магазины, которые зарабатывают миллионы, и советует их повторить. Мы посмотрели все его видео за 2026 год, отобрали 20 товаров, которые покупают снова или с чеком от $40, и проверили каждый по десяти бесплатным источникам.</p>
+    <div class="ctas"><button type="button" class="btn" onclick="${toStory("s-did")}">Читать по порядку ↓</button><a class="btn ghost" href="#all">Сразу к 20 товарам</a></div>
+    <div class="jump">${[["copies","Копии"],["lash","Сыворотка для ресниц"],["soap","Мыло с хурмой"],["tiktok","TikTok"],["plan","Что дальше"],["all20","20 товаров"]].map(([i,l])=>`<button type="button" onclick="${toStory(i)}">${l}</button>`).join("")}<a href="#tools">Инструменты →</a></div></div>
+    <aside class="ans"><span class="eyebrow">Короткий ответ</span>
+     <p><b>Товары продаются, лидеры настоящие.</b> А вот суммы выручки в видео подтвердить нельзя.</p>
+     <p><b>Копии держатся редко:</b> в ${ST.grid.filter(g=>g[2]).length} товарах из 20. Лучшие кандидаты: <a href="#c-${BYP.lash_serum.slug}">сыворотка для ресниц</a>, <a href="#c-${soap.slug}">мыло с хурмой</a> и <a href="#c-${BYP.tallow_balm.slug}">бальзам на говяжьем жире</a>.</p>
+     <p><b>Дальше:</b> 11 декабря повторим замер и увидим, кто из новых копий сдался. Окончательно решит пробная реклама на $200–500.</p></aside>
   </section>
-  <section class="blk"><div class="sh"><h2>Коротко</h2></div>
-   <div class="pre">
-    <div class="pc"><span class="k">01</span><h3>Что обещали видео</h3><p>Канал Daily Ecommerce, 138 разборов за 2026 год: «этот товар делает $1–14 млн в месяц, повторите». Оценки выручки — со сторонних сервисов.</p></div>
-    <div class="pc"><span class="k">02</span><h3>Как проверяли</h3><ul><li><b>Amazon</b> — сколько покупают и кто</li><li><b>Google</b> — растёт ли спрос</li><li><b>Meta</b> — живёт ли реклама</li><li><b>Магазины</b> — растут ли отзывы</li><li><b>Цены</b> — история за год</li></ul></div>
-    <div class="pc"><span class="k">03</span><h3>К чему пришли</h3><p>Цифры выручки в видео не сходятся с трафиком самих магазинов. Многие «новые бренды» на деле работают с 2020–2021 года. Но реальные окна для новичка есть.</p></div>
-    <div class="pc"><span class="k">04</span><h3>Куда идти</h3><ul><li><b>Да:</b> поилка, тональный крем, сыворотка для ресниц, бальзам, душевая лейка</li><li><b>Нет:</b> крем для депиляции, патчи, магниевый спрей, полотенце, маска для подбородка</li></ul></div>
-   </div></section>
-  ${cred()}
-  <section class="blk"><div class="sh"><h2>Главные находки</h2><p>Всё важное, что мы узнали. Подробности — в карточке каждого товара.</p></div>
-   <div class="finds">${FINDS.map((f,i)=>`<div class="fd"><span class="n">${String(i+1).padStart(2,"0")}</span><p>${f}</p></div>`).join("")}</div></section>
-  ${board(top,rest)}
-  <section class="blk" id="all20"><div class="sh"><h2>Все 20 товаров</h2><p>Нажмите на карточку — откроется разбор: что обещали, как на самом деле, наш вывод.</p></div>
-   <div class="cards">${[...top,...rest].map(card).join("")}</div></section>
+  <section class="blk" id="s-did"><div class="sh"><h2>Что мы сделали</h2><p>Главный источник: реклама в Facebook и Instagram. Остальное помогает её проверить.</p></div>
+   <div class="cnt">${ST.counters.map(([n,p,l])=>`<div><b data-n="${n}" data-p="${p}">${p}${nf(n)}</b><span>${l}</span></div>`).join("")}</div>
+   <div class="amz"><b>Зачем нам Amazon, если ставка на Facebook</b><p>В Facebook видно рекламу, но не видно продаж. Amazon их показывает: сколько куплено за месяц, когда появилась карточка, как растёт бренд. Бренд, который хорошо продаёт через Facebook, обычно заметен и на Amazon: у Kaori там около 1 950 покупок в месяц, у Hanae 5 000+. Поэтому Amazon служит нам приборной панелью: по нему удобно следить, когда появляются новички и сколько они продают. Выводы только по Amazon мы не делаем.</p></div>
+   <p class="cap2">Все источники собраны на странице <a href="#tools">«Инструменты»</a>. Насколько верить цифрам из видео, разобрано <a href="#video">отдельно</a>.</p></section>
+  ${copiesBlock()}
+  ${personaBlock()}
+  ${lashBlock()}
+  ${soapBlock()}
+  ${soapsVs()}
+  ${tallowBlock()}
+  ${tiktokBlock()}
+  <section class="blk"><div class="sh"><h2>Что знаем точно, а что пока оценка</h2><p>Последнюю колонку закрывают пробная реклама и платные сервисы.</p></div>
+   <div class="know">${ST.know.map(([h,L],i)=>`<div class="k${i}"><b>${tier(esc(h))}</b><ul>${L.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>`).join("")}</div></section>
+  ${planBlock()}
+  ${toolsStrip()}
+  <section class="blk" id="all20"><div class="sh"><h2>Все 20 товаров</h2><p>Сначала те, где копии уже держатся. Нажмите на карточку, чтобы открыть разбор.</p></div>
+   <div class="cards">${C.map(c=>c.pid).sort((a,b)=>fbStat(b)[2]-fbStat(a)[2]).map(p=>card(BYP[p])).join("")}</div>
+   <p class="cap2">Метка на фото и строка «Facebook» посчитаны по рекламе; цифры под ними взяты с Amazon.</p>
+   <details class="more"><summary>Рынок на Amazon: пять сигналов по каждому товару</summary>${groupsBlock()}</details></section>
   ${foot()}</div>`;
-  $$(".switch button").forEach(b=>b.onclick=()=>{lens=b.dataset.l;const y=window.scrollY;home();window.scrollTo(0,y)});
-  wireTips()}
+  wireTips();countUp();reveal()}
+let RV=[];
+function rvCheck(){RV=RV.filter(e=>{const fig=e.classList.contains("fx"),h=innerHeight*(fig?0.72:0.92);if(e.getBoundingClientRect().top<h){e.classList.add("in");return false}return true})}
+addEventListener("scroll",rvCheck,{passive:true});addEventListener("resize",rvCheck);
+function reveal(){const E=$$(".blk"),F=$$(".gantt,.race,.dgrid,.mbar,.cnt");
+  E.forEach(e=>e.classList.add("rv"));F.forEach(e=>e.classList.add("fx"));RV=[...E,...F];requestAnimationFrame(rvCheck);clearInterval(window._rvT);window._rvT=setInterval(()=>{rvCheck();if(!RV.length)clearInterval(window._rvT)},400);
+  $$(".rr").forEach((r,i)=>r.style.setProperty("--d",(i*12)+"ms"));$$(".dots i").forEach((d,i)=>d.style.setProperty("--d",(i*25)+"ms"))}
+function countUp(){const B=$$(".cnt b[data-n]");if(!("IntersectionObserver" in window))return;
+  B.forEach(b=>b.textContent=b.dataset.p+"0");
+  const io=new IntersectionObserver(es=>es.forEach(e=>{if(!e.isIntersecting)return;io.unobserve(e.target);const b=e.target,n=+b.dataset.n,t0=performance.now();
+    const step=t=>{const k=Math.min(1,(t-t0)/900);b.textContent=b.dataset.p+nf(n*(1-Math.pow(1-k,3)));if(k<1)requestAnimationFrame(step)};requestAnimationFrame(step)}),{threshold:1});
+  B.forEach(b=>io.observe(b))}
+const VC={ok:["g","Подтверждается"],bad:["r","Так считать нельзя"],part:["y","Отчасти"],est:["y","Оценка, не факт"]};
+function videoPage(){$("#app").innerHTML=`<div class="wrap fade"><section class="cover"><span class="eyebrow">Источник идей</span><h1>Насколько верить видео</h1>
+    <p class="lede">Все 20 товаров взяты из видео канала Daily Ecommerce. Здесь разобрано, какие его утверждения подтвердились, а какие нет.</p></section>${claimsBlock()}
+    <section class="blk"><div class="sh"><h2>Как автор считает выручку</h2><p>Два приёма из самих видео.</p></div><div class="facts">${RU.tips.filter(t=>t.sec==="money").map(t=>`<div class="fact"><h3>${esc(t.h)}</h3><p>${tier(esc(t.p))}</p>
+      <p style="margin-top:12px;font-size:13.5px">${t.src.map(([v,p])=>`<a href="https://www.youtube.com/watch?v=${v}" target="_blank" rel="noopener">${esc(RU.name[p]||p)}</a>`).join(" · ")}</p></div>`).join("")}</div></section>${foot()}</div>`;wireTips();window.scrollTo(0,0)}
+function claimsBlock(){return `<section class="blk"><div class="sh"><h2>Где автор прав, а где нет</h2><p>Автор не обязан это проверять: его задача увлечь зрителя. Наша задача понять, куда ставить деньги.</p></div>
+  <div class="vcs">${ST.claims.map(([q,v,a])=>`<div class="vc"><p class="q">${esc(q)}</p><span class="ind ${VC[v][0]}">${VC[v][1]}</span><p>${tier(esc(a))}</p></div>`).join("")}</div>
+  ${source()}</section>`}
+const dd=s=>new Date(s+"T00:00:00Z"), TODAY=dd("2026-11-10");
+const pos=(d,a,b)=>((dd(d)-dd(a))/(dd(b)-dd(a))*100).toFixed(2)+"%";
+function copiesBlock(){
+  const A="2025-03-01",B="2026-11-10",ticks=["2025-06-01","2025-09-01","2025-12-01","2026-03-01","2026-06-01","2026-09-01"],mon=d=>["янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"][dd(d).getUTCMonth()]+" "+String(dd(d).getUTCFullYear()).slice(2);
+  const start=f=>new Date(TODAY-f.ad_days*864e5).toISOString().slice(0,10);
+  const gantt=`<div class="gantt"><div class="gax">${ticks.map(t=>`<span style="left:${pos(t,A,B)}">${mon(t)}</span>`).join("")}</div>
+    ${GR.followers.map(f=>`<div class="gr"><a class="gl" href="#c-${BYP[f.pid].slug}"><b>${esc(f.brand)}</b><small>${esc(nm(BYP[f.pid]))} · ${esc(f.leader.replace(/^Лидеры?: /,"лидер: "))}</small></a>
+      <div class="gt"><i class="life" style="left:${pos(f.reg,A,B)};right:0" title="магазин с ${f.reg}"></i><i class="ad" style="left:${pos(start(f),A,B)};right:0"></i>
+      <em style="left:${pos(start(f),A,B)}">${f.ad_days} дн.</em></div></div>`).join("")}
+    <div class="dl"><span class="k life"></span>жизнь магазина (с регистрации домена) <span class="k ad"></span>сколько живёт его старейшее объявление</div></div>`;
+  const grid=`<div class="dgrid"><div class="dl top"><span class="k y"></span>молодая копия (магазину меньше 2 лет) <span class="k o"></span>давний магазин, пришедший после лидера · одна точка = один магазин с рекламой 90+ дней</div>${ST.grid.map(([p,n,y])=>`<a class="dr${y?" on":""}" href="#c-${BYP[p].slug}"><span>${esc(nm(BYP[p]))}</span><span class="dots">${n?Array.from({length:n},(_,i)=>`<i class="${i<y?"y":""}"></i>`).join(""):`<em>ни одной</em>`}</span></a>`).join("")}</div>`;
+  return `<section class="blk" id="copies"><div class="sh"><h2>Главный вопрос: держатся ли копии</h2><p>Лидер, у которого реклама живёт годами, доказывает, что товар продаётся <i>у него</i>. Копия приходит без отзывов и без истории. Поэтому мы искали тех, кто пришёл после лидера и удержался.</p></div>
+   <div class="lc"><div><span class="eyebrow">Лидер</span><b>Годы на рынке</b><p>Тысячи отзывов, покупатели его знают, реклама работает месяцами.</p></div><div class="vs">против</div><div><span class="eyebrow">Копия</span><b>Несколько месяцев</b><p>Отзывов нет, истории нет, реклама с нуля.</p></div></div>
+   <p class="lead2" style="margin-top:26px">Правило простое. Реклама стоит денег каждый день, и убыточную обычно выключают за пару недель. Поэтому <b style="color:var(--ink)">копия держится, если магазину меньше двух лет, а его реклама живёт 90 дней и дольше</b>.</p>
+   <h3 class="h3">В ${20-ST.grid.filter(g=>g[2]).length} товарах из 20 мы не нашли ни одной такой копии</h3>${grid}
+   <p class="cap2">Как искали: по названию товара взяли от 33 до 70 объявлений на каждый (893 всего) и проверили каждый магазин по его сайту. 11 ноября выгрузили через Apify все долгие объявления найденных копий и проверили, какой товар продаёт каждое: K-Glow в маске для подбородка оказалась продавцом бальзама и щётки, а Hanae нашлась ещё и в тональном креме. Видны только работающие объявления. Выключенные мы смотрели в архиве BigSpy по мылу, сыворотке и порошку; Facelove в тональном креме нашли отдельно, 11 ноября.</p>
+   <h3 class="h3">Копии, которые держатся: ${GR.followers.length}</h3>${gantt}
+   <details class="more"><summary>Подробно о каждой копии</summary><div class="wins" style="margin:6px 0 20px">${GR.followers.map(w=>`<a class="win" href="#c-${BYP[w.pid].slug}"><b>${esc(w.brand)}</b><small>${esc(nm(BYP[w.pid]))} · ${esc(w.domain)} · ${esc(w.age)}</small><p>${tier(esc(w.fact))}</p><span class="ch">${esc(w.leader)}</span></a>`).join("")}</div></details></section>`}
+function personaBlock(){
+  // Codex step 1, accepted 2026-11-11 (work/lensm/codex/ACCEPTANCE_STEP1_2026-11-11.md): visible 90+ day ads per young copy, brand or founder page vs other pages
+  const P=[["Wild Gold","бальзам",35,35],["Bare Ritual","бальзам",43,44],["MYTO","зубной порошок",27,27],["Hanae","сыворотка для ресниц",185,185],["MOOTHS","зубной порошок",6,7],["Facelove","тональный стик",9,14],["Kaori","мыло с хурмой",48,179]];
+  const rows=P.map(([b,p,own,n])=>{const s=Math.round(own/n*100);return `<div class="pr"><span><b>${b}</b><small>${p}</small></span><span class="pbar"><i style="width:${s}%"></i><em style="width:${100-s}%"></em></span><span class="pn">${own} из ${n}</span></div>`}).join("");
+  return `<section class="blk" id="persona"><div class="sh"><h2>Как держатся копии: от своего имени или от чужого</h2><p>Мы открыли старые объявления каждой молодой копии и посмотрели, от чьей страницы они идут.</p></div>
+   <div class="pgrid"><div class="dl top"><span class="k own"></span>страница магазина или его основателя <span class="k oth"></span>страницы с именами людей, «журналы», «советы»</div>${rows}</div>
+   <p class="cap2">Все работающие объявления старше 90 дней, которые продают этот товар (архив Meta, 11 ноября, выгрузка через Apify) ◆. Тип страницы определён по её названию ◈; «Trending In Korea» у Hanae засчитана как своя: к ней привязан Instagram магазина ◆.</p>
+   <div class="chk4" style="margin-top:22px">
+    <div><span class="n">1</span><b>Маргарет, Линда и «Бабушкино сияние»</b><p>Kaori, самая быстрая копия мыла, держится в основном на таких страницах: из 179 старых объявлений мыла 131 идут от «Grandma's Glow», «Patti Clayton», «Linda Doxey», «Margaret Whittaker» и похожих, от своей страницы только 48 ◆. Её самое старое работающее объявление, с 20 марта, тоже идёт от страницы «Grandma's Care Journal» ◆.</p></div>
+    <div><span class="n">2</span><b>Почему это важно</b><p>Настоящие ли это люди, мы не проверяли. Но если копия держится на выдуманных людях, повторить её нельзя: в США поддельные отзывы и рекомендации запрещены. Поэтому Kaori доказывает, что мыло продаётся, но не доказывает, что удержится честная копия ◈.</p></div>
+    <div><span class="n">3</span><b>Где честная копия уже держится</b><p>Бальзамы Wild Gold и Bare Ritual, порошок MYTO и сыворотка Hanae рекламируются от своего имени ◆. Значит, модель «скопировать и честно рекламировать» уже работает у кого-то, кроме лидера ◈. Оговорка: Bare Ritual честен только в бальзаме; больше всего долгой рекламы у него на спрей для волос, и она идёт от выдуманной «Eleanor Roseford Bennett» ◆.</p></div></div>
+   <h3 class="h3">Галочка, которую ставят за вас</h3>
+   <p class="lead2">У Wild Gold, Bare Ritual, MYTO, GloMelanin и Honey Glow подписка уже отмечена, когда покупатель открывает страницу ◆. Он хотел купить один раз, а подписался. Отсюда часть «повторных покупок» у этих магазинов. У Kaori, наоборот, по умолчанию разовая покупка ◆. Мы галочку за покупателя ставить не будем, значит, повторных покупок у нас будет меньше, чем у них ◈.</p>
+   <p class="cap2">Страницы магазинов читали не из США; что видит покупатель в США, может немного отличаться.</p></section>`.replace(/◆/g,'<span title="посчитано платформой">◆</span>').replace(/◈/g,'<span title="наша оценка">◈</span>')}
+function lashBlock(){const c=BYP.lash_serum,K=[["185","объявлений сыворотки Hanae живут 90+ дней"],["124 дн.","живёт самое старое из них"],["5 000+","покупок в месяц на Amazon"],["12 мес.","магазину Hanae"]];
+  return `<section class="blk" id="lash"><div class="sh"><h2>Сыворотка для ресниц: самая сильная копия</h2><p>Большой рынок в трёх каналах и молодой магазин с самым большим числом долгих объявлений в исследовании.</p></div>
+   <div class="feat"><img src="media/prod_lash_hanae.jpg" alt="Сыворотка Hanae"><div class="kcnt">${K.map(([v,l])=>`<div><b>${v}</b><span>${l}</span></div>`).join("")}</div></div>
+   <div class="lash3">
+    <div><span class="eyebrow">Amazon</span><b>Grande и Babe</b><p>Десятки тысяч покупок в месяц. Оба обещают «ресницы <i>выглядят</i> длиннее», а не «растут», то есть продают законно ◆.</p></div>
+    <div><span class="eyebrow">Facebook</span><b>Hanae</b><p>Домен с ноября 2025, ~1 800 объявлений магазина; самое старое объявление сыворотки идёт с июля 2026. Пептидная формула без простагландинов, но на тюбике «Eyelash Growth Serum», а на сайте «Regrows your lashes» ◆.</p></div>
+    <div><span class="eyebrow">TikTok Shop</span><b>EPAIS</b><p>Десятый товар во всём TikTok Shop США: за 30 дней продал в 6,9 раза больше своего обычного месяца. Продаёт через блогеров, обещает «рост» ◆.</p></div></div>
+   <p class="lead2" style="margin-top:22px">В США за два года рекламу сыворотки запускали 383 рекламодателя, и 42 держали объявление 90+ дней ◆. Это больше, чем в любом другом проверенном товаре. Но почти все они старые бренды и блогеры. Среди тех, кто крутится до сих пор, молодой и продающий именно сыворотку только Hanae ◆. У Facelove (домен с декабря 2025) долгие объявления ведут на тушь и тональный стик, а не на сыворотку ◆.</p>
+   <p class="cap2">Архив BigSpy, США, 2024–2026, 11 ноября.</p>
+   <h3 class="h3">Что проверить</h3>
+   <div class="chk4">
+    <div><span class="n">1</span><b>Страница «Trending In Korea»: проверили</b><p>Из 185 объявлений сыворотки старше 90 дней 129 идут с неё, 56 со страницы «Hanae Korea» ◆. Всего у магазина 251 такое объявление: 185 сыворотки и 66 тонального стика; все объявления старше 180 дней продают стик, а не сыворотку ◆. Это вторая страница самого магазина, не независимое медиа ◆: Meta в карточке объявления показывает, что к ней привязан Instagram @hanaekorea (тот же, что у бренда), а все объявления ведут на hanaekorea.com. В просмотренных объявлениях страница не называет себя экспертом, это тон «женщины хвалят сыворотку» с видео; кто в видео, не сказано ◈.</p></div>
+    <div><span class="n">2</span><b>Работает ли мягкая формула</b><p>Пептидные сыворотки растят ресницы слабее. У Babe в 6 из 20 прочитанных плохих отзывов пишут, что ресницы не выросли ◆; выборка не случайная ◈. Отзывы Hanae ещё не посчитаны.</p></div>
+    <div><span class="n">3</span><b>История продаж Hanae</b><p>У главной карточки 5 000+ покупок в месяц, но всего 21 отзыв ◆. Рост подтвердит Keepa.</p></div></div>
+   <p style="margin:18px 0 0"><a class="btn ghost" href="#c-${c.slug}">Полный разбор сыворотки →</a></p></section>`.replace(/◆/g,'<span title="посчитано платформой">◆</span>').replace(/◈/g,'<span title="наша оценка">◈</span>')}
+function soapBlock(){const S=ST.soap,c=BYP.persimmon_soap,A="2026-03-01",B="2026-11-11";
+  const R=[...ST.race].sort((a,b)=>a[0]<b[0]?-1:1);
+  const race=`<div class="race">${R.map(([f,t,d,l])=>`<div class="rr${d>=90?" long":""}${l?(parseFloat(pos(f,A,B))>40?" lab side":" lab"):""}"><i style="left:${pos(f,A,B)};right:calc(100% - ${pos(t,A,B)})"></i>${l?(parseFloat(pos(f,A,B))>40?`<em style="right:calc(100% - ${pos(f,A,B)} + 10px);--l:${pos(f,A,B)}">${esc(l)}</em>`:`<em style="left:${pos(f,A,B)}">${esc(l)}</em>`):""}</div>`).join("")}
+    <div class="gax">${["2026-04-01","2026-05-01","2026-06-01","2026-07-01","2026-08-01","2026-09-01","2026-10-01","2026-11-01"].map(t=>`<span style="left:${pos(t,A,B)}">${["апр","май","июн","июл","авг","сен","окт","ноя"][dd(t).getUTCMonth()-3]}</span>`).join("")}</div></div>`;
+  const M=S.money,mid=a=>(a[1]+a[2])/2,seg=(v,col,l)=>`<i style="width:${(v/M.order*100).toFixed(1)}%;background:${col}">${l}</i>`;
+  const bar=`<div class="mbar">${seg(mid(M.parts[0]),"#8C877E","Товар")}${seg(mid(M.parts[1]),"var(--ink)","Почта")}${seg(mid(M.parts[2]),"#C9C4BA","")}${seg((M.left[0]+M.left[1])/2,"var(--g)","Остаётся $20–30")}</div>
+    <div class="mleg">${M.parts.map(([l,a,b],i)=>`<span style="--c:${["#8C877E","var(--ink)","#C9C4BA"][i]}">${esc(l)}: ${a===b?"~$"+fx(a):"$"+a+"–"+b}</span>`).join("")}<span style="--c:var(--g)">Остаётся до рекламы: $${M.left[0]}–${M.left[1]}</span></div>`;
+  return `<section class="blk" id="soap"><div class="sh"><h2>Мыло с хурмой: товар продаётся, но вход уже тесный</h2><p>Здесь есть живое доказательство модели. И самая наглядная давка.</p></div>
+   <div class="feat">${c.photo?`<img src="${c.photo}" alt="">`:""}<div class="pair">${S.pair.map(([n,r,F])=>`<div class="pc2"><span class="eyebrow">${esc(r)}</span><b>${esc(n)}</b>${F.map(([v,l])=>`<p><em>${esc(v)}</em>${esc(l)}</p>`).join("")}</div>`).join("")}</div></div>
+   <p class="lead2" style="margin-top:22px">Поиск «persimmon soap» за год вырос в 4,7 раза, хотя во многом это поиск самих брендов ◆.</p>
+   <h3 class="h3">Поворот: за Kaori пошли полторы сотни</h3>
+   <p class="lead2">За два года мыло с хурмой рекламировали в США <b style="color:var(--ink)">150 рекламодателей</b> ◆. Каждая линия ниже показывает самое долгое объявление одного рекламодателя: с какого по какое число оно крутилось. В архиве BigSpy 90 дней прошли только лидер Mirai и Kaori ◆. Сейчас в Meta 90+ дней держат ещё Swarva (давний магазин, 124 дня), Cachi Naturals (91 день) и Bella Via (90 дней) ◆; обе последние молодые и перешли 90 дней только что (архив Meta, 11 ноября).</p>
+   ${race}
+   <p class="cap2">Архив BigSpy, только США, 11 ноября: 60 самых долгих из 150, по одному объявлению на рекламодателя; у остальных 90 объявление жило меньше недели ◈. Один магазин может вести несколько страниц: у Kaori их минимум две. Линия Kaori продлена по Meta: BigSpy перестал видеть её 22 октября, но объявление живо 11 ноября ◆. Линии, начатые до марта 2026-го, обрезаны по левому краю. Ещё восемь рекламодателей дошли до 61–88 дней; большинство начали в августе–сентябре, в декабре увидим, перейдут ли 90 ◈.</p>
+   <p class="cap2">По всем странам картина та же: 393 рекламодателя, долго держались только лидер, Kaori и Kaki (kakibody.com, домен с мая 2026-го, 129 дней) ◆. В США страница «Kaki» крутилась с мая по июль ◆.</p>
+   <h3 class="h3">Что ещё видно в данных</h3>
+   <div class="chk4">${S.check.map(([h,p],i)=>`<div><span class="n">${i+1}</span><b>${esc(h)}</b><p>${tier(esc(p))}</p></div>`).join("")}</div>
+   <h3 class="h3">Куда уходят $48 с набора из 4 брусков</h3>${bar}
+   <p class="cap2">Грубо: почта по розничному тарифу USPS, без склада и упаковки ◈. Мыло можно делать и в США, без пошлины 37,5%: готовый брусок под своей этикеткой у американских мыловаров стоит $2,40–3,70, с гравировкой логотипа до $7,25, при заказе от 100–500 штук ◆. Но это их рецепт; брусок с хурмой по своей формуле никто цену не публикует, нужен запрос ◈.</p>
+   <p style="margin:18px 0 0"><a class="btn ghost" href="#c-${c.slug}">Полный разбор мыла с хурмой →</a></p></section>`}
+function soapsVs(){const h=BYP.persimmon_soap,k=BYP.turmeric_soap;
+  const R=[["Молодые копии с рекламой 90+ дней","3: Kaori, Cachi Naturals, Bella Via","3: Solrise, Glowvani, Derm Glow; плюс STEM & SOUL, возраст не проверен"],
+   ["Самая долгая молодая копия","Kaori, 235 дней","Solrise, 477 дней; STEM & SOUL 371 день"],
+   ["От чьего имени держатся","Kaori и Bella Via в основном от выдуманных людей; от своего имени только Cachi, 91 день","Все от своего имени"],
+   ["Лидер","Mirai Clinical, с 2014 года","Earthly Derm, с 2024 года, 88 объявлений 90+ дней от своего имени"],
+   ["Спрос в Google за год","растёт в 4,7 раза, но ищут в основном бренды","падает на 27%"],
+   ["TikTok Shop","один продавец, растёт ×2,4","большая корейская тема: medicube и Dr.Melaxin, десятки тысяч штук"],
+   ["Деньги с заказа в своём магазине","набор 4 бруска за $48: остаётся $20–30","набор 3 бруска за $39–49: грубо $25–30"],
+   ["Главный риск","обещание про «запах старости» и выдуманные люди в рекламе","обещание «убирает пятна» похоже на лечебное"]];
+  return `<section class="blk" id="soaps"><div class="sh"><h2>Два мыла: кто сильнее</h2><p>По главному вопросу, держатся ли честные копии, впереди мыло с куркумой. По спросу впереди мыло с хурмой.</p></div>
+   <div class="vs"><div class="vh"><span></span><b><a href="#c-${h.slug}">Мыло с хурмой</a></b><b><a href="#c-${k.slug}">Мыло с куркумой</a></b></div>${R.map(([l,a,b])=>`<div class="vr"><span>${l}</span><p>${a}</p><p>${b}</p></div>`).join("")}</div>
+   <p class="lead2" style="margin-top:18px"><b>Вывод ◈.</b> Наша модель: скопировать и честно рекламировать. У куркумы она уже работает у трёх молодых магазинов, и один держится больше года, всё от своего имени. У хурмы копии держатся в основном на выдуманных людях, а честная Cachi только что перешла 90 дней. Минус куркумы: поиск в Google падает, и обещание про пятна придётся смягчать. 11 декабря повторный замер покажет, удержатся ли Cachi и новые копии куркумы.</p>
+   <p class="cap2">Архив Meta через Apify, 11 ноября: все работающие объявления старше 90 дней по фразам мыла; молодая копия = домен моложе 2 лет и 5+ объявлений 90+ дней ◆.</p></section>`.replace(/◆/g,'<span title="посчитано платформой">◆</span>').replace(/◈/g,'<span title="наша оценка">◈</span>')}
+function tallowBlock(){const c=BYP.tallow_balm;
+  return `<section class="blk"><a class="tcard" href="#c-${c.slug}">${c.photo?`<img src="${c.photo}" alt="">`:""}<div><span class="eyebrow">Третий кандидат</span><h2>Бальзам на говяжьем жире</h2>
+   <p><b>Плюс:</b> держатся три молодые копии, Wild Gold, Bare Ritual и Holicow ◆. Wild Gold и Bare Ritual рекламируются только от своего имени, у обеих есть объявления старше 180 дней ◆. С продажи на Amazon остаётся 43–51% цены, в своём магазине грубо 56–71% ◈.</p>
+   <p><b>Минус:</b> самый тесный товар. Кроме двух молодых, его продают ещё восемь давних магазинов с долгой рекламой ◆, а поиск за год упал на 22% ◆. У Wild Gold отзывов вшестеро меньше, чем год назад ◆.</p>
+   <span class="ch">Полный разбор →</span></div></a></section>`.replace(/◆/g,'<span title="посчитано платформой">◆</span>')}
+function tiktokBlock(){const L={up:["g","растёт"],flat:["y","ровно"],down:["r","падает"]};
+  return `<section class="blk" id="tiktok"><div class="sh"><h2>Второй канал: TikTok Shop</h2><p>Здесь видно продажи по дням. Сравниваем последние 30 дней со средним месяцем за всё время у главного продавца каждого товара.</p></div>
+  <div class="tt"><div class="tth"><span>Товар · продавец</span><span>Обычный месяц</span><span>Последние 30 дней</span><span></span></div>
+  ${ST.tiktok.map(([p,shop,age,avg,last,x,d])=>`<a class="ttr" href="#c-${BYP[p].slug}"><span><b>${esc(nm(BYP[p]))}</b><small>${esc(shop)} · в продаже ${esc(age)}</small></span><span>${nf(avg)}</span><span><b>${nf(last)}</b></span><span class="ind ${L[d][0]}">${L[d][1]} ×${x}</span></a>`).join("")}</div>
+  <p class="lead2" style="margin-top:20px">Мыло с хурмой здесь пока рынок одного продавца, и он растёт. Бальзам прошёл пик. Быстрее всех растёт сыворотка для ресниц: EPAIS сейчас десятый товар во всём американском TikTok Shop.</p>
+  <p class="cap2">Штуки в месяц, оценка EchoTik ◈; «обычный месяц» мы посчитали как все продажи, делённые на месяцы в продаже ◈.</p></section>`}
+function planBlock(){const R=[
+  ["Реклама лидеров и копий","Сколько объявлений у каждого магазина живёт 30+, 60+, 90+ и 180+ дней. Точка отсчёта записана 11 ноября по 31 магазину; 11 декабря повторяем те же поиски."],
+  ["Новые копии","Сколько магазинов запустили рекламу за последние 30 дней и сколько из них доживут до следующего замера."],
+  ["Кто сдался","По архиву BigSpy: какие магазины выключили рекламу и через сколько дней после запуска. Мыло, сыворотку и порошок прошли 11 ноября; дальше бальзам."],
+  ["Amazon как приборная панель","Продажи лидеров и копий по месяцам и новые карточки. Если бренд растёт в Facebook, это обычно видно и здесь."],
+  ["TikTok Shop","Продажи главных продавцов по месяцам. Первый замер EchoTik есть; раз в месяц перечитываем те же страницы."]];
+  return `<section class="blk" id="plan"><div class="sh"><h2>Что отслеживаем дальше</h2><p>Точка отсчёта записана 11 ноября. Историю за прошлые месяцы даёт архив BigSpy, дальше сравниваем с этой точкой раз в месяц.</p></div>
+  <div class="trk">${R.map(([h,p])=>`<div><b>${esc(h)}</b><p>${esc(p)}</p></div>`).join("")}</div></section>`}
+function toolsStrip(){const F=ST.free;
+  return `<section class="blk"><a class="tstrip" href="#tools"><div><span class="eyebrow">Инструменты</span><b>${F.length} бесплатных источников уже работают</b>
+   <p>Чтобы увидеть историю продаж на Amazon за прошлые месяцы, нужен один платный: Keepa Pro, €29 в месяц. Остальное по желанию или на пробный период.</p>
+   <div class="tchips">${F.map(([n])=>`<span>${esc(n)}</span>`).join("")}</div></div><span class="go">Шпаргалка по инструментам →</span></a></section>`}
+function toolsPage(){const T=ST.toolsPage,L={have:["c-have","есть"],free:["c-free","бесплатно"],trial:["c-trial","7 дней"],paid:["c-paid","платно"],later:["c-off","позже"]};
+  const dot=v=>v===2?`<i class="mdot main"></i>`:v===1?`<i class="mdot aux"></i>`:"";
+  const max=T.budget.reduce((a,b)=>a+b[1],0);
+  $("#app").innerHTML=`<div class="wrap fade"><section class="cover"><span class="eyebrow">Шпаргалка</span><h1>Откуда мы берём данные</h1>
+    <p class="lede">На какие вопросы отвечает каждый сервис, что у нас уже есть и что стоит оплатить.</p></section>
+   <section class="blk"><div class="sh"><h2>Четыре вопроса к каждому товару</h2></div>
+    <div class="qs">${T.questions.map(([n,h,p])=>`<div><span class="n">${n}</span><b>${esc(h)}</b><p>${esc(p)}</p></div>`).join("")}</div></section>
+   <section class="blk"><div class="sh"><h2>Какой сервис на какой вопрос отвечает</h2><p><i class="mdot main"></i> отвечает сам · <i class="mdot aux"></i> подтверждает или дополняет</p></div>
+    <div class="mx"><table><thead><tr><th>Сервис</th>${T.questions.map(([n,h])=>`<th class="c">${n}. ${esc(h.replace("?",""))}</th>`).join("")}<th>Статус</th></tr></thead><tbody>
+    ${T.matrix.map(([g,R])=>`<tr class="g"><td colspan="6">${esc(g)}</td></tr>${R.map(([n,sub,v,st])=>`<tr><td><b>${esc(n)}</b><small>${esc(sub)}</small></td>${v.map(x=>`<td class="c">${dot(x)}</td>`).join("")}<td><span class="tchip ${L[st][0]}">${L[st][1]}</span></td></tr>`).join("")}`).join("")}
+    </tbody></table></div></section>
+   <section class="blk"><div class="sh"><h2>Что каждый даёт и сколько стоит</h2></div>
+    ${T.groups.map(([k,h,p,Cs])=>`<div class="tg"><div class="tgh"><span class="tchip c-${k}">${esc(h)}</span><p>${esc(p)}</p></div>
+     <div class="tcards">${Cs.map(([n,pr,g,l])=>`<div class="tc ${k}"><div class="top"><b>${esc(n)}</b><span>${esc(pr)}</span></div><p>${esc(g)}</p><small>${esc(l)}</small></div>`).join("")}</div></div>`).join("")}
+    <div class="tg"><div class="tgh"><span class="tchip c-off">Не нужно сейчас</span><p>Дублируют то, что уже есть, или понадобятся позже.</p></div><div class="tchips">${T.skip.map(x=>`<span>${esc(x)}</span>`).join("")}</div></div></section>
+   <section class="blk"><div class="sh"><h2>Сколько это стоит в месяц</h2><p>Красное нужно, оранжевое по желанию.</p></div>
+    <div class="bud"><div class="bbar">${T.budget.map(([n,v,k])=>`<i class="${k}" style="width:${(v/max*100).toFixed(1)}%">$${v}</i>`).join("")}</div>
+    <div class="mleg">${T.budget.map(([n,v,k])=>`<span style="--c:${{need:"var(--r)",opt:"var(--y)",opt2:"color-mix(in srgb,var(--y) 65%,#fff)",opt3:"color-mix(in srgb,var(--y) 40%,#fff)"}[k]}">${esc(n)}: $${v}${k==="need"?" (нужно)":""}</span>`).join("")}</div>
+    <div class="btot">${T.totals.map(([a,b])=>`<div><b>${esc(a)}</b><span>${esc(b)}</span></div>`).join("")}</div></div></section>${foot()}</div>`;
+  wireTips();window.scrollTo(0,0);reveal()}
+function toolsBlock(){return `<section class="blk"><div class="sh"><h2>Как сжать месяц до недели</h2><p>Всё выше сделано на бесплатных данных. Если на месяц подключить три сервиса, ответы на главные вопросы появятся сразу, без ожидания.</p></div>
+  <div class="tools">${ST.tools.map(([n,p,t])=>`<div><b>${esc(n)}</b><span class="pr2">${esc(p)}</span><p>${esc(t)}</p></div>`).join("")}</div>
+  <p class="total"><b>Итого около $130 за месяц.</b> Это дешевле самой скромной пробной рекламы ($200).</p>
+</section>`}
+function how(){const H=[
+  ["Amazon","сколько покупают и у кого","Сумма значков «купили за прошлый месяц» на первых пяти страницах поиска, адрес доставки — США. Это нижняя граница: «1K+» значит от 1 000 до 1 999. Бренд продавца и как давно он продаёт этот товар — по карточке товара."],
+  ["Новички","пробиваются ли","Берём продавцов, которые пришли в этот товар 3–24 месяца назад, и смотрим, какая доля продаёт 1 000+ в месяц. Рядом — погрешность: при 50 продавцах доля 27% значит «от 17 до 41%». Поэтому мест не ставим, а делим товары на три группы: явно выше среднего, середина, явно ниже. Ушедших с первых страниц поиска не видно, поэтому это верхняя оценка. Бренд продавца пока определяем по названию карточки."],
+  ["Google","растёт ли спрос","Google Trends, США: последние 12 недель против тех же недель год назад. Делим на рост пяти общих запросов (шампунь, лосьон и т. п.), чтобы убрать общий рост Google. Google считает это по выборке поисков, которая каждый день немного другая, поэтому цифра ориентировочная: важны знак и порядок, а не точный процент. Цветом спрос не помечаем. По запросу проверяем, что ищут именно товар: если по нему ищут бренды или соседние товары, пишем это рядом с цифрой."],
+  ["Meta","живёт ли реклама","Библиотека рекламы Meta, США: сколько объявлений магазина работает 90+ дней. Неокупаемую рекламу обычно выключают раньше."],
+  ["Магазины лидеров","растут ли отзывы","Отзывы на сайтах лидеров по месяцам: у каждого отзыва есть дата. Рост отзывов внутри одного магазина примерно равен росту его продаж."],
+  ["Цены","история за год","Цены топ-10 товаров за 12 месяцев (Keepa, camelcamelcamel). Ищем ценовую войну: цены долго ниже своего среднего и продолжают падать."],
+  ["Деньги","сколько остаётся с продажи","Типичная цена на Amazon минус комиссии Amazon (официальные тарифы на 2027 год), товар у поставщика с доставкой и пошлиной (цены Made-in-China), возвраты и хранение. Реклама не вычтена: сколько на неё тратить, решает продавец."]];
+  return `<section class="blk"><div class="sh"><h2>Как мы выбирали</h2><p>Семь проверок для каждого товара. Как именно считали — по значку ⓘ.</p></div>
+   <div class="howl">${H.map(([a,b,t])=>`<div><b>${a}</b><span>${b}${info(t)}</span></div>`).join("")}</div></section>`}
+function winners(){return `<section class="blk" id="followers"><div class="sh"><h2>Последователи, которые держатся</h2><p>Не лидеры, а магазины, которые пришли в товар позже: моложе 24 месяцев, и их реклама в Meta работает 90+ дней. Это прямая проверка модели: если копия может взять долю, такие магазины должны быть. В 17 проверенных товарах нашли пять, в 13 товарах — ни одного.</p></div>
+  <div class="wins">${GR.followers.map(w=>`<a class="win" href="#c-${BYP[w.pid].slug}"><b>${esc(w.brand)}</b><small>${esc(nm(BYP[w.pid]))} · ${esc(w.domain)} · ${esc(w.age)}</small><p>${tier(esc(w.fact))}</p><span class="ch">${esc(w.leader)}</span></a>`).join("")}</div></section>`}
+const LIMITS_M="Пределы этой проверки. На каждый товар мы смотрели около 60 объявлений, найденных одной общей фразой, поэтому все числа показывают нижнюю границу. Три товара из 20 не проверены: фраза приносила рекламу других товаров. Библиотека Meta в США показывает только объявления, которые работают сегодня: остановленных не видно, поэтому мы видим выживших, но не знаем, сколько копий не удержалось. Это покажет архив платного сервиса. Возраст магазина считаем по дате регистрации домена ◆. Старое объявление даёт лучший бесплатный признак, что реклама окупается, но не доказательство ◈. Отзывы на сайте магазина это его витрина: плохие там можно скрыть.";
+const FLOOR_M="Для своего магазина товар получает «Тестировать», только если выполнено всё: лидер доказан двумя сигналами (реклама живёт 90+ дней, отзывы растут); хотя бы два магазина-последователя моложе 24 месяцев держат рекламу 90+ дней; в своём магазине до рекламы остаётся не меньше половины суммы заказа; спрос держится на обещаниях, которые законный продавец может повторить. Пороги записаны до сбора данных о последователях.";
+const FLOOR="Товар попадает в «Заходить», только если выполнено всё: среди пробившихся новичков есть хотя бы два проверенных молодых бренда; бренды держат не меньше половины продаж и продают минимум в 1,3 раза дороже безымянных; спрос не падает сразу по поиску и по отзывам лидеров; нет ценовой войны; товар с доставкой и пошлиной стоит не больше четверти цены; известны требования к входу. Пороги заданы до сбора новых данных.";
 const FINDS=[
- "<b>Два разных топа.</b> «Окно для новичка» — где новый продавец выживает рядом с лидерами. «Волна спроса» — где рынок растёт быстрее всего. Пересекаются они в одном товаре: тональный крем, меняющий цвет.",
- "<b>Выручка в видео не сходится с трафиком.</b> По трафику, который называет сам автор, Earthly Derm должен зарабатывать с визита в 4–8 раз больше обычного магазина на Shopify. Цифрам из роликов не верим, проверяем сами.",
- "<b>«Новый бренд» часто не новый.</b> Luxe, Smooche, Prime Prometics работают с 2020–2021 года; AirScent основан в 1946-м. По-настоящему молодые: Kaori (2026), Hanae (ноябрь 2025), Terra Lotus (2024).",
+ "<b>Строгий порог не проходит никто.</b> Для «Заходить» нужны два проверенных молодых бренда среди победителей, цена бренда выше безымянных, живой спрос и деньги с продажи. Ближе всех бальзам на говяжьем жире: не хватает второго молодого бренда.",
+ "<b>Пробиваются чаще копии, чем бренды.</b> У поилки и тонального крема пробивается каждый четвёртый новичок, но почти все — безымянные продавцы. Если заходить брендом, их успех нам мало что обещает.",
+ "<b>Деньги решают не меньше спроса.</b> На поилке пробившихся новичков больше всего, но с продажи за $30 на Amazon остаётся от −$3 до +$5: Amazon забирает $11,6, товар с доставкой и пошлиной стоит $11–19. Поэтому поилка — в «Наблюдать».",
+ "<b>Дешёвое съедает Amazon.</b> У товаров дешевле $15 комиссия и доставка со склада Amazon забирают от трети до больше половины цены. Магниевый спрей, крем для депиляции и мыло с куркумой на Amazon почти ничего не приносят. Мыло зарабатывает через свой магазин, наборами.",
+ "<b>«Новый бренд» часто не новый.</b> Luxe, Smooche, Prime Prometics работают с 2020–2021 года; AirScent основан в 1946-м. По-настоящему молодые: Kaori (2026), Hanae (ноябрь 2025), Terra Lotus (2024). Magichome продаёт с 2019-го.",
  "<b>Ценовой войны нет нигде.</b> Мы сняли историю цен топ-10 товаров в 9 категориях за год: обвалов нет. Лёгкое давление — только у дешёвых наборов мыла и части душевых леек.",
- "<b>На поилке выживают копии, а не бренды.</b> 26 из 28 успешных новичков — безымянные продавцы. Бренд здесь строится через свой магазин, как в видео.",
- "<b>Тональный крем — самый сильный и самый плотный.</b> Спрос вырос в 4,5 раза, но почти половину рынка держит Luxe.",
- "<b>Бальзам на говяжьем жире остывает.</b> Больше всего выживших новичков, но поиск упал на 22% за год.",
- "<b>Сыворотка для ресниц — только без простагландинов.</b> Иначе товар считается лекарством и попадает под претензии FDA.",
- "<b>Не измерено:</b> TikTok Shop (нужен платный сервис), маржа, выживаемость рекламы во времени (повторный замер 8 декабря)."];
-function cred(){const K=RU.cred;
-  return `<section class="blk"><div class="sh"><h2>Насколько верить видео</h2><p>Мы сверили цифры автора с трафиком и отзывами самих магазинов.</p></div>
-  <div class="credt"><div class="cr ch"><span>Магазин</span><span>В видео, в месяц</span><span>Визитов в месяц</span><span>Нужно с визита</span><span>Выше обычного магазина</span></div>
-  ${K.rows.map(r=>`<div class="cr" data-tip="${esc(r.note)}"><span><b>${esc(r.store)}</b><small>${esc(RU.name[r.pid])} · <a href="https://www.youtube.com/watch?v=${r.video}" target="_blank" rel="noopener">видео</a></small></span>
-    <span class="strike">${r.claim}</span><span>${r.visits}</span><span>${r.rpv}</span><span class="gap">в ${r.gap} <i>${r.tier}</i></span></div>`).join("")}</div>
-  <p class="cap2">Как считали: обещанная выручка ÷ визиты = сколько магазин должен зарабатывать с одного визита. Норма — <a href="${K.bench.src}" target="_blank" rel="noopener">бенчмарк Littledata</a> по 438 магазинам на Shopify (октябрь 2026): медиана $${K.bench.median.toFixed(2)} с визита, лучшие 10% — от $${K.bench.top10.toFixed(2)}. Своих допущений в расчёте нет. Взяты только цифры, которые автор прямо называет «в месяц». Наведите на строку, чтобы увидеть пояснение.</p>
-  <div class="facts" style="margin-top:18px">${K.points.map(([h,p])=>`<div class="fact"><h3>${esc(h)}</h3><p>${tier(esc(p))}</p></div>`).join("")}</div></section>`}
-function board(top,rest){const row=(c,i,t)=>`<a class="br ${t?"top":""}" href="#c-${c.slug}"><span class="rk">${i}</span>
-   <span class="nm">${c.photo?`<img src="${c.photo}" alt="">`:"<img alt=''>"}<span>${esc(nm(c))}<small>${flagHtml(c)||"&nbsp;"}</small></span></span>
-   ${inds(c).map(indHtml).join("")}<span class="ic" style="display:none"></span></a>`;
-  return `<section class="blk"><div class="sh"><h2>Лидерборд</h2><p>Четыре сигнала по каждому товару. Зелёный — хорошо для новичка, красный — плохо. Наведите на метку, чтобы увидеть цифру.</p></div>
-   <div class="board"><div class="bh"><span>#</span><span>Товар</span><span>Новички выживают</span><span>Спрос в Google</span><span>Цены за год</span><span>Конкуренция</span></div>
-   ${top.map((c,i)=>row(c,i+1,1)).join("")}<div class="cut"></div>${rest.map((c,i)=>row(c,i+6,0)).join("")}</div>
-   <div class="legend"><span class="ind g">хорошо</span><span class="ind y">так себе</span><span class="ind r">плохо</span><span class="ind n">не мерили</span></div></section>`}
-function card(c){const top=RU.tops[lens].ids.indexOf(c.pid);
-  return `<a class="card" href="#c-${c.slug}"><div class="ph">${c.photo?`<img src="${c.photo}" alt="" loading="lazy">`:""}<span class="badge ${top>=0?"t":""}">${top>=0?"Топ "+(top+1):"#"+c.rank}</span></div>
-  <div class="bd"><h3>${esc(nm(c))}</h3><p>${esc(RU.verdict[c.pid])}</p>
-  <div class="nums"><div><b>${kf(c.m.A2)}</b><span>покупают в мес.</span></div><div><b>$${c.price!=null?(+c.price).toFixed(0):"—"}</b><span>средняя цена</span></div><div><b>${pc(c.m.A1)}</b><span>спрос за год</span></div></div>
-  <div class="inds">${inds(c).map(indHtml).join("")}</div>${flagHtml(c)}</div></a>`}
+ "<b>Рост поиска тонального крема — это реклама.</b> Запрос вырос в 4,5 раза, но ищут три бренда: Luxe, Smooche, Prime Prometics. Все три — компании 2020–2021 годов; почти половину рынка держит Luxe.",
+ "<b>Бальзам на говяжьем жире — ближе всех, но остывает.</b> 11 брендов-новичков пробились, бренд продаёт в 1,7 раза дороже безымянных, но поиск упал на 22% за год.",
+ "<b>Сыворотка для ресниц — ошибка первого замера.</b> После исправления фильтра пробивается 13% новичков (5 из 40), а не 16%. Обещать «рост ресниц» нельзя: по правилам FDA это заявление о лекарстве.",
+ "<b>Закупке из видео верить можно, марже — нет.</b> Там, где автор называет оптовую цену (сыворотка для ресниц, масло для тела), она сходится с ценами поставщиков. Но его «маржа 80%» — это цена своего магазина минус товар: без комиссий, пошлины, возвратов и рекламы. И цену закупки он называет только в 5 видео из 18.",
+ "<b>Не измерено:</b> продажи в TikTok Shop (нужен платный сервис), выживаемость рекламы во времени (архив платного сервиса), экономика своего магазина с рекламой в Meta, бренд продавца по данным Amazon (сейчас — по названию карточки), история продаж за год."];
+/* ---------- what is not measured (first edition is free data only; Keepa is the paid gap-closer) ---------- */
+function gaps(){const R=[
+  ["Кто стоит за безымянными карточками","Сейчас бренд определяем по названию карточки, и один продавец с пятью карточками считается за пятерых. Keepa даёт бренд и продавца из самой карточки. Без этого нельзя посчитать, пробиваются ли именно бренды, — а это условие порога."],
+  ["Кто пришёл и исчез","Мы видим только тех, кто сейчас на первых страницах. Доля пробившихся поэтому завышена. История показывает, сколько продавцов пришло год-два назад и сколько из них осталось."],
+  ["Растущие новички","Новички, которые ещё не продают 1 000 в месяц, но растут три месяца из четырёх. Нужна история продаж по месяцам."],
+  ["Цены за год","Сейчас читаем графики на глаз. Точные ряды покажут, есть ли ценовая война."],
+  ["Сезон","Наш замер — один снимок в ноябре, перед распродажами. История покажет, какие товары сезонные."],
+  ["Проверка метода на прошлом","Восстановить картину ноября 2025 года и посмотреть, угадал бы метод. Проверка будет неполной: давно удалённых карточек в истории может не быть."]];
+  return `<section class="blk" id="gaps"><div class="sh"><h2>Что не измерено и что это закроет</h2><p>Первая редакция сделана на бесплатных данных. Пять пробелов закрывает один платный источник — история Amazon от Keepa, около €29 в месяц ◈.</p></div>
+   <div class="facts">${R.map(([h,p])=>`<div class="fact"><h3>${esc(h)}</h3><p>${tier(esc(p))}</p></div>`).join("")}</div>
+   <p class="cap2">Даже после бесплатных проверок (возраст брендов, их реклама) ни один товар формально не пройдёт порог: условие про бренды без этих данных не считается.</p></section>`}
+/* ---------- method page (METRICS.md v2.3, frozen 2026-11-10) ---------- */
+const ICO={"chart": "<path d=\"M4 20V11M10 20V5M16 20v-7M21 20H3\"/>", "copy": "<rect x=\"3\" y=\"3\" width=\"12\" height=\"12\" rx=\"2\"/><rect x=\"9\" y=\"9\" width=\"12\" height=\"12\" rx=\"2\"/>", "coin": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M15 9.5c-.5-1-1.6-1.5-3-1.5-1.7 0-3 .8-3 2s1.3 1.7 3 2 3 .9 3 2.1-1.3 1.9-3 1.9c-1.4 0-2.6-.5-3-1.5M12 6v12\"/>", "shield": "<path d=\"M12 3l8 3v6c0 5-3.5 8-8 9-4.5-1-8-4-8-9V6z\"/><path d=\"M8.5 12l2.5 2.5 4.5-5\"/>", "search": "<circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"M20 20l-4-4\"/>", "x": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M9 9l6 6M15 9l-6 6\"/>", "clock": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/>", "store": "<path d=\"M4 10h16l-1.5-5h-13zM5 10v10h14V10M10 20v-5h4v5\"/>"};
+const ico=(k,c="")=>`<svg class="ico ${c}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${ICO[k]}</svg>`;
+function method(){
+  const Q=[["chart","Лидер правда зарабатывает?","Реклама живёт месяцами, отзывы растут год к году.",["Meta Ad Library","отзывы магазина"]],
+    ["copy","Получилось ли у копий?","Магазины моложе 2 лет с рекламой 90+ дней. Главный вопрос.",["Meta Ad Library","BigSpy","RDAP"]],
+    ["coin","Останутся ли деньги?","Заказ минус товар, почта, оплата и возвраты.",["сайты магазинов","поставщики","USPS"]],
+    ["shield","Можно ли обещать то же?","Если спрос держится на запретном обещании, честной рекламой его не купить.",["FDA","FTC"]],
+    ["search","Что исправить у лидера?","На что жалуются в плохих отзывах.",["Trustpilot","отзывы магазина"]]];
+  const N=[["Суммам выручки из видео","это оценки сервисов слежки"],["Числу объявлений","оно показывает, сколько тестируют"],["Отзывам на сайте магазина","плохие можно спрятать"]];
+  const T=[["Стоимость рекламы за заказ","покажет пробная реклама"],["Сколько копий сдалось","по мылу, сыворотке и порошку посчитано, остальные покажет BigSpy"],["Деньги своего магазина точно","после образцов и тарифов склада"]];
+  $("#app").innerHTML=`<div class="wrap fade"><section class="cover"><span class="eyebrow">Как мы проверяем</span><h1>Методика</h1>
+    <p class="lede">Пять вопросов к каждому товару. Где ответа пока нет, мы его не придумываем.</p></section>
+   <section class="blk"><div class="mq">${Q.map(([i,h,p,S],n)=>`<div>${ico(i)}<span class="n">${n+1}</span><b>${esc(h)}</b><p>${esc(p)}</p><div class="src">${S.map(x=>`<span>${esc(x)}</span>`).join("")}</div></div>`).join("")}</div></section>
+   <section class="blk"><div class="sh"><h2>Когда копия «держится»</h2></div>
+    <div class="eq"><div>${ico("store")}<b>Магазину меньше 2 лет</b><span>дата домена и первая копия сайта</span></div><i>+</i><div>${ico("clock")}<b>Реклама живёт 90+ дней</b><span>убыточную обычно выключают за пару недель</span></div><i>=</i><div class="ok">${ico("copy")}<b>Копия держится</b><span>модель «скопировать и разогнать» сработала</span></div></div></section>
+   <section class="blk"><div class="two"><div><h3>${ico("x","sm")}Чему не верим</h3><ul>${N.map(([a,b])=>`<li><b>${esc(a)}</b>: ${esc(b)}</li>`).join("")}</ul></div>
+    <div><h3>${ico("clock","sm")}Что ещё не измерено</h3><ul>${T.map(([a,b])=>`<li><b>${esc(a)}</b>: ${esc(b)}</li>`).join("")}</ul></div></div>
+    <p class="cap2">Правила менялись по ходу работы, каждый раз после новых данных. Поэтому решает не рейтинг, а пробная реклама с планкой, записанной заранее. Источники и цены: <a href="#tools">«Инструменты»</a>. ◆ посчитано платформой · ◈ наша оценка.</p></section>${foot()}</div>`;
+  window.scrollTo(0,0);reveal()}
+/* "Насколько верить видео": arithmetic on the author's own numbers (work/audit/cred_check.py, v2 2026-11-10) */
+function dots(lo,hi,over){let s="";for(let i=0;i<100;i++)s+=`<i class="${i<lo?"on":i<hi?"mid":""}"></i>`;
+  return `<div class="dots">${s}${over?`<span class="x">${over}</span>`:""}</div>`}
+const tierS=s=>s.replace(/◆/g,'<span title="посчитано платформой">◆</span>').replace(/◈/g,'<span title="наша оценка">◈</span>');
+function credParts(){
+  const ed=`<div class="cv"><div class="cv-h"><div><b>Earthly Derm</b><small>мыло с куркумой · сумма из сервиса слежки</small></div><span class="ind y">Лидер сильный, сумма завышена</span></div>
+    <p>Магазин настоящий и растёт: новых отзывов в 7,6 раза больше, чем год назад ◆. Но $7–14 млн в месяц при среднем заказе около $45 означают 156–311 тыс. заказов. А отзывов у главного мыла 850–960 в месяц ◆, то есть один на 163–365 покупок. Для магазина, который просит отзыв после каждой покупки, это слишком мало ◈.</p>
+    <p>Новичкам в этой нише труднее, чем лидеру: на Amazon пробивается примерно каждый одиннадцатый (9%) ◈.</p></div>`;
+  const sk=`<div class="cv"><div class="cv-h"><div><b>Skult</b><small>маска для подбородка · сумма из числа объявлений</small></div><span class="ind r">Так считать нельзя</span></div>
+    <p>Логика автора: «2 000 активных объявлений, значит, $8,2 млн в месяц». Доля правды в ней есть: реклама, которая живёт долго, скорее всего окупается. Мы и сами на это опираемся. Но число объявлений измеряет другое.</p>
+    <ul class="why3"><li><b>Почти всё это пробы.</b> В архиве по мылу с хурмой у большинства рекламодателей объявление прожило один-три дня ◆. Их запускают сотнями, чтобы найти одно рабочее.</li>
+     <li><b>Одно объявление считается много раз.</b> Одну и ту же картинку с текстом часто запускают десятками копий под разные аудитории. Библиотека Meta так и пишет: «N объявлений используют этот креатив» ◆.</li>
+     <li><b>Денег по счёту не видно.</b> Чтобы перевести рекламу в выручку, нужны бюджет и конверсия. Их нет ни в библиотеке, ни в видео.</li></ul>
+    <p>Проверка: для $4–8 млн нужно 80–164 тыс. заказов в месяц. На Amazon у Skult около 1 000 покупок в месяц ◆, меньше 2% от нужного. Свой сайт может продавать больше, но не в 50 раз.</p></div>`;
+  return {ed:tierS(ed),sk:tierS(sk)}}
+function source(){const {ed,sk}=credParts(),G={};let n=0;
+  const Q=[["sells",1,"«Товар хорошо продаётся»"],["copy",2,"«Работающий магазин можно повторить»"],["rev",0,"Сумма выручки из видео"]];
+  C.forEach(c=>{const k=checks(c);if(!k)return;n++;Q.forEach(([key,i])=>{const v=k.rows[i][2];G[key]=G[key]||{};(G[key][v]=G[key][v]||[]).push(c)})});
+  const chip=c=>`<a class="chip" href="#c-${c.slug}">${c.photo?`<img src="${c.photo}" alt="">`:`<i></i>`}<span>${esc(nm(c))}</span></a>`;
+  const V=[["ok","Подтверждается","g"],["part","Отчасти","y"],["bad","Есть сомнения","r"],["na","Мало данных","n"]];
+  const tally=`<div class="tally">${Q.map(([key,,h])=>`<div class="trow"><b>${h}</b><div class="tcols">${V.filter(([v])=>(G[key]||{})[v]).map(([v,l,col])=>`<div><span class="ind ${col}">${l}: ${G[key][v].length}</span><div class="chips">${G[key][v].map(chip).join("")}</div></div>`).join("")}</div></div>`).join("")}</div>`;
+  return `<section class="blk" id="video">
+  <p class="lead2">Суммы выручки автор берёт двумя способами: из сервиса слежки Winning Hunter или считает сам по числу объявлений. Ниже по одному примеру на каждый способ и сводка по всем товарам.</p>
+  <div class="cvs">${ed}${sk}</div>
+  <p class="cap2">Про сами сервисы. Shopify не публикует продажи магазинов, поэтому любой «счётчик выручки» строит оценку по косвенным признакам. Обзорщики пишут, что Winning Hunter ошибается на 20–40% даже для средних магазинов, для очень больших и очень маленьких сильнее. Сам сервис предупреждает, что маленькие магазины видит плохо ◈.</p>
+  <h3 class="h3">Что подтвердилось по каждому товару</h3>${tally}
+  <p class="cap2">По ${n} товарам, у которых есть своё видео. Подробности в карточке каждого товара.</p></section>`}
+/* the channel's three claims for one product, checked against our data; verdict rules are fixed here */
+const VRD={ok:["g","Подтверждается"],part:["y","Отчасти"],bad:["r","Есть основания сомневаться"],na:["n","Не хватает данных"]};
+function checks(c){const m=c.m,cl=(RU.claims[c.pid]||[])[0];if(!cl||!m)return null;
+  const rare=m.flags.some(f=>f.startsWith("search term too rare"))||(GR.a1_invalid&&GR.a1_invalid[c.pid]),small=m.flags.some(f=>f.startsWith("small sample"));
+  const brand=(/не назван/i.test(cl.brand||"")?"":(cl.brand||"").split("/")[0].replace(/\(.*?\)/g,"").trim())||"Магазин";
+  const ov=GR.revenue_override[c.pid];
+  const r1=[`«${brand}: ${money(cl.revenue).trim()}»`,ov?ov[1]:`Магазин частный, отчётности нет. В видео это оценка ${/winning hunter/i.test(cl.basis||"")?"платного сервиса Winning Hunter":"автора"} по трафику и числу объявлений.`,ov?ov[0]:"na"];
+  const a=m.A1,a2=m.A2;let r2;
+  if(rare)r2=[a2>=50000?"ok":"na",`На Amazon ${kf(a2)} покупок в месяц. Поиск в Google по этому товару слишком редкий или не измерен, тренд читать нельзя.`];
+  else if(a<.8)r2=["bad",`Поиск в Google падает: ${pc(a)} за год. На Amazon ${kf(a2)} покупок в месяц.`];
+  else if(a2<30000)r2=["bad",`Полка на Amazon маленькая: ${kf(a2)} покупок в месяц. Поиск в Google ${pc(a)} за год.`];
+  else r2=["ok",`На Amazon ${kf(a2)} покупок в месяц, поиск в Google ${pc(a)} за год.`];
+  if(GR.a1_caveat&&GR.a1_caveat[c.pid]){r2[1]+=" "+GR.a1_caveat[c.pid];if(r2[0]==="ok")r2[0]="part"}
+  let r3;const b=m.B1,g=MG[c.pid],F=FBG[c.pid]||[0,0];
+  /* owner 2026-11-11: judged by young copies in Facebook (METRICS v2.4 M2); Amazon newcomers only as a remark */
+  r3=F[1]>=2?["ok",`В Facebook держатся ${F[1]} молодые копии: магазины моложе 2 лет с рекламой 90+ дней.`]
+    :F[1]===1?["part","В Facebook держится одна молодая копия: магазин моложе 2 лет с рекламой 90+ дней. Для вывода нужно две."]
+    :F[0]?["bad",`Рекламу 90+ дней после лидера держат только давние магазины (${F[0]}), молодых нет.`]
+    :["bad","В Facebook ни одного магазина после лидера с рекламой 90+ дней."];
+  if(!BIGSPY_US[c.pid])r3[1]+=" Видны только работающие объявления; кто сдался, BigSpy ещё не проверял.";
+  r3[1]+=small?" На Amazon новых продавцов меньше 20, судить нельзя.":` На Amazon из ${m.B1_n} новых продавцов ${m.B2_1k} продают 1 000+ в месяц (${Math.round(b*100)}%)${m.D1_unbranded_1k?`, из них ${m.D1_unbranded_1k} ${m.D1_unbranded_1k===1?"безымянный":"безымянные"}`:""}.`;
+  return{cl,rows:[[r1[0],r1[1],r1[2]],["«Товар хорошо продаётся»",r2[1],r2[0]],["«Работающий магазин можно повторить»",r3[1],r3[0]]]}}
+function checksBlock(c){const k=checks(c),A=RU.article[c.pid];
+  if(!k)return `<section class="blk"><div class="sh"><h2>Что говорило видео</h2></div><div class="empty">Отдельного видео про этот товар нет: он попал в список из соседних роликов.</div></section>`;
+  const extra=c.pid==="turmeric_soap"?credParts().ed:c.pid==="chin_wrap"?credParts().sk:"";
+  return `<section class="blk"><div class="sh"><h2>Что говорило видео и что подтвердилось</h2><p>${A&&A.claim?esc(A.claim)+" ":""}<a href="https://www.youtube.com/watch?v=${k.cl.video}" target="_blank" rel="noopener">Видео на YouTube</a></p></div>
+   <div class="cc"><div class="ccr h"><span>Что говорит видео</span><span>Что видим мы</span><span>Вердикт</span></div>
+   ${k.rows.map(([q,ev,v])=>`<div class="ccr"><span class="q">${esc(q)}</span><span class="ev">${tier(esc(ev))}</span><span><span class="ind ${VRD[v][0]}">${VRD[v][1]}</span></span></div>`).join("")}</div>
+   ${extra?`<div class="cvs" style="margin-top:14px">${extra}</div>`:""}</section>`}
+const pctC=a=>a.map(x=>(x<0?"−":"")+Math.abs(Math.round(x*100))).join(a[0]<0?"…":"–")+"%";
+function boardRow(c){const I=inds(c),ii=I.map(indHtml).join(""),sh=I.map(i=>indHtml({...i,t:i.s||i.t})).join("");  /* desktop columns: short value, the header names the signal */
+  return `<a class="br" href="#c-${c.slug}"><span class="nm">${c.photo?`<img src="${c.photo}" alt="">`:"<img alt=''>"}<span>${esc(nm(c))} ${flagHtml(c)}
+   <small class="why">${esc(GR.why[c.pid]||"")}</small>${GR.change[c.pid]?`<small class="chg">Что изменит решение: ${esc(GR.change[c.pid])}</small>`:""}</span></span>
+   ${sh}<span class="ic">${ii}</span></a>`}
+function groupsBlock(){
+  return `<section class="blk" id="groups"><div class="sh"><h2>Три группы</h2><p>Группы считаем по рекламе в Facebook: держатся ли там молодые копии. Amazon здесь подтверждение: так товар выглядит для продавца на маркетплейсе, это размер рынка и цена, с которой сравнит покупатель. Пять сигналов по каждому товару: зелёный хорошо для новичка, красный плохо. Спрос в Google показан просто цифра без цвета: это оценка Google по выборке. Наведите на метку или нажмите на неё, чтобы увидеть цифру.</p></div>
+   <div class="board"><div class="bh"><span>Товар</span><span>Новички пробиваются</span><span>Спрос в Google за год</span><span>Цены за год</span><span>Рынок</span><span>Деньги с продажи</span></div>
+   ${["go","watch","no"].map(g=>`<div class="gh ${g}"><b>${GR.head[g][0]}</b><span>${esc(GR.head[g][1])}</span></div>${GR[g].map(p=>boardRow(BYP[p])).join("")}`).join("")}</div>
+   <div class="legend"><span class="ind g">хорошо</span><span class="ind y">так себе</span><span class="ind r">плохо</span><span class="ind n">не мерили</span><span style="flex-basis:100%;font-size:13px;color:var(--faint)">У новичков цвет означает сравнение со средним по 20 товарам с учётом погрешности.</span></div></section>`}
+const GCOL={go:"var(--g)",watch:"var(--y)",no:"var(--r)"};
+const FBG=Object.fromEntries(ST.grid.map(([p,n,y])=>[p,[n,y]]));
+const fbStat=p=>{const g=FBG[p];if(!g)return["Не проверено","n",-1,"Рекламу копий пока не проверяли"];const[n,y]=g;
+  return y?["Копия держится","hold",100+y*10+n+(p==="persimmon_soap"?5:0),`Магазинов после лидера с рекламой 90+ дней: ${n}, из них молодых ${y}`]:n?["Только давние магазины","y",n,`Магазинов после лидера с рекламой 90+ дней: ${n}, молодых нет`]:["Копий не нашли","r",0,"Ни одного магазина после лидера с рекламой 90+ дней"]};
+const FCOL={hold:"var(--acc)",y:"var(--y)",r:"var(--r)",n:"var(--n)"};
+/* owner 2026-11-11: the main lens is Facebook; every verdict starts with it, Amazon/Google/TikTok are labelled confirmations */
+const whyFb=p=>{const w=GR.why[p]||RU.verdict[p]||"";return /^Facebook:/.test(w)?w:`Facebook: ${fbStat(p)[3].charAt(0).toLowerCase()+fbStat(p)[3].slice(1)}. ${w}`};
+const BIGSPY_US={persimmon_soap:"150 рекламодателей за два года, в архиве 90+ дней продержали двое; сейчас в Meta держат ещё Swarva, Cachi Naturals и Bella Via",lash_serum:"383 рекламодателя за два года, 90+ дней продержали 42, почти все старые бренды и блогеры",whitening_powder:"по фразе «teeth whitening powder» 40 рекламодателей за два года, 90+ дней продержал один магазин; MYTO и MOOTHS эта фраза не находит, нужна ещё «tooth powder»"};
+function chanHtml(c){const F=fbStat(c.pid),T=(ST.tiktok||[]).filter(r=>r[0]===c.pid);
+  const tt=T.map(([p,s,age,avg,last,k,dir])=>`<p><b>TikTok Shop:</b> ${esc(s)} продал ${nf(last)} шт. за последние 30 дней против ${nf(avg)} в обычный месяц (×${k}).</p>`).join("");
+  const own=/^Facebook:/.test(GR.why[c.pid]||RU.verdict[c.pid]||"");
+  return `<div class="chl"><p><b>Facebook</b> (главная линза): ${own?esc(F[3].charAt(0).toLowerCase()+F[3].slice(1))+".":""}${BIGSPY_US[c.pid]?`${own?" А":" а"}рхив BigSpy по США: ${BIGSPY_US[c.pid]}.`:own?" Кто из копий сдался, архив BigSpy по этому товару ещё не проверял.":" кто из копий сдался, архив BigSpy по этому товару ещё не проверял."}</p>${tt}</div>`}
+function card(c){const mg=MG[c.pid],F=fbStat(c.pid),col={hold:"var(--acc)",y:"var(--y)",r:"var(--r)",n:"var(--n)"}[F[1]];
+  return `<a class="card" href="#c-${c.slug}"><div class="ph">${c.photo?`<img src="${c.photo}" alt="" loading="lazy">`:""}<span class="badge" style="background:${col};color:#fff">${F[0]}</span></div>
+  <div class="bd"><h3>${esc(nm(c))}</h3><p class="fbl"><b>Facebook:</b> ${esc(F[3].charAt(0).toLowerCase()+F[3].slice(1))}.</p>
+  <div class="nums"><div><b>${kf(c.m.A2)}</b><span>покупают на Amazon в мес.</span></div><div><b>${mg?prc(mg.price):"·"}</b><span>цена на Amazon</span></div><div><b>${mg?pctC(mg.before_ads_pct):"·"}</b><span>цены остаётся на Amazon</span></div></div>
+  ${flagHtml(c)}</div></a>`}
+/* money block on the product page: where the price goes, one sale on Amazon FBA */
+function moneyBlock(c){const g=MG[c.pid];if(!g)return"";
+  const mid=a=>(a[0]+a[1])/2,p=g.price,amz=g.amazon_take,land=mid(g.landed),oth=g.fees.returns+g.fees.storage,left=mid(g.before_ads),tot=Math.max(p,amz+land+oth);
+  const seg=(v,col,l)=>v>0?`<i style="width:${(v/tot*100).toFixed(1)}%;background:${col}">${v/tot>.14?l:""}</i>`:"";
+  const hw=`Цена ${prc(p)}: медиана у тех, кто продаёт 1 000+ в месяц (наш скан Amazon). Комиссии по официальным тарифам Amazon на 2027 год плюс доплата 3,5% за топливо. Товар по ценам поставщиков на Made-in-China: ${usdR(g.supplier)} за «${g.format}»; пошлина из Китая ${Math.round(g.duty*100)}%; доставку до склада Amazon оценили мы. Реклама не вычтена.`;
+  return `<section class="blk"><div class="sh"><h2>Деньги с одной продажи${info(hw)}</h2><p>Продажа на Amazon за ${prc(p)}: до рекламы остаётся <b style="color:var(--ink)">${usdR(g.before_ads)}</b>, это ${pctR(g.before_ads_pct)} цены.</p></div>
+   <div class="mbar">${seg(amz,"var(--ink)","Amazon")}${seg(land,"#8C877E","Товар")}${seg(oth,"#C9C4BA","")}${left>0?seg(left,"var(--g)","Остаётся"):""}</div>
+   <div class="mleg"><span style="--c:var(--ink)">Amazon: комиссия ${usd(g.fees.referral)} + доставка со склада ${usd(g.fees.fba)}</span><span style="--c:#8C877E">Товар с доставкой и пошлиной: ${usdR(g.landed)}</span><span style="--c:#C9C4BA">Возвраты и хранение: ${usd(oth)}</span><span style="--c:var(--g)">Остаётся до рекламы: ${usdR(g.before_ads)}</span></div>
+   ${left<=0?`<p class="cap2" style="color:var(--r)">В середине диапазона расходы больше цены на ${usd(-left)}.</p>`:""}
+   <p class="cap2">По цене дешёвых конкурентов (${prc(g.price_low_q1)}) осталось бы ${usd(g.at_q1_price)} при средней цене поставщика.</p>
+   ${GR.video_cost&&GR.video_cost[c.pid]?`<p class="cap2">${tier(esc(GR.video_cost[c.pid]))}</p>`:""}</section>`}
 
+/* graveyard (owner 2026-11-11): who advertised the product in the US and switched that ad off; only data already collected */
+function graveBlock(c){const G=(DATA.grave||{})[c.pid];if(!G)return"";
+  const pl=(n,a,b,c5)=>{const m=n%10,h=n%100;return m===1&&h!==11?a:m>=2&&m<=4&&(h<12||h>14)?b:c5};
+  const mon=d=>{const[y,m]=d.split("-");return["янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"][+m-1]+" "+y.slice(2)};
+  const big=G.dead.filter(x=>x.days>=30),small=G.dead.length-big.length;
+  const kind=x=>x.fbpage?"страница блогера":x.role?x.role:x.domain?"магазин":"";
+  const tomb=x=>`<div class="tomb${x.now?" alive":""}"><b>${esc(x.page||"страница скрыта")}</b><span class="d">${esc(x.domain||x.mask)}${x.domain&&x.tier==="◈"?" ◈":""}</span><br><span class="d">${mon(x.from)} – ${mon(x.to)} · ${x.days} дн.</span>${x.reg?`<br><span class="d">домен с ${mon(x.reg)}</span>`:""}${x.head?`<div class="h">«${esc(x.head)}»</div>`:""}${kind(x)?`<span class="k">${esc(kind(x))}</span>`:""}${x.now?`<span class="k">сейчас крутит ${esc(x.now)} объявл.</span>`:""}</div>`;
+  return `<section class="blk" id="grave"><details class="more"><summary>Кладбище копий: ${G.dead.length} ${pl(G.dead.length,"рекламодатель","рекламодателя","рекламодателей")} ${G.dead.length%10===1&&G.dead.length%100!==11?"выключил":"выключили"} рекламу</summary>
+   <p class="lead2">Архив BigSpy, только США, 11 ноября. Прочитали ${G.read} самых долгих рекламодателей; у ${G.dead.length} самое долгое объявление выключено больше двух недель назад, у ${G.alive} ещё крутится${G.gap?`, у ${G.gap} конец неизвестен: в BigSpy у всех них последний день ровно 1 августа, похоже на сбой сбора BigSpy, а не на выключение рекламы`:""}. Ниже те, кто продержался 30+ дней${small?`; ещё ${small} выключили рекламу раньше`:""}.</p>
+   <div class="grv">${big.map(tomb).join("")}</div>
+   <p class="cap2">BigSpy на бесплатном тарифе прячет домены звёздочками. Скрытые домены мы раскрывали по рекламе в Meta Ad Library (страница и домен совпали с маской; без пометки) или по нашим спискам и названию страницы ◈. Остальные остаются скрытыми: у большинства нет ни заголовка, ни названия страницы. Выключено только самое долгое объявление: магазин может крутить другие. Зелёным отмечены те, у кого по нашему замеру 11 ноября есть живая реклама. Дата домена из реестра RDAP.</p></details></section>`}
 /* ---------- article ---------- */
-function article(c){const A=RU.article[c.pid],cl=(RU.claims[c.pid]||[])[0],m=c.m;
-  const tops=Object.values(RU.tops).filter(t=>t.ids.includes(c.pid)).map(t=>`<span class="tag">${t.name}: ${t.ids.indexOf(c.pid)+1}</span>`).join("");
+function article(c){const A=RU.article[c.pid],m=c.m,g=groupOf(c.pid);
   $("#app").innerHTML=`<div class="wrap fade"><a class="back" href="#">← Все товары</a>
-  <section class="ahead"><div>${tops||`<span class="tag l">#${c.rank} из 20</span>`}<h1>${esc(nm(c))}</h1><p class="vd">${esc(RU.verdict[c.pid])}</p>
-    <div class="inds">${inds(c).map(indHtml).join("")}</div><div style="margin-top:10px">${flagHtml(c)}</div></div>
+  <section class="ahead"><div><span class="tag" style="background:${GCOL[g]}">${GR.head[g][0]}</span> <span class="tag" style="background:${FCOL[fbStat(c.pid)[1]]}">Facebook: ${fbStat(c.pid)[0].toLowerCase()}</span><h1>${esc(nm(c))}</h1><p class="vd">${esc(whyFb(c.pid))}</p>
+    ${GR.change[c.pid]?`<p style="margin:-8px 0 18px;color:#9a6600;font-size:16px">Что изменит решение: ${esc(GR.change[c.pid])}</p>`:""}
+    ${chanHtml(c)}<p class="ilab">Amazon и Google: подтверждают или ставят под сомнение</p><div class="inds">${inds(c).map(indHtml).join("")}</div><div style="margin-top:10px">${flagHtml(c)}</div></div>
     <div class="ph">${c.photo?`<img src="${c.photo}" alt="">`:""}</div></section>
-  <section class="blk"><div class="claim"><div><span class="eyebrow">Что обещали в видео</span>
-     <p class="q">${esc(A?A.claim:cl?cl.product+(cl.brand?" — "+cl.brand:""):"Отдельного разбора в видео нет: товар попал в список из соседних роликов.")}</p>
-     ${cl?`<p style="margin:14px 0 0;font-size:14px;opacity:.7">Источник: <a href="https://www.youtube.com/watch?v=${cl.video}" target="_blank" rel="noopener">видео на YouTube</a>${cl.caveat?" · "+esc(cl.caveat):""}</p>`:""}</div>
-     ${cl?`<div class="money">${esc(money(cl.revenue))}<small>${esc(cl.basis||"")}</small></div>`:""}</div></section>
+  ${graveBlock(c)}
+  ${moneyBlock(c)}
   ${A?`<section class="blk"><div class="sh"><h2>Как на самом деле</h2></div><div class="facts">${A.reality.map(([h,p])=>`<div class="fact"><h3>${esc(h)}</h3><p>${tier(esc(p))}</p></div>`).join("")}</div></section>
-  <section class="blk"><div class="sh"><h2>Наш вывод</h2></div><p class="take">${esc(A.take)}</p>${A.next?`<div class="next">${A.next.map(x=>`<span>Проверить: ${esc(x)}</span>`).join("")}</div>`:""}</section>`
-   :`<section class="blk"><div class="empty">Подробный разбор этого товара готовится. Ниже — все данные, которые уже собраны.</div></section>`}
+  <section class="blk"><div class="sh"><h2>Наш вывод</h2></div><p class="take">${esc(A.take)}</p>${A.next&&A.next.length?`<div class="next"><b>Что ещё проверить</b>${A.next.map(x=>`<span>${esc(x)}</span>`).join("")}</div>`:""}</section>`
+   :`<section class="blk"><div class="empty">Подробный разбор этого товара готовится. Ниже все данные, которые уже собраны.</div></section>`}
+  ${checksBlock(c)}
   <section class="blk"><div class="sh"><h2>Данные</h2></div><div class="figs">${funnel(c)}${trendFig(c)}${leadersFig(c)}${reviewsFig(c)}</div>
    <details class="more"><summary>Все цифры и как считали</summary><div class="kv">
     <div>Покупают на Amazon в месяц (первые 5 страниц поиска)</div><div>${nf(m.A2)}</div>
-    <div>Поиск в Google к прошлому году (${esc(m.A1_terms)}, среднее ${m.A1_pulls} замеров)</div><div>${pc(m.A1)}</div>
+    ${GR.a1_invalid&&GR.a1_invalid[c.pid]?`<div>Поиск в Google к прошлому году</div><div>не виден</div>`:`<div>Поиск в Google к прошлому году (${/, summed$/.test(m.A1_terms)?"сумма запросов ":""}${esc(m.A1_terms.replace(/, summed$/,""))}, среднее по ${m.A1_pulls} замерам)</div><div>${pc(m.A1)}</div>`}
     <div>Новых продавцов за 3–24 месяца</div><div>${m.B1_n}</div><div>Из них продают 1 000+ / 300+ в месяц</div><div>${m.B2_1k} / ${m.B2_300}</div>
-    <div>Из выживших — безымянных</div><div>${m.D1_unbranded_1k} из ${m.B2_1k}</div>
+    <div>Доля с учётом погрешности (95%)</div><div>${Math.round(m.B1_lo*100)}–${Math.round(m.B1_hi*100)}%</div>
+    <div>Из пробившихся безымянных (по названию карточки)</div><div>${m.D1_unbranded_1k} из ${m.B2_1k}</div>
     <div>Доля трёх крупнейших брендов</div><div>${Math.round(m.B3_top3*100)}%</div><div>Индекс концентрации (HHI)</div><div>${nf(m.B3_hhi)}</div>
     <div>Цены за 12 месяцев</div><div>${esc(m.D2_note)}</div>
     ${m.B4_shops.map(s=>`<div>Реклама Meta, ${esc(s.domain)}: активных / работают 90+ дней</div><div>${nf(s.active)} / ${nf(s.aged90)}</div>`).join("")}
-    ${m.B6?`<div>Молодой бизнес-победитель (проверено вручную)</div><div>${esc(m.B6)}</div>`:""}
-    <div class="c">◆ посчитано платформой · ◈ наша оценка или прочтение · ◇ спорно. Методика — на отдельной странице.</div></div></details></section>
+    ${m.B6?`<div>Молодой бизнес-победитель (проверено по сайту и отзывам)</div><div>${esc(m.B6)}</div>`:""}
+    <div class="c">◆ посчитано платформой · ◈ наша оценка или прочтение · ◇ спорно. <a href="#method">Методика на отдельной странице.</a></div></div></details></section>
   ${adsFig(c)}${foot()}</div>`;
   window.scrollTo(0,0);wireTips();drawAll(c)}
 const tier=s=>s.replace(/◆/g,'<span title="посчитано платформой">◆</span>').replace(/◈/g,'<span title="наша оценка">◈</span>');
-function money(s){s=String(s||"");const m=s.match(/\$[\d.,]+\s*(?:млн|тыс|million|k|K|M)?[^,;(]*/);return (s.split("(")[0]||s).slice(0,60)}
+function money(s){s=String(s||"").split("(")[0].replace(/,\s*относится.*$/,"");
+  s=s.replace(/\$([\d,]{5,})/g,(_,n)=>{const v=+n.replace(/,/g,"");return v>=1e6?"$"+(v/1e6).toFixed(1).replace(".",",").replace(/,0$/,"")+" млн":"$"+Math.round(v/1e3)+" тыс."});
+  return s.trim().slice(0,70)}
 function funnel(c){const m=c.m,mx=m.B1_n||1,w=v=>Math.max(2,Math.round(100*v/mx))+"%";
-  return `<div class="fig"><h3>Сколько новичков выживает</h3><p class="cap">Продавцы, пришедшие на Amazon за последние 3–24 месяца</p><div class="funnel">
+  return `<div class="fig"><h3>Сколько новичков пробивается</h3><p class="cap">Продавцы, пришедшие на Amazon за последние 3–24 месяца</p><div class="funnel">
    <div><b>${m.B1_n}</b><i style="width:${w(m.B1_n)};opacity:.25"></i><span>пришли</span></div>
    <div><b>${m.B2_300}</b><i style="width:${w(m.B2_300)};opacity:.5"></i><span>продают 300+</span></div>
    <div><b>${m.B2_1k}</b><i style="width:${w(m.B2_1k)}"></i><span>продают 1 000+</span></div>
    <div><b>${m.D1_unbranded_1k}</b><i style="width:${w(m.D1_unbranded_1k)};background:var(--faint)"></i><span>из них без бренда</span></div></div></div>`}
-function trendFig(c){if(!c.trend.values)return"";return `<div class="fig"><h3>Спрос в Google</h3><p class="cap">«${esc(c.trend.term)}», США, по неделям, сглажено</p><div id="tr"></div></div>`}
+function trendFig(c){if(!c.trend.values||(GR.a1_invalid&&GR.a1_invalid[c.pid]))return"";const sum=c.m&&/, summed$/.test(c.m.A1_terms||"");
+  return `<div class="fig"><h3>Спрос в Google</h3><p class="cap">«${esc(c.trend.term)}», США, по неделям, сглажено${sum?`. Это один запрос; все формулировки вместе дают ${pc(c.m.A1)} к прошлому году`:""}</p><div id="tr"></div></div>`}
 function leadersFig(c){const L=(c.leaders||[]).slice(0,6);if(!L.length)return"";const mx=Math.max(...L.map(l=>l.units));
   return `<div class="fig"><h3>Лидеры Amazon</h3><p class="cap">Покупают в месяц · цена</p><div class="bars">${L.map(l=>`<div><span style="color:var(--ink);text-align:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${esc(l.name)}</span><i style="width:${Math.max(2,Math.round(100*l.units/mx))}%"></i><span>${kf(l.units)}${l.price?" · $"+l.price.toFixed(0):""}</span></div>`).join("")}</div></div>`}
-function reviewsFig(c){if(!c.reviews)return"";return `<div class="fig"><h3>Отзывы в магазинах лидеров</h3><p class="cap">Отзывов в месяц; пунктир — оценка</p><div id="rv"></div></div>`}
+function reviewsFig(c){if(!c.reviews)return"";return `<div class="fig"><h3>Отзывы в магазинах лидеров</h3><p class="cap">Отзывов в месяц; пунктиром показана оценка</p><div id="rv"></div></div>`}
 function adsFig(c){const A=(c.creatives||[]).slice(0,3);if(!A.length)return"";
-  return `<section class="blk"><div class="sh"><h2>Реклама, которая живёт дольше всех</h2><p>Объявления лидеров из библиотеки Meta, отсортированы по сроку показа.</p></div><div class="ads">${A.map(a=>`<a class="ad" href="${a.lib}" target="_blank" rel="noopener"><img src="${a.img}" alt="" loading="lazy"><div><b>${a.days} дн. в показе</b>${esc(a.domain)}</div></a>`).join("")}</div></section>`}
+  return `<section class="blk"><div class="sh"><h2>Реклама, которая живёт дольше всех</h2><p>Объявления лидеров из библиотеки Meta, отсортированы по сроку показа; все ещё крутятся на 11 ноября (проверено через Apify).</p></div><div class="ads">${A.map(a=>`<a class="ad" href="${a.lib}" target="_blank" rel="noopener"><img src="${a.img}" alt="" loading="lazy"><div><b>${a.days} дн. в показе</b>${esc(a.domain)}</div></a>`).join("")}</div></section>`}
 const SER=["#2B2BFF","#121212","#1E9E5A","#D08A00","#D2443C"];
 function line(series,labels,W=520,H=200){const L=34,B=24,all=series.flatMap(s=>s.v.filter(x=>x!=null)),mx=Math.max(...all,1)*1.08,n=labels.length;
   const X=i=>L+i/(n-1)*(W-L-6),Y=v=>H-B-(v/mx)*(H-B-8);let g="";
@@ -308,7 +805,7 @@ function drawAll(c){
 
 /* ---------- tips ---------- */
 const RISK={legal:["g","Законно"],gray:["y","Серая зона"],risk:["r","Риск бана или иска"]};
-const SEC=[["stay","Как оставаться на рынке","Запреты площадок и формулировки"],["sell","Как хитро продавать","Страницы, офферы, цены"],["ads","Как хитро рекламировать","Креативы и запуск"],["money","Как они считают деньги","Откуда цифры в видео"]];
+const SEC=[["stay","Как оставаться на рынке","Запреты площадок и формулировки"],["sell","Как хитро продавать","Страницы, офферы, цены"],["ads","Как хитро рекламировать","Креативы и запуск"],["_money","Как они считают деньги","Откуда цифры в видео"]];
 let tipF="all";
 function tips(){const T=RU.tips;
   const body=()=>SEC.map(([k,h,s])=>{const L=T.filter(t=>t.sec===k&&(tipF==="all"||t.risk===tipF));if(!L.length)return"";
@@ -316,7 +813,7 @@ function tips(){const T=RU.tips;
       <span class="ind ${RISK[t.risk][0]}" style="cursor:default;margin-bottom:12px">${RISK[t.risk][1]}</span><h3>${esc(t.h)}</h3><p>${tier(esc(t.p))}</p>
       <p style="margin-top:12px;font-size:13.5px">${t.src.map(([v,p])=>`<a href="https://www.youtube.com/watch?v=${v}" target="_blank" rel="noopener">${esc(RU.name[p]||p)}</a>`).join(" · ")}</p></div>`).join("")}</div></section>`}).join("");
   $("#app").innerHTML=`<div class="wrap fade"><section class="cover"><span class="eyebrow">Из 19 видео по нашим товарам</span><h1>Хитрости</h1>
-    <p class="lede">Всё, что авторы советовали про запреты, формулировки, продажи и рекламу. У каждого приёма — пометка риска и ссылка на видео.</p>
+    <p class="lede">Всё, что авторы советовали про запреты, формулировки, продажи и рекламу. У каждого приёма есть пометка риска и ссылка на видео.</p>
     <div class="switch" role="group">${[["all","Все"],["legal","Законно"],["gray","Серая зона"],["risk","Риск"]].map(([k,v])=>`<button data-r="${k}" aria-pressed="${tipF===k}">${v}</button>`).join("")}</div></section>
     <div id="tipbody">${body()}</div>${foot()}</div>`;
   $$("[data-r]").forEach(b=>b.onclick=()=>{tipF=b.dataset.r;$$("[data-r]").forEach(x=>x.setAttribute("aria-pressed",x===b));$("#tipbody").innerHTML=body()});
@@ -324,15 +821,32 @@ function tips(){const T=RU.tips;
 
 /* ---------- other pages ---------- */
 function soon(t,p){$("#app").innerHTML=`<div class="wrap fade"><section class="cover"><span class="eyebrow">В работе</span><h1>${t}</h1><p class="lede">${p}</p></section>${foot()}</div>`;window.scrollTo(0,0)}
-function foot(){return `<footer><span>Собрано ${DATA.built}</span><span>Методика v2.2</span><span>◆ посчитано платформой · ◈ наша оценка · ◇ спорно</span></footer>`}
-function wireTips(){const T=$("#tip");$$("[data-tip]").forEach(e=>{e.onmouseenter=ev=>{T.textContent=e.dataset.tip;T.style.opacity=1;const r=e.getBoundingClientRect();
-  T.style.left=Math.min(innerWidth-300,Math.max(8,r.left))+"px";T.style.top=(r.bottom+8)+"px"};e.onmouseleave=()=>T.style.opacity=0})}
+function foot(){return `<footer><span>Собрано ${DATA.built}</span><span><a href="#method">Как мы проверяем</a></span><span>◆ посчитано платформой · ◈ наша оценка · ◇ спорно</span></footer>`}
+/* tooltips: hover on desktop; tap on touch screens (ⓘ always opens on click) */
+let tipFor=null;const touch=matchMedia("(hover: none)").matches;
+function showTip(e){const T=$("#tip"),w=Math.min(300,innerWidth-16);T.textContent=e.dataset.tip;T.style.maxWidth=w+"px";T.style.opacity=1;tipFor=e;
+  const r=e.getBoundingClientRect();T.style.left=Math.min(innerWidth-w-8,Math.max(8,r.left))+"px";
+  const below=r.bottom+8;T.style.top=(below+T.offsetHeight>innerHeight-8?Math.max(8,r.top-8-T.offsetHeight):below)+"px"}
+function hideTip(){$("#tip").style.opacity=0;tipFor=null}
+function wireTips(){$$("[data-tip]").forEach(e=>{e.onmouseenter=()=>showTip(e);e.onmouseleave=hideTip;
+  e.onclick=ev=>{if(!(e.classList.contains("i")||touch))return;ev.preventDefault();ev.stopPropagation();tipFor===e?hideTip():showTip(e)}})}
+addEventListener("click",hideTip);addEventListener("scroll",hideTip,{passive:true});
+const ABBR={"RDAP": "Реестр доменов. Показывает, когда зарегистрирован сайт магазина.", "Wayback": "Архив интернета (Wayback Machine): сохранённые копии сайтов. По первой копии видно, когда сайт появился.", "CTR": "Доля людей, которые кликнули по рекламе, из всех, кто её увидел.", "FDA": "Управление по контролю за продуктами и лекарствами США. Решает, где косметика, а где лекарство.", "FTC": "Федеральная торговая комиссия США. Следит за честной рекламой и отзывами.", "USPS": "Почта США. Мы брали её тарифы на доставку посылок покупателю.", "HHI": "Индекс концентрации рынка. Чем выше, тем больше продаж у немногих продавцов: до 1 000 рынок открыт, выше 1 800 захвачен.", "CBO": "Режим Facebook, в котором он сам распределяет бюджет между группами объявлений.", "MoCRA": "Закон США о косметике 2022 года: регистрация производства и товаров, маркировка.", "PDRN": "Косметический компонент из ДНК лосося, популярный в корейском уходе.", "Meta Ad Library": "Открытая библиотека рекламы Facebook и Instagram: все работающие объявления с датой запуска.", "BigSpy": "Архив рекламы. В отличие от библиотеки Meta, хранит и уже выключенные объявления.", "Keepa": "Сервис истории Amazon: продажи, цены и отзывы каждого товара по месяцам.", "EchoTik": "Сервис статистики продаж в TikTok Shop.", "Kalodata": "Сервис статистики TikTok Shop с историей до ~1 000 дней.", "FastMoss": "Сервис статистики TikTok Shop с историей продаж.", "Semrush": "Сервис оценки трафика сайтов из поиска Google.", "Similarweb": "Сервис оценки посещаемости сайтов и источников трафика.", "Apify": "Магазин готовых программ, которые собирают данные с сайтов.", "Trustpilot": "Сайт отзывов о компаниях. Магазин не может там спрятать плохие отзывы.", "camelcamelcamel": "Сервис истории цен на Amazon.", "Google Trends": "Как менялся интерес к запросу в Google по неделям.", "TikTok Shop": "Магазин внутри TikTok: товары покупают прямо из видео.", "Opportunity Explorer": "Данные самого Amazon о спросе и о том, сколько новых товаров запускается в нише.", "ImportYeti": "База морских поставок в США: по ней видно, какая фабрика возит товар лидеру.", "Made-in-China": "Площадка китайских поставщиков с оптовыми ценами."};
+const ABRE=new RegExp("(^|[^\\wА-Яа-яЁё-])("+Object.keys(ABBR).sort((a,b)=>b.length-a.length).map(k=>k.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")).join("|")+")(?![\\wА-Яа-яЁё-])");
+function abbrify(){const root=$("#app"),done=new Set(),W=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentElement.closest("script,style,button,abbr,[data-tip],h1,.nav")?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT});
+  const nodes=[];while(W.nextNode())nodes.push(W.currentNode);
+  nodes.forEach(n=>{let t=n.nodeValue,m,frag=null,last=0;const re=new RegExp(ABRE.source,"g");
+    while((m=re.exec(t))){const k=m[2];if(done.has(k))continue;done.add(k);frag=frag||document.createDocumentFragment();const st=m.index+m[1].length;
+      frag.appendChild(document.createTextNode(t.slice(last,st)));const a=document.createElement("abbr");a.className="ab";a.dataset.tip=ABBR[k];a.textContent=k;frag.appendChild(a);last=st+k.length}
+    if(frag){frag.appendChild(document.createTextNode(t.slice(last)));n.replaceWith(frag)}})}
 function route(){const h=location.hash.slice(1);let n="home";
   if(h.startsWith("c-")&&BY[h.slice(2)]){article(BY[h.slice(2)]);n=""}
   else if(h==="tips"){tips();n="tips"}
-  else if(h==="method"){soon("Методика","Как считали каждую метрику, источники и ограничения. Перевод на русский в работе; полная версия — в METRICS.md.");n="method"}
+  else if(h==="method"){method();n="method"}
+  else if(h==="video"){videoPage();n="video"}
+  else if(h==="tools"){toolsPage();n="tools"}
   else{home();if(h==="all")setTimeout(()=>$("#all20").scrollIntoView(),20);n=h==="all"?"all":"home";if(h!=="all")window.scrollTo(0,0)}
-  $$(".nav nav a").forEach(a=>a.toggleAttribute("aria-current",a.dataset.n===n))}
+  $$(".nav nav a").forEach(a=>a.toggleAttribute("aria-current",a.dataset.n===n));abbrify();wireTips()}
 addEventListener("hashchange",route);addEventListener("scroll",()=>$("#nav").classList.toggle("sc",scrollY>10));route();
 </script>
 </body>

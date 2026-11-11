@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Шпаргалка Product Intel</title>
+<style>
+:root{--bg:#f6f4ef;--card:#fff;--ink:#1d1d1b;--muted:#6b6a65;--line:#e4e0d6;--go:#2f7d4f;--go-bg:#e7f3ea;--watch:#a86a12;--watch-bg:#fbf0dc;--no:#b23b3b;--no-bg:#f8e5e3;--acc:#2b5fa8;--acc-bg:#e6eef9}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17171a;--card:#212125;--ink:#ecebe7;--muted:#a3a29c;--line:#34343a;--go:#6cc48f;--go-bg:#1f3328;--watch:#e2a94d;--watch-bg:#3a2f1c;--no:#ec8a85;--no-bg:#3a2222;--acc:#86adf0;--acc-bg:#1e2a3d}}
+:root[data-theme="dark"]{--bg:#17171a;--card:#212125;--ink:#ecebe7;--muted:#a3a29c;--line:#34343a;--go:#6cc48f;--go-bg:#1f3328;--watch:#e2a94d;--watch-bg:#3a2f1c;--no:#ec8a85;--no-bg:#3a2222;--acc:#86adf0;--acc-bg:#1e2a3d}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+main{max-width:980px;margin:0 auto;padding:28px 16px 60px}
+h1{font-size:30px;margin:0 0 4px}
+.sub{color:var(--muted);margin:0 0 26px}
+h2{font-size:21px;margin:38px 0 12px;display:flex;align-items:center;gap:10px}
+h2 .n{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--acc-bg);color:var(--acc);font-size:15px;font-weight:700}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.card svg{width:52px;height:52px;color:var(--acc);display:block;margin-bottom:8px}
+.card b{display:block;font-size:16px;margin-bottom:3px}
+.card p{margin:0;color:var(--muted);font-size:14.5px}
+.big{background:var(--card);border:2px solid var(--acc);border-radius:16px;padding:18px 20px;font-size:18px}
+.big b{color:var(--acc)}
+.flow{display:flex;flex-wrap:wrap;gap:8px;align-items:stretch}
+.step{flex:1 1 140px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center;font-size:14px}
+.step svg{width:40px;height:40px;color:var(--acc);display:block;margin:0 auto 6px}
+.step b{display:block;font-size:15px}
+.go{border-color:var(--go)} .go svg{color:var(--go)} .go .tag{background:var(--go-bg);color:var(--go)}
+.watch{border-color:var(--watch)} .watch svg{color:var(--watch)} .watch .tag{background:var(--watch-bg);color:var(--watch)}
+.no{border-color:var(--no)} .no svg{color:var(--no)} .no .tag{background:var(--no-bg);color:var(--no)}
+.tag{display:inline-block;font-size:12px;font-weight:700;padding:2px 8px;border-radius:99px;margin-bottom:6px}
+ul.simple{margin:0;padding-left:20px} ul.simple li{margin:4px 0}
+.nolist{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:8px}
+.nolist div{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--no);border-radius:10px;padding:10px 12px;font-size:14.5px}
+.nolist b{display:block}
+.foot{margin-top:36px;color:var(--muted);font-size:13.5px}
+</style>
+</head>
+<body>
+<main>
+<h1>Шпаргалка: что мы сделали и что нашли</h1>
+<p class="sub">Рынок США, 20 товаров. Состояние на 11 ноября 2026.</p>
+
+<!-- 1 -->
+<h2><span class="n">1</span>Что мы сделали</h2>
+<div class="grid">
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="10" width="38" height="26" rx="5"/><path d="M21 18l9 5-9 5z" fill="currentColor"/><path d="M16 42h16"/></svg>
+    <b>138 видео → 31 товар</b>
+    <p>Разобрали видео одного YouTube-канала про e-commerce и выписали все товары, которые он показывает.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 10h32l-12 14v12l-8 4V24z"/></svg>
+    <b>Отсеяли до 20</b>
+    <p>Убрали еду, лекарства, медицину, электронику и всё, что нельзя честно продавать.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="20" cy="20" r="12"/><path d="M29 29l12 12"/><path d="M14 22l4-5 4 4 4-6"/></svg>
+    <b>Проверили по данным</b>
+    <p>Amazon, TikTok Shop, реклама в Facebook, поиск Google, цена у поставщика, законы США.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="8" width="36" height="32" rx="4"/><path d="M6 16h36"/><circle cx="11" cy="12" r="1" fill="currentColor"/><circle cx="15" cy="12" r="1" fill="currentColor"/><path d="M12 24h12M12 30h20"/></svg>
+    <b>Сайт на русском</b>
+    <p>Каждый товар: в какой он группе и почему. Плюс методика.</p>
+  </div>
+</div>
+
+<!-- 2 -->
+<h2><span class="n">2</span>Наша модель и метод</h2>
+<div class="big">Модель: <b>берём магазин, который уже продаёт через рекламу в Facebook, делаем такой же, но лучше, и масштабируем рекламой.</b><br>
+Главный вопрос: <b>выживают ли те, кто уже скопировал?</b> Не лидер, а его последователи.</div>
+<p style="margin:18px 0 10px">Каждый товар проходит шесть вопросов:</p>
+<div class="flow">
+  <div class="step"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 38l12-12 8 8 16-18"/><path d="M32 16h10v10"/></svg><b>Спрос</b>Покупают ли вообще?</div>
+  <div class="step"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M24 6l5 10 11 2-8 8 2 11-10-5-10 5 2-11-8-8 11-2z"/></svg><b>Лидер</b>Его реклама живёт 90–180 дней?</div>
+  <div class="step"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M24 40c-3-6-3-12 0-18"/><path d="M24 26c-6 0-10-4-10-10 6 0 10 4 10 10z"/><path d="M24 22c0-6 4-10 10-10 0 6-4 10-10 10z"/><path d="M14 40h20"/></svg><b>Новички</b>Молодые магазины держат рекламу 90+ дней?</div>
+  <div class="step"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="24" r="16"/><path d="M29 18c-1-2-3-3-5-3-3 0-5 2-5 4 0 6 11 3 11 9 0 2-2 4-6 4-2 0-4-1-5-3M24 12v4M24 32v4"/></svg><b>Деньги</b>Сколько остаётся с продажи на рекламу?</div>
+  <div class="step"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M24 6v36M10 42h28"/><path d="M8 14h32"/><path d="M12 14l-6 12h12zM36 14l-6 12h12z"/></svg><b>Закон</b>Можно ли обещать то же, что лидер?</div>
+  <div class="step"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M30 8a10 10 0 0 0-10 13L8 33l7 7 12-12a10 10 0 0 0 13-10l-6 6-6-2-2-6z"/></svg><b>Что исправить</b>На что жалуются покупатели лидера?</div>
+</div>
+
+<!-- 3 -->
+<h2><span class="n">3</span>Почему метод хороший: 4 правила</h2>
+<div class="grid">
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="26" r="15"/><path d="M24 18v8l6 4M20 6h8M24 6v5"/></svg>
+    <b>Возраст рекламы, а не количество</b>
+    <p>Реклама крутится месяцами, только если окупается. 870 объявлений у Skult = всего ~1000 продаж в месяц.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="16" r="6"/><path d="M6 38c0-6 4-10 10-10s10 4 10 10"/><circle cx="34" cy="22" r="4"/><path d="M28 40c0-4 2-7 6-7s6 3 6 7"/></svg>
+    <b>Смотрим на новичков, не на лидера</b>
+    <p>Лидер пришёл первым. Нам важно, выживает ли тот, кто зашёл позже, как будем мы.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 40V18M20 40V10M32 40V24M44 40H4"/><circle cx="8" cy="14" r="2"/><circle cx="20" cy="6" r="2"/><circle cx="32" cy="20" r="2"/></svg>
+    <b>Несколько источников сразу</b>
+    <p>Amazon, TikTok, Facebook, Google. Если сигналы спорят, пишем об этом, а не прячем.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="24" r="17"/><path d="M12 36L36 12"/></svg>
+    <b>«Никто не проходит» — честный ответ</b>
+    <p>Порог задан заранее. Мы не подгоняем товар под результат.</p>
+  </div>
+</div>
+
+<!-- 4 -->
+<h2><span class="n">4</span>Почему метод станет лучше</h2>
+<div class="grid">
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="10" width="36" height="30" rx="4"/><path d="M6 18h36M16 6v8M32 6v8"/><path d="M17 29l5 5 9-10"/></svg>
+    <b>8 декабря: повторная проверка</b>
+    <p>Увидим, чья реклама умерла за месяц. Это «кладбище», которого сейчас не видно.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="24" cy="12" rx="14" ry="5"/><path d="M10 12v24c0 3 6 5 14 5s14-2 14-5V12"/><path d="M10 24c0 3 6 5 14 5s14-2 14-5"/></svg>
+    <b>Полный сбор магазинов</b>
+    <p>Сейчас по ~60 объявлений на товар. Codex соберёт всё: каждый магазин-копию, его возраст и цены.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 36l10-10 8 6 18-20"/><path d="M6 42h36"/></svg>
+    <b>История продаж</b>
+    <p>Keepa покажет, кто рос месяц за месяцем и кто исчез за последние 1–3 года.</p>
+  </div>
+  <div class="card">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 6h20M18 6v14L8 38a3 3 0 0 0 3 4h26a3 3 0 0 0 3-4L30 20V6"/><path d="M13 30h22"/></svg>
+    <b>Денежный тест $200–500</b>
+    <p>Только он даёт реальную цену клиента. Проходной балл пишем до теста.</p>
+  </div>
+</div>
+
+<!-- 5 -->
+<h2><span class="n">5</span>Главные находки</h2>
+<div class="big" style="margin-bottom:14px">Сегодня <b>ни один товар не прошёл порог «заходить»</b>. Это честный итог, а не провал: у кандидатов написано, чего не хватает.</div>
+<div class="grid">
+  <div class="card go">
+    <span class="tag">ближе всех</span>
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 18h20v20a4 4 0 0 1-4 4H18a4 4 0 0 1-4-4z"/><path d="M12 12h24v6H12z"/><path d="M20 28c2 2 6 2 8 0"/></svg>
+    <b>Бальзам из говяжьего жира</b>
+    <p>Бренды продают в 1,7 раза дороже безымянных, с продажи остаётся 43–51%, два молодых магазина держат рекламу 90+ дней. Минус: интерес остывает, у лидера на TikTok продажи упали в 4 раза.</p>
+  </div>
+  <div class="card go">
+    <span class="tag">новый кандидат</span>
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 6c-6 0-9 6-9 14 0 10 3 22 10 22 5 0 6-6 6-12 0-6 3-9 3-14 0-6-4-10-10-10z"/><path d="M14 18c3 1 7 1 10 0"/></svg>
+    <b>Стельки</b>
+    <p>Второй товар, где два молодых магазина держат рекламу. Проверить: «ортопедические» может значить мед. изделие, и посчитать деньги.</p>
+  </div>
+  <div class="card watch">
+    <span class="tag">живой пример копии</span>
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="27" r="14"/><path d="M24 13c0-4 3-7 7-7M18 13c2 2 10 2 12 0"/></svg>
+    <b>Мыло с хурмой</b>
+    <p>Kaori открылся в феврале 2026 и держит 210 объявлений дольше 90 дней: копия выжила. На TikTok рост ×2,4. Но на Amazon денег мало.</p>
+  </div>
+  <div class="card watch">
+    <span class="tag">горячо, но опасно</span>
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 26c6-8 30-8 36 0"/><path d="M12 22l-3-6M19 19l-1-7M29 19l1-7M36 22l3-6"/><path d="M6 26c6 6 30 6 36 0"/></svg>
+    <b>Сыворотка для ресниц</b>
+    <p>Лидер EPAIS: продажи ×6,9, топ-10 всего TikTok Shop США. Но обещать «рост ресниц» нельзя: для FDA это лекарство.</p>
+  </div>
+  <div class="card watch">
+    <span class="tag">наблюдать</span>
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="24" r="17"/><path d="M24 7a17 17 0 0 1 0 34z" fill="currentColor" opacity=".35"/></svg>
+    <b>Остальные «наблюдать»</b>
+    <p>Тональный крем меняющий цвет, фильтр для душа, фонтан для питомцев, сыворотка для волос, масло для тела, диффузор, мыло с куркумой.</p>
+  </div>
+</div>
+
+<!-- 6 -->
+<h2><span class="n">6</span>Куда не заходить и почему</h2>
+<div class="grid" style="margin-bottom:14px">
+  <div class="card no">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 42V22l18-14 18 14v20z"/><path d="M18 42V30h12v12"/><path d="M16 4l4 4M32 4l-4 4"/></svg>
+    <b>Полку держат старые бренды</b>
+    <p>Новички почти не пробиваются.</p>
+  </div>
+  <div class="card no">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="14" width="32" height="24" rx="4"/><path d="M8 22h32"/><path d="M14 8l20 36" /></svg>
+    <b>Денег не остаётся</b>
+    <p>После доставки и комиссий на рекламу ничего нет.</p>
+  </div>
+  <div class="card no">
+    <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 12l12 12 8-6 16 18"/><path d="M32 36h10V26"/></svg>
+    <b>Спрос падает</b>
+    <p>Заходить в уходящую волну бессмысленно.</p>
+  </div>
+</div>
+<div class="nolist">
+  <div><b>Компрессионные носки</b>Старые бренды; с набора за $15 остаётся от −$1 до +$4</div>
+  <div><b>Магниевый спрей</b>Старые wellness-бренды, новичков 3%</div>
+  <div><b>Патчи для пор</b>Bioré: у трёх лидеров 81% продаж</div>
+  <div><b>Крем для депиляции</b>Veet и Nair держат 85%</div>
+  <div><b>Крем для шеи</b>Старые бренды, новичков 7%</div>
+  <div><b>Маска для подбородка</b>Маленький рынок, в Google не ищут</div>
+  <div><b>Отбеливающий порошок</b>Самый маленький рынок, рекламу почти никто не держит</div>
+  <div><b>Мочалка-полотенце</b>Goshi и безымянные, новичков 4%</div>
+  <div><b>Розмариновое масло</b>Спрос падает</div>
+  <div><b>Масло до мытья головы</b>Маленький рынок, остаётся 11–28%</div>
+</div>
+
+<!-- 7 -->
+<h2><span class="n">7</span>Три фразы, чтобы запомнить</h2>
+<div class="big">
+<ul class="simple">
+<li><b>Реклама живёт долго → она окупается.</b> Считаем возраст, а не количество.</li>
+<li><b>Важен не лидер, а тот, кто выжил после него.</b></li>
+<li><b>Ответ «пока никто» — тоже результат.</b> Лучшие кандидаты: бальзам и стельки.</li>
+</ul>
+</div>
+
+<p class="foot">Числа из файлов проекта: группы и причины сайта (work/site/groups_ru.json), TikTok Shop по EchoTik (11.11.2026), молодые магазины-копии (work/lensm). Повторная проверка рекламы: 8 декабря 2026.</p>
+</main>
+</body>
+</html>

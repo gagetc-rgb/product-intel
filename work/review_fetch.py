@@ -37,11 +37,15 @@ def judgeme(shop, pid):
              f"&platform=shopify&page={page}&per_page=20&product_id={pid}"
              f"&sort_by=created_at&sort_dir=desc")
         d = json.loads(get(u))
-        total = d.get("total_count", total)
-        h = d.get("html", "")
-        ids = re.findall(r"data-review-id='([^']+)'", h)
-        stamps = re.findall(r"jdgm-rev__timestamp[^>]*data-content='(\d{4}-\d{2}-\d{2})", h)
-        new = [(i, s) for i, s in zip(ids, stamps) if i not in seen]
+        if "reviews" in d:  # JSON format seen 2026-11-10: a list of reviews instead of widget HTML
+            total = d.get("number_of_reviews", total)
+            pairs = [(r["uuid"], r["created_at"][:10]) for r in d["reviews"]]
+        else:
+            total = d.get("total_count", total)
+            h = d.get("html", "")
+            pairs = zip(re.findall(r"data-review-id='([^']+)'", h),
+                        re.findall(r"jdgm-rev__timestamp[^>]*data-content='(\d{4}-\d{2}-\d{2})", h))
+        new = [(i, s) for i, s in pairs if i not in seen]
         if not new:
             break
         for i, s in new:

@@ -1,0 +1,42 @@
+{
+ "phrase": "lapcosusa.com",
+ "date": "2026-11-10",
+ "active": 4,
+ "aged30": 0,
+ "aged90": 0,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1131894113139659",
+   "page": "Lapcos",
+   "start": "2026-11-06",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1681394490192950",
+   "page": "Lapcos",
+   "start": "2026-11-02",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2253523535215392",
+   "page": "Lapcos",
+   "start": "2026-11-02",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "3491172891272360",
+   "page": "Lapcos",
+   "start": "2026-11-02",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

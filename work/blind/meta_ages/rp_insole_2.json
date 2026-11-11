@@ -1,0 +1,18 @@
+{
+ "phrase": "insoles for standing all day",
+ "date": "2026-11-10",
+ "active": 1,
+ "aged30": 1,
+ "aged90": 0,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1419108302883520",
+   "page": "PowerStep",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "domain": "grandpagus.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-07-02",
+ "ads": "11",
+ "pages": [],
+ "home": {
+  "url": "https://grandpagus.com/?currency=USD",
+  "final": "https://www.grandpagus.com/?currency=USD",
+  "status": 200,
+  "title": "Grandpa Gus's Plant-Based Pest Control Products",
+  "desc": "Plant-Based pest control products with plant-based actives for mice, mosquitoes, ticks, ants and more. Backed by our Old-Time Handshake Guarantee. Shop now.",
+  "kw_hits": [
+   "ons for Use Return Policy Return Policy NEW PRODUCT LAUNCH: RODENT CLEANUP SPRAY- CAPTURE, CLEAN, PROTECT NEW! RODENT CLEANUP SPRAY NEW! RODENT CL",
+   " LAUNCH: RODENT CLEANUP SPRAY- CAPTURE, CLEAN, PROTECT NEW! RODENT CLEANUP SPRAY NEW! RODENT CLEANUP SPRAY Your Cart ( 0 ) Rodent Control Mosquito",
+   "RAY- CAPTURE, CLEAN, PROTECT NEW! RODENT CLEANUP SPRAY NEW! RODENT CLEANUP SPRAY Your Cart ( 0 ) Rodent Control Mosquito & Tick Control Insect Con",
+   "ENT CLEANUP SPRAY NEW! RODENT CLEANUP SPRAY Your Cart ( 0 ) Rodent Control Mosquito & Tick Control Insect Control Shop All Checkout Subtotal $0.00"
+  ],
+  "kw_n": 109,
+  "prices": [
+   "$19.99",
+   "$0.00",
+   "$103.96",
+   "$84.45",
+   "$93.96",
+   "$82.69",
+   "$19.99",
+   "$19.69"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD",
+   "USD"
+  ],
+  "bundle": [
+   "lent Sticks Rodent Repellent Spray Rodent Control Bundle Shop All _svg]:stroke-2 [&:focus_",
+   "to Bands Tick Repellent Spray Summer Pest Control Bundle Shop All _svg]:stroke-2 [&:focus_",
+   "Ultimate Bundles Mouse Control Bundle Mosquito Control Bundle Summer Pest Control Bundl"
+  ],
+  "sub": [
+   "9 Add to Cart Sold Out Unavailable This item is a deferred, subscription, or recurring purchase"
+  ],
+  "epa": [],
+  "len": 12776
+ },
+ "rdap": "2015-09-25",
+ "wayback": "2016-01-10",
+ "age_class": "old"
+}

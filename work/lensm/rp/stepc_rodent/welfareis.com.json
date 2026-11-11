@@ -1,0 +1,43 @@
+{
+ "domain": "welfareis.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-07-30",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://welfareis.com/?currency=USD",
+  "final": "https://welfareis.com/?currency=USD",
+  "status": 200,
+  "title": "welfareis",
+  "desc": "",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$0.00",
+   "$59.99",
+   "$59.99",
+   "$59.99",
+   "$24.99",
+   "$49.98",
+   "$24.99",
+   "$29.99"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD"
+  ],
+  "bundle": [
+   "ouseware & Kitchen Houseware & Kitchen Hot Sale 🔥🔥Buy 1 Get 1 Free Hair Leave-In Volumizing Styling Spray",
+   "50% OFF 🔥🔥Buy 1 Get 1 Free Hair Leave-In Volumizing Styling Spray",
+   "99 Unit price / per Sale ✏️2025 HOT SALE✏️Buy 3 Get 5 FreeCar🔥 Scratch Repair Pen🚗 57% OFF ✏️2025"
+  ],
+  "sub": [
+   "Shop Now Subscribe to our emails Be the first to know about new collections an"
+  ],
+  "epa": [],
+  "len": 4042
+ },
+ "rdap": "2023-10-30",
+ "wayback": "2024-04-15",
+ "age_class": "old"
+}

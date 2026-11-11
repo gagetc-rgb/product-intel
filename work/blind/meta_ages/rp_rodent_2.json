@@ -1,0 +1,362 @@
+{
+ "phrase": "mouse repellent pouches",
+ "date": "2026-11-10",
+ "active": 600,
+ "aged30": 98,
+ "aged90": 19,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1055827146952518",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "grandpagus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1300070288868328",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-10",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2173855633407871",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-02",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1791218355258990",
+   "page": "NestOff",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1372405318105701",
+   "page": "NestOff",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1260209703140390",
+   "page": "Grandpa Gus's",
+   "start": "2026-10-07",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1401348082071836",
+   "page": "Sofyre",
+   "start": "2026-09-30",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2515754102278434",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-25",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1595586788116494",
+   "page": "NestOff",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4375556899375230",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-25",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1138473228512779",
+   "page": "Sofyre",
+   "start": "2026-10-06",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1549240433558294",
+   "page": "NestOff",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2670772956711823",
+   "page": "NestOff",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2562986897551244",
+   "page": "Sofyre",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4882775261952507",
+   "page": "NestOff",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1091063613832010",
+   "page": "NestOff",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2316453192444881",
+   "page": "Sofyre",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "sofyre.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1589549069853902",
+   "page": "Grandpa Gus's",
+   "start": "2026-10-07",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "956912704156068",
+   "page": "Sofyre",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1437695581565550",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-25",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1611345167446267",
+   "page": "Sofyre",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1134768075656827",
+   "page": "Sofyre",
+   "start": "2026-10-20",
+   "n": 6,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1141529498388804",
+   "page": "Victoria Campbell",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1146864971631482",
+   "page": "NestOff",
+   "start": "2026-10-13",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1645224507182498",
+   "page": "Sofyre",
+   "start": "2026-10-23",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1441365591436977",
+   "page": "Todd Caldwell",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2215064865755916",
+   "page": "NestOff",
+   "start": "2026-10-27",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1472131438137080",
+   "page": "NestOff",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2199349434265049",
+   "page": "NestOff",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "0-30"
+  },
+  {
+   "id": "3586669784830420",
+   "page": "Victoria Campbell",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "28808604875469930",
+   "page": "Todd Caldwell",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2929494104067183",
+   "page": "NestOff",
+   "start": "2026-10-26",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1442769764652688",
+   "page": "Victor Pest",
+   "start": "2026-11-03",
+   "n": 1,
+   "domain": "amazon.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1459072386097322",
+   "page": "Sofyre",
+   "start": "2026-10-20",
+   "n": 6,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2013131102709687",
+   "page": "NestOff",
+   "start": "2026-11-01",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1067734462907464",
+   "page": "Todd Caldwell",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1011354498657139",
+   "page": "Todd Caldwell",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "4702469926706681",
+   "page": "Todd Caldwell",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1118369550962977",
+   "page": "NestOff",
+   "start": "2026-11-02",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "0-30"
+  },
+  {
+   "id": "988022777692564",
+   "page": "NestOff",
+   "start": "2026-11-03",
+   "n": 1,
+   "domain": "nestoff.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1706025187792990",
+   "page": "Sofyre",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "sofyre.com",
+   "window": "0-30"
+  },
+  {
+   "id": "29329131660013743",
+   "page": "Best Mouse Repellents",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1954028625561242",
+   "page": "Todd Caldwell",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1668602237966384",
+   "page": "Vamoose Rodent Repellent",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "about.bugmd.com",
+   "window": "0-30"
+  }
+ ]
+}

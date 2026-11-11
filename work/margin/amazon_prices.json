@@ -1,0 +1,777 @@
+{
+ "body_oil": {
+  "typical": 15.49,
+  "q1": 9.6,
+  "q3": 27.24,
+  "n": 40,
+  "base": "1000+",
+  "top": [
+   [
+    20000,
+    31.49,
+    "GODA Silk Body Oil Women - Firming Anti Aging Moisturizing Formula, Crepey Skin Hydrating "
+   ],
+   [
+    10000,
+    13.99,
+    "Palmer's Brazilian Cocoa Firming Body Oil, Coconut Oil Formula (6.5 Fl Oz)"
+   ],
+   [
+    10000,
+    52.0,
+    "OSEA Undaria Algae Body Oil, Visibly Firming, Deeply Moisturizing, 5 oz"
+   ],
+   [
+    10000,
+    9.58,
+    "Aveeno Daily Moisturizing Body Oil Mist, 6.7 fl. oz"
+   ],
+   [
+    10000,
+    12.99,
+    "eos Cashmere Body Oil- Vanilla Cashmere, 24H Moisture, Plant-Based Squalane, 6 fl oz"
+   ],
+   [
+    10000,
+    6.28,
+    "Amazon Essentials Body Oil Gel with Cocoa Butter, Paraben Free, 6.8 fl oz (Pack of 1) (Pre"
+   ]
+  ]
+ },
+ "chin_wrap": {
+  "typical": 19.97,
+  "q1": 8.99,
+  "q3": 27.99,
+  "n": 15,
+  "base": "1000+",
+  "top": [
+   [
+    7000,
+    20.49,
+    "MAREE V Line Lifting Mask - Gold Face Lift Tape & Double Chin Lifting Mask"
+   ],
+   [
+    5000,
+    27.99,
+    "Stylia V Line Lifting Collagen Face Mask - Lift, Firm & Contour Jawline - Double Chin Stra"
+   ],
+   [
+    3000,
+    13.99,
+    "Graphene V-Line Mask Chin Up Mask V Shaped Face Mask Chin Strap for Sleeping,Jawline Shape"
+   ],
+   [
+    2000,
+    14.89,
+    "ParaFaciem Reusable V Line Mask Facial Slimming Strap Double Chin Reducer Chin Up Mask Fac"
+   ],
+   [
+    2000,
+    17.0,
+    "Dr.Melaxin CACTOX V-Lifting Mewing Band – Cactox + Caffeine + Collagen Double Chin Lifting"
+   ],
+   [
+    1000,
+    8.99,
+    "Chinstrap for Sleeping, V-Line Lifting Chinstrap, V-Line Mask, Reusable Face Strap, Chin U"
+   ]
+  ]
+ },
+ "color_foundation": {
+  "typical": 27.49,
+  "q1": 16.65,
+  "q3": 33.74,
+  "n": 32,
+  "base": "1000+",
+  "top": [
+   [
+    80000,
+    27.0,
+    "Luxe Color Changing Foundation for Mature Skin - Light"
+   ],
+   [
+    70000,
+    27.99,
+    "Luxe Color Changing Foundation for Mature Skin, Color Matching, Medium"
+   ],
+   [
+    40000,
+    49.0,
+    "Smooche Color Changing Foundation - Skin Tone Adapting Liquid Foundation for Women, Self A"
+   ],
+   [
+    20000,
+    44.0,
+    "Prime Prometics Color Changing Foundation for Mature Women"
+   ],
+   [
+    10000,
+    39.99,
+    "Color Changing Foundation for Mature Skin: No Settling, Buildable Coverage, 12-Hour Hydrat"
+   ],
+   [
+    10000,
+    44.98,
+    "Foundation Stick, Color Changing Foundation Makeup for Mature Skin"
+   ]
+  ]
+ },
+ "compression_socks": {
+  "typical": 14.99,
+  "q1": 9.99,
+  "q3": 19.98,
+  "n": 11,
+  "base": "1000+",
+  "top": [
+   [
+    10000,
+    9.99,
+    "4 Pairs-Compression Socks for Women&Men Circulation-Best Support for Nurses,Running,Athlet"
+   ],
+   [
+    10000,
+    9.99,
+    "Compression Socks for Women & Men 15-20 mmHg, Knee High, 3 Pairs"
+   ],
+   [
+    8000,
+    19.98,
+    "Copper Compression Socks 15-20 mmHg for Men & Women 8 Pairs – Circulation Support for Nurs"
+   ],
+   [
+    8000,
+    9.99,
+    "4 Pairs Compression Socks for Women & Men -Best Support for Nurses,Flying,pregnancy,Athlet"
+   ],
+   [
+    6000,
+    14.99,
+    "Compression Socks for Women and Men,15-20 mmHg Support(3 Pairs)"
+   ],
+   [
+    4000,
+    17.99,
+    "6 Pairs Compression Socks Women & Men for Plantar Fasciitis Relief"
+   ]
+  ]
+ },
+ "dog_fountain": {
+  "typical": 29.99,
+  "q1": 19.99,
+  "q3": 44.99,
+  "n": 59,
+  "base": "1000+",
+  "top": [
+   [
+    30000,
+    27.99,
+    "Veken Innovation Award Winner Stainless Steel Cat Water Fountain, 108oz, C1"
+   ],
+   [
+    10000,
+    19.98,
+    "Cat Water Fountain Stainless Steel: 74oz/2.2L Cat Fountain for Drinking"
+   ],
+   [
+    10000,
+    19.99,
+    "Veken Innovation Award Winner 95oz/2.8L Cat Water Fountain, C1 Classic"
+   ],
+   [
+    8000,
+    19.99,
+    "Cat Water Fountain Stainless Steel: Cat Fountain for Drinking - 88oz/2.6L"
+   ],
+   [
+    8000,
+    19.99,
+    "Cat Water Fountain Stainless Steel: 74oz/2.2L Cat Fountain for Drinking"
+   ],
+   [
+    7000,
+    18.99,
+    "Cat Water Fountain Stainless Steel - 74oz/2.2L Automatic Large Pet Watering Bowl Dispenser"
+   ]
+  ]
+ },
+ "exfoliating_towel": {
+  "typical": 19.49,
+  "q1": 9.99,
+  "q3": 19.99,
+  "n": 14,
+  "base": "1000+",
+  "top": [
+   [
+    8000,
+    9.99,
+    "Exfoliating Washcloth & Japanese Shower Towel, 3 Pack, Body Scrubber"
+   ],
+   [
+    4000,
+    19.99,
+    "GOSHI Exfoliating Shower Towel - Long Body Scrubber, Grey"
+   ],
+   [
+    3000,
+    22.9,
+    "Exfoliating Washcloth Face & Body Scrub Towel - Japanese Exfoliating Towel with Hexagon Fi"
+   ],
+   [
+    3000,
+    19.99,
+    "GOSHI Exfoliating Shower Towel - Long Body Scrubber, Blue"
+   ],
+   [
+    2000,
+    9.99,
+    "MainBasics Deep Exfoliating Japanese Shower Towel, 3 Pack, Earthy Love"
+   ],
+   [
+    2000,
+    19.99,
+    "GOSHI Exfoliating Shower Towel - Long Body Scrubber, Red"
+   ]
+  ]
+ },
+ "hair_removal_cream": {
+  "typical": 10.47,
+  "q1": 9.98,
+  "q3": 16.01,
+  "n": 9,
+  "base": "1000+",
+  "top": [
+   [
+    30000,
+    11.99,
+    "Veet Professional 2 Min Hair Removal Cream, Full Body & Bikini, 13.5 FL OZ"
+   ],
+   [
+    10000,
+    10.47,
+    "Nair Men Hair Remover Body Cream, 12 Oz"
+   ],
+   [
+    10000,
+    9.97,
+    "Nair Sensitive Shower Hair Removal Cream, Coconut Oil & Vitamin E, 12 Oz"
+   ],
+   [
+    10000,
+    9.97,
+    "NAIR Prep & Smooth Face Hair Removal Cream, Sensitive Skin, 1.76 Oz"
+   ],
+   [
+    7000,
+    9.99,
+    "Veet Hair Removal Cream For Men, 5 Min Sensitive Skin, Hair Removal Gel For Body, Chest & "
+   ],
+   [
+    6000,
+    22.99,
+    "PHOFAY Smooth Hair Removal Cream for Women and Men Body hair removal spray"
+   ]
+  ]
+ },
+ "hair_serum": {
+  "typical": 19.99,
+  "q1": 14.97,
+  "q3": 29.99,
+  "n": 45,
+  "base": "1000+",
+  "top": [
+   [
+    70000,
+    11.99,
+    "Bare Anatomy Nature x Science Rosemary Water Spray for Hair Growth & Hair Thickness with R"
+   ],
+   [
+    20000,
+    13.99,
+    "BASK & LATHER Scalp Stimulator Hair Growth Oil, Cold Pressed Mint and Rosemary Blend with "
+   ],
+   [
+    10000,
+    18.95,
+    "Botanic Hearth Rosemary Oil for Hair Growth - 6.7 Fl oz"
+   ],
+   [
+    10000,
+    29.0,
+    "lilyeve GROWTURN Exosome Hair Growth Serum with Built-In Brush, 3.38 fl oz"
+   ],
+   [
+    10000,
+    12.95,
+    "Botanic Hearth Rosemary and Rice Water Spray For Hair Growth - 6.8 Fl oz"
+   ],
+   [
+    8000,
+    9.99,
+    "Wild Growth Hair Oil 4 Oz"
+   ]
+  ]
+ },
+ "lash_serum": {
+  "typical": 25.24,
+  "q1": 15.23,
+  "q3": 57.4,
+  "n": 48,
+  "base": "1000+",
+  "top": [
+   [
+    30000,
+    28.8,
+    "Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula fo"
+   ],
+   [
+    10000,
+    20.0,
+    "EPAIS Eyelash Serum 7 Peptide & Biotin for Fuller Lashes Growth, 0.50 fl. oz"
+   ],
+   [
+    10000,
+    54.4,
+    "Grande Cosmetics GrandeLASH-MD Lash Enhancing Serum - Peptide & Vitamin Infused Formula fo"
+   ],
+   [
+    9000,
+    21.99,
+    "VieBeauti EyeLash Growth Serum for Longer Fuller Thicker Looking Lashes 3mL"
+   ],
+   [
+    8000,
+    42.99,
+    "NUNA Eyelash Growth Support Serum 6ml – Eye Lash and Eyebrow Enhancing Serum for Women & M"
+   ],
+   [
+    8000,
+    19.0,
+    "Grande Cosmetics Lash & Brow Care Systems – Multi-Step Enhancing Sets for Longer, Fuller, "
+   ]
+  ]
+ },
+ "magnesium_spray": {
+  "typical": 13.8,
+  "q1": 12.49,
+  "q3": 19.95,
+  "n": 19,
+  "base": "1000+",
+  "top": [
+   [
+    9000,
+    19.95,
+    "Seven Minerals Magnesium Oil Spray for Sleep, Leg Cramps & Feet, Big 12 oz"
+   ],
+   [
+    8000,
+    14.3,
+    "Dr Teal's Magnesium Lavender Spray with Natural Dead Sea Salt, 8 fl oz (Pack of 2)"
+   ],
+   [
+    6000,
+    12.97,
+    "Pure Magnesium Oil Spray for Sleep, Feet & Leg Cramps - USP Grade - 8oz"
+   ],
+   [
+    4000,
+    13.74,
+    "Dr Teal's Topical Magnesium Spray with Natural Dead Sea Salt, Fragrance Free, 8 fl oz (Pac"
+   ],
+   [
+    3000,
+    12.99,
+    "Magnesium Spray, Pure Magnesium Oil Spray for Feet, Natural Ingredient in Glass Bottle, Ea"
+   ],
+   [
+    3000,
+    13.99,
+    "ASUTRA Zechstein Pure Magnesium Oil Spray for Feet and Leg Cramps, Topical"
+   ]
+  ]
+ },
+ "neck_cream": {
+  "typical": 23.0,
+  "q1": 14.64,
+  "q3": 34.0,
+  "n": 15,
+  "base": "1000+",
+  "top": [
+   [
+    30000,
+    29.9,
+    "medicube PDRN Collagen Gua Sha Neck Wrinkle Cream - Firming, Contour Care"
+   ],
+   [
+    20000,
+    11.97,
+    "Gold Bond Age Renew Neck & Chest Firming Age Renew Cream, 2 oz"
+   ],
+   [
+    10000,
+    31.99,
+    "goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and L"
+   ],
+   [
+    7000,
+    21.99,
+    "LilyAna Naturals Anti Aging Retinol Face Cream for Women – Wrinkle & Neck Cream for Firmin"
+   ],
+   [
+    5000,
+    22.0,
+    "Dr.Melaxin Necksphalt Firming Cream with ECM-5 20,000ppm, Firming & Lifting Neck Cream for"
+   ],
+   [
+    4000,
+    34.0,
+    "Eight Saints Firm Intentions Anti Aging Neck Cream For Firming Skin and Reducing Wrinkles,"
+   ]
+  ]
+ },
+ "persimmon_soap": {
+  "typical": 17.99,
+  "q1": 9.99,
+  "q3": 21.48,
+  "n": 13,
+  "base": "1000+",
+  "top": [
+   [
+    20000,
+    19.95,
+    "Mirai Clinical Persimmon Soap for Old People Smell,Nonenal® Odor Eliminator"
+   ],
+   [
+    10000,
+    9.99,
+    "3 PCS Persimmon Soap for Body Odor Control, Old People Smell"
+   ],
+   [
+    8000,
+    7.99,
+    "5 Pcs Persimmon Soap for Old People Smell with 2 Mesh Soap Bag"
+   ],
+   [
+    4000,
+    34.99,
+    "Japanese Persimmon Soap for Old People Smell & nonenal Odor, 2 Pack"
+   ],
+   [
+    3000,
+    59.99,
+    "Mirai Clinical Persimmon Soap for Old People Smell,Nonenal® Odor Eliminator"
+   ],
+   [
+    1000,
+    6.99,
+    "5 Pcs 80g Persimmon Soap Bar for Old People Smell"
+   ]
+  ]
+ },
+ "pore_patch": {
+  "typical": 14.98,
+  "q1": 10.15,
+  "q3": 17.98,
+  "n": 8,
+  "base": "1000+",
+  "top": [
+   [
+    20000,
+    10.97,
+    "Bioré Original Blackhead Remover Strips, Deep Cleansing Nose Strips With Instant Pore Uncl"
+   ],
+   [
+    9000,
+    14.97,
+    "Mighty Patch Hero Cosmetics Nose Large Hydrocolloid Pore Strips, 10 Ct"
+   ],
+   [
+    6000,
+    9.88,
+    "Peach Slices - Nose Pore Patches (7 ct) - Overnight Blackhead Remover - Pore Strips - Abso"
+   ],
+   [
+    6000,
+    17.99,
+    "Bioré Nose+Face Blackhead Remover Strips, Deep Cleansing Strips for Nose, Chin, or Forehea"
+   ],
+   [
+    5000,
+    19.35,
+    "Vue Hydrocolloid Nose Patches - Nose Pore Strips for Blackheads, Sebum and Oil Control, Ge"
+   ],
+   [
+    1000,
+    8.99,
+    "30 Count Hydrocolloid Nose Pore Patches"
+   ]
+  ]
+ },
+ "prewash_oil": {
+  "typical": 10.97,
+  "q1": 9.97,
+  "q3": 26.0,
+  "n": 33,
+  "base": "1000+",
+  "top": [
+   [
+    50000,
+    8.84,
+    "Mielle Organics Rosemary Mint Hair Oil with Biotin, 2 oz"
+   ],
+   [
+    10000,
+    7.97,
+    "OGX Extra Strength Damage Remedy + Coconut Miracle Hair Oil, 3.3 fl. oz"
+   ],
+   [
+    10000,
+    7.97,
+    "OGX Renewing + Argan Oil of Morocco Penetrating Hair Oil, 3.3 fl. oz"
+   ],
+   [
+    10000,
+    9.97,
+    "L'Oreal Paris Sulfate Free Bond Repair+ Pre Shampoo Concentrate, Hair Treatment with Bond "
+   ],
+   [
+    10000,
+    50.0,
+    "Moroccanoil Treatment Hair Oil"
+   ],
+   [
+    10000,
+    34.0,
+    "Olaplex N°.3PLUS Hair Repair Pre-Shampoo Treatment | Repairs Damage"
+   ]
+  ]
+ },
+ "rosemary_oil": {
+  "typical": 14.99,
+  "q1": 9.99,
+  "q3": 22.38,
+  "n": 37,
+  "base": "1000+",
+  "top": [
+   [
+    50000,
+    8.84,
+    "Mielle Organics Rosemary Mint Hair Oil with Biotin, 2 oz"
+   ],
+   [
+    20000,
+    13.99,
+    "BASK & LATHER Scalp Stimulator Hair Growth Oil, Cold Pressed Mint and Rosemary Blend with "
+   ],
+   [
+    10000,
+    18.95,
+    "Botanic Hearth Rosemary Oil for Hair Growth - 6.7 Fl oz"
+   ],
+   [
+    10000,
+    29.85,
+    "AVEYA Hair Growth Spray, infused with Rosemary Oil,rice water,Batana Oil&Biotin for Scalp "
+   ],
+   [
+    8000,
+    18.97,
+    "BASK & LATHER Stimulating Scalp and Hair Balm for Hair Growth, Mango & Shea Butter, Nouris"
+   ],
+   [
+    7000,
+    14.99,
+    "Kitsch Rosemary Oil for Hair Growth -With Castor Oil, Biotin & Jojoba- 60mL"
+   ]
+  ]
+ },
+ "scent_diffuser": {
+  "typical": 89.99,
+  "q1": 52.99,
+  "q3": 99.99,
+  "n": 13,
+  "base": "1000+",
+  "top": [
+   [
+    8000,
+    99.99,
+    "The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil Machine"
+   ],
+   [
+    4000,
+    89.99,
+    "Waterless Diffuser Pro with 5 Scent Oils, Luxury Hotel-Class Essential Oil Diffuser Aromat"
+   ],
+   [
+    3000,
+    19.98,
+    "ANZ Waterless Diffuser for Essential Oil for Home, Room, Black"
+   ],
+   [
+    3000,
+    39.99,
+    "Airversa AN8 Waterless Essential Oil Diffuser Starter Kit, Black"
+   ],
+   [
+    3000,
+    27.99,
+    "Airversa AN6 Waterless Diffuser for Essential Oil for Home, Room, Black"
+   ],
+   [
+    2000,
+    99.99,
+    "The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil Machine"
+   ]
+  ]
+ },
+ "shower_filter": {
+  "typical": 26.44,
+  "q1": 20.74,
+  "q3": 50.71,
+  "n": 30,
+  "base": "1000+",
+  "top": [
+   [
+    10000,
+    19.79,
+    "FEELSO Shower Head with Shower Filter, Filtered Shower Head for Hard Water"
+   ],
+   [
+    8000,
+    20.99,
+    "FEELSO Filtered Shower Head with Handheld, High Pressure Shower Filter Head"
+   ],
+   [
+    6000,
+    22.98,
+    "SR SUN RISE Filtered Shower Head with Handheld High Pressure 9 Spray Mode Showerhead Detac"
+   ],
+   [
+    6000,
+    35.98,
+    "Handheld Shower Head High Pressure – Magnetic Holder,9 Spray Modes with Power Wash for Pet"
+   ],
+   [
+    5000,
+    22.99,
+    "MakeFit Filtered Shower Head Black - 6 Modes High Pressure Handheld Shower Head with Filte"
+   ],
+   [
+    5000,
+    18.99,
+    "Magichome High Pressure Handheld Filtered Shower Head, 10 Modes, Chrome"
+   ]
+  ]
+ },
+ "tallow_balm": {
+  "typical": 19.99,
+  "q1": 18.24,
+  "q3": 29.98,
+  "n": 36,
+  "base": "1000+",
+  "top": [
+   [
+    10000,
+    19.99,
+    "Terra Lotus - Organic Grass-Fed Beef Tallow Balm with Raw Honey - Moisturizing Cream - Han"
+   ],
+   [
+    10000,
+    29.97,
+    "Hearth & Homestead Whipped Beef Tallow for Skin & Face, Unscented, 1.3oz"
+   ],
+   [
+    10000,
+    39.95,
+    "Forge Skin Beef Tallow Balm Skin Moisturizer for Men, Anti Aging Wrinkle Defense - Face & "
+   ],
+   [
+    7000,
+    21.99,
+    "RICHGRAND Beef Tallow for Skin - Whipped Tallow and Honey Balm - Grass Fed Beef Tallow for"
+   ],
+   [
+    4000,
+    34.99,
+    "Terra Lotus - Organic Grass-Fed Beef Tallow Balm with Raw Honey - Moisturizing Cream - Han"
+   ],
+   [
+    4000,
+    31.97,
+    "Hearth & Homestead Whipped Beef Tallow for Skin & Face Vanilla Orange 1.3oz"
+   ]
+  ]
+ },
+ "turmeric_soap": {
+  "typical": 10.99,
+  "q1": 7.23,
+  "q3": 15.41,
+  "n": 20,
+  "base": "1000+",
+  "top": [
+   [
+    30000,
+    13.17,
+    "VALITIC Kojic Acid Dark Spot Remover Soap Bars, Turmeric Bar Soaps 2 Pack"
+   ],
+   [
+    10000,
+    7.99,
+    "5 Pcs 80g Turmeric Kojic Acid Soap Bars with 2 Foaming Mesh Nets"
+   ],
+   [
+    9000,
+    14.87,
+    "VALITIC Kojic Acid Dark Spot Remover Soap Bars, Turmeric Bar Soaps 3 Pack"
+   ],
+   [
+    5000,
+    5.99,
+    "Kojic Acid Soap, Turmeric Soap Bar for Dark Spots, 3 Pack"
+   ],
+   [
+    4000,
+    6.74,
+    "Treeroot 5 Pack 80g Turmeric Kojic Acid Soap Bar for Face and Body"
+   ],
+   [
+    4000,
+    11.99,
+    "Kitsch Kojic Acid Soap – Turmeric Soap Bar – Made in USA, 4 oz"
+   ]
+  ]
+ },
+ "whitening_powder": {
+  "typical": 13.99,
+  "q1": 9.05,
+  "q3": 23.12,
+  "n": 5,
+  "base": "1000+",
+  "top": [
+   [
+    5000,
+    20.99,
+    "Boka Teeth Whitening Powder with Nano Hydroxyapatite 1pack"
+   ],
+   [
+    2000,
+    8.16,
+    "Teeth whitening Powder, containing hydroxyapatite, removes Tooth Stains"
+   ],
+   [
+    2000,
+    9.95,
+    "Viva Doria Natural Tooth Powder, Remineralizing, Natural Teeth Whitening, Breath Freshener"
+   ],
+   [
+    1000,
+    25.25,
+    "Living Well Dr. Michelle Remineralizing & Whitening Tooth Powder, Cool Mint"
+   ],
+   [
+    1000,
+    13.99,
+    "(1LB) Organic Coconut Activated Charcoal Powder - Food Grade, Kosher - Teeth Whitening, Fa"
+   ]
+  ]
+ }
+}

@@ -22,6 +22,24 @@
    ],
    "visits_src": "author's own figure (~900K); SimilarWeb Sep 2026: 913K (work/market_system.md)",
    "tier": "◆",
+   "aov": 45,
+   "reviews_mo": [
+    853,
+    957
+   ],
+   "reviews_src": "Loox, main bar only, Sep-Oct 2026 (work/reviews/RESULTS.md)",
+   "orders": [
+    155556,
+    311111
+   ],
+   "buyers_per_100": [
+    17,
+    35
+   ],
+   "orders_per_review": [
+    163,
+    365
+   ],
    "rpv": [
     7.67,
     15.56
@@ -50,6 +68,19 @@
    ],
    "visits_src": "SimilarWeb Jun-Sep 2026 (work/market_system.md); weak for sites under ~50K visits, so x10 slack is tested",
    "tier": "◈",
+   "aov": 50,
+   "us_share": 0,
+   "amazon_mo": 1000,
+   "amazon_src": "Amazon badge 1K+ (work/audit/brand_age.json)",
+   "basis": "derived by the author from '2,000 active ads'",
+   "orders": [
+    80000,
+    164000
+   ],
+   "buyers_per_100": [
+    296,
+    1025
+   ],
    "rpv": [
     148.15,
     512.5

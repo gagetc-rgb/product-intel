@@ -1,0 +1,40 @@
+{
+ "domain": "meaboots.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-04-28",
+ "ads": "5",
+ "pages": [],
+ "home": {
+  "url": "https://meaboots.com/?currency=USD",
+  "final": "https://meaboots.com/?currency=USD",
+  "status": 200,
+  "title": "MEABOOTS",
+  "desc": "",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$49.99",
+   "$90.89",
+   "$49.99",
+   "$90.89",
+   "$49.99",
+   "$90.89",
+   "$39.89",
+   "$79.98"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "laster updateds, sales & limited editions Enter your email Subscribe Support TERMS OF SERVICE PAYMENT METHOD PAYPAL PAYMENTS SHI"
+  ],
+  "epa": [],
+  "len": 2872
+ },
+ "rdap": "2023-03-25",
+ "wayback": "2023-03-29",
+ "age_class": "old"
+}

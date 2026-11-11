@@ -1,0 +1,234 @@
+{
+ "phrase": "matatabi sticks",
+ "date": "2026-11-10",
+ "active": 30,
+ "aged30": 17,
+ "aged90": 11,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1719946349042945",
+   "page": "Purriq",
+   "start": "2026-06-21",
+   "n": 2,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1672493207322965",
+   "page": "Purriq",
+   "start": "2026-06-12",
+   "n": 2,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1900645097263331",
+   "page": "Purriq",
+   "start": "2026-06-08",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "867759395946621",
+   "page": "Purriq",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1723587048988767",
+   "page": "Purriq",
+   "start": "2026-06-24",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1562554605207866",
+   "page": "Purriq",
+   "start": "2026-06-26",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2567939000327099",
+   "page": "Purriq",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "875371012307286",
+   "page": "Purriq",
+   "start": "2026-07-12",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1794562391914532",
+   "page": "Purriq",
+   "start": "2026-07-03",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1756822275534227",
+   "page": "Purriq",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28380872648260450",
+   "page": "Purriq",
+   "start": "2026-09-20",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1414868836668583",
+   "page": "Purriq",
+   "start": "2026-09-20",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28403565242587498",
+   "page": "Purriq",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "972615129201137",
+   "page": "Purriq",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1073078725497238",
+   "page": "Purriq",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2515911125601284",
+   "page": "Dental Purrs",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1851251179390651",
+   "page": "Comfora",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1960683318671384",
+   "page": "Dental Purrs",
+   "start": "2026-11-09",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1125087433320124",
+   "page": "Comfora",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "heycomfora.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1601068304836940",
+   "page": "Comfora",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1136202252090931",
+   "page": "Comfora",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1827328802026831",
+   "page": "Comfora",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1647648800339213",
+   "page": "Comfora",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "986836507094769",
+   "page": "Comfora",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1679831266820457",
+   "page": "Comfora",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "998406699992694",
+   "page": "Comfora",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1146176905026610",
+   "page": "Comfora",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1786958175918376",
+   "page": "Comfora",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

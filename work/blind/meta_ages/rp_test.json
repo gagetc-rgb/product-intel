@@ -1,0 +1,458 @@
+{
+ "phrase": "tallow balm",
+ "date": "2026-11-10",
+ "active": null,
+ "aged30": 520,
+ "aged90": 230,
+ "aged180": 52,
+ "ads": [
+  {
+   "id": "1170818295161721",
+   "page": "Ancestral Cosmetics",
+   "start": "2025-11-24",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "26727567463512953",
+   "page": "Magnolia",
+   "start": "2026-02-13",
+   "n": 1,
+   "domain": "magnolia.com",
+   "window": "180+"
+  },
+  {
+   "id": "1436618768148353",
+   "page": "Toups and Co Organics",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "toupsandco.com",
+   "window": "180+"
+  },
+  {
+   "id": "1185696070269880",
+   "page": "Cinder Brands",
+   "start": "2026-01-26",
+   "n": 1,
+   "domain": "www.amazon.com",
+   "window": "180+"
+  },
+  {
+   "id": "711285182040751",
+   "page": "Toups and Co Organics",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "toupsandco.com",
+   "window": "180+"
+  },
+  {
+   "id": "1489077763025382",
+   "page": "Bare Ritual",
+   "start": "2026-01-10",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1488820192751693",
+   "page": "Bare Ritual",
+   "start": "2026-03-15",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "925993013445887",
+   "page": "Wild Gold Tallow",
+   "start": "2026-02-12",
+   "n": 1,
+   "domain": "wildgoldtallow.com",
+   "window": "180+"
+  },
+  {
+   "id": "1012000091393940",
+   "page": "Toups and Co Organics",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "toupsandco.com",
+   "window": "180+"
+  },
+  {
+   "id": "4322783381327948",
+   "page": "Wild Gold Tallow",
+   "start": "2026-02-12",
+   "n": 1,
+   "domain": "wildgoldtallow.com",
+   "window": "180+"
+  },
+  {
+   "id": "916334761146929",
+   "page": "Summer Solace Tallow",
+   "start": "2026-03-05",
+   "n": 1,
+   "domain": "summersolacetallow.com",
+   "window": "180+"
+  },
+  {
+   "id": "1947510759486465",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "2459035927862292",
+   "page": "Minus SkinCare",
+   "start": "2026-01-01",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "4249339931989938",
+   "page": "Minus SkinCare",
+   "start": "2026-01-01",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "1415906433177720",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "25451056014502967",
+   "page": "Minus SkinCare",
+   "start": "2026-01-01",
+   "n": 1,
+   "domain": "byminus.com",
+   "window": "180+"
+  },
+  {
+   "id": "1459363942522439",
+   "page": "Bare Ritual",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "853405684234761",
+   "page": "Cattle Creek Mercantile",
+   "start": "2026-01-14",
+   "n": 1,
+   "domain": "cattle-creek.com",
+   "window": "180+"
+  },
+  {
+   "id": "1096541602179600",
+   "page": "HIBI Youth Skincare",
+   "start": "2024-12-04",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1308287291174127",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "934075492468934",
+   "page": "Wild Gold Tallow",
+   "start": "2026-02-26",
+   "n": 1,
+   "domain": "wildgoldtallow.com",
+   "window": "180+"
+  },
+  {
+   "id": "917579884401653",
+   "page": "Bare Ritual",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "bare-ritual.com",
+   "window": "180+"
+  },
+  {
+   "id": "1175091274546616",
+   "page": "Wild Gold Tallow",
+   "start": "2026-03-12",
+   "n": 1,
+   "domain": "wildgoldtallow.com",
+   "window": "180+"
+  },
+  {
+   "id": "1303931671557681",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1738901370425464",
+   "page": "Wild Gold Tallow",
+   "start": "2026-03-12",
+   "n": 1,
+   "domain": "wildgoldtallow.com",
+   "window": "180+"
+  },
+  {
+   "id": "2101598027293157",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-03-09",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "180+"
+  },
+  {
+   "id": "1764131864965516",
+   "page": "Bare Ritual",
+   "start": "2026-04-14",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2392464421195535",
+   "page": "Wild Gold Tallow",
+   "start": "2026-02-26",
+   "n": 1,
+   "domain": "wildgoldtallow.com",
+   "window": "180+"
+  },
+  {
+   "id": "920288183381313",
+   "page": "HIBI Youth Skincare",
+   "start": "2024-12-04",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2204667076771093",
+   "page": "Forge Men",
+   "start": "2026-08-09",
+   "n": 1,
+   "domain": "shop.try-forge.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1534456628141141",
+   "page": "Neptune Health",
+   "start": "2026-07-10",
+   "n": 1,
+   "domain": "neptunehealthco.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1529380298189669",
+   "page": "Pure Good",
+   "start": "2026-07-27",
+   "n": 1,
+   "domain": "shoppuregood.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1342588754662540",
+   "page": "Neptune Health",
+   "start": "2026-07-10",
+   "n": 1,
+   "domain": "neptunehealthco.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2807538609622819",
+   "page": "Forge Men",
+   "start": "2026-08-09",
+   "n": 1,
+   "domain": "shop.try-forge.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1922014749186445",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1931489147537547",
+   "page": "Magnolia",
+   "start": "2026-07-29",
+   "n": 1,
+   "domain": "magnolia.com",
+   "window": "90-180"
+  },
+  {
+   "id": "28909395435326960",
+   "page": "Pure Good",
+   "start": "2026-07-27",
+   "n": 1,
+   "domain": "shoppuregood.com",
+   "window": "90-180"
+  },
+  {
+   "id": "848824617819478",
+   "page": "The Tallowed Truth",
+   "start": "2026-06-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2607778466346555",
+   "page": "Birthright Supplements",
+   "start": "2026-06-11",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4435515103261583",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2469900933455797",
+   "page": "The Tallowed Truth",
+   "start": "2026-06-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1384885507142128",
+   "page": "Toups and Co Organics",
+   "start": "2026-08-06",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1636781034284261",
+   "page": "The Tallowed Truth",
+   "start": "2026-06-01",
+   "n": 1,
+   "domain": "thetallowedtruth.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1322040249305144",
+   "page": "Birthright Supplements",
+   "start": "2026-06-13",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1552926249965330",
+   "page": "Forge Men",
+   "start": "2026-08-09",
+   "n": 1,
+   "domain": "shop.try-forge.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1192178559780398",
+   "page": "Toups and Co Organics",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "toupsandco.com",
+   "window": "90-180"
+  },
+  {
+   "id": "960635760298024",
+   "page": "Ben Corkery Founder at The Tallowed Truth",
+   "start": "2026-06-01",
+   "n": 1,
+   "domain": "thetallowedtruth.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1015881944110084",
+   "page": "The Tallowed Truth",
+   "start": "2026-06-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1060256303326660",
+   "page": "Ancestral Cosmetics",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "ancestralcosmetics.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3965602596916081",
+   "page": "Ben Corkery Founder at The Tallowed Truth",
+   "start": "2026-09-05",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4510813039138486",
+   "page": "Honey Natural Beauty",
+   "start": "2026-08-12",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1516240693523495",
+   "page": "Le Skin Club",
+   "start": "2026-08-19",
+   "n": 1,
+   "domain": "leskinclub.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2351863805555334",
+   "page": "Faithful Family Farmer",
+   "start": "2026-09-11",
+   "n": 1,
+   "domain": "shop.faithfulfamilyfarmer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1711823623247538",
+   "page": "Forge Men",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1739888433907809",
+   "page": "The Tallowed Truth",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "thetallowedtruth.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2963393134053293",
+   "page": "Forge Men",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  }
+ ]
+}

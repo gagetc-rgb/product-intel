@@ -1,0 +1,37 @@
+{
+ "domain": "bugmd.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-10-22",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://bugmd.com/?currency=USD",
+  "final": "https://bugmd.com/?currency=USD",
+  "status": 200,
+  "title": "BugMD | Powerful Plant-Based Pest Control",
+  "desc": "BugMD is an easy way to kill fleas, mites, ticks, roaches, bed bugs, and more. If you’re tired of living with disgusting pests then you should give BugMD a try!",
+  "kw_hits": [
+   "ose (esc) Plant Powered Pest Control The Safe* Way to Drive Rodents Out Creates an invisible barrier that naturally repels mice and rats using pow",
+   "ive Rodents Out Creates an invisible barrier that naturally repels mice and rats using powerful, kid- and pet-safe essential oils. Shop Vamoose P",
+   "ents Out Creates an invisible barrier that naturally repels mice and rats using powerful, kid- and pet-safe essential oils. Shop Vamoose Pro 35,",
+   "S BED BUGS SPIDERS BUY NOW — Essential Pest Control Vamoose Rodent Repellent Pouches MICE RATS OTHER RODENTS BUY NOW — Vamoose Squito Stickers Cit"
+  ],
+  "kw_n": 25,
+  "prices": [
+   "215231166804146 USD",
+   "$15"
+  ],
+  "currency_meta": [
+   "AED",
+   "AFN",
+   "ALL"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 8759
+ },
+ "rdap": "2016-09-01",
+ "wayback": "2001-05-18",
+ "age_class": "old"
+}

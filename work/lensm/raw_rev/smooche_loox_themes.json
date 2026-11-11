@@ -1,0 +1,25 @@
+{
+ "stars": {
+  "1": 26,
+  "2": 5,
+  "3": 6
+ },
+ "with_text": 37,
+ "themes": {
+  "product itself": 7,
+  "support and refunds": 12,
+  "does not work": 7,
+  "shipping and delivery": 4,
+  "billing and subscription": 3
+ },
+ "sub": {
+  "texture / skin feel": 6,
+  "refund / return / exchange friction": 11,
+  "no effect / claim not met": 3,
+  "slow or missing delivery": 4,
+  "slow or generic support": 4,
+  "durability / defect": 1,
+  "subscription or checkout confusion": 2
+ },
+ "no_theme": 15
+}

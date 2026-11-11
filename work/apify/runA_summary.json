@@ -1,0 +1,158 @@
+{
+ "hanaekorea.com": {
+  "ads90": 251,
+  "ours90": 185,
+  "ours180": 0,
+  "oldest_ours": 124,
+  "ours_creatives": 148,
+  "ours_own_page": 185,
+  "pages": [
+   [
+    "Trending In Korea",
+    129
+   ],
+   [
+    "Hanae Korea",
+    56
+   ]
+  ]
+ },
+ "try-kaori.com": {
+  "ads90": 209,
+  "ours90": 179,
+  "ours180": 58,
+  "oldest_ours": 230,
+  "ours_creatives": 111,
+  "ours_own_page": 48,
+  "pages": [
+   [
+    "Kaori",
+    40
+   ],
+   [
+    "Grandma's Glow",
+    26
+   ],
+   [
+    "Patti Clayton",
+    26
+   ],
+   [
+    "Linda Doxey",
+    22
+   ],
+   [
+    "Margaret Whittaker",
+    20
+   ],
+   [
+    "Barbara Robertson",
+    15
+   ]
+  ]
+ },
+ "wildgoldtallow.com": {
+  "ads90": 35,
+  "ours90": 35,
+  "ours180": 24,
+  "oldest_ours": 272,
+  "ours_creatives": 34,
+  "ours_own_page": 35,
+  "pages": [
+   [
+    "Wild Gold Tallow",
+    35
+   ]
+  ]
+ },
+ "bare-ritual.com": {
+  "ads90": 175,
+  "ours90": 44,
+  "ours180": 21,
+  "oldest_ours": 305,
+  "ours_creatives": 34,
+  "ours_own_page": 43,
+  "pages": [
+   [
+    "Bare Ritual",
+    43
+   ],
+   [
+    "Michael Harrison",
+    1
+   ]
+  ]
+ },
+ "getmyto.com": {
+  "ads90": 27,
+  "ours90": 27,
+  "ours180": 0,
+  "oldest_ours": 134,
+  "ours_creatives": 27,
+  "ours_own_page": 27,
+  "pages": [
+   [
+    "Myto Oral Care",
+    27
+   ]
+  ]
+ },
+ "trymooths.com": {
+  "ads90": 7,
+  "ours90": 7,
+  "ours180": 0,
+  "oldest_ours": 100,
+  "ours_creatives": 7,
+  "ours_own_page": 6,
+  "pages": [
+   [
+    "Mooths",
+    6
+   ],
+   [
+    "Oral Health Tips",
+    1
+   ]
+  ]
+ },
+ "facelove-cosmetics.com": {
+  "ads90": 40,
+  "ours90": 14,
+  "ours180": 0,
+  "oldest_ours": 167,
+  "ours_creatives": 13,
+  "ours_own_page": 9,
+  "pages": [
+   [
+    "Facelove Cosmetics",
+    7
+   ],
+   [
+    "The Glow Up",
+    4
+   ],
+   [
+    "Facelove Deals",
+    2
+   ],
+   [
+    "Grace’s Beauty Picks",
+    1
+   ]
+  ]
+ },
+ "buykglow.com": {
+  "ads90": 39,
+  "ours90": 5,
+  "ours180": 0,
+  "oldest_ours": 172,
+  "ours_creatives": 5,
+  "ours_own_page": 5,
+  "pages": [
+   [
+    "K Glow",
+    5
+   ]
+  ]
+ }
+}

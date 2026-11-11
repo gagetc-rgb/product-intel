@@ -1,0 +1,973 @@
+{
+ "label": "ancestral_prod",
+ "shop": "ancestral-cosmetics.myshopify.com",
+ "pid": "8046171816201",
+ "dist": [
+  24,
+  11,
+  102,
+  349,
+  4623
+ ],
+ "reviews": [
+  {
+   "id": "776f83e9-ee80-4c45-b831-f916bc052325",
+   "stars": 1,
+   "text": "Very good product.",
+   "date": "2026-10-26",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "b80bf76b-edb0-476c-b3af-2ffc439f6095",
+   "stars": 1,
+   "text": "Absolutely fabulous cream used it on my legs for varicose eczema as well and it’s completely gone would highly recommend it.",
+   "date": "2026-10-21",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "a57232e8-37df-4916-8eb3-311a6108d676",
+   "stars": 1,
+   "text": "No not for me sorry",
+   "date": "2026-10-17",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "c04bd326-5142-4a85-a617-262d8beff046",
+   "stars": 1,
+   "text": "No visible results",
+   "date": "2026-10-07",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "ffbcab87-04df-4211-9cb2-408278dc99db",
+   "stars": 1,
+   "text": "Been using this product for a while now and it’s making absolutely no difference to my Skin.",
+   "date": "2026-09-20",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "59882e20-fe2d-5a07-802e-bf672b849e21",
+   "stars": 1,
+   "text": "Do not care for the consistency and doesn’t keep my skin very moisturized.",
+   "date": "2026-09-06",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "1a877fa2-40ad-4aa8-b3a3-cb3c5e544e77",
+   "stars": 1,
+   "text": "Doesn’t do anything for my skin!",
+   "date": "2026-07-28",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "81873b03-1256-4439-99db-8b54b4076dad",
+   "stars": 1,
+   "text": "Fabulous stuff.. Sun spots and scar tissue fading over time with skin generally look great.",
+   "date": "2026-07-24",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "6b54f048-9bbe-47d4-a192-f96b37b08f94",
+   "stars": 1,
+   "text": "Not for me",
+   "date": "2026-04-27",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "2f958c14-38d1-4a67-9f27-8debbd4f6846",
+   "stars": 1,
+   "text": "Do not like it",
+   "date": "2026-02-09",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "d86ea012-70fa-57b2-a0cb-22293e3de58a",
+   "stars": 1,
+   "text": "Great customer service and fast shipping. Will be back with a review.",
+   "date": "2025-10-17",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3800d918-725a-4bac-bedf-f5ab18d75ca1",
+   "stars": 1,
+   "text": "It’s ok.",
+   "date": "2025-07-09",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "18719fce-1936-407e-bbfd-3a1b46ccc8a2",
+   "stars": 1,
+   "text": "I have still not received my order, please update me on delivery date",
+   "date": "2025-06-26",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "4eb79e17-9db5-4468-9386-9ecc2cefd9da",
+   "stars": 1,
+   "text": "Using the balm two weeks tomorrow and I am yet to notice any difference in my skin how long does it take for results ?",
+   "date": "2025-02-28",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3d094d08-7737-47a5-b3f8-a2c3a39268eb",
+   "stars": 1,
+   "text": "Didn’t care for the feel/smell. I gave it away. My friends likes it however….",
+   "date": "2025-02-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "04fe037a-aca8-51dd-9bdd-14d68c4c6f55",
+   "stars": 1,
+   "text": "Makes my skin itch, and it smells like men’s deodorant.",
+   "date": "2024-07-11",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "883c0abc-9422-54bc-8d44-4e050b53731a",
+   "stars": 1,
+   "text": "Hard as cement, not impressed",
+   "date": "2024-07-06",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "044e23b4-746e-4379-a55f-68bee54aaf31",
+   "stars": 1,
+   "text": "I wanted to love both sunscreen and moisturizer but both irritated my skin causing redness and breakouts.  Product was extremely oily and would never soak into skin leaving a thick heavy barrier that was very hard to get off when cleansing.\n Sunscreen also had a white cast that was visible when wearing.",
+   "date": "2024-07-01",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "ad9c4d21-7373-433a-8ae8-5f1e07e8c8d9",
+   "stars": 1,
+   "text": "Sorry one star. I haven’t received anything yet",
+   "date": "2024-04-11",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "15bb90ff-dd9d-56e0-af43-dea66d23938a",
+   "stars": 1,
+   "text": "It smells bad. Like an unwashed hippy. It's over priced for a tiny 2 Oz jar that's hard to open, and it leaves me shiny and greasy.",
+   "date": "2024-04-08",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "e84d08de-736b-43c2-ad8d-2651c56ecdc5",
+   "stars": 1,
+   "text": "It's been 1 week and I still have not received my tallow balm, absolutely disappointed. Considering it's from Ireland it should not take this long for it to arrive in England. Paid £29 for the product and shipment, too expensive.",
+   "date": "2024-03-07",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "1ab64ab1-a494-43a7-8189-c4c7b3f6b45d",
+   "stars": 1,
+   "text": "Unfortunately it just feels to dry",
+   "date": "2024-03-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "5c219417-8cb8-4446-9928-62991da8ba2d",
+   "stars": 1,
+   "text": "3 weeks since I ordered. Last update on the track # was 23rd of november. Seems like I will never receive my order...",
+   "date": "2023-12-02",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "ebde75b3-a481-57fe-87ce-d1de382f9870",
+   "stars": 1,
+   "text": "Didn’t like the scent",
+   "date": "2023-11-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "fbb08c69-8480-4b96-b810-4ae88dd425dc",
+   "stars": 2,
+   "text": "I’m sorry I have not tried it yet",
+   "date": "2026-04-28",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "1a7164ac-0ea6-4f8c-b91c-7e1e784d62c5",
+   "stars": 2,
+   "text": "Have been using it twice a day since I received it, haven’t yet noticed any real change in skin condition",
+   "date": "2026-03-14",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "1492687b-7b32-4f98-abd1-55887d236ae1",
+   "stars": 2,
+   "text": "Too thick and I don’t like the smell.",
+   "date": "2026-02-27",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "d19c9206-2033-47a7-8ee5-3dd6e5a355bd",
+   "stars": 2,
+   "text": "Although my skin feels very moisturized, I’m not seeing a difference with fine lines. Being patient!",
+   "date": "2026-02-12",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "dcee2b8d-05f2-49a2-9899-f9a1e047b6de",
+   "stars": 2,
+   "text": "It is a little too oily for me.",
+   "date": "2025-12-26",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "56def381-1ae6-48e5-932e-1f05180f1776",
+   "stars": 2,
+   "text": "I really wanted to love this product,but unfortunately my skin doesn’t 😏. It has stripped my skin of moisture and left it red and sore.. I think it’s maybe the essential oils that are causing me an issue..not the cream itself as I had an identical reaction before with another brand of natural products with essential oils. Such a shame as I had such high hopes.",
+   "date": "2025-12-02",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "ccd6f73d-736e-46c9-abd7-3a790e7bb7d6",
+   "stars": 2,
+   "text": "My skin is breaking out bc it’s so oily . Not exactly what I was expecting. Maybe it’s just my skin I dunno",
+   "date": "2025-11-25",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "d4ed0a32-77d4-4496-87f3-355d2848c79d",
+   "stars": 2,
+   "text": "I wish this product helped but unfortunately my sons eczema has just flared up.",
+   "date": "2025-11-10",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "04f160ef-9934-4135-ba3a-1b45d2655c38",
+   "stars": 2,
+   "text": "Can't see any changes yet So that's why you've got a low score",
+   "date": "2025-04-15",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "476e9855-a74b-4312-ab66-375cea52e39c",
+   "stars": 2,
+   "text": "Original Tallow & Honey Balm",
+   "date": "2025-03-28",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "d793b033-f798-4a3d-a093-b71c9878cd5d",
+   "stars": 2,
+   "text": "The smell is overwhelming. I can’t use it.",
+   "date": "2024-05-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "f729e3d4-a1e6-4c17-b28c-fd6d1ce40ade",
+   "stars": 3,
+   "text": "no change noticed yet but will continue using",
+   "date": "2026-11-05",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "7b7930f6-e134-4f60-9352-5e54aa6dbd02",
+   "stars": 3,
+   "text": "Too early to say.  Product smells nice, quite difficult to use as it does not apply easily. I will continue for another month and decide whether to reorder.",
+   "date": "2026-10-21",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "6d43560f-ab0d-4762-abc2-ec5dd7bfb055",
+   "stars": 3,
+   "text": "Haven’t noticed any improvement yet I’ll give it a bit more time",
+   "date": "2026-10-02",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "94305565-2dde-4fa8-befe-7f8e91921c44",
+   "stars": 3,
+   "text": "To date there has been no change at all",
+   "date": "2026-10-02",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "b4a5d24a-3040-4b60-9424-f17175e999ba",
+   "stars": 3,
+   "text": "Started using this about 3 weeks ago now. Not really noticed any benefits yet but maybe I need to use for a bit longer",
+   "date": "2026-10-01",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "2d81be6f-2cd5-4f89-b440-1a8731fa4345",
+   "stars": 3,
+   "text": "It’s a bit pricey",
+   "date": "2026-09-25",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "eb639c4b-9b8a-408b-b16a-885b73865a32",
+   "stars": 3,
+   "text": "Been using it 2 weeks not too much results but love the way it feels!! Will keep applying!",
+   "date": "2026-08-17",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "e8b6d1fb-a002-4827-8947-6d3e092b05ff",
+   "stars": 3,
+   "text": "I've been using this product daily and not seeing any change in my skin.",
+   "date": "2026-08-14",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "2f3940e2-725d-451e-b3d5-0e3f497e064c",
+   "stars": 3,
+   "text": "I haven’t seen any changes to my skin, the consistency and smell isn’t great. But I will keep persevering with it",
+   "date": "2026-07-31",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "dac2d35c-3d8e-4384-af99-bf2fb7945b06",
+   "stars": 3,
+   "text": "It’s not been long since give been using but it’s very nice on my face. No magic as yet but I will continue to use, my skin does however feel softer. I use at night & find it a luxurious feeling & smell.",
+   "date": "2026-07-30",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "72d009a1-7858-4480-9a77-5bda385e65a0",
+   "stars": 3,
+   "text": "The quality of this product is excellent. There is a strong scent of patchouli which I detest. I probably should've double checked the ingredients before purchasing :(",
+   "date": "2026-07-29",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "1736a7aa-c1b8-4e03-80ba-df84f3f732c4",
+   "stars": 3,
+   "text": "Pros:  it didn't adversely react with my skin \n\n Cons: it did not heal it either, so basically like a vaseline jelly effect...",
+   "date": "2026-07-29",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "b2537efe-5ed7-4903-bc79-2814049471ef",
+   "stars": 3,
+   "text": "I don't see results",
+   "date": "2026-07-11",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "50f1c57b-aded-43d1-9904-a854f73afb54",
+   "stars": 3,
+   "text": "The consistency is too stiff.",
+   "date": "2026-06-05",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "452989ac-1c6e-4eed-a209-f2f0bdc8258d",
+   "stars": 3,
+   "text": "I loved this product when I first started it, as it felt so rich and creamy, and it was natural, which I really liked.  However, I had a reaction after using it a week, my face started breaking out with pimples, which I never get, unless I have an allergy or sensitivity to a product.  I still feel it is an excellent product, but  I have a very sensitive body and skin, so a lot of products do not work for me.  I regret that this product does not work for me, as I feel it is a high quality product.",
+   "date": "2026-05-29",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "4fb18964-3a50-4ef4-bbea-6c000727abb0",
+   "stars": 3,
+   "text": "This has helped Psoriasis on my elbows, it has calmed them down from being incredibly sore and red to tolerable.",
+   "date": "2026-05-18",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "bd5e3ff3-28b4-409b-9665-b477d6c842e0",
+   "stars": 3,
+   "text": "Its still early to say & see the benefit ot this product so i am rating it 3 stars, it does moisturise my dry skin & smells really nice so i am happy to keep using it.",
+   "date": "2026-04-29",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "0c9fd19e-3b26-402a-adda-132fce66f021",
+   "stars": 3,
+   "text": "The fragrance is really nice, the texture is not as smooth to be spread around the eye area so I found myself stretching the area too much which is the only thing I don’t like.  I have not seen any noticeable improvement on my skin yet.  I bought a second jar so I’m determined to give it more time.  Will follow up with a new review when time is appropriate.",
+   "date": "2026-04-27",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "8a995fcc-bae1-4e3e-ac8b-61da531fedf7",
+   "stars": 3,
+   "text": "I don’t really like the consistency of it it’s too hard. I like the smell though",
+   "date": "2026-04-25",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "bc13c667-3c8d-4395-9bab-68dc28e4b033",
+   "stars": 3,
+   "text": "I recently started using your Honey and I really like the concept and how it feels on the skin once applied, it’s clear a lot of care went into this product. I just wanted to share a small suggestion that might enhance the experience even more.\n The jar is quite small, which makes it a bit tricky to scoop out, especially without getting product under the nails. A small spatula or applicator would make a big difference. Also, I noticed it takes a long time to warm it up and melt between the fingers before applying. Perhaps a slightly softer texture could make it even more user-friendly. Also, a discount would be great so I can buy it for other family members and friends to give it a try.",
+   "date": "2026-04-09",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "18c1be2b-b581-4907-a9c6-e8d2164cc0e6",
+   "stars": 3,
+   "text": "I have just started using, so I am looking forward to see if I can notice any improvements.  The scent smells a little medicinal but again, I’m willing to try.",
+   "date": "2026-04-06",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "416db6e9-1cd8-471f-8536-9ac9e1fd369a",
+   "stars": 3,
+   "text": "I have used the tallow for 3 weeks haven’t seen a dramatic change on my skin, unless I need more time",
+   "date": "2026-04-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "5ebd83b5-6313-4a0a-abf1-d93fb3a39a1f",
+   "stars": 3,
+   "text": "The balm is really good for my cheek area and has stopped me from breaking, however I’m not sure if it is the oils within the balm but the skin around my mouth has gone extremely dry, however it works well everywhere else, why may this be as I’m not to sure myself",
+   "date": "2026-04-02",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "7ef540fb-c68d-4ab2-8173-f718681402d5",
+   "stars": 3,
+   "text": "I found this balm to be very moisturizing, however,a bit too moisturizing.  It will be great for super dry skin.  A little goes a long way when using this product especially if you have oily skin",
+   "date": "2026-03-19",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "6fe91c7d-fcd4-4d88-a90f-2cbac6de3c8b",
+   "stars": 3,
+   "text": "New to tallow.  Learning as I go.",
+   "date": "2026-03-16",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "48804cb1-51f7-4115-847a-e95d20d90b46",
+   "stars": 3,
+   "text": "Nice product but too dense for me. I wish it was a little softer… maybe a bit whipped.",
+   "date": "2026-03-14",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "2715e9e5-b660-46ec-8ad9-8c2c32706e8c",
+   "stars": 3,
+   "text": "See title",
+   "date": "2026-03-11",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "0c8492f1-5edc-40be-9fcf-30e33fb20647",
+   "stars": 3,
+   "text": "Doing business with you all has been fine.  As far as the product it seems to early to know if/how well it’s working.  I’ve not experienced this before, seems to be too much stress has entered my life.  My hope is with this product and my attempting to address the cause of stress thus too will come to an end.",
+   "date": "2026-03-11",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "bc18c55d-aa1f-47dd-8e2d-b04a1a75731d",
+   "stars": 3,
+   "text": "Packing was nice, cream nice and thick but unfortunately I didn't like the scent!",
+   "date": "2026-03-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "68737e73-0d22-4da6-b98f-e475055f5dd4",
+   "stars": 3,
+   "text": "The smell is unpleasant.",
+   "date": "2026-03-01",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "717473a8-f751-49a6-859c-f44a1df12233",
+   "stars": 3,
+   "text": "Original Tallow & Honey Balm",
+   "date": "2026-02-13",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "d0484d3b-9820-4f5a-9dc1-9686d5d6a4ff",
+   "stars": 3,
+   "text": "It’s too early to tell. It does have a pleasant scent. \n Best regards",
+   "date": "2026-02-11",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "c7d1d59d-5b10-45fb-b5a0-e3af05e831e9",
+   "stars": 3,
+   "text": "It is a little stiff. Another tallow product I use on my face feels more like whipped cream. I would have liked to use your product on my face but it is too stiff. Keep going!",
+   "date": "2026-02-07",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "39509624-eb25-4742-9b84-3064830062fb",
+   "stars": 3,
+   "text": "Original Tallow & Honey Balm",
+   "date": "2026-02-06",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "30a23a6e-3f02-4e7b-aa19-1c4b1e70dfc0",
+   "stars": 3,
+   "text": "Been using for 3 weeks now. Not seen any change in my face or my psoriasis behind me ear or on my body. Bit disappointed after reading all the good reviews.",
+   "date": "2026-02-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "a2810579-f3f3-4bec-85f0-2652c7343770",
+   "stars": 3,
+   "text": "I haven’t used the product long enough to give an honest review. It would be great if you could post some videos of older women who actually have wrinkles.",
+   "date": "2026-01-31",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "65836824-5d96-4e5e-acec-15d1ffd68fd3",
+   "stars": 3,
+   "text": "Bought this to overcome an itchy patch of dry skin on my neck, after trying numerous other creams, but still have the red itchy patch. On my second tub but still not working as suggested on Instagram site.\n Quite disappointing.\n On the plus side it does have a nice smell and a little goes a long way.",
+   "date": "2026-01-24",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "83946105-58d0-4fc5-b56a-6f408126d249",
+   "stars": 3,
+   "text": "I have only had it two weeks  so I think a little more time to see results",
+   "date": "2026-01-21",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "c0b0f425-7813-493c-a68d-92356eda4cd7",
+   "stars": 3,
+   "text": "I am wondering if this product is only good for keeping moisture in? ie should we be wearing a good moisturiser underneath or does it do the job of both?",
+   "date": "2026-01-20",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "035f01c5-3493-4610-a30b-3f828d6dfa83",
+   "stars": 3,
+   "text": "Haven't been using long enough to see any difference in my skin, ok so far but nothing different to any moisturiser I've tried",
+   "date": "2026-01-19",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "124b25a7-6d07-4a23-abb6-f3fecb5bd864",
+   "stars": 3,
+   "text": "I bought the tallow for eye eczema but didnt realise it has an ingredient in it that I am allergic to therefore I have not used it. Smells nice though!",
+   "date": "2026-01-03",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "ec0184e7-9997-4721-9cfd-beac53f3f3d3",
+   "stars": 3,
+   "text": "Quick food delivery\n Product smells lovely\n Very thick \n Some break outs on chin when I’ve never had spots before \n Will persevere for longer to see how it goes",
+   "date": "2025-12-31",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "b8ccf148-4e97-4515-8662-726bf5a30d24",
+   "stars": 3,
+   "text": "Got this for itchy wrists,? possible watch strap irritation that flares up from time to time. Can't say if this really helps much as it doesn't calm it down even within a few days.\n Tried it on my temples and forehead after some very positive reviews but again can't really say it does much (I don't look any younger)\n Smells very nice for the first hour or two then a little beefy if I'm honest.\n Can't use for my dry hands as it doesn't properly absorb, so would get anything greasy that I touch.\n It will last for quite a while but I won't be ordering again, for any price.\n Research online shows this whole tallow trend will probably die out soon as it clogs pores so badly, so am amazed people are loving it, but probably because there are so few ingredients",
+   "date": "2025-12-12",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "49b8bd83-7047-425d-b7b4-2b27786eb8a4",
+   "stars": 3,
+   "text": "I used the original tallow & honey balm for 3 nights on my face. Woke up to 2 huge pimples (beside the nose and right temple) and greasy face , which didn't happen the nights before. I stopped using the balm on the face. Currently using it every other day on hands only as a moisturiser. I don't think I'll use it again on the face as I like my face clean and clear. I gave one jar to my cousin, but his skin didn't accept the tallow either after 2 nights.\n This tallow is all natural by the ingredients list, but for the oils used it doesn't mention if those are essential oils, extracts or tinctures, if are certified organic + pesticide free, or in which percentage.\n I, personally, don't think there's any point in adding so many oils to this tallow, because that's clearly only for the scent purpose. \n I know that tallow is highly comedogenic, but I had higher expectations after reading all great reviews and I thought it might be a very light formula that could work with my mixed skin. \n\n I'm writing this honest review here instead of sending an email to the company as requested, because I'm trying to help other women out there with similar skin like mine not waste their money, time and skin condition.",
+   "date": "2025-12-12",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "da7b181e-c454-4be9-88a3-b832aa5253bd",
+   "stars": 3,
+   "text": "I used the product for a month and I do not see a difference.",
+   "date": "2025-12-07",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "de3f41b9-62bf-402d-bb8f-cd176117ac4c",
+   "stars": 3,
+   "text": "Don’t think your product is making any difference",
+   "date": "2025-11-22",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "8c90cf24-a988-4419-9f6a-2947ac98afd3",
+   "stars": 3,
+   "text": "Original Tallow & Honey Balm",
+   "date": "2025-11-17",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "f283cd15-ab33-424a-b2ca-53683b196a23",
+   "stars": 3,
+   "text": "I just started using the product in about 2 weeks. Give me times like in 2 months. I’ll will let you know the results. Thank you, for asking .",
+   "date": "2025-11-12",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "72254a4a-f94d-4e77-8f3a-93e3d87c1844",
+   "stars": 3,
+   "text": "So far so good. I haven't used it much yet. But I'm starting to. So no results yet. But my son has started seeing results for him. He referred me to you. Ricardo Medina.",
+   "date": "2025-10-22",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "1616de78-5979-450e-819f-e181d6267f00",
+   "stars": 3,
+   "text": "I find the tallow balm quite heavy and greasy in my skin, hard to tell if any difference as only using it two weeks at nighttime",
+   "date": "2025-10-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "556e446d-b9b0-41ed-8760-55a98d1945f8",
+   "stars": 3,
+   "text": "It’s a lovely product not yet sure how effective it is on skin condition but I enjoy using it non the least the smell and texture is lovely",
+   "date": "2025-09-13",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "a8dc727d-2913-4b5b-bc60-6b6fe09762b2",
+   "stars": 3,
+   "text": "I have only been using the balm for a short time, but it has some improved some areas of eczema that resisted other ointments.",
+   "date": "2025-09-12",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3c87334e-84b0-4e65-adca-ac18934c4311",
+   "stars": 3,
+   "text": "Using it as a facial moisturiser and I like how it feels, I have not had any breakouts but my skin is a little itchy at first, but this doesn't last long but I'm only using it just over a week. I am only using a small amount to build up tolerance.",
+   "date": "2025-09-09",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "5f0db617-afe2-48e5-b39b-ddb3f4aae2c9",
+   "stars": 3,
+   "text": "So far I do not see any improvement with my skin after nightly use but maybe it needs more time to work.",
+   "date": "2025-09-09",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3e248fc9-28ad-4c5e-ad17-b56b654a144f",
+   "stars": 3,
+   "text": "Great product but disappointed with the packaging . It looks good packaging on the advert but in reality it’s poor packaging, thankfully it arrived not broken.  I wish I took a photo on it so you understand of what I meant . I am hoping that I got the legit product. No receipts or anything on the package but a bare products that I have ordered that has been rolled into a used / recycled paper from different company name and put it in brown envelope and send away. I don’t mind recycled but at least it’s the company name like “Ancestral”. Never mind, I am just really hope that it is a legit tallow and from ancestral company!",
+   "date": "2025-08-01",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "958cca68-44e7-4188-b38f-cdd099ca54fe",
+   "stars": 3,
+   "text": "I wish their was testers for a small price as I myself bought the honey and tallow balm excited to try a new product but once an again a product doesn’t help my acne. If you didn’t have acne I do believe the product would be good",
+   "date": "2025-07-16",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "04acfe20-23c8-4693-8b8d-9c830031c0dd",
+   "stars": 3,
+   "text": "I was excited to try this cream. Still using it and was hoping it would make my skin more moisturized from night to evening. Unfortunately, so far that’s not the case. My skin is the same. But going to keep at it and hopefully see results.",
+   "date": "2025-07-06",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "731c4bd0-0bb0-4b4e-a760-9a58891b9c43",
+   "stars": 3,
+   "text": "I have struggled with hormonal acne for just over a year now, and recently have started a new medication to try and treat it. Although I saw some results with it, I could never find a moisturiser that was keeping the balance for me, until the balm. It doesn’t break me out. It makes ny skin so soft and smooth and I am convinced it is keeping my acne at bay. It is not making anything worse it simply keeps my face hydrated and moisturised every day. \n I am going to purchase the cleansing balm and see how that goes too.",
+   "date": "2025-07-01",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "77e7c93a-70f5-47d7-9a59-b6cfcabfe70e",
+   "stars": 3,
+   "text": "I have been using the Tallow and honey Balm for the past week and it has not made any difference to the two dry patches on my face. I thought that at this stage there should be some relief. It is also quite sticky and drags on my skin even with warming on my hands beforehand. I was under the impression that it was softer and easier to spread on my skin.",
+   "date": "2025-06-19",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3753b55c-95a8-4a46-8846-a42742359f28",
+   "stars": 3,
+   "text": "The fragrance is not unpleasant but I usually wear less on my face. Also the texture is heavier and harder to spread than i thought.",
+   "date": "2025-06-14",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "dbbb3148-b046-4eea-a427-f5c522bb088f",
+   "stars": 3,
+   "text": "This texture of the product is amazing. Brother fragrant a little too strong for me. \n It'd be nice in the future they can make on center or lightly center product",
+   "date": "2025-06-06",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "0c948c58-bfb3-4d95-b983-5ce73222172d",
+   "stars": 3,
+   "text": "Only used two days…jury is out",
+   "date": "2025-06-03",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "2fdbfddb-89f4-45ac-99cb-edf8b17f0c99",
+   "stars": 3,
+   "text": "How long should you see results, I've only been using it for a few weeks",
+   "date": "2025-05-28",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "f4a1d2c9-5e86-4b6b-a81d-8fcefe07cb54",
+   "stars": 3,
+   "text": "Been using the balm everyday 2 times a day\n , think l was a little disappointed that the redness was still there , the product itself was well packaged but I am a little disappointed with the results",
+   "date": "2025-05-20",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "06c7830a-d74d-48cd-8d2c-72f930b20bd6",
+   "stars": 3,
+   "text": "Excellent product but the jar is far too small and too expensive but it’s the only animal naturally organically made product what actually works on dry skin!",
+   "date": "2025-05-07",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3b036495-18a1-46b7-a4b2-638c1a3daec5",
+   "stars": 3,
+   "text": "Hi there. So let me start by saying I do love your product, however my most recent purchase has disappointed me. The first time I ordered was a while ago and I bought 3 jars of tallow for myself and my daughters. We all loved them. So I recently ordered another jar for myself and I can’t say the same about this one. When I apply it there are tons of little hard balls that won’t dissolve easily and some won’t dissolve at all. When I apply it to my face these little balls get stuck in my eyebrows and hairline etc which is annoying especially if you don’t notice and leave the house like it. \n Do you have any reason why this is happening with this jar. It’s not due to extreme cold, I live in Southern California and it’s warm most of the time here.  \n\n Thanks in advance \n\n Jo",
+   "date": "2025-04-30",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "0f814c7d-a85c-44c7-89cc-498fcd859ec2",
+   "stars": 3,
+   "text": "I placed on my face at night and woke up with a big pimple. However it’s amazing on my feet and legs. Smells good too.",
+   "date": "2025-04-27",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "7a09c76e-030b-47a6-a5e5-2cb3467e9854",
+   "stars": 3,
+   "text": "I ordered Original Tallow & Honey Balm on the recommendation of a friend who had success in treating her rosacea. I have been using it for about two weeks now and *might* have some improvement? I'll keep it up and have my fingers crossed!",
+   "date": "2025-04-11",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "fc0f7a9b-4e03-4433-a86f-d6a1685a9b55",
+   "stars": 3,
+   "text": "I found the balm difficult to use, it only softened enough to be easily applied after I left it on the heater for a while.\n Felt lovely and moisturising when I did use it.",
+   "date": "2025-03-31",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3e0e9918-3923-4fa5-a7dd-44b4542011b0",
+   "stars": 3,
+   "text": "I am always prepared to try something new when a new product is recommended you have to try something before you believe in a product or not \n I found this tallow/honey exactly as described has softened and moisturized my skin sso well",
+   "date": "2025-03-10",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "400d57a4-de48-4876-8866-7bcd1722ee23",
+   "stars": 3,
+   "text": "When used in small amounts it is effective, has a nice smell and feel, when you use too much at a time it can clog pores",
+   "date": "2025-03-07",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "eed53878-be11-4e9e-a0d8-40c59a57870b",
+   "stars": 3,
+   "text": "It is a wow for quality moisturiser but was not expecting the smell for applying to my face. I should have ordered with essential oil fragrance.",
+   "date": "2025-03-03",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "970193dc-ec74-479c-8547-06b2e48ede7c",
+   "stars": 3,
+   "text": "Bo",
+   "date": "2025-02-06",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "649a1446-bde5-44eb-abf9-b8adce0a5fd2",
+   "stars": 3,
+   "text": "A little too thick",
+   "date": "2025-01-30",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "725b72d8-1d35-412b-9f24-faf36905e45c",
+   "stars": 3,
+   "text": "Haven’t seen anything yet. Definitely hydrating. I’m getting used to the smell. I’m really excited to see it work. It’s only been a few days of using it.",
+   "date": "2025-01-27",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "01830ad0-40a3-4321-a180-edee044bfa63",
+   "stars": 3,
+   "text": "Not sure yet.. no problems just getting started…..",
+   "date": "2025-01-23",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "ae9bbe7a-efb1-4d3b-84c3-b37189b6319b",
+   "stars": 3,
+   "text": "I’ve found it an ok product so far, it does seem to moisturise the skin during the day, but I havent seen a marked improvement in my facial area as of yet.",
+   "date": "2025-01-07",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "56a2ba0e-0769-4a38-803e-96370566ec9b",
+   "stars": 3,
+   "text": "I ordered a package about 3 weeks ago and it never arrived, so I am pretty disappointed. Especially since it was a Christmas present for my grandmother",
+   "date": "2024-12-10",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "c330ceff-24c6-41c0-91c2-2a7d98009a06",
+   "stars": 3,
+   "text": "Original Tallow & Honey Balm",
+   "date": "2024-12-08",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "9fe0ba5d-24cc-4316-93f1-5468eb372ffa",
+   "stars": 3,
+   "text": "Original Tallow & Honey Balm",
+   "date": "2024-11-20",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "7b8dacd2-b9a8-45fc-9cf3-c7f66d4911ed",
+   "stars": 3,
+   "text": "I have severely dry, cracked skin and am having to use a generous amount to get any benefit and my jar won’t last long. Smell is great. I got the unscented for my face.",
+   "date": "2024-11-13",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "5553f834-bf20-420c-98d6-600fb24a5d92",
+   "stars": 3,
+   "text": "I don’t really have anything negative or positive to write. I’ve used about half the jar. I don’t notice any difference in my skin at all, but I’ll keep using it and see what happens.",
+   "date": "2024-11-01",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "268f83bf-a951-4301-911f-6e82d2ce3a23",
+   "stars": 3,
+   "text": "This balm is to thick for the lips, tho I love the original for my lips, even anywhere on my skin! So I will continue to purchase it! I have heard just warm the lip balm in your fingers or hand but didn’t work for me.",
+   "date": "2024-10-15",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "b3a32512-d1cc-4ba5-808c-1b9747e65072",
+   "stars": 3,
+   "text": "Personally, I don’t think essential oils are great for the face. If this product didn’t have that I think I’d like it a lot more. It makes my face react. It’s not very soothing. It’s kind of harsh. But my face has never reacted well to essential oils so that could be why.",
+   "date": "2024-08-26",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "f5da6900-dad0-436e-a045-202c73e5c164",
+   "stars": 3,
+   "text": "My face feels very greasy, am I applying too much",
+   "date": "2024-08-21",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "a7cf7777-bd00-4354-bb2e-bbfbabd0a84c",
+   "stars": 3,
+   "text": "I find it very greasy stays greasy on the skin for most of the day, is it doing any good no sure that it’s made any difference",
+   "date": "2024-08-06",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3a21d55d-f54f-43d7-a6c1-2d47c60a4f6b",
+   "stars": 3,
+   "text": "Good product. A bit too rich for me takes long time to absorb to the skin. I would say night time only for me",
+   "date": "2024-07-30",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "91c213ce-489d-4b3b-9592-406a516ddcac",
+   "stars": 3,
+   "text": "It is expensive for a small bottle. It didn’t work my face but it is better as body moisturizer. I have an issue with the smell of it. I won’t be using it anymore.",
+   "date": "2024-07-30",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "becaf857-2b79-55c7-926c-0e831ed439ff",
+   "stars": 3,
+   "text": "My face feels smooth and soft. I am enjoying this product. Thank you",
+   "date": "2024-07-09",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "f6a6ff04-ed20-4459-9354-2398117e93d8",
+   "stars": 3,
+   "text": "It is a solid product but not a lotion, More of a wax.",
+   "date": "2024-07-08",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "5d496c0f-eb25-4330-b0bf-eb60118bcc65",
+   "stars": 3,
+   "text": "Leaving my previous review below to make a point. These people understood that I was happy with the product but don’t like scents.  They kindly offered me a non-scented version at their expense.  I’ve worn the new product for a week and love the way my skin looks.   \n\n I like the way my skin looked with this product but the smell is too strong. I don’t like strong smelling things…especially right in my nose. So I can’t use it",
+   "date": "2024-04-26",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "33e83c28-f178-47a8-a4d7-67c11ebd9429",
+   "stars": 3,
+   "text": "Doesn’t  absorb well",
+   "date": "2024-04-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "11ec0690-18aa-4a22-b814-435e6a150d72",
+   "stars": 3,
+   "text": "I love everything about it except the strong scent of essential oils. Had I known (or read the ingredient list more closely!) I probably wouldn’t have ordered it. I really like the texture and finish on my skin.",
+   "date": "2024-04-04",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "fd92af2a-ab8d-4148-beb3-a5d252f1e140",
+   "stars": 3,
+   "text": "I like the texture & how it feels on skin but I don’t like the smell",
+   "date": "2024-04-03",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "6ee34e25-20e2-4a8c-9729-38392da96428",
+   "stars": 3,
+   "text": "Just started. I was out of town which delayed my starting of your product. So far I am pleased",
+   "date": "2024-03-05",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "bd1e11fb-a3a8-4f91-a614-13027ea9439b",
+   "stars": 3,
+   "text": "I want to love this product but I've been using it on my face for about a week now and I have been breaking out.",
+   "date": "2024-02-15",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "68eae7b7-8d9e-516f-a40a-45cb0e3d208b",
+   "stars": 3,
+   "text": "It’s a bit too heavy for me but it smells good",
+   "date": "2024-01-31",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "ed7e4152-d8b1-426e-9fc0-225dc5431775",
+   "stars": 3,
+   "text": "It was recommended to me to use the balm as a moisturiser for dry skin.  I think it’s difficult to nourish my entire body with it as it takes a lot of it and rubs in very slowly. I would like to get your feedback on this please.",
+   "date": "2024-01-02",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "fff267b3-a880-47e8-98aa-6605a3ec33d9",
+   "stars": 3,
+   "text": "It was not as hydrating as I thought it would be, need to use a lot",
+   "date": "2023-11-27",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "ab1cd17e-5600-47a3-9c19-a18a66b8cb88",
+   "stars": 3,
+   "text": "There is a bit of an odd smell to the balm. It is a bit hard to get out of the jar but goes on okay. I have not noticed a difference in my skin but I am using it daily. I like it on my hands more.",
+   "date": "2023-11-03",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "3a4aa74c-72ef-4607-8341-3274b90a6ba9",
+   "stars": 3,
+   "text": "I like everything the product stands for but the smell is a little off putting . It’s very heavy,  I am very dry but it\n Causes little breakouts under my eye area , \n   I’m still experimenting, with usage for good results !",
+   "date": "2023-10-20",
+   "product": "Original Tallow & Honey Balm"
+  },
+  {
+   "id": "00f72a87-c13c-4bcd-93c6-6771d7b7c568",
+   "stars": 3,
+   "text": "Lovely product and I really support the brand, I believe this is the kind of product we need more of in the world. Did however irritate my face (I think an essential oil) so use it as body lotion now ;)",
+   "date": "2023-06-06",
+   "product": "Original Tallow & Honey Balm"
+  }
+ ]
+}

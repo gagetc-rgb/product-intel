@@ -1,0 +1,17 @@
+{
+"petmizer.com":{"sells_product":"yes","reason":"enzyme fogger plus enzyme spray refills","product_name":"PetMizer Enzyme Fogger; 2x Extra Enzyme Spray Refills","price_as_shown":"not read (only $0.00 cart value on page)","usd":"unknown","bundle_text":"none seen","sub_refill_text":"\"Manage Subscription\" (nav link); product named \"Enzyme Spray Refills\"","dom_pid":"rpdom_petmizer"},
+"funkymonkeystore.com":{"sells_product":"unclear","reason":"pet odor eliminator; enzyme not named","product_name":"concentrate: one bottle makes 8 spray bottles","price_as_shown":"$55","usd":"yes","bundle_text":"none seen","sub_refill_text":"\"Refill instead of throwing away bottle after bottle\""},
+"clobombs.com":{"sells_product":"unclear","reason":"home/car odor kits; not enzyme, not pet","product_name":"Odor Removal Kits","price_as_shown":"$38.99; $24.99; $49.99","usd":"yes","bundle_text":"\"Save Up To 20% On Best-Selling Odor Removal Kits\"","sub_refill_text":"none seen"},
+"azunafresh.com":{"sells_product":"unclear","reason":"tea tree oil odor eliminator with refills","product_name":"Azuna Air Fresheners / Refills / Sprays & Concentrates","price_as_shown":"$60; $17; $35","usd":"yes","bundle_text":"Starter Kits; 4 Room Kit","sub_refill_text":"\"Subscribe & Save\"; menu \"Refills\""},
+"ecostrong.com":{"sells_product":"unclear","reason":"outdoor odor eliminator; pet urine not seen","product_name":"Outdoor Odor Eliminator","price_as_shown":"$59.97","usd":"yes","bundle_text":"none seen","sub_refill_text":"none seen"},
+"dirtylabs.com":{"sells_product":"no","reason":"enzyme laundry/dish, no pet odor","product_name":"Bio Enzyme Laundry Booster etc.","price_as_shown":"$10; $40","usd":"yes","bundle_text":"\"Bundle & Save\"","sub_refill_text":"\"Autoship & Save\""},
+"zeofill.com":{"sells_product":"no","reason":"turf infill deodorizer (zeolite)","product_name":"Odor Eliminator Turf Infill Deodorizer","price_as_shown":"$75; $100","usd":"yes","bundle_text":"\"Bundle & Save\"","sub_refill_text":"none seen"},
+"therapetmd.com":{"sells_product":"no","reason":"calming diffuser, not cleaner","product_name":"pet calming diffuser","price_as_shown":"$54; $40","usd":"yes","bundle_text":"none seen","sub_refill_text":"\"Subscribe & Save 59% OFF\"; \"My Autoship\""},
+"trysnoots.com":{"sells_product":"no","reason":"calming diffuser and refills","product_name":"Calming Cat Diffuser; Calming Cat Refills","price_as_shown":"$45; $49.00","usd":"yes","bundle_text":"none seen","sub_refill_text":"\"Manage Subscription\"; \"Calming Cat Refills\""},
+"mynovapaw.com":{"sells_product":"unclear","reason":"no product keyword on home page","product_name":"not named","price_as_shown":"$40; $39.95","usd":"yes","bundle_text":"none seen","sub_refill_text":"none seen"},
+"uprootclean.com":{"sells_product":"no","reason":"lint and pet hair tools, laundry","product_name":"Lint cleaner","price_as_shown":"$49","usd":"yes","bundle_text":"Buy 2 Get 2 Free","sub_refill_text":"\"Fur-ternity - Subscribe & Save\""},
+"benchmarkpoolsupply.com":{"sells_product":"no","reason":"pool supplies"},
+"forumdeck.com":{"sells_product":"no","reason":"information site, no product"},
+"flowarmth.com":{"sells_product":"no","reason":"no product text on page"},
+"markedscripts.com":{"sells_product":"no","reason":"blog site, no product"}
+}

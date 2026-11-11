@@ -1,0 +1,682 @@
+{
+ "phrase": "handheld steam cleaner",
+ "date": "2026-11-10",
+ "active": 160,
+ "aged30": 80,
+ "aged90": 64,
+ "aged180": 32,
+ "ads": [
+  {
+   "id": "1001000655938134",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-17",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "861634120118357",
+   "page": "UrbanNest",
+   "start": "2026-01-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1301711928509470",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "879951381670999",
+   "page": "UrbanNest",
+   "start": "2026-01-08",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1178795744412855",
+   "page": "UrbanNest",
+   "start": "2026-01-07",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2817085618635057",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "897003193473992",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1444148557193898",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1284495750315472",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1489675179439792",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "2822970311388013",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1678931389769801",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "933809456231482",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1845804832933982",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-18",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1444594396902020",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-19",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1939040433646429",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "2031441184469983",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "2100075437233589",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "968337245660345",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1159859182905534",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1252710310177063",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1493050095830794",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1510225390817238",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1524277292283831",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1540373587751115",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1274862201490322",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-20",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1469414777903118",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "1624304622112638",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-04-21",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "180+"
+  },
+  {
+   "id": "29494843556824590",
+   "page": "Jack Harris",
+   "start": "2026-06-06",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1421379039827578",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1720028539146092",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "951251407960890",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1028329289593726",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1524777531829412",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1559629696174617",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1612561337249996",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1809561023396126",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1591210799093636",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1352365960357425",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1515383643940219",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-19",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1355884963275794",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1519191266670970",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-12",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1672919510596063",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1753188035854733",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1753317352686266",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-19",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3152424604942251",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1575694917680946",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-19",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2101369117104789",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "954472527608057",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1000916232559071",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1037964765438844",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-05",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1288602129744312",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-19",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "885956047306922",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-26",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1344780363679202",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1538635401133959",
+   "page": "Magoloft with M.Moonycozy",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "m.moonycozy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1610144187261356",
+   "page": "Alibaba.com",
+   "start": "2026-09-12",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2303539850446058",
+   "page": "Maveroa",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1140056388352814",
+   "page": "Maveroa",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "977150675409262",
+   "page": "Maveroa",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1911693330196374",
+   "page": "Joanne Hill",
+   "start": "2026-09-27",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1077699838304192",
+   "page": "Maveroa",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1056766217200741",
+   "page": "Consecutivte-T",
+   "start": "2026-09-18",
+   "n": 1,
+   "domain": "www.consecutivte.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1679010480608272",
+   "page": "Maveroa",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "873864532382661",
+   "page": "Maveroa",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1739052350534013",
+   "page": "Maveroa",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "965850029241059",
+   "page": "Daily Home Finds",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1078536651625069",
+   "page": "Maveroa",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1464219025527258",
+   "page": "Buttylife with Stellaya",
+   "start": "2026-09-12",
+   "n": 1,
+   "domain": "m.stellaya.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2776121292801016",
+   "page": "Volran",
+   "start": "2026-09-16",
+   "n": 1,
+   "domain": "www.volran.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2343136389832176",
+   "page": "Buttylife with Stellaya",
+   "start": "2026-10-12",
+   "n": 4,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1431314275755990",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1578990203434940",
+   "page": "EcoSteam Pro",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "buyecosteam.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1048650108191152",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1897452294606129",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2144512372820794",
+   "page": "EcoPure",
+   "start": "2026-10-12",
+   "n": 1,
+   "domain": "ecopuresteamer.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1085623477710256",
+   "page": "EcoSteam Pro",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "buyecosteam.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1789475648974495",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2215592839005735",
+   "page": "Urban Living Hub with Shoptemu",
+   "start": "2026-11-09",
+   "n": 1,
+   "domain": "www.temu.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1105896562146399",
+   "page": "EcoSteam Pro",
+   "start": "2026-10-27",
+   "n": 1,
+   "domain": "buyecosteam.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1156813613680271",
+   "page": "Sakerst with Sakerplus",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "m.sakerplus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1843501060341374",
+   "page": "Sakerplus New L with Sakerplus",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "m.sakerplus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2072827613489069",
+   "page": "Sakerplus New L with Sakerplus",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "m.sakerplus.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1705937434205303",
+   "page": "Margaret Sanders Misiolek",
+   "start": "2026-11-06",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1604373304489939",
+   "page": "Sakerst with Sakerplus",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "m.sakerplus.com",
+   "window": "0-30"
+  }
+ ]
+}

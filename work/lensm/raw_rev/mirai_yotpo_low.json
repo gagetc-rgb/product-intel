@@ -1,0 +1,864 @@
+{
+ "label": "mirai",
+ "dist": [
+  49,
+  26,
+  67,
+  129,
+  1866
+ ],
+ "reviews": [
+  {
+   "id": 908592615,
+   "stars": 1,
+   "text": "Not overly impressed. Not doing. Not overly impressed. Not doing anything different than my regular soap",
+   "date": "2026-10-19"
+  },
+  {
+   "id": 884376047,
+   "stars": 1,
+   "text": "It works!. It works!",
+   "date": "2026-08-25"
+  },
+  {
+   "id": 867729286,
+   "stars": 1,
+   "text": "Scent too strong. Scent too strong",
+   "date": "2026-07-09"
+  },
+  {
+   "id": 735182070,
+   "stars": 1,
+   "text": "Not impressed. The soap itself has an unpleasant smell and I found it an enormous waste of money",
+   "date": "2025-08-06"
+  },
+  {
+   "id": 731503820,
+   "stars": 1,
+   "text": "It did not work for me.. This product did not work for me. \nI traded one problem odor for another problem odor",
+   "date": "2025-07-23"
+  },
+  {
+   "id": 727960881,
+   "stars": 1,
+   "text": "Not a good buy. The soap turned white softened and melted just while resting on holder in soap dish. There was no pleasant aroma. Way too expensive!",
+   "date": "2025-07-14"
+  },
+  {
+   "id": 719305326,
+   "stars": 1,
+   "text": "Didn't like it. Was not as advertised. I would never purchase it again",
+   "date": "2025-06-19"
+  },
+  {
+   "id": 709942748,
+   "stars": 1,
+   "text": "Loving this. First trial of Mirai for me - I loved it - so soft I even chanced it on my face and happy with it!",
+   "date": "2025-05-18"
+  },
+  {
+   "id": 698568000,
+   "stars": 1,
+   "text": "Not worth the money. Mediocre results",
+   "date": "2025-04-12"
+  },
+  {
+   "id": 694299362,
+   "stars": 1,
+   "text": "cheryl. I wasn't impressed. . . it has very little smell to it. Seems a bit overpriced to me =(",
+   "date": "2025-03-30"
+  },
+  {
+   "id": 689743701,
+   "stars": 1,
+   "text": "Not effective. Didn’t notice any change in body odor using this soap",
+   "date": "2025-03-17"
+  },
+  {
+   "id": 674112407,
+   "stars": 1,
+   "text": "Dissatisfied. I have been working with the products since they arrived. NO change whatsoever. Very disappointed and dissatisfied. I guess I learned the hard and costly way",
+   "date": "2025-01-28"
+  },
+  {
+   "id": 649759549,
+   "stars": 1,
+   "text": "Not worth it. Overpriced",
+   "date": "2024-11-11"
+  },
+  {
+   "id": 641505749,
+   "stars": 1,
+   "text": "Doap. Doesn’t work!",
+   "date": "2024-10-24"
+  },
+  {
+   "id": 640132522,
+   "stars": 1,
+   "text": "persimmon. very drying to my skin. i do not like this soap. i wish I had not bought it. can i return for refund?",
+   "date": "2024-10-20"
+  },
+  {
+   "id": 638133674,
+   "stars": 1,
+   "text": "Waste of money!. Nothing new or different. Wasted $$",
+   "date": "2024-10-15"
+  },
+  {
+   "id": 636472802,
+   "stars": 1,
+   "text": "Great. Great",
+   "date": "2024-10-11"
+  },
+  {
+   "id": 614953262,
+   "stars": 1,
+   "text": "Over priced. Just soap",
+   "date": "2024-08-27"
+  },
+  {
+   "id": 607562343,
+   "stars": 1,
+   "text": "Would not purchase again. This soap dries my skin out completely. As for odor control, I’m not sure it changes anything either",
+   "date": "2024-08-05"
+  },
+  {
+   "id": 602619031,
+   "stars": 1,
+   "text": "Expense and sending more???. Very disappointed….soap shape is hard to hold, doesnt lather well, I don’t notice any difference in how refreshing it was. Then received notice another bar was being sent, not ordered and customer service is open 3 hours and has yet to call me back",
+   "date": "2024-07-23"
+  },
+  {
+   "id": 597671975,
+   "stars": 1,
+   "text": "Maybe not for women?. I purchased one expensive bar and regret it. As a 75 year old woman, I found no effect",
+   "date": "2024-07-09"
+  },
+  {
+   "id": 590748377,
+   "stars": 1,
+   "text": "Soap. Did not like dried my skin out",
+   "date": "2024-06-16"
+  },
+  {
+   "id": 582686789,
+   "stars": 1,
+   "text": "It’s just an expensive bar of glycerin soap. Common - ok I admit I succumbed to creative marketing but I’m here to tell you that this soap is just plain old glycerin soap. Nothing special. Pls save your $$$",
+   "date": "2024-05-18"
+  },
+  {
+   "id": 569020408,
+   "stars": 1,
+   "text": "Not good. That tiny bar of soap for $21 and it didn’t even work",
+   "date": "2024-04-09"
+  },
+  {
+   "id": 563569493,
+   "stars": 1,
+   "text": "Does not have a pleasant smell. Barely has a sent at all.. I don’t feel clean and fresh. Does not leave my skin feeling clean. I do not like it at all",
+   "date": "2024-04-02"
+  },
+  {
+   "id": 558400292,
+   "stars": 1,
+   "text": "Not satisfied. No effect whatsoever",
+   "date": "2024-03-21"
+  },
+  {
+   "id": 558385152,
+   "stars": 1,
+   "text": "Did absolutely nothing. Was not effective at all",
+   "date": "2024-03-21"
+  },
+  {
+   "id": 553372043,
+   "stars": 1,
+   "text": "I don't like it.. It's a big lump on glycerin and a waste of my money",
+   "date": "2024-03-06"
+  },
+  {
+   "id": 541437240,
+   "stars": 1,
+   "text": "Can’t review no delivery. Still have not received",
+   "date": "2024-02-02"
+  },
+  {
+   "id": 540308392,
+   "stars": 1,
+   "text": "Where's the Beef?. I have not received any product yet!! How much longer will it be?",
+   "date": "2024-01-29"
+  },
+  {
+   "id": 531359660,
+   "stars": 1,
+   "text": "Never received the item.. Never received the item",
+   "date": "2023-12-18"
+  },
+  {
+   "id": 498934573,
+   "stars": 1,
+   "text": "dry skin. I used it for a week and my skin was very dry",
+   "date": "2023-09-08"
+  },
+  {
+   "id": 497535911,
+   "stars": 1,
+   "text": "It’s just soap that doesn’t. It’s just soap that doesn’t work well",
+   "date": "2023-09-01"
+  },
+  {
+   "id": 494450111,
+   "stars": 1,
+   "text": "No smell and very drying. No smell and very drying to the skin",
+   "date": "2023-08-17"
+  },
+  {
+   "id": 477580534,
+   "stars": 1,
+   "text": "Don’t Waste. There is absolutely no smell at all to this product and it feels very drying on my skin",
+   "date": "2023-06-17"
+  },
+  {
+   "id": 467641409,
+   "stars": 1,
+   "text": "!. !",
+   "date": "2023-05-07"
+  },
+  {
+   "id": 428605550,
+   "stars": 1,
+   "text": "deodorizing. soap. This was just a glycerin bar. Had no effect on that \"odor\"",
+   "date": "2022-12-29"
+  },
+  {
+   "id": 422682351,
+   "stars": 1,
+   "text": "Not happy. Never received the item",
+   "date": "2022-12-05"
+  },
+  {
+   "id": 412794137,
+   "stars": 1,
+   "text": "Family doesn't like the scent. Family doesn't like the scent",
+   "date": "2022-10-23"
+  },
+  {
+   "id": 411992539,
+   "stars": 1,
+   "text": "No smell. Did not work at all. A pleasant tactile experience but no deodorant function",
+   "date": "2022-10-19"
+  },
+  {
+   "id": 399501371,
+   "stars": 1,
+   "text": "Review. so far I have only used the bodywash was and didn't care for it...the scent was a chemical one to me and not pleasing at all...not looking forward to trying the bar but I will",
+   "date": "2022-09-04"
+  },
+  {
+   "id": 398402226,
+   "stars": 1,
+   "text": "It caused dryness!!! I am. It caused dryness!!! I am sorry to say, I did not like it and didn’t even bother returning the soap!\nI tossed it in the trash. Sorry to be so blunt but never was I so disappointed!",
+   "date": "2022-08-30"
+  },
+  {
+   "id": 280356837,
+   "stars": 1,
+   "text": "Dreadful painful soap. I read the product reviews and purpose.got excited and purchased the shampoo, body wash and soap bars..I used the shampoo..it hurt the skin on my scalp and the sensitive areas of my feminine parts. My scalp skin still has not recovered. There is something dreadful in this soap. I do not recommend it",
+   "date": "2021-08-04"
+  },
+  {
+   "id": 273729041,
+   "stars": 1,
+   "text": "I never received my purchase. I never received my purchase",
+   "date": "2021-07-08"
+  },
+  {
+   "id": 236397360,
+   "stars": 1,
+   "text": "The smell is awful. I didn't like the scent at all and was disappointed with my purchase",
+   "date": "2021-03-05"
+  },
+  {
+   "id": 220334632,
+   "stars": 1,
+   "text": "No smell. No smell",
+   "date": "2020-12-24"
+  },
+  {
+   "id": 729509369,
+   "stars": 1,
+   "text": "Same as always . . . cant afford. So many people can not spend 20 dollars for a bar of soap. Artisan or not more and more good for you products now are unattainable for seniors on a fixed income",
+   "date": "2025-07-17"
+  },
+  {
+   "id": 745497277,
+   "stars": 1,
+   "text": "Bad experience. I have used this soap before. It's wonderful and does everything it claims to do. I recently ordered more. It said it was delivered but I never received it. It's too pricey to pay for and not receive",
+   "date": "2025-08-20"
+  },
+  {
+   "id": 534285849,
+   "stars": 1,
+   "text": "Poor value for your money. This is just overpriced glycerin soap. Smells and cleans just like the old Pears soap I used to buy for less than $2 a bar. Pretty sure the \"persimmon\" ingredient is just because it sounds interesting. It was the reason I bought it. I didn't notice any difference in how it cleaned compared to any other glycerin soap. I'd love to get my $ back",
+   "date": "2024-01-02"
+  },
+  {
+   "id": 834769095,
+   "stars": 2,
+   "text": "Great product. Great product",
+   "date": "2026-04-29"
+  },
+  {
+   "id": 804715546,
+   "stars": 2,
+   "text": "The scent is terrible and. The scent is terrible and smells very odd, dated, and old fashioned. I do not feel it helped with any of the issues it is supposed to address",
+   "date": "2026-01-31"
+  },
+  {
+   "id": 790816562,
+   "stars": 2,
+   "text": "did not smell like anything. did not smell like anything or mask the smell on body",
+   "date": "2025-12-15"
+  },
+  {
+   "id": 735037822,
+   "stars": 2,
+   "text": "New. We enjoy your soap. I wish it would last longer. I don't shower every day \nAlso I accidentally left it on tub shelf and now I have to use it by leaving it there and rubbing my washcloth over it",
+   "date": "2025-08-05"
+  },
+  {
+   "id": 729502799,
+   "stars": 2,
+   "text": "Soap. It's just homemade soap. Doesn't look like what's pictured",
+   "date": "2025-07-17"
+  },
+  {
+   "id": 725146743,
+   "stars": 2,
+   "text": "Deodorizing soap with persimmon. In my opinion the soap was mild and was effective, however I believe we were allergic to some of the ingredients and developed a rash and dry skin",
+   "date": "2025-07-06"
+  },
+  {
+   "id": 663481633,
+   "stars": 2,
+   "text": "Not what I was expecting. Very mild soap. Nothing deodorizing. Like a regular glycerin soap",
+   "date": "2024-12-28"
+  },
+  {
+   "id": 662158171,
+   "stars": 2,
+   "text": "Purchased Bar Soap and Body Wash. Unfortunately I found this bar soap and body wash no different to any other I can buy in store. For the exorbitant cost of $76, I feel quite disappointed in what it did for me",
+   "date": "2024-12-23"
+  },
+  {
+   "id": 656556131,
+   "stars": 2,
+   "text": "Liquid Bath Soap. I have only Used the liquid soap from my order so far And it makes me So itchy I haven't used the bar yet. I'm not surprised as I have very sensitive skin and can't use most soaps but took a chance on this one",
+   "date": "2024-12-04"
+  },
+  {
+   "id": 643302544,
+   "stars": 2,
+   "text": "Bar soap. Nothing special…",
+   "date": "2024-10-28"
+  },
+  {
+   "id": 624132865,
+   "stars": 2,
+   "text": "Deodorizer soap with persimmon. Didn't work for me",
+   "date": "2024-09-18"
+  },
+  {
+   "id": 595656912,
+   "stars": 2,
+   "text": "Don’t notice any difference. No improvement in underarm odor. And very expensive",
+   "date": "2024-07-02"
+  },
+  {
+   "id": 593626202,
+   "stars": 2,
+   "text": "It is jjust soap. It is just soap",
+   "date": "2024-06-26"
+  },
+  {
+   "id": 587061488,
+   "stars": 2,
+   "text": "Just ok. Not worth the price",
+   "date": "2024-06-02"
+  },
+  {
+   "id": 570815669,
+   "stars": 2,
+   "text": "Not impressed.. A soap that has no smell doesn’t get my attention. And your whole approach that old people smell bad, just offensive",
+   "date": "2024-04-12"
+  },
+  {
+   "id": 558959691,
+   "stars": 2,
+   "text": "No better than regular other soaps. This is very expensive, and I had high hopes for it.. The next day I had the same problem with Feminine odor, and I did not feel fresher or cleaner than usual. Save you money",
+   "date": "2024-03-23"
+  },
+  {
+   "id": 555515857,
+   "stars": 2,
+   "text": "Meh. There is nothing special about this soap. Actually, after 2 showers using it I got a burning rash. Does absolutely nothing as claimed. Waste of money. Don’t purchase",
+   "date": "2024-03-12"
+  },
+  {
+   "id": 531495118,
+   "stars": 2,
+   "text": "Not suited to me.. I bought this product because according to white papers persimmon is supposed to be good at controlling body odour. Perhaps the concentration isn’t high enough because it didn’t really make a difference for me",
+   "date": "2023-12-18"
+  },
+  {
+   "id": 527987010,
+   "stars": 2,
+   "text": "Had the Opposite effect vrs what was advertised. I was really interested in this soap. It is a glycerin type soap that leaves a film on the skin and I didn’t find it moisturizing. I took my bath before bed and in the middle of the night actually smelled the “old person” smell which I hadn’t been having a problem with since beginning to use Lume deodorant. I’ll try it a couple more nights but I was sadly unimpressed",
+   "date": "2023-12-05"
+  },
+  {
+   "id": 527438961,
+   "stars": 2,
+   "text": "No fragrance. No fragrance My Zest makes me feel cleaner",
+   "date": "2023-12-02"
+  },
+  {
+   "id": 510961108,
+   "stars": 2,
+   "text": "This is three third or. This is three third or fourth container and while the other three were fresh smelling and wirked according to description. This bottle smell old and botnš",
+   "date": "2023-10-12"
+  },
+  {
+   "id": 484185290,
+   "stars": 2,
+   "text": "Not impressed. Don’t like the smell it leaves on my body",
+   "date": "2023-07-19"
+  },
+  {
+   "id": 306235899,
+   "stars": 2,
+   "text": "Persimmon soap. I have been using your soap for about a month now and I see no difference. I won't be buying anymore because it doesn't work for me but I wish it had",
+   "date": "2021-10-27"
+  },
+  {
+   "id": 296037330,
+   "stars": 2,
+   "text": "Forget It!. The product does not work. Don’t waste your money",
+   "date": "2021-09-29"
+  },
+  {
+   "id": 235233070,
+   "stars": 2,
+   "text": "Just soap. Does not prevent odor as advertised and leaves skin feeling funny",
+   "date": "2021-02-27"
+  },
+  {
+   "id": 221273384,
+   "stars": 2,
+   "text": "OKAY. The soap was ok, but I am not sure that it works as well as they say. Not too much lather, but not too drying either. I'll use it for a while longer to get a better idea",
+   "date": "2020-12-30"
+  },
+  {
+   "id": 921941345,
+   "stars": 3,
+   "text": "It’s fine. It’s fine",
+   "date": "2026-11-06"
+  },
+  {
+   "id": 918766782,
+   "stars": 3,
+   "text": "Not really sure if its worth the price paid. Not sure about this product",
+   "date": "2026-11-03"
+  },
+  {
+   "id": 915364155,
+   "stars": 3,
+   "text": "I think it helps, but. I think it helps, but I find it expensive and it runs out very quickly",
+   "date": "2026-10-29"
+  },
+  {
+   "id": 905442492,
+   "stars": 3,
+   "text": "Soap. 1st time ordering from this company…disappointed with the shipping process…very very slow…more than likely my last time ordering…",
+   "date": "2026-10-15"
+  },
+  {
+   "id": 891057690,
+   "stars": 3,
+   "text": "Although I have only used. Although I have only used this bar soap a few times, I notice my skin in less dry for a few hours after I shower",
+   "date": "2026-09-16"
+  },
+  {
+   "id": 884579072,
+   "stars": 3,
+   "text": "I like the soaps. I. I like the soaps. I feel they are a bit pricey and don't last but a month",
+   "date": "2026-08-26"
+  },
+  {
+   "id": 884505055,
+   "stars": 3,
+   "text": "I love the citrus bar,. I love the citrus bar, but I don’t care for the unscented",
+   "date": "2026-08-26"
+  },
+  {
+   "id": 876777840,
+   "stars": 3,
+   "text": "Love the soap just wish. Love the soap just wish it was more hydrating",
+   "date": "2026-08-03"
+  },
+  {
+   "id": 861168819,
+   "stars": 3,
+   "text": "Doesn’t have much of a. Doesn’t have much of a smell would like stronger sent",
+   "date": "2026-06-23"
+  },
+  {
+   "id": 859180512,
+   "stars": 3,
+   "text": "It is just ok so. It is just ok so far. I am on a tight budget due to some unexpected expenses and this product was something that I did not need at this time. I am using it more as a preventive tool",
+   "date": "2026-06-17"
+  },
+  {
+   "id": 859145760,
+   "stars": 3,
+   "text": "Smells good but just started. Smells good but just started using it",
+   "date": "2026-06-17"
+  },
+  {
+   "id": 838225174,
+   "stars": 3,
+   "text": "It works. I needed it. It works. I needed it for my under arm pits, I’m trying not to use unhealthy deodorants. It works when I get out of the shower but I smell a body order before bed. I wish it lasted longer. Too expensive for me to buy all the time. If their deordant doesn’t have aluminum in it maybe I’ll try that",
+   "date": "2026-05-12"
+  },
+  {
+   "id": 824554389,
+   "stars": 3,
+   "text": "Since I live alone, it’s. Since I live alone, it’s hard for me to say if it’s working or not, but I haven’t had any complaints!",
+   "date": "2026-03-29"
+  },
+  {
+   "id": 818660448,
+   "stars": 3,
+   "text": "It works!!!. I’m only giving three stars because my order consisted of 4 lavender soaps and I only received three. Additionally, this soap is not cheap and it melts too quickly,\nLiz",
+   "date": "2026-03-12"
+  },
+  {
+   "id": 815764707,
+   "stars": 3,
+   "text": "I haven't really noticed a. I haven't really noticed a difference. But it's only my first bar",
+   "date": "2026-03-03"
+  },
+  {
+   "id": 812828203,
+   "stars": 3,
+   "text": "Too soon to tell. Too soon to tell",
+   "date": "2026-02-22"
+  },
+  {
+   "id": 760208843,
+   "stars": 3,
+   "text": "I liked the soap because. I liked the soap because it cleans excellently Squeaky clean ! However one soap lasts less tans a week! Too expensive to keep buying",
+   "date": "2025-09-17"
+  },
+  {
+   "id": 755263378,
+   "stars": 3,
+   "text": "It is ok. Kind of drying in our water but the smell is lasting",
+   "date": "2025-09-08"
+  },
+  {
+   "id": 752728829,
+   "stars": 3,
+   "text": "disappointing. I am not really noticing a difference",
+   "date": "2025-09-02"
+  },
+  {
+   "id": 732849260,
+   "stars": 3,
+   "text": "Smells great!. It's a dense bar, so it doesn't melt in water and it dries well. It has a lovely lather and a great scent that's not overwhelming",
+   "date": "2025-07-27"
+  },
+  {
+   "id": 724076794,
+   "stars": 3,
+   "text": "I prefer the Sensitive Skin version. I appreciate the brand and the quality of the product. However, I have found that the sensitive skin version offers better hydration for the skin after showering",
+   "date": "2025-07-01"
+  },
+  {
+   "id": 720074838,
+   "stars": 3,
+   "text": "Persimmon soap. I have just started using this so that is why it's 3 stars, as I am still reviewing. But I definitely have noticed a difference since I was using it. I think, with a few more weeks use in this hot humid weather, I'll be re-rating it",
+   "date": "2025-06-21"
+  },
+  {
+   "id": 690223516,
+   "stars": 3,
+   "text": "Meh. It’s ok. Nothing outstanding about it",
+   "date": "2025-03-18"
+  },
+  {
+   "id": 663516188,
+   "stars": 3,
+   "text": "Expensive. Would not buy again, expensive and other soaps, shower gels etc do the same we job",
+   "date": "2024-12-28"
+  },
+  {
+   "id": 662579450,
+   "stars": 3,
+   "text": "Meh/okay. I have seen ads for this soap for a year, so I thought I would try it. It’s okay. Smells okay, a barely-there scent. I have found the soap to irritate my nether regions a bit, so I have stopped using it",
+   "date": "2024-12-25"
+  },
+  {
+   "id": 654340956,
+   "stars": 3,
+   "text": "I don't see any results. I don't see any difference yet. Will update after further used",
+   "date": "2024-11-26"
+  },
+  {
+   "id": 653048937,
+   "stars": 3,
+   "text": "Not Sure. I have used the soap. I didn’t even think about old person smell until I saw your ad. I like it ok. But I don’t like the smell. I like citrus smells in the bath. Anyway I don’t think I’m ready to say 67 is old lady smell. I might try again later. :)",
+   "date": "2024-11-20"
+  },
+  {
+   "id": 610258081,
+   "stars": 3,
+   "text": "It okay. The smell of the soap is mild. I don’t stink, but maybe I just can’t tell the difference",
+   "date": "2024-08-13"
+  },
+  {
+   "id": 609569810,
+   "stars": 3,
+   "text": "Notice no difference. I do notice any difference in using this soap and I don't smell any scent either. I was hoping there would be a nice scent",
+   "date": "2024-08-12"
+  },
+  {
+   "id": 605988230,
+   "stars": 3,
+   "text": "Persimmon soap. I like the soap but it doesn’t have hardly any scent",
+   "date": "2024-07-31"
+  },
+  {
+   "id": 602650284,
+   "stars": 3,
+   "text": "So far so good just. So far so good just used it yesterday",
+   "date": "2024-07-23"
+  },
+  {
+   "id": 595242316,
+   "stars": 3,
+   "text": "I like it however it. I like it however it is not controlling body Oder as I expect and as was advertised… sorry but I think I’m using it correctly",
+   "date": "2024-07-01"
+  },
+  {
+   "id": 588509363,
+   "stars": 3,
+   "text": "Very small. This soap has no immediate appeal in addition to the bar being very tiny for the price. This product is fragrance free",
+   "date": "2024-06-07"
+  },
+  {
+   "id": 576489559,
+   "stars": 3,
+   "text": "Works. Don't like the 'Squeaky' feel on my skin when rinsing off. Believe it works so will have to get used to it",
+   "date": "2024-04-28"
+  },
+  {
+   "id": 540702233,
+   "stars": 3,
+   "text": "I don’t want to submit. I don’t want to submit a review I want to cancel my subscription I get too many soaps",
+   "date": "2024-01-30"
+  },
+  {
+   "id": 537586852,
+   "stars": 3,
+   "text": "I enjoy the soap, but. I enjoy the soap, but the price is very high for my budget",
+   "date": "2024-01-17"
+  },
+  {
+   "id": 536984323,
+   "stars": 3,
+   "text": "In my opinion…no difference than. In my opinion…no difference than any other soap!!",
+   "date": "2024-01-14"
+  },
+  {
+   "id": 533459611,
+   "stars": 3,
+   "text": "Good soap. This soap is good, the scent is a bit odd but doesn't linger. Acidified bar soap works better for us",
+   "date": "2023-12-28"
+  },
+  {
+   "id": 533009005,
+   "stars": 3,
+   "text": "Too much. Too expensive for cheap soap",
+   "date": "2023-12-26"
+  },
+  {
+   "id": 527561119,
+   "stars": 3,
+   "text": "Too soon. Too soon to tell",
+   "date": "2023-12-03"
+  },
+  {
+   "id": 524978518,
+   "stars": 3,
+   "text": "Okay soap. Has no fragrance...?? I thought it would be persimmon?",
+   "date": "2023-11-21"
+  },
+  {
+   "id": 524060673,
+   "stars": 3,
+   "text": "It’s okay. It’s ok nothing special. Squeaky clean feeling",
+   "date": "2023-11-17"
+  },
+  {
+   "id": 523074084,
+   "stars": 3,
+   "text": "Not really noticing a difference.. I guess I haven't really noticed a difference",
+   "date": "2023-11-13"
+  },
+  {
+   "id": 521641163,
+   "stars": 3,
+   "text": "Hardly Any Scent. I really don't notice much of any scent in the soap or on my body after after using the soap. Everyone comments on the great smell. Am I missing something?",
+   "date": "2023-11-06"
+  },
+  {
+   "id": 521464794,
+   "stars": 3,
+   "text": "No different than ordinary soap. No different than ordinary soap",
+   "date": "2023-11-05"
+  },
+  {
+   "id": 520056925,
+   "stars": 3,
+   "text": "It makes me itch.. It makes me itch",
+   "date": "2023-11-03"
+  },
+  {
+   "id": 506049689,
+   "stars": 3,
+   "text": "Need more time to review. I’m still in the process of trying out the product. I bought it with the hope it would work well but I need more time to evaluate it",
+   "date": "2023-09-29"
+  },
+  {
+   "id": 480207827,
+   "stars": 3,
+   "text": "It’s ok. Ok. Not crazy about how it smells",
+   "date": "2023-06-28"
+  },
+  {
+   "id": 478094552,
+   "stars": 3,
+   "text": "OK. It’s an OK soap",
+   "date": "2023-06-20"
+  },
+  {
+   "id": 476566297,
+   "stars": 3,
+   "text": "Soap is okay. The product did an okay job but the jury is still out as far as Oder-killing goes",
+   "date": "2023-06-14"
+  },
+  {
+   "id": 448084807,
+   "stars": 3,
+   "text": "Fix the bottle pumps. I’ve used about 4 bottles and the pumps have broken in two of the bottles",
+   "date": "2023-02-26"
+  },
+  {
+   "id": 430519755,
+   "stars": 3,
+   "text": "Doesn't last very long. Bought it for my husband who refuses to use socks with his sneakers. It's OK but melts very easily. I htink we need a longer lasting deodorant soap than you make",
+   "date": "2023-01-07"
+  },
+  {
+   "id": 409327027,
+   "stars": 3,
+   "text": "Not impressed. Lume is better. Not impressed. Lume is better",
+   "date": "2022-10-11"
+  },
+  {
+   "id": 390788091,
+   "stars": 3,
+   "text": "Nothing special. Nothing special",
+   "date": "2022-08-06"
+  },
+  {
+   "id": 390441658,
+   "stars": 3,
+   "text": "Hopeful that it works well!. I'm not sure it works for my husbands odour. I found that it made me sore in personal places. I am better now so I am going to try it again to see whether it was a coincidence or not. I really want to like this product, but I also think it is overpriced",
+   "date": "2022-08-04"
+  },
+  {
+   "id": 390137389,
+   "stars": 3,
+   "text": "Japanese persimmon soap. Makes skin soft",
+   "date": "2022-08-03"
+  },
+  {
+   "id": 388041677,
+   "stars": 3,
+   "text": "Japanese Persimmon Soap. Has almost 0 scent. Seems to do as advertised",
+   "date": "2022-07-26"
+  },
+  {
+   "id": 355571919,
+   "stars": 3,
+   "text": "Not as good as Lume. OK as a soap. Does not provide lasting odor protection like Lume",
+   "date": "2022-04-10"
+  },
+  {
+   "id": 319592081,
+   "stars": 3,
+   "text": "Could do without it. Can't say that it is any better than other deodorizer soaps",
+   "date": "2021-12-11"
+  },
+  {
+   "id": 251889400,
+   "stars": 3,
+   "text": "Disappointed in soap. I bought the soap and I was hesitate since it was so expensive. The soap is smaller then it looks and I didn’t notice any difference. I myself would not recommend it",
+   "date": "2021-05-03"
+  },
+  {
+   "id": 236732153,
+   "stars": 3,
+   "text": "Good soap. Nothing special.. Good soap. Nothing special",
+   "date": "2021-03-07"
+  },
+  {
+   "id": 195315020,
+   "stars": 3,
+   "text": "Made Skin Dry and Itchy. This is a drying but nice lathering soap. It is too strong to use on sensitive skin and caused itching and burning on the skin around my eyes",
+   "date": "2020-09-03"
+  },
+  {
+   "id": 169563546,
+   "stars": 3,
+   "text": "Soap bar. The deodorizing soap bar helps reduce nonal sweat odors. It is short acting so requires washes several times a day but I havenâ€™t found any deodorant that controls as well",
+   "date": "2019-11-28"
+  },
+  {
+   "id": 887721302,
+   "stars": 3,
+   "text": "There are others. This is NOT the only persimmon soap on the market…Kaori has one that is excellent and not as expensive!!!!!",
+   "date": "2026-09-08"
+  },
+  {
+   "id": 697013514,
+   "stars": 3,
+   "text": "Damaged. My order did not arrive in a box but purple plastic. Upon opening everything inside, the package was wet. I discovered that the wipes were leaking. This company needs better packaging. I think that I will have to take out the wipes and put them in a Ziploc bag to use them so that they don’t dry out. Kind of disappointed On the plus side, the package sure smelled good",
+   "date": "2025-04-08"
+  },
+  {
+   "id": 883360774,
+   "stars": 3,
+   "text": "Love the citrus scent!. I love the way it lathers and the citrus scent is fresh and makes you feel clean and wakes you up. The soap rinses off well and doesn't leave a residue. The bar lasts pretty long too. I don't like the persimmon with green tea scent at all. Its not refreshing and doesn't leave a nice smell on my skin and I don't have that clean and refreshed feeling",
+   "date": "2026-08-21"
+  },
+  {
+   "id": 675518435,
+   "stars": 3,
+   "text": "Ad is misleading. Ad is misleading. If anything, the bar smells like hibiclens given to use before surgery",
+   "date": "2025-02-02"
+  }
+ ]
+}

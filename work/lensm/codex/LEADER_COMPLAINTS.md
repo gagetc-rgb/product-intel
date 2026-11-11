@@ -1,0 +1,104 @@
+# Leader complaints — partial
+
+## try-kaori.com
+On 2026-11-10, [Trustpilot](https://www.trustpilot.com/review/try-kaori.com) displayed 768 total reviews: 617 five-star, 119 four-star, 16 three-star, 2 two-star and 14 one-star. These are **all-profile counts**, not a distribution for the latest 200. The numeric score displayed was 4.7; the star image's accessible label said 4.5, so the exact score is unresolved.
+
+The [first page of 1–3-star reviews](https://www.trustpilot.com/review/try-kaori.com?stars=1&stars=2&stars=3) contains complaints about delays, refund responses, unexpected charges, small bars, dry skin and lack of perceived effect. These are reviewers' allegations, not established facts about the product or business. Counts by theme have not been coded. Better delivery and clearer checkout/refunds are potentially addressable; individual reactions and efficacy cannot be assumed fixable without product evidence.
+
+## earthlyderm.com
+
+On 2026-11-10, [Trustpilot](https://www.trustpilot.com/review/earthlyderm.com?sort=recency) showed a TrustScore of 4.8 and 379 reviews; the profile-wide distribution was 355 five-star, 9 four-star, zero three- or two-star and 15 one-star reviews. ◆ The platform separately displayed a notice that this company had been displaying Trustpilot content incorrectly. That notice is not proof that reviews are false. ◆◈
+
+The 200 latest visible reviews on pages 1–10, deduplicated by review URL, contained 183 five-star, 8 four-star, zero three- or two-star and 9 one-star reviews. Publication timestamps ranged from 2026-11-09 to 2025-10-01. ◆◈ This is not a US-only sample or a sales-weighted sample. Some praise customer service before receiving the product, so the score should not be read as a product efficacy measure. ◈
+
+The nine one-star reviews were independently coded into overlapping themes. Theme counts do not sum to nine: delivery/shipping 4; billing/subscription 2; support/returns/refunds 6; product experience 4; lack of perceived effect 3. ◈ All are allegations, not independently established findings.
+
+- Delivery: [buyer reports no goods or refund](https://www.trustpilot.com/reviews/6aed61875e5c21a0229f667c); [label allegedly created but parcel not dispatched](https://www.trustpilot.com/reviews/6ac94e1a6c6e1629b4606bee); [buyer reports no dispatch confirmation and refused cancellation](https://www.trustpilot.com/reviews/6ab9407ba7839e8fb7fce9c8); [UK buyer reports late delivery and no resolution](https://www.trustpilot.com/reviews/694925687a998228280852bf).
+- Billing/subscription: [subscriber reports no notice before renewal](https://www.trustpilot.com/reviews/6abe9f91560a9763b904757d); [buyer reports another order and charge while seeking a refund](https://www.trustpilot.com/reviews/6aa314d1df0bef420286ba7c). Only two examples in this sample; a third was not invented.
+- Support/refunds: the first two delivery cases above, the subscription renewal case, the cancellation case, the additional-charge case, and the UK delivery case describe problems with communication, cancellation, return or refund. In particular, one buyer says [a returned order remained unrefunded](https://www.trustpilot.com/reviews/6abe9f91560a9763b904757d); another says [a cancellation was refused](https://www.trustpilot.com/reviews/6ab9407ba7839e8fb7fce9c8); a third says [return instructions were needed](https://www.trustpilot.com/reviews/6aa314d1df0bef420286ba7c).
+- Product experience: four mention dryness, irritation or poor lather: [dry skin and repeat shipment](https://www.trustpilot.com/reviews/6aa314d1df0bef420286ba7c); [dryness and no visible effect](https://www.trustpilot.com/reviews/6a8a374e59125962beb76802); [red, sensitive skin and difficult lather](https://www.trustpilot.com/reviews/69ac0cf7114dda816798da7f); [dryness and no improvement](https://www.trustpilot.com/reviews/690c585ab00f6145d008c38f).
+- Lack of perceived effect: [no improvement after about three months](https://www.trustpilot.com/reviews/6a8a374e59125962beb76802); [no change to dark marks](https://www.trustpilot.com/reviews/69ac0cf7114dda816798da7f); [no improvement after two to three months](https://www.trustpilot.com/reviews/690c585ab00f6145d008c38f).
+
+Clear renewal consent, advance reminders, usable cancellation and prompt tracking/refund communication are operational improvements a follower can attempt. Individual skin reactions and a product's actual effect require separate testing and cannot be inferred from this small self-selected sample. ◈
+
+## miraiclinical.com
+
+On 2026-11-10, [Trustpilot](https://www.trustpilot.com/review/miraiclinical.com?sort=recency) showed numeric TrustScore 4.3 and 271 reviews, including 190 five-star, 29 four-star, 22 three-star, 10 two-star and 20 one-star reviews. ◆ The star image's accessible label says 4.5 out of 5; the numeric displayed TrustScore is 4.3. ◆
+
+The 200 latest unique reviews on pages 1–10 contained 143 five-star, 22 four-star, 15 three-star, 9 two-star and 11 one-star reviews, with publication timestamps unknown: original date window was incorrect and all 200 identifiers were not retained. ◆◈ Review publication dates are not purchase dates, and the profile includes several product lines and non-US reviewers. The reviews cannot be interpreted as a product-specific US sales measure. ◈
+
+Manual non-exclusive coding of all 35 low-star reviews in this sample: shipping/delivery 12/35 (34.3%); product experience 9/35 (25.7%); no perceived effect 9/35 (25.7%); billing/subscription 4/35 (11.4%); support/refunds 4/35 (11.4%). Categories overlap and do not add to 100%; some reviews were too vague or concerned price. The complete review-level coding and links are in `mirai_low_review_codes.csv`. These are reviewer experiences and allegations, not verified facts. ◈
+
+- Shipping/delivery: [buyer reports a long wait](https://www.trustpilot.com/reviews/6aecb6ae454186b3d9f37e30); [buyer reports missing merchandise](https://www.trustpilot.com/reviews/6ae3717aa28dda7b43793b94); [buyer describes an uncertain arrival date](https://www.trustpilot.com/reviews/6ae37147624c3d9b1d8cfcfc).
+- Product experience: [buyer reports a non-working pump](https://www.trustpilot.com/reviews/6aeb55374cace8fd782d9256); [another says skin felt dry and tight](https://www.trustpilot.com/reviews/6ae618870efa0aee5d492f32); [another disliked a residue](https://www.trustpilot.com/reviews/6ae3894117cd07b0f6dab034). One review about a spray did not make clear whether the complaint was mechanical or efficacy-related, so it was coded as product experience only.
+- No perceived effect: [buyer saw no difference in odor](https://www.trustpilot.com/reviews/6aecb6ae454186b3d9f37e30); [another saw no difference in skin](https://www.trustpilot.com/reviews/6aeb68e4f8481a25b4cfe0a5); [another said odor remained](https://www.trustpilot.com/reviews/6ae23cc14e48acb314d13bd6). The sample covers the company's different products and includes one reviewer describing an expectation about a medical condition; that does not establish the product was intended to treat it.
+- Billing/subscription: [difficulty cancelling and unwanted shipments](https://www.trustpilot.com/reviews/6aeb70bf4c99850686dec213); [shipment after requested cancellation](https://www.trustpilot.com/reviews/6aeb60a122b470f29a2c6fa5); [coupon and duplicate shipping charge on a subscription](https://www.trustpilot.com/reviews/6aeb63c8824dce060402e839). A fourth review concerns changing checkout prices, tax and shipping in the EU.
+- Support/refunds: [buyer says cancelling was difficult](https://www.trustpilot.com/reviews/6aeb70bf4c99850686dec213); [another asks how to cancel](https://www.trustpilot.com/reviews/6aeb60a122b470f29a2c6fa5); [another says calls went unanswered](https://www.trustpilot.com/reviews/6ae726fa1d22827deed00af9). A fourth describes dissatisfaction with customer service without details.
+
+Faster fulfillment, clear recurring-order controls and better support are operational changes a follower can attempt. Pump design and skin feel require product testing and supplier changes; no evidence from these reviews establishes that a claimed effect can be fixed. ◈
+
+Other named leaders are not yet systematically coded.
+
+## GODA and Smooche — profile identity warnings, not completed complaint coding
+
+On 2026-11-10 a search-service copy of the public [goda.co Trustpilot profile](https://www.trustpilot.com/review/goda.co), reported crawled the previous day, showed 81 reviews, TrustScore 1.5 and rounded profile-wide distributions 5★ 6%, 4★ 0%, 3★ 0%, 2★ 1%, 1★ 93%. The same service's copy of the separate [godaperfume.com profile](https://www.trustpilot.com/review/godaperfume.com), reported crawled today, showed 15,766 reviews, TrustScore 4.0 and 5★ 57%, 4★ 15%, 3★ 7%, 2★ 2%, 1★ 19%. Both profiles link their Visit website control to goda.co. ◆◈ They must not be combined or assumed to measure the same population; they include multiple products and locations, and the two snapshots were crawled at different times. The required latest-200 sample and review-level theme coding remain uncollected. Some reviews describe perfume rather than the body oil.
+
+On 2026-11-10 a search-service copy of [Smooche on Trustpilot](https://www.trustpilot.com/review/smooche.com), reported crawled today, displayed 10,769 reviews and stated that its rating was unavailable due to a breach of guidelines. Trustpilot specifically says the company pressured people to change or remove negative reviews. This is a statement made by Trustpilot, not a conclusion independently verified by this research. ◆ The profile-wide displayed percentages (71%, 12%, 3%, 2%, 12% from 5★ to 1★) are rounded, are not the latest-200 sample, and cover multiple products and countries. The rating suppression and notice make the displayed profile statistics inappropriate as a clean product-quality measure. ◈
+
+## Prime Prometics — live Trustpilot sample, 2026-11-10
+
+◆ [Profile sorted by most recent](https://www.trustpilot.com/review/primeprometics.com?sort=recency): numeric TrustScore 4.3, 4,475 reviews; profile-wide five/four/three/two/one-star counts 3,316/252/100/139/668. Trustpilot says this profile includes merged reviews. Counts are a live snapshot and can change.
+
+◈ The first 200 **distinct** displayed review IDs across ten pages have 148 five-star, 13 four-star, 3 three-star, 6 two-star and 30 one-star reviews. The newest and oldest displayed endpoint timestamps were 2026-11-10 and 2026-10-01; some review timestamps reflect edits. This is a global, multi-product and self-selected sample, not a US-only or color-changing-foundation sample. The 39 low-star review IDs and non-exclusive codes are in `prime_low_review_codes.csv`; the 161 other IDs were not retained individually. Reviewers' accounts are allegations, not verified findings.
+
+◈ Of 39 low-star reviews: product experience 23; support/refunds 21; no perceived effect 9; shipping 4; billing/checkout 3; other 2. Codes can overlap. In particular, a complaint about color, texture or a broken applicator is product experience, while no perceived promised result is coded as no effect. A hypothetical fear of being denied a return is not coded as an actual support failure. The company disputes some accounts; one [response](https://www.trustpilot.com/reviews/6af27c6506afb6cfd78124c4) says a refund was processed.
+
+Examples, paraphrased and linked:
+
+- **Product:** [foundation appeared yellow and heavy](https://www.trustpilot.com/reviews/6adadd413aba7dd5b99626d9); [eye product's applicator dispensed unevenly](https://www.trustpilot.com/reviews/6ae66a5cade265ece769bb3d); [lip product was dry on arrival](https://www.trustpilot.com/reviews/6ae7be72d297a470a90a9318).
+- **Support/refunds:** [one buyer reported repeated return requests](https://www.trustpilot.com/reviews/6af27c6506afb6cfd78124c4); [a purchaser reported no response](https://www.trustpilot.com/reviews/6ae0b25c269d40a890d12bd5); [a buyer said a faulty item's replacement was refused](https://www.trustpilot.com/reviews/6adf939d9b9c8f9cdbd9a61a).
+- **No perceived effect:** [eye product did not reduce puffiness](https://www.trustpilot.com/reviews/6aea7c504f7b7fc3476b66c3); [lip color faded quickly](https://www.trustpilot.com/reviews/6adcef17c86a9d7d75397d6f); [a buyer reported no difference from eye cream](https://www.trustpilot.com/reviews/6acff4c71a1a5093e07e064f).
+- **Shipping:** [buyer reported non-delivery](https://www.trustpilot.com/reviews/6ad82e068ad5682ec800b7d1); [items allegedly omitted from order](https://www.trustpilot.com/reviews/6aca1ce9bddf8685cc399de7); [tracking allegedly did not show processing](https://www.trustpilot.com/reviews/6ac56896d5754a2220c580f5).
+- **Billing:** [discount and free-shipping interaction was unclear](https://www.trustpilot.com/reviews/6af1280240493511ab1104d7); [checkout total appeared inconsistent](https://www.trustpilot.com/reviews/6ae3991e5a9635a05dad2e4e); [bundle price allegedly exceeded promotion](https://www.trustpilot.com/reviews/6ac39d6e8369e4608720f552). A discrepancy is not independently reconciled with tax, shipping or promotion terms.
+
+**Potentially fixable:** clearer checkout and refund terms, reliable applicators, visible order tracking and responsive support. **Not established:** whether a follower's formulation would suit all skin tones or prevent individual sensitivity; these reviews cannot establish product-wide defect or reaction rates.
+
+## TrySkult — 19 Trustpilot reviews, 2026-11-10
+
+◆ [Exact-domain profile](https://www.trustpilot.com/review/tryskult.com?sort=recency): 1.7 numeric score, 19 reviews: 18 one-star and 1 two-star. The profile is claimed and links to tryskult.com. Trustpilot separately shows a `skult.com` profile; the profiles are not merged here. This small, self-selected global set covers different products, including skincare and a chin wrap, not necessarily one SKU.
+
+◈ All 19 reviews were read and manually coded; non-exclusive counts: product 3, shipping 11, billing 4, support 11, no_effect 1, other 2. See `skult_low_review_codes.csv` for individual links. These are unverified reviewer allegations, not independently established transactions or rates. Examples: [alleged unwanted renewal](https://www.trustpilot.com/reviews/6acf490bcdbe5198b7af12a1), [alleged non-delivery and charges](https://www.trustpilot.com/reviews/6a980d9131d35805c2012570), [reported chin-wrap irritation](https://www.trustpilot.com/reviews/69b728558f95e16bfeab13ab), and [tracking and cancellation complaint](https://www.trustpilot.com/reviews/698b0e18e46e34efd14c29a7). A follower could clarify subscription consent and cancellation, monitor delivery and improve fit; these reports do not establish how common such events are among all buyers.
+
+## Sproos — exact-domain Trustpilot check, 2026-11-10
+
+◆ [sproos.co profile](https://www.trustpilot.com/review/sproos.co?sort=recency) displayed zero reviews and a 0.0 placeholder. The profile is unclaimed, lists Colombia, and links to the exact domain; identity beyond the outbound domain was not verified. No complaint distribution can be calculated from zero reviews, and the absence of reviews is not evidence of product quality.
+
+## Ancestral Cosmetics — 92 available Trustpilot reviews, 2026-11-10
+
+◆ [Exact-domain profile](https://www.trustpilot.com/review/ancestralcosmetics.com?sort=recency): score 4.5 and 92 reviews, five/four/three/two/one-star counts 76/3/2/1/10. All 13 reviews in the [1–3-star filter](https://www.trustpilot.com/review/ancestralcosmetics.com?stars=1&stars=2&stars=3) were read and coded; overlapping counts: product 9, shipping 2, billing 2, support 5, no_effect 1. See `ancestral_low_review_codes.csv`. This is a global, self-selected, multi-product sample and allegations are not independently verified.
+
+Examples: [beef-like scent and a difficult return](https://www.trustpilot.com/reviews/6ab7fc97b82326caeb7b834f); [a reported skin breakout](https://www.trustpilot.com/reviews/6a23da3c5da0dcabbd87d2b7); [a delayed delivery](https://www.trustpilot.com/reviews/6968f4f9f7d4acb15d0a288d); and [a refund dispute](https://www.trustpilot.com/reviews/6ad5d000568c6602c87ad7bd). The seller says it processed the refund in that last case. Potentially fixable issues include product scent, packaging, clear return terms and delivery communications; individual skin responses and the prevalence of reactions cannot be inferred from this sample.
+
+## Everstride — latest 200 Trustpilot reviews, 2026-11-10
+
+◆ [Exact-domain profile](https://www.trustpilot.com/review/everstridesocks.com?sort=recency): TrustScore 4.7, 1,875 reviews; profile-wide five/four/three/two/one-star counts 1,576/163/31/22/83. ◈ The first 200 distinct cards across ten pages are 168/19/6/4/3 respectively; endpoint displayed timestamps 2026-11-09 and 2026-09-11. These are self-selected global reviews of different sock variants, not a US-only sample; timestamps may reflect edits.
+
+◈ Of 13 reviews with 1–3 stars: product 10, shipping 1, billing 0, support 2, no_effect 4, other 1, non-exclusive; individual sources are in `everstride_low_review_codes.csv`. Examples include [a hole after a single wear](https://www.trustpilot.com/reviews/6aef7dc54d6d7bc416f5d2cf), [heels wearing through repeatedly](https://www.trustpilot.com/reviews/6ab94092bce3422863a32276), [perceived weak compression](https://www.trustpilot.com/reviews/6ad185757ba74e67e3988b9f), [too-tight fit](https://www.trustpilot.com/reviews/6ac40877091e87b7be57e4fa), [return dispute](https://www.trustpilot.com/reviews/6aea709faa9ccf13af7eebf2), and [a late order with the wrong size](https://www.trustpilot.com/reviews/6aaad9bb1275a2fdb8a29669). One reviewer reported prompt replacement despite repeat holes. All are unverified accounts. A follower could test durability, size guidance and return handling; these reviews cannot establish population defect or medical outcomes.
+
+## Other exact-domain Trustpilot checks, 2026-11-10
+
+◆ [Scentify Home](https://www.trustpilot.com/review/scentifyhome.com?sort=recency) and [Terra Lotus](https://www.trustpilot.com/review/terralotus.shop?sort=recency) showed zero reviews; 0.0 is a no-review placeholder, not an actual quality rating. Terra Lotus profile was claimed in November 2026; that is not its business-creation date. ◆ [Babe Original](https://www.trustpilot.com/review/babeoriginal.com?sort=recency) showed two five-star reviews, score 3.8, and zero low-star reviews. These sparse profiles cannot support a meaningful complaint rate, and similar domain names are not merged.
+
+## Borboleta and Luxe — exact-domain identity checks, 2026-11-10
+
+◆ [borboleta.com](https://www.trustpilot.com/review/borboleta.com?sort=recency) shows zero reviews on an unclaimed exact-domain profile; it has no usable complaint rate. ◆ [luxe.com](https://www.trustpilot.com/review/luxe.com?sort=recency) also shows zero reviews, but Trustpilot categorizes the unclaimed profile as a valet-parking service. Its connection to the intended beauty leader is **unclear**; similarly named cosmetics profiles are separate identities and have not been merged.
+
+## Smooche — latest 200 Trustpilot reviews, 2026-11-10
+
+◆ [Exact-domain profile](https://www.trustpilot.com/review/smooche.com?sort=recency) displayed 10,820 reviews; Trustpilot withheld the rating and stated the business pressured people to alter or remove negative reviews. This is Trustpilot's notice. Profile-wide five/four/three/two/one-star counts were 7,754/1,298/301/185/1,282. ◈ The first 200 distinct cards across ten pages were 151/31/5/4/9; displayed endpoint timestamps 2026-11-10 to 2026-11-09. This short, global, multi-product and self-selected sample is affected by the platform warning.
+
+◈ Of the 18 low-star reviews: product 8, shipping 1, billing 8, support 9, no_effect 5, other 3; codes overlap. Individual IDs and links are in `smooche_low_review_codes.csv`. Examples are allegations: [another shipment after attempted cancellation](https://www.trustpilot.com/reviews/6af2cfbb132bf116c14d063b), [foundation looked pale and patchy](https://www.trustpilot.com/reviews/6af241d1b4f05a71e7329712), [reported no response to refund requests](https://www.trustpilot.com/reviews/6af1ee5f34edc1129520c461), and [unclear bundle pricing](https://www.trustpilot.com/reviews/6af209e78ffe13f829b0ff0c). A follower could improve opt-in clarity, cancellation, product shade communication and support; these observations do not establish actual rates or verify claims.
+
+## GODA — exact-domain profile blocked, 2026-11-10
+
+◆ The logged-off in-app browser showed connection verification at [goda.co Trustpilot](https://www.trustpilot.com/review/goda.co?sort=recency); no bypass attempted. Its latest 200 reviews remain unknown. `godaperfume.com` is a separate Trustpilot profile and was not merged with this one.

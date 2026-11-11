@@ -1,0 +1,330 @@
+{
+ "phrase": "superfeet.com",
+ "date": "2026-11-10",
+ "active": 940,
+ "aged30": 500,
+ "aged90": 380,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1516446813485690",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1019026810718631",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2790510894668179",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1342018387354883",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-02",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2367001690708350",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1539424521306343",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1328957838793293",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "984080887737568",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3536843816483196",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "810426535488760",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-14",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "964396179895327",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1833876454051997",
+   "page": "Superfeet Worldwide",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1675044656889842",
+   "page": "Superfeet Worldwide",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2278074629651948",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-02",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2151623418951949",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-02",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "875070198545101",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1890891808226157",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "989112577069789",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "27744525828546598",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1717900759427746",
+   "page": "Superfeet Worldwide",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1018516620555360",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1682094203121017",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "881095877853675",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1565503681737498",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2096980837846004",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1387838496562512",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "996123659978435",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2166182430828469",
+   "page": "Superfeet Worldwide",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "4556606644570691",
+   "page": "Superfeet Worldwide",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2125732508153625",
+   "page": "Superfeet Worldwide",
+   "start": "2026-09-28",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1866178521229863",
+   "page": "Superfeet Worldwide",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2150779729156237",
+   "page": "Superfeet Worldwide",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1420825086829942",
+   "page": "Superfeet Worldwide",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1131189472935830",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1708968333527641",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1561921588956247",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-16",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "4478190619062782",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1052834531077910",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1787805662502034",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-29",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1262613752754325",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-29",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

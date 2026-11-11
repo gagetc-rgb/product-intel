@@ -1,0 +1,45 @@
+{
+ "domain": "purriq.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2025-09-03",
+ "ads": "46",
+ "pages": [],
+ "home": {
+  "url": "https://purriq.com/?currency=USD",
+  "final": "https://purriq.com/?currency=USD",
+  "status": 200,
+  "title": "Purriq",
+  "desc": "",
+  "kw_hits": [
+   " Shipping 60-Day Money Back Guarantee Menu Home Shop Purriq Dental Powder Shop Purriq Sticks Track Your Order Contact Home Shop Purriq Dental Powd",
+   "hop Purriq Sticks Track Your Order Contact Home Shop Purriq Dental Powder Shop Purriq Sticks Track Your Order Contact Search Cart Your cart is emp",
+   "ping! Loading... Frequently Bought Together: Purriq Natural Silvervine Dental Sticks $39.99 $50.00 5 Silvervine Sticks 10 Silvervine Sticks 20 Silverv",
+   "ng... Frequently Bought Together: Purriq Natural Silvervine Dental Sticks $39.99 $50.00 5 Silvervine Sticks 10 Silvervine Sticks 20 Silvervine Sti"
+  ],
+  "kw_n": 16,
+  "prices": [
+   "$39.99",
+   "$50.00",
+   "$14.99",
+   "$40.00",
+   "$9.99",
+   "$9.99",
+   "$3.99",
+   "$3.99"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "Our Policies Privacy Policy Shipping Policy Refund Policy Subscription Policy Terms Of Service Subscribe to our emails Join our em"
+  ],
+  "epa": [],
+  "len": 3652
+ },
+ "rdap": "2025-08-20",
+ "wayback": "2025-09-19",
+ "age_class": "young"
+}

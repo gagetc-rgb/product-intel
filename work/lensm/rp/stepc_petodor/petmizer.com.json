@@ -1,0 +1,37 @@
+{
+ "domain": "petmizer.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-04-30",
+ "ads": "3",
+ "pages": [],
+ "home": {
+  "url": "https://petmizer.com/?currency=USD",
+  "final": "https://petmizer.com/?currency=USD",
+  "status": 200,
+  "title": "Petmizer",
+  "desc": "",
+  "kw_hits": [
+   "-- : -- : -- Sale Has Ended! Open media 1 in modal 2x Extra Enzyme Spray Refills View full details Open media 1 in modal PetMizer™ Enzyme Fogger V",
+   "y Refills View full details Open media 1 in modal PetMizer™ Enzyme Fogger View full details Quick links Contact Information Privacy Policy Refund "
+  ],
+  "kw_n": 2,
+  "prices": [
+   "$0.00"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "Home Catalog Contact Track Order Manage Subscription Log in Home Catalog Contact Track Order Manage Subscription",
+   "Shop Home Catalog Contact Track Order Manage Subscription Need to Get in Touch? 24/7 Customer Support: support@petmiz"
+  ],
+  "epa": [],
+  "len": 1187
+ },
+ "rdap": "2026-04-20",
+ "wayback": "none",
+ "age_class": "young"
+}

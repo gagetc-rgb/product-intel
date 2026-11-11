@@ -1,0 +1,31 @@
+{
+ "urls": [
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=hanaekorea.com&search_type=keyword_unordered&media_type=all&start_date[min]=2024-01-01&start_date[max]=2026-08-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=try-kaori.com&search_type=keyword_unordered&media_type=all&start_date[min]=2024-01-01&start_date[max]=2026-08-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=wildgoldtallow.com&search_type=keyword_unordered&media_type=all&start_date[min]=2024-01-01&start_date[max]=2026-08-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=bare-ritual.com&search_type=keyword_unordered&media_type=all&start_date[min]=2024-01-01&start_date[max]=2026-08-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=getmyto.com&search_type=keyword_unordered&media_type=all&start_date[min]=2024-01-01&start_date[max]=2026-08-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=trymooths.com&search_type=keyword_unordered&media_type=all&start_date[min]=2024-01-01&start_date[max]=2026-08-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=facelove-cosmetics.com&search_type=keyword_unordered&media_type=all&start_date[min]=2024-01-01&start_date[max]=2026-08-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=buykglow.com&search_type=keyword_unordered&media_type=all&start_date[min]=2024-01-01&start_date[max]=2026-08-13"
+  }
+ ],
+ "count": 3000,
+ "limitPerSource": 400,
+ "scrapeAdDetails": false
+}

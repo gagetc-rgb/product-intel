@@ -1,0 +1,36 @@
+{
+ "domain": "toddwexler.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2025-10-01",
+ "ads": "8",
+ "pages": [],
+ "home": {
+  "url": "https://toddwexler.com/?currency=USD",
+  "final": "https://toddwexler.com/?currency=USD",
+  "status": 200,
+  "title": "Todd Wexler",
+  "desc": "Explore Todd Wexler's latest collection of refined, high-quality fashion pieces. Each item is crafted with meticulous attention to detail, blending traditional craftmanship with modern style. Discover your perfect look with Todd Wexler today.",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$50",
+   "$50.00",
+   "$2.50",
+   "$0.00",
+   "$109.99",
+   "$85.99",
+   "$60.99",
+   "$129.99"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 2123
+ },
+ "rdap": "2025-03-06",
+ "wayback": "2025-03-06",
+ "age_class": "young"
+}

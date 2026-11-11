@@ -1,0 +1,290 @@
+{
+ "phrase": "getxstance.com",
+ "date": "2026-11-10",
+ "active": 470,
+ "aged30": 350,
+ "aged90": 280,
+ "aged180": 170,
+ "ads": [
+  {
+   "id": "2303742590036985",
+   "page": "The Xstance",
+   "start": "2025-09-30",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "739118252545796",
+   "page": "The Xstance",
+   "start": "2025-11-09",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1634142860880610",
+   "page": "The Xstance",
+   "start": "2025-10-24",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "898928935810571",
+   "page": "The Xstance",
+   "start": "2026-01-19",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1394502396043790",
+   "page": "The Xstance",
+   "start": "2026-03-16",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1171769408444145",
+   "page": "The Xstance",
+   "start": "2025-11-08",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "698354816660619",
+   "page": "The Xstance",
+   "start": "2025-11-12",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1582029776384509",
+   "page": "The Xstance",
+   "start": "2026-02-28",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "533238433000641",
+   "page": "The Xstance",
+   "start": "2025-05-01",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1207574611484181",
+   "page": "The Xstance",
+   "start": "2025-12-26",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "924906970133193",
+   "page": "The Xstance",
+   "start": "2026-03-08",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1292214279339345",
+   "page": "The Xstance",
+   "start": "2025-11-07",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "887027810922117",
+   "page": "The Xstance",
+   "start": "2026-02-10",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "4126002247691166",
+   "page": "The Xstance",
+   "start": "2026-03-31",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "891594123597335",
+   "page": "The Xstance",
+   "start": "2026-01-26",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1392635818736168",
+   "page": "The Xstance",
+   "start": "2025-05-01",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "933098395898814",
+   "page": "The Xstance",
+   "start": "2026-01-19",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "900121119216835",
+   "page": "The Xstance",
+   "start": "2025-12-26",
+   "n": 4,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1460137838991504",
+   "page": "Foot Care Tips",
+   "start": "2026-04-11",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "2001252370696076",
+   "page": "The Xstance",
+   "start": "2025-11-05",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1146977417509740",
+   "page": "The Xstance",
+   "start": "2025-12-26",
+   "n": 4,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1751585052179822",
+   "page": "The Xstance",
+   "start": "2025-12-25",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1963467651035700",
+   "page": "Foot Care Tips",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1647717869995241",
+   "page": "The Xstance",
+   "start": "2026-02-17",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "904796338931336",
+   "page": "The Xstance",
+   "start": "2026-03-10",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "950059777886372",
+   "page": "Foot Care Tips",
+   "start": "2026-04-18",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "3654150861556166",
+   "page": "Nurse Melanie Jade B with The Xstance",
+   "start": "2025-08-15",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1706676257432499",
+   "page": "The Xstance",
+   "start": "2026-04-16",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "2696366007383915",
+   "page": "The Xstance",
+   "start": "2025-10-24",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "4413739822201957",
+   "page": "The Xstance",
+   "start": "2026-07-22",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1021002173645002",
+   "page": "The Xstance",
+   "start": "2026-06-24",
+   "n": 3,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2423443541497029",
+   "page": "The Xstance",
+   "start": "2026-07-02",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1702801054099871",
+   "page": "The Xstance",
+   "start": "2026-06-29",
+   "n": 4,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1103032412384715",
+   "page": "The Xstance",
+   "start": "2026-07-29",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1393174652925368",
+   "page": "Foot Care Tips",
+   "start": "2026-09-04",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "30-90"
+  }
+ ]
+}

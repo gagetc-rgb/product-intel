@@ -1,0 +1,36 @@
+{
+ "domain": "trysnoots.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-10-19",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://trysnoots.com/?currency=USD",
+  "final": "https://trysnoots.com/?currency=USD",
+  "status": 200,
+  "title": "SNOOTS",
+  "desc": "",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$45",
+   "$49.00",
+   "$49.00",
+   "$50.00",
+   "$37.99"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "g Cat Diffuser Calming Cat Refills Shop Dogs Contact Manage Subscription Track Order USD Region and language Country/Region No resul",
+   "g Cat Diffuser Calming Cat Refills Shop Dogs Contact Manage Subscription Track Order More USD Region and language selector Country/R"
+  ],
+  "epa": [],
+  "len": 2440
+ },
+ "rdap": "2026-08-06",
+ "wayback": "2025-03-08",
+ "age_class": "young"
+}

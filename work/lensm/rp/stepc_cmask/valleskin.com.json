@@ -1,0 +1,47 @@
+{
+ "domain": "valleskin.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-10-28",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://valleskin.com/?currency=USD",
+  "final": "https://valleskin.com/?currency=USD",
+  "status": 200,
+  "title": "ValléSkin",
+  "desc": "",
+  "kw_hits": [
+   "out Your cart • 0 Loading... 87% of customers also bought 👇 Collagen Glow Up Mask 2.0 Regular price $47 Regular price $60 Sale price $47 ADD The Mas",
+   "dle Regular price $92 Regular price $190 Sale price $92 ADD Collagen Night Sealing Mask Regular price $60 Regular price $100 Sale price $60 ADD Eras",
+   "Plumper Skin by Tomorrow Morning Ultra-low molecular weight collagen that goes in your skin, not on it. See why 4 million masks have sold worldwide.",
+   "hat I'd been searching for: masks with real, clinical-grade collagen that actually penetrate your skin and deliver results. Today: 500,000+ Women Ha"
+  ],
+  "kw_n": 4,
+  "prices": [
+   "$47",
+   "$60",
+   "$47",
+   "$92",
+   "$190",
+   "$92",
+   "$60",
+   "$100"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD"
+  ],
+  "bundle": [
+   "$47 Regular price $60 Sale price $47 ADD The Mask Bundle Regular price $92 Regular price $190 Sale price $"
+  ],
+  "sub": [
+   "Policy Shipping Policy Cancellation Policy Terms of Service Subscription Management Policies Search Privacy Policy Refund Policy Shi",
+   "pping Policy Cancellation Policy Terms of Service Subscription Management Need to Get in Touch? Support Hours : Monday to"
+  ],
+  "epa": [],
+  "len": 13883
+ },
+ "rdap": "2026-03-24",
+ "wayback": "none",
+ "age_class": "young"
+}

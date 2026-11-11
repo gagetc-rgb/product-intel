@@ -1,0 +1,37 @@
+{
+ "urls": [
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=primeprometics.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-31"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=borboleta.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-02-21"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=ancestralcosmetics.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-04"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=sproos.co&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-06-18"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=miraiclinical.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-24"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=everstridesocks.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-04-08"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=ekmiveda.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-07"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=glomelanin.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-15"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=shopluuma.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-03-24"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=scentifyhome.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-02-08"
+  }
+ ],
+ "count": 1200,
+ "limitPerSource": 120,
+ "scrapeAdDetails": false
+}

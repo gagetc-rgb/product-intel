@@ -1,0 +1,38 @@
+{
+ "domain": "wearviceversa.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-06-24",
+ "ads": "6",
+ "pages": [],
+ "home": {
+  "url": "https://wearviceversa.com/?currency=USD",
+  "final": "https://wearviceversa.com/?currency=USD",
+  "status": 200,
+  "title": "VICE VERSA | Convertible Heels to Flats - Luxury & Comfort",
+  "desc": "For convertible high heels that fold to flats in seconds & the most comfortable heels you can wear for any occasion, shop Vice Versa's everyday luxury heels.",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$378",
+   "$318",
+   "$398",
+   "$248",
+   "$375",
+   "$335",
+   "$298",
+   "$378"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 5195
+ },
+ "rdap": "2018-12-19",
+ "wayback": "2013-03-29",
+ "age_class": "old"
+}

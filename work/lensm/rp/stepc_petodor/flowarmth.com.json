@@ -1,0 +1,44 @@
+{
+ "domain": "flowarmth.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-08-04",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://flowarmth.com/?currency=USD",
+  "final": "https://www.flowarmth.com/?currency=USD",
+  "status": 200,
+  "title": "flowarmth",
+  "desc": "flowarmth",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 1505
+ },
+ "landing": {
+  "url": "https://www.flowarmth.com/?currency=USD",
+  "final": "https://www.flowarmth.com/?currency=USD",
+  "status": 200,
+  "title": "flowarmth",
+  "desc": "flowarmth",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 1505
+ },
+ "rdap": "2022-08-08",
+ "wayback": "2023-10-30",
+ "age_class": "old"
+}

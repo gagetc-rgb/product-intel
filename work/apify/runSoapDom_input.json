@@ -1,0 +1,31 @@
+{
+ "urls": [
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=shopsolrise.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=myskincycle.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=aurellee.co&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=stemandsoul.co&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=cachinaturals.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=bellaviashop.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=swarva.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=glowvani.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  }
+ ],
+ "count": 1600,
+ "limitPerSource": 200,
+ "scrapeAdDetails": false
+}

@@ -217,3 +217,45 @@ A table of every source you tried: date, source, used for, result, verdict (keep
 5. Before reporting, attack your own result: for each top verdict, list the strongest reason it might be wrong (wrong form filter, generic phrase noise, one-snapshot spike, a dominant brand hidden under several names) and check it.
 
 What you hand back: `openness.csv`, the cards, the summary table, the method log, the pre-registration file, and the scripts — so anyone can re-run and get the same ranking.
+
+---
+
+## 9. Addendum 2026-11-10 (rules from method v2.2 and from the review of the first hand-in)
+
+Added after seeing the first result. Full text of these rules: `METRICS.md` (groups D and K). This section makes the brief complete on its own.
+
+### 9.1 Fit gate comes first
+
+Before any ranking, check whether the product can be sold legally and within platform rules in the target market. If not, the verdict is "skip", whatever the demand looks like.
+- Platform bans, patents, medical-device or drug status, health claims, chemical labelling (EU CLP), cosmetics rules (EU responsible person, CPNP), EU seller duties (VAT, packaging register, GPSR responsible person).
+- A way around a platform rule or a law is a **risk**, never a recommendation. Do not present it as an opportunity.
+- Legal and policy facts need the primary source (the regulator, the platform's own page or forum post), with a link.
+
+### 9.2 Open means proven in the target market
+
+"The US leaders do not advertise there" is not evidence of an open market. An empty shelf means "too early" or "no demand" until shown otherwise. A market is "open" only when steps 1-3 are measured **in that market**: units per month, share held by new named brands, number of newcomers at winner volume, cohort survival. Before writing "nobody sells this there", search in the local language on Amazon, at least two local marketplaces and the Meta library, and list what you found.
+
+### 9.3 Margin (D5)
+
+Per finalist: price − platform fees − supplier price × (1 + duty) − freight − returns − storage, before ads. On the middle of the range: 40%+ of price = good, 25-40% = tight, under 25% = bad. Supplier prices come from your own quotes or listings, never from a video. For own-store sales also state the ad cost per order you assume, marked ◇.
+
+### 9.4 "Price war" only from prices (D2)
+
+Use "price war" or "dumping" only when price history shows it: most top listings below their own 12-month average for 90+ days, prices still falling, entrants coming in below the leaders. Low prices today are not a price war.
+
+### 9.5 Keyword rules (K)
+
+- Before any pull, write per phrase: what it must capture, likely false matches, the synonyms buyers use.
+- Open what the phrase returns (top 20) and count the on-target share. Under 80%: filter or change the phrase. Record the share and the date next to the number.
+- Never one phrase: sum all common phrasings for the category; use identity (landing domain, ASIN, store) for brands.
+- A jump of 2× or more within 8 weeks needs a cause before the number is used.
+- Trends is relative: over 20% zero weeks in 2 years = too rare to use.
+
+### 9.6 What Meta can and cannot show
+
+- Spend is never shown. Reach is shown only for the EU and UK. A split such as "95% of the budget goes to the US" cannot be computed from the library. A third-party tool's figure is an estimate ◇ and must be named.
+- The age of the single oldest ad is not evidence. Report the share of ads aged 90+ and 180+ and the number of stores that have them.
+
+### 9.7 No single score
+
+Do not publish one blended number per product ("reality 88/100"). Show demand, concentration and newcomer survival separately, each with its source, date and ◆◈◇ mark.

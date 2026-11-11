@@ -1,0 +1,2818 @@
+{
+ "body_oil": {
+  "phrase": "crepey skin",
+  "date": "2026-11-07",
+  "active": 11000,
+  "aged90": 1100,
+  "aged180": 84,
+  "sample": 63,
+  "sample_no_domain": 31,
+  "stores": [
+   {
+    "domain": "thehealthcarpenter.com",
+    "ads": 1,
+    "max_age": 439,
+    "pages": [
+     "The Health Carpenter"
+    ],
+    "hosts": [
+     "www.thehealthcarpenter.com"
+    ]
+   },
+   {
+    "domain": "try-turmskin.com",
+    "ads": 13,
+    "max_age": 323,
+    "pages": [
+     "Amanda Grace",
+     "Korean Glow Skin Club",
+     "TurmSkin"
+    ],
+    "hosts": [
+     "quiz.try-turmskin.com",
+     "try-turmskin.com"
+    ]
+   },
+   {
+    "domain": "beflawlessmn.com",
+    "ads": 1,
+    "max_age": 275,
+    "pages": [
+     "Flawless Medspa"
+    ],
+    "hosts": [
+     "offer.beflawlessmn.com"
+    ]
+   },
+   {
+    "domain": "shopseravita.com",
+    "ads": 2,
+    "max_age": 239,
+    "pages": [
+     "SeraVita"
+    ],
+    "hosts": [
+     "offer.shopseravita.com",
+     "shopseravita.com"
+    ]
+   },
+   {
+    "domain": "spaoffers.co",
+    "ads": 1,
+    "max_age": 199,
+    "pages": [
+     "Peak Physical Medicine Visalia"
+    ],
+    "hosts": [
+     "peakphysicalmedicine.spaoffers.co"
+    ]
+   },
+   {
+    "domain": "myskindealer.com",
+    "ads": 1,
+    "max_age": 184,
+    "pages": [
+     "My Skin Dealer"
+    ],
+    "hosts": [
+     "myskindealer.com"
+    ]
+   },
+   {
+    "domain": "goda.co",
+    "ads": 6,
+    "max_age": 179,
+    "pages": [
+     "Over 40 & Fabulous",
+     "YiayiaEleni"
+    ],
+    "hosts": [
+     "goda.co"
+    ]
+   },
+   {
+    "domain": "eightsaintsskincare.com",
+    "ads": 1,
+    "max_age": 120,
+    "pages": [
+     "Eight Saints"
+    ],
+    "hosts": [
+     "eightsaintsskincare.com"
+    ]
+   },
+   {
+    "domain": "drmtlgy.com",
+    "ads": 1,
+    "max_age": 102,
+    "pages": [
+     "DRMTLGY"
+    ],
+    "hosts": [
+     "www.drmtlgy.com"
+    ]
+   },
+   {
+    "domain": "vitaecharm.com",
+    "ads": 1,
+    "max_age": 97,
+    "pages": [
+     "VitaeCharm"
+    ],
+    "hosts": [
+     "vitaecharm.com"
+    ]
+   },
+   {
+    "domain": "trymiamimd.com",
+    "ads": 1,
+    "max_age": 95,
+    "pages": [
+     "Miami MD"
+    ],
+    "hosts": [
+     "offer.trymiamimd.com"
+    ]
+   },
+   {
+    "domain": "stripesbeauty.us",
+    "ads": 1,
+    "max_age": 82,
+    "pages": [
+     "Stripes Beauty"
+    ],
+    "hosts": [
+     "stripesbeauty.us"
+    ]
+   },
+   {
+    "domain": "nordbody.com",
+    "ads": 1,
+    "max_age": 71,
+    "pages": [
+     "NØRD BODY"
+    ],
+    "hosts": [
+     "nordbody.com"
+    ]
+   },
+   {
+    "domain": "besque.co",
+    "ads": 1,
+    "max_age": 32,
+    "pages": [
+     "Besque"
+    ],
+    "hosts": [
+     "besque.co"
+    ]
+   }
+  ]
+ },
+ "chin_wrap": {
+  "phrase": "double chin",
+  "date": "2026-11-08",
+  "active": 7600,
+  "aged90": 570,
+  "aged180": 140,
+  "sample": 63,
+  "sample_no_domain": 22,
+  "stores": [
+   {
+    "domain": "thestudiomd.com",
+    "ads": 1,
+    "max_age": 779,
+    "pages": [
+     "Studio-MD"
+    ],
+    "hosts": [
+     "thestudiomd.com"
+    ]
+   },
+   {
+    "domain": "osanyinherbs.com",
+    "ads": 1,
+    "max_age": 530,
+    "pages": [
+     "Natures Vitality"
+    ],
+    "hosts": [
+     "osanyinherbs.com"
+    ]
+   },
+   {
+    "domain": "weareluna.store",
+    "ads": 2,
+    "max_age": 363,
+    "pages": [
+     "Soluna SKIN"
+    ],
+    "hosts": [
+     "weareluna.store"
+    ]
+   },
+   {
+    "domain": "tryskult.com",
+    "ads": 4,
+    "max_age": 328,
+    "pages": [
+     "Skult",
+     "Tryskult"
+    ],
+    "hosts": [
+     "tryskult.com"
+    ]
+   },
+   {
+    "domain": "mariahbeautyservice.com",
+    "ads": 1,
+    "max_age": 312,
+    "pages": [
+     "Mariah - Beauty Services"
+    ],
+    "hosts": [
+     "mariahbeautyservice.com"
+    ]
+   },
+   {
+    "domain": "whatsapp.com",
+    "ads": 1,
+    "max_age": 249,
+    "pages": [
+     "Full Harmony with dradalinaventura"
+    ],
+    "hosts": [
+     "api.whatsapp.com"
+    ]
+   },
+   {
+    "domain": "royalmedspaillinois.com",
+    "ads": 1,
+    "max_age": 222,
+    "pages": [
+     "Royal Medical Spa"
+    ],
+    "hosts": [
+     "royalmedspaillinois.com"
+    ]
+   },
+   {
+    "domain": "spaoffers.co",
+    "ads": 2,
+    "max_age": 205,
+    "pages": [
+     "iCRYO - South Park, NC",
+     "iCRYO Shadow Creek, TX"
+    ],
+    "hosts": [
+     "icryoshadowcreek.spaoffers.co",
+     "icryosouthpark.spaoffers.co"
+    ]
+   },
+   {
+    "domain": "clueblog.com",
+    "ads": 2,
+    "max_age": 200,
+    "pages": [
+     "Online Data Center"
+    ],
+    "hosts": [
+     "clueblog.com"
+    ]
+   },
+   {
+    "domain": "buykglow.com",
+    "ads": 1,
+    "max_age": 169,
+    "pages": [
+     "K Glow"
+    ],
+    "hosts": [
+     "buykglow.com"
+    ]
+   },
+   {
+    "domain": "kojeva.com",
+    "ads": 1,
+    "max_age": 164,
+    "pages": [
+     "Kojeva"
+    ],
+    "hosts": [
+     "kojeva.com"
+    ]
+   },
+   {
+    "domain": "google.com",
+    "ads": 1,
+    "max_age": 153,
+    "pages": [
+     "Selenaclinic Beauty Skin Anti-aging Clinic in Korea"
+    ],
+    "hosts": [
+     "google.com"
+    ]
+   },
+   {
+    "domain": "evercushion.com",
+    "ads": 3,
+    "max_age": 128,
+    "pages": [
+     "Ever Cushion Store"
+    ],
+    "hosts": [
+     "evercushion.com"
+    ]
+   },
+   {
+    "domain": "callixe.com",
+    "ads": 1,
+    "max_age": 120,
+    "pages": [
+     "AnnaV with CALLIXE"
+    ],
+    "hosts": [
+     "callixe.com"
+    ]
+   },
+   {
+    "domain": "skinnyboutique.com",
+    "ads": 1,
+    "max_age": 116,
+    "pages": [
+     "Cryoskin at Skinny Boutique"
+    ],
+    "hosts": [
+     "promotion.skinnyboutique.com"
+    ]
+   },
+   {
+    "domain": "mellowsleep.com",
+    "ads": 4,
+    "max_age": 103,
+    "pages": [
+     "Dr. Ralph Napolitano",
+     "Idris Ali"
+    ],
+    "hosts": [
+     "mellowsleep.com"
+    ]
+   },
+   {
+    "domain": "ortaclinic.com",
+    "ads": 1,
+    "max_age": 90,
+    "pages": [
+     "flywithria with Ortaclinic.en"
+    ],
+    "hosts": [
+     "www.ortaclinic.com"
+    ]
+   },
+   {
+    "domain": "mirrored-aesthetics.com",
+    "ads": 1,
+    "max_age": 65,
+    "pages": [
+     "Mirrored Aesthetics"
+    ],
+    "hosts": [
+     "mirrored-aesthetics.com"
+    ]
+   },
+   {
+    "domain": "sakerplus.com",
+    "ads": 1,
+    "max_age": 30,
+    "pages": [
+     "SakerGoods with Sakerplus"
+    ],
+    "hosts": [
+     "m.sakerplus.com"
+    ]
+   },
+   {
+    "domain": "restoradaily.com",
+    "ads": 1,
+    "max_age": 29,
+    "pages": [
+     "EZ Buys with Restora"
+    ],
+    "hosts": [
+     "www.restoradaily.com"
+    ]
+   },
+   {
+    "domain": "thecushionlab.com",
+    "ads": 1,
+    "max_age": 21,
+    "pages": [
+     "EZ Buys with Cushion Lab"
+    ],
+    "hosts": [
+     "thecushionlab.com"
+    ]
+   },
+   {
+    "domain": "lymphoria.co",
+    "ads": 2,
+    "max_age": 16,
+    "pages": [
+     "Everyday Vitality"
+    ],
+    "hosts": [
+     "lymphoria.co"
+    ]
+   }
+  ]
+ },
+ "color_foundation": {
+  "phrase": "color changing foundation",
+  "date": "2026-11-07",
+  "active": 12000,
+  "aged90": 1200,
+  "aged180": 120,
+  "sample": 70,
+  "sample_no_domain": 31,
+  "stores": [
+   {
+    "domain": "magnixa.com",
+    "ads": 1,
+    "max_age": 481,
+    "pages": [
+     "Magnixa"
+    ],
+    "hosts": [
+     "magnixa.com"
+    ]
+   },
+   {
+    "domain": "primeprometics.com",
+    "ads": 12,
+    "max_age": 470,
+    "pages": [
+     "In creates with Prime Prometics",
+     "Makeup Over 50 with Lisa Hart",
+     "Prime Prometics"
+    ],
+    "hosts": [
+     "primeprometics.com",
+     "www.primeprometics.com"
+    ]
+   },
+   {
+    "domain": "trylumineskin.com",
+    "ads": 3,
+    "max_age": 367,
+    "pages": [
+     "Hestia",
+     "Lumine Skin"
+    ],
+    "hosts": [
+     "trylumineskin.com"
+    ]
+   },
+   {
+    "domain": "vimacosmetics.com",
+    "ads": 2,
+    "max_age": 342,
+    "pages": [
+     "Beauty Reviews"
+    ],
+    "hosts": [
+     "vimacosmetics.com"
+    ]
+   },
+   {
+    "domain": "shopbeautylust.com",
+    "ads": 1,
+    "max_age": 197,
+    "pages": [
+     "Glamour Post"
+    ],
+    "hosts": [
+     "shopbeautylust.com"
+    ]
+   },
+   {
+    "domain": "hestiacosmetics.com",
+    "ads": 4,
+    "max_age": 191,
+    "pages": [
+     "Hestia"
+    ],
+    "hosts": [
+     "hestiacosmetics.com"
+    ]
+   },
+   {
+    "domain": "smooche.com",
+    "ads": 11,
+    "max_age": 155,
+    "pages": [
+     "Aging Queens Magazine",
+     "Cosmetic Times",
+     "Korean Beauty Tips",
+     "Smooche"
+    ],
+    "hosts": [
+     "smooche.com"
+    ]
+   },
+   {
+    "domain": "trynova.store",
+    "ads": 1,
+    "max_age": 96,
+    "pages": [
+     "Trending On K-Beauty"
+    ],
+    "hosts": [
+     "trynova.store"
+    ]
+   },
+   {
+    "domain": "facelove-cosmetics.com",
+    "ads": 3,
+    "max_age": 47,
+    "pages": [
+     "Real Women Real Stories",
+     "The Glow Up"
+    ],
+    "hosts": [
+     "facelove-cosmetics.com"
+    ]
+   },
+   {
+    "domain": "dermamuse.co",
+    "ads": 1,
+    "max_age": 22,
+    "pages": [
+     "Helen Larsen"
+    ],
+    "hosts": [
+     "dermamuse.co"
+    ]
+   }
+  ]
+ },
+ "compression_socks": {
+  "phrase": "compression socks",
+  "date": "2026-11-08",
+  "active": 15000,
+  "aged90": 2200,
+  "aged180": 610,
+  "sample": 33,
+  "sample_no_domain": 7,
+  "stores": [
+   {
+    "domain": "everstridesocks.com",
+    "ads": 15,
+    "max_age": 790,
+    "pages": [
+     "Alana's Corner with Everstride",
+     "Everstride",
+     "Judy Noelle"
+    ],
+    "hosts": [
+     "everstridesocks.com"
+    ]
+   },
+   {
+    "domain": "mommycarekits.com",
+    "ads": 1,
+    "max_age": 447,
+    "pages": [
+     "The Mommy Care Kit"
+    ],
+    "hosts": [
+     "mommycarekits.com"
+    ]
+   },
+   {
+    "domain": "senzio.store",
+    "ads": 1,
+    "max_age": 443,
+    "pages": [
+     "Senzio"
+    ],
+    "hosts": [
+     "senzio.store"
+    ]
+   },
+   {
+    "domain": "hushedsocks.com",
+    "ads": 2,
+    "max_age": 406,
+    "pages": [
+     "Hushed Eucalyptus Socks"
+    ],
+    "hosts": [
+     "hushedsocks.com"
+    ]
+   },
+   {
+    "domain": "pacas.com",
+    "ads": 1,
+    "max_age": 384,
+    "pages": [
+     "Pacas"
+    ],
+    "hosts": [
+     "pacas.com"
+    ]
+   },
+   {
+    "domain": "onecompress.com",
+    "ads": 2,
+    "max_age": 216,
+    "pages": [
+     "One Compress",
+     "Pure Living Digest"
+    ],
+    "hosts": [
+     "www.onecompress.com"
+    ]
+   },
+   {
+    "domain": "comradsocks.com",
+    "ads": 1,
+    "max_age": 191,
+    "pages": [
+     "Comrad Socks"
+    ],
+    "hosts": [
+     "www.comradsocks.com"
+    ]
+   },
+   {
+    "domain": "sockwellusa.com",
+    "ads": 1,
+    "max_age": 124,
+    "pages": [
+     "Sockwell Socks"
+    ],
+    "hosts": [
+     "sockwellusa.com"
+    ]
+   },
+   {
+    "domain": "bombas.com",
+    "ads": 1,
+    "max_age": 16,
+    "pages": [
+     "Bombas"
+    ],
+    "hosts": [
+     "bombas.com"
+    ]
+   }
+  ]
+ },
+ "dog_fountain": {
+  "phrase": "water fountain",
+  "date": "2026-11-08",
+  "active": 2800,
+  "aged90": 190,
+  "aged180": 22,
+  "sample": 50,
+  "sample_no_domain": 26,
+  "stores": [
+   {
+    "domain": "propondandlakes.com",
+    "ads": 1,
+    "max_age": 1495,
+    "pages": [
+     "Pro Pond and Lakes"
+    ],
+    "hosts": [
+     "propondandlakes.com"
+    ]
+   },
+   {
+    "domain": "formulaaffiliate.com",
+    "ads": 1,
+    "max_age": 254,
+    "pages": [
+     "6 0 Trending News C Rain"
+    ],
+    "hosts": [
+     "formulaaffiliate.com"
+    ]
+   },
+   {
+    "domain": "lilesy.com",
+    "ads": 1,
+    "max_age": 216,
+    "pages": [
+     "2 Trending News C"
+    ],
+    "hosts": [
+     "lilesy.com"
+    ]
+   },
+   {
+    "domain": "theflowzy.com",
+    "ads": 2,
+    "max_age": 202,
+    "pages": [
+     "Flowzy"
+    ],
+    "hosts": [
+     "theflowzy.com"
+    ]
+   },
+   {
+    "domain": "winkflo.com",
+    "ads": 1,
+    "max_age": 201,
+    "pages": [
+     "We Love Pets"
+    ],
+    "hosts": [
+     "winkflo.com"
+    ]
+   },
+   {
+    "domain": "activelyblack.com",
+    "ads": 1,
+    "max_age": 179,
+    "pages": [
+     "Actively BLACK with Lanny Smith"
+    ],
+    "hosts": [
+     "activelyblack.com"
+    ]
+   },
+   {
+    "domain": "selenepets.com",
+    "ads": 8,
+    "max_age": 132,
+    "pages": [
+     "Dr. Sarah Mitchell",
+     "Jared Brubaker",
+     "Marianne Whitman",
+     "Mike Bartens",
+     "SelenePets"
+    ],
+    "hosts": [
+     "selenepets.com"
+    ]
+   },
+   {
+    "domain": "petkit.com",
+    "ads": 1,
+    "max_age": 118,
+    "pages": [
+     "9251.minnie with Petkit US"
+    ],
+    "hosts": [
+     "www.petkit.com"
+    ]
+   },
+   {
+    "domain": "happywags.co",
+    "ads": 3,
+    "max_age": 116,
+    "pages": [
+     "Japanese Cat Secrets",
+     "Olivia Cordeiro"
+    ],
+    "hosts": [
+     "happywags.co"
+    ]
+   },
+   {
+    "domain": "boxiecat.com",
+    "ads": 2,
+    "max_age": 111,
+    "pages": [
+     "Boxiecat"
+    ],
+    "hosts": [
+     "boxiecat.com"
+    ]
+   },
+   {
+    "domain": "valspar.com",
+    "ads": 1,
+    "max_age": 6,
+    "pages": [
+     "Anisainside with Valspar"
+    ],
+    "hosts": [
+     "www.valspar.com"
+    ]
+   }
+  ]
+ },
+ "exfoliating_towel": {
+  "phrase": "exfoliating towel",
+  "date": "2026-11-08",
+  "active": 460,
+  "aged90": 130,
+  "aged180": 64,
+  "sample": 54,
+  "sample_no_domain": 43,
+  "stores": [
+   {
+    "domain": "goshi.com",
+    "ads": 1,
+    "max_age": 295,
+    "pages": [
+     "GOSHI"
+    ],
+    "hosts": [
+     "goshi.com"
+    ]
+   },
+   {
+    "domain": "melbob.com",
+    "ads": 1,
+    "max_age": 224,
+    "pages": [
+     "Melbob Shop"
+    ],
+    "hosts": [
+     "melbob.com"
+    ]
+   },
+   {
+    "domain": "simabrand.com",
+    "ads": 1,
+    "max_age": 150,
+    "pages": [
+     "The Deals Directory with Sima Brand"
+    ],
+    "hosts": [
+     "simabrand.com"
+    ]
+   },
+   {
+    "domain": "blissal.com",
+    "ads": 7,
+    "max_age": 49,
+    "pages": [
+     "Back Skin Fix",
+     "Blissal"
+    ],
+    "hosts": [
+     "blissal.com"
+    ]
+   },
+   {
+    "domain": "ecoviabrand.com",
+    "ads": 1,
+    "max_age": 24,
+    "pages": [
+     "Ecovia Brand"
+    ],
+    "hosts": [
+     "ecoviabrand.com"
+    ]
+   }
+  ]
+ },
+ "hair_removal_cream": {
+  "phrase": "hair removal cream",
+  "date": "2026-11-08",
+  "active": 2600,
+  "aged90": 630,
+  "aged180": 76,
+  "sample": 63,
+  "sample_no_domain": 21,
+  "stores": [
+   {
+    "domain": "shopluuma.com",
+    "ads": 6,
+    "max_age": 501,
+    "pages": [
+     "Shop.Luuma"
+    ],
+    "hosts": [
+     "shopluuma.com"
+    ]
+   },
+   {
+    "domain": "bumzzy.com",
+    "ads": 4,
+    "max_age": 415,
+    "pages": [
+     "Bumzzy Co"
+    ],
+    "hosts": [
+     "bumzzy.com"
+    ]
+   },
+   {
+    "domain": "aurlux.co",
+    "ads": 6,
+    "max_age": 268,
+    "pages": [
+     "Aurlux"
+    ],
+    "hosts": [
+     "aurlux.co"
+    ]
+   },
+   {
+    "domain": "simplesnatched.com",
+    "ads": 2,
+    "max_age": 242,
+    "pages": [
+     "TrySnatched"
+    ],
+    "hosts": [
+     "simplesnatched.com"
+    ]
+   },
+   {
+    "domain": "anrdre.com",
+    "ads": 1,
+    "max_age": 241,
+    "pages": [
+     "Anrdre cool"
+    ],
+    "hosts": [
+     "anrdre.com"
+    ]
+   },
+   {
+    "domain": "meravae.co",
+    "ads": 8,
+    "max_age": 140,
+    "pages": [
+     "Dr. Amy Spence",
+     "Dr. Amy Spence M.D I Board Certified Dermatologist"
+    ],
+    "hosts": [
+     "meravae.co"
+    ]
+   },
+   {
+    "domain": "nohaircrew.us",
+    "ads": 6,
+    "max_age": 110,
+    "pages": [
+     "NO HAIR CREW"
+    ],
+    "hosts": [
+     "nohaircrew.us"
+    ]
+   },
+   {
+    "domain": "kingwwy.com",
+    "ads": 1,
+    "max_age": 87,
+    "pages": [
+     "Kingwwy shop"
+    ],
+    "hosts": [
+     "kingwwy.com"
+    ]
+   },
+   {
+    "domain": "elyrias.com",
+    "ads": 1,
+    "max_age": 78,
+    "pages": [
+     "Elyrias Co."
+    ],
+    "hosts": [
+     "elyrias.com"
+    ]
+   },
+   {
+    "domain": "shopflamingo.com",
+    "ads": 3,
+    "max_age": 73,
+    "pages": [
+     "Flamingo"
+    ],
+    "hosts": [
+     "www.shopflamingo.com"
+    ]
+   },
+   {
+    "domain": "blauue.com",
+    "ads": 1,
+    "max_age": 68,
+    "pages": [
+     "Blauue shop"
+    ],
+    "hosts": [
+     "blauue.com"
+    ]
+   },
+   {
+    "domain": "beatulicc.com",
+    "ads": 1,
+    "max_age": 48,
+    "pages": [
+     "Radralfliclin Nuduvuvuck"
+    ],
+    "hosts": [
+     "beatulicc.com"
+    ]
+   },
+   {
+    "domain": "tryilvana.com",
+    "ads": 1,
+    "max_age": 47,
+    "pages": [
+     "Ilvana Body Care"
+    ],
+    "hosts": [
+     "tryilvana.com"
+    ]
+   }
+  ]
+ },
+ "hair_serum": {
+  "phrase": "hair growth serum",
+  "date": "2026-11-08",
+  "active": 3000,
+  "aged90": 220,
+  "aged180": 53,
+  "sample": 50,
+  "sample_no_domain": 4,
+  "stores": [
+   {
+    "domain": "jcsmiracleproducts.com",
+    "ads": 3,
+    "max_age": 544,
+    "pages": [
+     "JC'S all natural"
+    ],
+    "hosts": [
+     "jcsmiracleproducts.com"
+    ]
+   },
+   {
+    "domain": "officialbodywise.com",
+    "ads": 11,
+    "max_age": 346,
+    "pages": [
+     "BodyWise"
+    ],
+    "hosts": [
+     "officialbodywise.com"
+    ]
+   },
+   {
+    "domain": "cphgrooming.com",
+    "ads": 1,
+    "max_age": 258,
+    "pages": [
+     "Garrin M. Bulani with Copenhagen Grooming"
+    ],
+    "hosts": [
+     "redir.cphgrooming.com"
+    ]
+   },
+   {
+    "domain": "reversehairco.com",
+    "ads": 1,
+    "max_age": 227,
+    "pages": [
+     "Reverse HairCo"
+    ],
+    "hosts": [
+     "reversehairco.com"
+    ]
+   },
+   {
+    "domain": "averastore.co",
+    "ads": 7,
+    "max_age": 220,
+    "pages": [
+     "Avera"
+    ],
+    "hosts": [
+     "averastore.co"
+    ]
+   },
+   {
+    "domain": "rennorabeauty.com",
+    "ads": 1,
+    "max_age": 213,
+    "pages": [
+     "Rennora Beauty"
+    ],
+    "hosts": [
+     "try.rennorabeauty.com"
+    ]
+   },
+   {
+    "domain": "hinu.co",
+    "ads": 1,
+    "max_age": 212,
+    "pages": [
+     "HINU"
+    ],
+    "hosts": [
+     "hinu.co"
+    ]
+   },
+   {
+    "domain": "kerotin.com",
+    "ads": 1,
+    "max_age": 198,
+    "pages": [
+     "Kerotin Hair Care"
+    ],
+    "hosts": [
+     "kerotin.com"
+    ]
+   },
+   {
+    "domain": "vedix.com",
+    "ads": 2,
+    "max_age": 190,
+    "pages": [
+     "Vedix",
+     "Vedix USA"
+    ],
+    "hosts": [
+     "us.vedix.com"
+    ]
+   },
+   {
+    "domain": "everymarket.com",
+    "ads": 1,
+    "max_age": 184,
+    "pages": [
+     "EveryMarket"
+    ],
+    "hosts": [
+     "everymarket.com"
+    ]
+   },
+   {
+    "domain": "ekmiveda.com",
+    "ads": 2,
+    "max_age": 181,
+    "pages": [
+     "Ekmiveda"
+    ],
+    "hosts": [
+     "ekmiveda.com"
+    ]
+   },
+   {
+    "domain": "curlmix.com",
+    "ads": 1,
+    "max_age": 159,
+    "pages": [
+     "CurlMix"
+    ],
+    "hosts": [
+     "curlmix.com"
+    ]
+   },
+   {
+    "domain": "trycuradose.com",
+    "ads": 2,
+    "max_age": 115,
+    "pages": [
+     "Curadose"
+    ],
+    "hosts": [
+     "trycuradose.com"
+    ]
+   },
+   {
+    "domain": "simplyrevival.com",
+    "ads": 1,
+    "max_age": 112,
+    "pages": [
+     "Derm. Michael Reynolds"
+    ],
+    "hosts": [
+     "simplyrevival.com"
+    ]
+   },
+   {
+    "domain": "elevarekoreanbeauty-global.com",
+    "ads": 1,
+    "max_age": 107,
+    "pages": [
+     "Eleanor Roseford Bennett"
+    ],
+    "hosts": [
+     "www.elevarekoreanbeauty-global.com"
+    ]
+   },
+   {
+    "domain": "dawaveessentials.shop",
+    "ads": 1,
+    "max_age": 101,
+    "pages": [
+     "Da Wave Essentials"
+    ],
+    "hosts": [
+     "dawaveessentials.shop"
+    ]
+   },
+   {
+    "domain": "ugcmasteryacademy.com",
+    "ads": 1,
+    "max_age": 92,
+    "pages": [
+     "Mohni Makers"
+    ],
+    "hosts": [
+     "ugcmasteryacademy.com"
+    ]
+   },
+   {
+    "domain": "mareehairgrowth.com",
+    "ads": 2,
+    "max_age": 65,
+    "pages": [
+     "Beauty hacks"
+    ],
+    "hosts": [
+     "mareehairgrowth.com"
+    ]
+   },
+   {
+    "domain": "lilyeveus.com",
+    "ads": 1,
+    "max_age": 55,
+    "pages": [
+     "LilyeveGlobal"
+    ],
+    "hosts": [
+     "www.lilyeveus.com"
+    ]
+   },
+   {
+    "domain": "gubbahomestead.com",
+    "ads": 1,
+    "max_age": 41,
+    "pages": [
+     "Gubba Homestead"
+    ],
+    "hosts": [
+     "shop.gubbahomestead.com"
+    ]
+   },
+   {
+    "domain": "peptonix.com",
+    "ads": 1,
+    "max_age": 14,
+    "pages": [
+     "Hair Science"
+    ],
+    "hosts": [
+     "quiz.peptonix.com"
+    ]
+   }
+  ]
+ },
+ "lash_serum": {
+  "phrase": "lash serum",
+  "date": "2026-11-08",
+  "active": 3200,
+  "aged90": 400,
+  "aged180": 90,
+  "sample": 57,
+  "sample_no_domain": 25,
+  "stores": [
+   {
+    "domain": "borboleta.com",
+    "ads": 5,
+    "max_age": 726,
+    "pages": [
+     "Borboleta",
+     "Melissa Radke"
+    ],
+    "hosts": [
+     "borboleta.com",
+     "www.borboleta.com"
+    ]
+   },
+   {
+    "domain": "moxielash.com",
+    "ads": 3,
+    "max_age": 310,
+    "pages": [
+     "MoxieLash"
+    ],
+    "hosts": [
+     "www.moxielash.com"
+    ]
+   },
+   {
+    "domain": "babeoriginal.com",
+    "ads": 3,
+    "max_age": 212,
+    "pages": [
+     "Babe Original"
+    ],
+    "hosts": [
+     "babeoriginal.com"
+    ]
+   },
+   {
+    "domain": "diablocosmetics.com",
+    "ads": 1,
+    "max_age": 193,
+    "pages": [
+     "Diablo Cosmetics"
+    ],
+    "hosts": [
+     "diablocosmetics.com"
+    ]
+   },
+   {
+    "domain": "facelove-cosmetics.com",
+    "ads": 3,
+    "max_age": 155,
+    "pages": [
+     "Beauty reviews",
+     "Facelove Cosmetics"
+    ],
+    "hosts": [
+     "facelove-cosmetics.com"
+    ]
+   },
+   {
+    "domain": "sephora.com",
+    "ads": 1,
+    "max_age": 137,
+    "pages": [
+     "Kosas"
+    ],
+    "hosts": [
+     "www.sephora.com"
+    ]
+   },
+   {
+    "domain": "hanaekorea.com",
+    "ads": 5,
+    "max_age": 112,
+    "pages": [
+     "Hanae Korea",
+     "Trending In Korea"
+    ],
+    "hosts": [
+     "hanaekorea.com"
+    ]
+   },
+   {
+    "domain": "thelashhause.co.uk",
+    "ads": 1,
+    "max_age": 110,
+    "pages": [
+     "The Lash Hause"
+    ],
+    "hosts": [
+     "thelashhause.co.uk"
+    ]
+   },
+   {
+    "domain": "wywrd.com",
+    "ads": 1,
+    "max_age": 93,
+    "pages": [
+     "Brit + Co with terez and honor"
+    ],
+    "hosts": [
+     "analytics.wywrd.com"
+    ]
+   },
+   {
+    "domain": "primeprometics.com",
+    "ads": 5,
+    "max_age": 65,
+    "pages": [
+     "Prime Prometics"
+    ],
+    "hosts": [
+     "primeprometics.com"
+    ]
+   },
+   {
+    "domain": "froyaorganics.com",
+    "ads": 1,
+    "max_age": 65,
+    "pages": [
+     "Frøya Organics"
+    ],
+    "hosts": [
+     "froyaorganics.com"
+    ]
+   },
+   {
+    "domain": "tryflashes.com",
+    "ads": 1,
+    "max_age": 59,
+    "pages": [
+     "Flashes Herald"
+    ],
+    "hosts": [
+     "tryflashes.com"
+    ]
+   },
+   {
+    "domain": "productoskaloni.com",
+    "ads": 1,
+    "max_age": 40,
+    "pages": [
+     "Kaloni Products"
+    ],
+    "hosts": [
+     "productoskaloni.com"
+    ]
+   }
+  ]
+ },
+ "magnesium_spray": {
+  "phrase": "magnesium spray",
+  "date": "2026-11-08",
+  "active": 510,
+  "aged90": 72,
+  "aged180": 53,
+  "sample": 51,
+  "sample_no_domain": 25,
+  "stores": [
+   {
+    "domain": "ozcogoods.com",
+    "ads": 1,
+    "max_age": 444,
+    "pages": [
+     "Ozco Goods"
+    ],
+    "hosts": [
+     "ozcogoods.com"
+    ]
+   },
+   {
+    "domain": "sringe.com",
+    "ads": 16,
+    "max_age": 194,
+    "pages": [
+     "Dr. Marcus Thompson - Black Health",
+     "Lymphologist - Emma Bernard, PhD",
+     "Sringe"
+    ],
+    "hosts": [
+     "sringe.com"
+    ]
+   },
+   {
+    "domain": "magsskin.com",
+    "ads": 1,
+    "max_age": 137,
+    "pages": [
+     "MAGS Skin"
+    ],
+    "hosts": [
+     "magsskin.com"
+    ]
+   },
+   {
+    "domain": "pioneerpam.com",
+    "ads": 1,
+    "max_age": 96,
+    "pages": [
+     "Pioneer Pam Goods"
+    ],
+    "hosts": [
+     "pioneerpam.com"
+    ]
+   },
+   {
+    "domain": "bramblea.com",
+    "ads": 1,
+    "max_age": 53,
+    "pages": [
+     "Bramblea"
+    ],
+    "hosts": [
+     "bramblea.com"
+    ]
+   },
+   {
+    "domain": "trendhunter.com",
+    "ads": 2,
+    "max_age": 18,
+    "pages": [
+     "Miami Herald"
+    ],
+    "hosts": [
+     "trendhunter.com"
+    ]
+   },
+   {
+    "domain": "getblessedbotanicals.com",
+    "ads": 2,
+    "max_age": 18,
+    "pages": [
+     "Blessed Botanicals"
+    ],
+    "hosts": [
+     "getblessedbotanicals.com"
+    ]
+   },
+   {
+    "domain": "drteals.com",
+    "ads": 1,
+    "max_age": 16,
+    "pages": [
+     "AJTaughtYou with Dr Teal's"
+    ],
+    "hosts": [
+     "www.drteals.com"
+    ]
+   },
+   {
+    "domain": "hiyahealth.com",
+    "ads": 1,
+    "max_age": 4,
+    "pages": [
+     "It’s Nicole Jaques with Hiya"
+    ],
+    "hosts": [
+     "hiyahealth.com"
+    ]
+   }
+  ]
+ },
+ "neck_cream": {
+  "phrase": "neck cream",
+  "date": "2026-11-07",
+  "active": 4200,
+  "aged90": 420,
+  "aged180": 83,
+  "sample": 54,
+  "sample_no_domain": 9,
+  "stores": [
+   {
+    "domain": "sreemed.com",
+    "ads": 1,
+    "max_age": 722,
+    "pages": [
+     "Sreedhareeyam Ayurveda"
+    ],
+    "hosts": [
+     "sreemed.com"
+    ]
+   },
+   {
+    "domain": "vibriance.com",
+    "ads": 35,
+    "max_age": 225,
+    "pages": [
+     "Ageless Beauty Secrets",
+     "Cass � Kansas � with Vibriance",
+     "Dr Laura",
+     "Misti A with Vibriance",
+     "Momentswithcarla with Vibriance",
+     "Shawn Michelle Nelson with Vibriance",
+     "Shelly Lane with Vibriance",
+     "Stephanie Miller Show with Vibriance",
+     "Style Society by Christa Rehmeyer with Vibriance",
+     "Vibriance",
+     "Vibriance Super C Serum"
+    ],
+    "hosts": [
+     "get.vibriance.com",
+     "vibriance.com"
+    ]
+   },
+   {
+    "domain": "whatgracebought.com",
+    "ads": 1,
+    "max_age": 220,
+    "pages": [
+     "whatgracebought"
+    ],
+    "hosts": [
+     "whatgracebought.com"
+    ]
+   },
+   {
+    "domain": "nourishmax.com",
+    "ads": 1,
+    "max_age": 189,
+    "pages": [
+     "Ellen Hellkvist with NourishMax"
+    ],
+    "hosts": [
+     "www.nourishmax.com"
+    ]
+   },
+   {
+    "domain": "kindscience.com",
+    "ads": 1,
+    "max_age": 157,
+    "pages": [
+     "Kind Science"
+    ],
+    "hosts": [
+     "kindscience.com"
+    ]
+   },
+   {
+    "domain": "saeskyn.com",
+    "ads": 2,
+    "max_age": 151,
+    "pages": [
+     "Saeskyn"
+    ],
+    "hosts": [
+     "saeskyn.com"
+    ]
+   },
+   {
+    "domain": "eightsaintsskincare.com",
+    "ads": 2,
+    "max_age": 138,
+    "pages": [
+     "Eight Saints"
+    ],
+    "hosts": [
+     "eightsaintsskincare.com"
+    ]
+   },
+   {
+    "domain": "imaree.com",
+    "ads": 1,
+    "max_age": 92,
+    "pages": [
+     "Marée"
+    ],
+    "hosts": [
+     "imaree.com"
+    ]
+   },
+   {
+    "domain": "particleformen.com",
+    "ads": 1,
+    "max_age": 60,
+    "pages": [
+     "Particle"
+    ],
+    "hosts": [
+     "particleformen.com"
+    ]
+   }
+  ]
+ },
+ "persimmon_soap": {
+  "phrase": "persimmon soap",
+  "date": "2026-11-07",
+  "active": 2700,
+  "aged90": 130,
+  "aged180": 11,
+  "sample": 47,
+  "sample_no_domain": 19,
+  "stores": [
+   {
+    "domain": "miraiclinical.com",
+    "ads": 10,
+    "max_age": 492,
+    "pages": [
+     "Mirai Clinical"
+    ],
+    "hosts": [
+     "miraiclinical.com"
+    ]
+   },
+   {
+    "domain": "try-kaori.com",
+    "ads": 11,
+    "max_age": 173,
+    "pages": [
+     "Kaori",
+     "Kaori Shop"
+    ],
+    "hosts": [
+     "try-kaori.com"
+    ]
+   },
+   {
+    "domain": "swarva.com",
+    "ads": 3,
+    "max_age": 84,
+    "pages": [
+     "Over 60 & Thriving"
+    ],
+    "hosts": [
+     "swarva.com"
+    ]
+   },
+   {
+    "domain": "kakiyucare.com",
+    "ads": 4,
+    "max_age": 78,
+    "pages": [
+     "Kakiyu",
+     "Mari Tanaka",
+     "Minnesota Health Center"
+    ],
+    "hosts": [
+     "kakiyucare.com"
+    ]
+   }
+  ]
+ },
+ "pore_patch": {
+  "phrase": "pore patches",
+  "date": "2026-11-08",
+  "active": 1,
+  "aged90": 1,
+  "aged180": 0,
+  "sample": 1,
+  "sample_no_domain": 0,
+  "stores": [
+   {
+    "domain": "vueswiss.com",
+    "ads": 1,
+    "max_age": 179,
+    "pages": [
+     "Vue Skin"
+    ],
+    "hosts": [
+     "vueswiss.com"
+    ]
+   }
+  ]
+ },
+ "prewash_oil": {
+  "phrase": "pre wash",
+  "date": "2026-11-08",
+  "active": 500,
+  "aged90": 71,
+  "aged180": 11,
+  "sample": 48,
+  "sample_no_domain": 21,
+  "stores": [
+   {
+    "domain": "sockcatcher.com",
+    "ads": 1,
+    "max_age": 1376,
+    "pages": [
+     "The Sock Catcher"
+    ],
+    "hosts": [
+     "sockcatcher.com"
+    ]
+   },
+   {
+    "domain": "ekmiveda.com",
+    "ads": 4,
+    "max_age": 338,
+    "pages": [
+     "Ekmiveda",
+     "simi_midhun with Ekmiveda"
+    ],
+    "hosts": [
+     "ekmiveda.com"
+    ]
+   },
+   {
+    "domain": "fashionfabricsclub.com",
+    "ads": 2,
+    "max_age": 192,
+    "pages": [
+     "Fashion Fabrics Club"
+    ],
+    "hosts": [
+     "fashionfabricsclub.com"
+    ]
+   },
+   {
+    "domain": "healthyhomeadvocates.org",
+    "ads": 1,
+    "max_age": 164,
+    "pages": [
+     "Laundry Hacks World"
+    ],
+    "hosts": [
+     "healthyhomeadvocates.org"
+    ]
+   },
+   {
+    "domain": "forteseries.com",
+    "ads": 2,
+    "max_age": 163,
+    "pages": [
+     "Alex Costa"
+    ],
+    "hosts": [
+     "forteseries.com"
+    ]
+   },
+   {
+    "domain": "gyalbraids.com",
+    "ads": 1,
+    "max_age": 156,
+    "pages": [
+     "Gyal Braids"
+    ],
+    "hosts": [
+     "gyalbraids.com"
+    ]
+   },
+   {
+    "domain": "murrayautospa.com",
+    "ads": 1,
+    "max_age": 150,
+    "pages": [
+     "Murray Auto Spa"
+    ],
+    "hosts": [
+     "murrayautospa.com"
+    ]
+   },
+   {
+    "domain": "welcometowondervalley.com",
+    "ads": 1,
+    "max_age": 111,
+    "pages": [
+     "Wonder Valley"
+    ],
+    "hosts": [
+     "welcometowondervalley.com"
+    ]
+   },
+   {
+    "domain": "tommys-express.com",
+    "ads": 1,
+    "max_age": 109,
+    "pages": [
+     "Tommy's Express Car Wash"
+    ],
+    "hosts": [
+     "tommys-express.com"
+    ]
+   },
+   {
+    "domain": "bekyndbeauty.com",
+    "ads": 1,
+    "max_age": 106,
+    "pages": [
+     "BeKynd Beauty"
+    ],
+    "hosts": [
+     "www.bekyndbeauty.com"
+    ]
+   },
+   {
+    "domain": "dipyourcar.com",
+    "ads": 3,
+    "max_age": 96,
+    "pages": [
+     "DipYourCar.com"
+    ],
+    "hosts": [
+     "dipyourcar.com"
+    ]
+   },
+   {
+    "domain": "dooreshair.com",
+    "ads": 1,
+    "max_age": 54,
+    "pages": [
+     "DooresHair"
+    ],
+    "hosts": [
+     "dooreshair.com"
+    ]
+   },
+   {
+    "domain": "threegirls.com",
+    "ads": 1,
+    "max_age": 34,
+    "pages": [
+     "Threegirlscurtains"
+    ],
+    "hosts": [
+     "threegirls.com"
+    ]
+   },
+   {
+    "domain": "momcozy.com",
+    "ads": 1,
+    "max_age": 29,
+    "pages": [
+     "Momcozy"
+    ],
+    "hosts": [
+     "momcozy.com"
+    ]
+   },
+   {
+    "domain": "amazinghairsaviour.com",
+    "ads": 2,
+    "max_age": 25,
+    "pages": [
+     "A Life From Scratch",
+     "holistichealingla"
+    ],
+    "hosts": [
+     "amazinghairsaviour.com"
+    ]
+   },
+   {
+    "domain": "hairstory.com",
+    "ads": 3,
+    "max_age": 12,
+    "pages": [
+     "Hairstory Studio",
+     "Lovebird Studio AZ with Hairstory Studio"
+    ],
+    "hosts": [
+     "hairstory.com"
+    ]
+   },
+   {
+    "domain": "sephora.com",
+    "ads": 1,
+    "max_age": 4,
+    "pages": [
+     "Itsmikaylanicole with Fable and Mane"
+    ],
+    "hosts": [
+     "www.sephora.com"
+    ]
+   }
+  ]
+ },
+ "rosemary_oil": {
+  "phrase": "rosemary oil",
+  "date": "2026-11-07",
+  "active": 4300,
+  "aged90": 260,
+  "aged180": 60,
+  "sample": 59,
+  "sample_no_domain": 27,
+  "stores": [
+   {
+    "domain": "exotichairdoctor.com",
+    "ads": 1,
+    "max_age": 2860,
+    "pages": [
+     "Exotic Hair Doctor"
+    ],
+    "hosts": [
+     "exotichairdoctor.com"
+    ]
+   },
+   {
+    "domain": "jcsmiracleproducts.com",
+    "ads": 4,
+    "max_age": 622,
+    "pages": [
+     "JC'S all natural"
+    ],
+    "hosts": [
+     "jcsmiracleproducts.com"
+    ]
+   },
+   {
+    "domain": "hairqare.co",
+    "ads": 2,
+    "max_age": 411,
+    "pages": [
+     "Sarah Tran"
+    ],
+    "hosts": [
+     "hairqare.co"
+    ]
+   },
+   {
+    "domain": "lgbeauty.com",
+    "ads": 1,
+    "max_age": 254,
+    "pages": [
+     "Dr. Groot"
+    ],
+    "hosts": [
+     "lgbeauty.com"
+    ]
+   },
+   {
+    "domain": "vitaecharm.com",
+    "ads": 2,
+    "max_age": 221,
+    "pages": [
+     "VitaeCharm"
+    ],
+    "hosts": [
+     "vitaecharm.com"
+    ]
+   },
+   {
+    "domain": "officialbodywise.com",
+    "ads": 1,
+    "max_age": 212,
+    "pages": [
+     "BodyWise"
+    ],
+    "hosts": [
+     "officialbodywise.com"
+    ]
+   },
+   {
+    "domain": "spoiledchild.com",
+    "ads": 6,
+    "max_age": 207,
+    "pages": [
+     "Hair Pro Tips",
+     "SpoiledChild"
+    ],
+    "hosts": [
+     "spoiledchild.com"
+    ]
+   },
+   {
+    "domain": "sringe.com",
+    "ads": 1,
+    "max_age": 193,
+    "pages": [
+     "Sringe"
+    ],
+    "hosts": [
+     "sringe.com"
+    ]
+   },
+   {
+    "domain": "irestorelaser.com",
+    "ads": 1,
+    "max_age": 186,
+    "pages": [
+     "Essential Hair Growth Hacks"
+    ],
+    "hosts": [
+     "www.irestorelaser.com"
+    ]
+   },
+   {
+    "domain": "simplyrevival.com",
+    "ads": 1,
+    "max_age": 176,
+    "pages": [
+     "MarwanAwan with Simply Revival"
+    ],
+    "hosts": [
+     "simplyrevival.com"
+    ]
+   },
+   {
+    "domain": "vitaprima.com",
+    "ads": 2,
+    "max_age": 155,
+    "pages": [
+     "Vita Prima"
+    ],
+    "hosts": [
+     "vitaprima.com"
+    ]
+   },
+   {
+    "domain": "trylumin.co",
+    "ads": 3,
+    "max_age": 150,
+    "pages": [
+     "Black Hair Growth Magazine",
+     "Lumin"
+    ],
+    "hosts": [
+     "trylumin.co"
+    ]
+   },
+   {
+    "domain": "chebeauty.com",
+    "ads": 1,
+    "max_age": 142,
+    "pages": [
+     "Chebeauty"
+    ],
+    "hosts": [
+     "chebeauty.com"
+    ]
+   },
+   {
+    "domain": "aureph.com",
+    "ads": 1,
+    "max_age": 127,
+    "pages": [
+     "Aureph"
+    ],
+    "hosts": [
+     "www.aureph.com"
+    ]
+   },
+   {
+    "domain": "glovbeauty.com",
+    "ads": 2,
+    "max_age": 112,
+    "pages": [
+     "Dr. Amanda Graham Trichologist",
+     "Glov Beauty"
+    ],
+    "hosts": [
+     "glovbeauty.com"
+    ]
+   },
+   {
+    "domain": "mykitsch.com",
+    "ads": 1,
+    "max_age": 56,
+    "pages": [
+     "Kitsch"
+    ],
+    "hosts": [
+     "www.mykitsch.com"
+    ]
+   },
+   {
+    "domain": "shopeverly.shop",
+    "ads": 1,
+    "max_age": 32,
+    "pages": [
+     "Everly"
+    ],
+    "hosts": [
+     "shopeverly.shop"
+    ]
+   },
+   {
+    "domain": "azureboutique.co",
+    "ads": 1,
+    "max_age": 29,
+    "pages": [
+     "Azure Boutique"
+    ],
+    "hosts": [
+     "www.azureboutique.co"
+    ]
+   },
+   {
+    "domain": "theearthlingco.com",
+    "ads": 1,
+    "max_age": 17,
+    "pages": [
+     "The Earthling Co."
+    ],
+    "hosts": [
+     "theearthlingco.com"
+    ]
+   }
+  ]
+ },
+ "scent_diffuser": {
+  "phrase": "scent diffuser",
+  "date": "2026-11-07",
+  "active": 690,
+  "aged90": 110,
+  "aged180": 18,
+  "sample": 42,
+  "sample_no_domain": 15,
+  "stores": [
+   {
+    "domain": "scentifyhome.com",
+    "ads": 5,
+    "max_age": 795,
+    "pages": [
+     "Scentify"
+    ],
+    "hosts": [
+     "scentifyhome.com"
+    ]
+   },
+   {
+    "domain": "scentfinity.com",
+    "ads": 1,
+    "max_age": 535,
+    "pages": [
+     "Scentfinity"
+    ],
+    "hosts": [
+     "scentfinity.com"
+    ]
+   },
+   {
+    "domain": "alltimeairconditioning.com",
+    "ads": 1,
+    "max_age": 297,
+    "pages": [
+     "All Time Air Conditioning"
+    ],
+    "hosts": [
+     "alltimeairconditioning.com"
+    ]
+   },
+   {
+    "domain": "houseofduaa.com",
+    "ads": 1,
+    "max_age": 236,
+    "pages": [
+     "House of DUAA Signature"
+    ],
+    "hosts": [
+     "houseofduaa.com"
+    ]
+   },
+   {
+    "domain": "aurahouse.com",
+    "ads": 3,
+    "max_age": 200,
+    "pages": [
+     "Aura House",
+     "Chris and Melis - Designer Decor Deals & Furniture Finds with Aura House",
+     "Destination Home with Aura House"
+    ],
+    "hosts": [
+     "aurahouse.com"
+    ]
+   },
+   {
+    "domain": "hotelcollection.com",
+    "ads": 10,
+    "max_age": 162,
+    "pages": [
+     "Fitbills with Hotel Collection",
+     "Hotel Collection",
+     "Maureen Hochdorf with Hotel Collection",
+     "Miss.alirose with Hotel Collection",
+     "waynewalton_ with Hotel Collection",
+     "𝕒 𝕟 𝕒 𝕟 𝕕 𝕒 𝕖 𝕝 𝕖 𝕟 𝕒 with Hotel Collection"
+    ],
+    "hosts": [
+     "hotelcollection.com",
+     "www.hotelcollection.com"
+    ]
+   },
+   {
+    "domain": "aroma360.com",
+    "ads": 2,
+    "max_age": 137,
+    "pages": [
+     "Aroma360",
+     "Unwavering Haven with Aroma360"
+    ],
+    "hosts": [
+     "aroma360.com"
+    ]
+   },
+   {
+    "domain": "drift.co",
+    "ads": 2,
+    "max_age": 92,
+    "pages": [
+     "drift",
+     "inna.brtseva with drift"
+    ],
+    "hosts": [
+     "drift.co"
+    ]
+   },
+   {
+    "domain": "scentiment.com",
+    "ads": 1,
+    "max_age": 7,
+    "pages": [
+     "Scentiment"
+    ],
+    "hosts": [
+     "www.scentiment.com"
+    ]
+   }
+  ]
+ },
+ "shower_filter": {
+  "phrase": "shower filter",
+  "date": "2026-11-07",
+  "active": 1200,
+  "aged90": 240,
+  "aged180": 24,
+  "sample": 33,
+  "sample_no_domain": 17,
+  "stores": [
+   {
+    "domain": "santevia.com",
+    "ads": 5,
+    "max_age": 178,
+    "pages": [
+     "Santevia Water Systems"
+    ],
+    "hosts": [
+     "santevia.com"
+    ]
+   },
+   {
+    "domain": "purewaterfreedom.com",
+    "ads": 1,
+    "max_age": 130,
+    "pages": [
+     "Pure Water Freedom"
+    ],
+    "hosts": [
+     "purewaterfreedom.com"
+    ]
+   },
+   {
+    "domain": "aquatru.com",
+    "ads": 1,
+    "max_age": 94,
+    "pages": [
+     "AquaTru Water"
+    ],
+    "hosts": [
+     "aquatru.com"
+    ]
+   },
+   {
+    "domain": "aquasana.com",
+    "ads": 3,
+    "max_age": 75,
+    "pages": [
+     "Aquasana"
+    ],
+    "hosts": [
+     "aquasana.com"
+    ]
+   },
+   {
+    "domain": "filterbaby.com",
+    "ads": 4,
+    "max_age": 72,
+    "pages": [
+     "My Filterbaby",
+     "annalinie with My Filterbaby"
+    ],
+    "hosts": [
+     "filterbaby.com"
+    ]
+   },
+   {
+    "domain": "vitaprima.com",
+    "ads": 1,
+    "max_age": 54,
+    "pages": [
+     "Vita Prima"
+    ],
+    "hosts": [
+     "vitaprima.com"
+    ]
+   },
+   {
+    "domain": "trendhunter.com",
+    "ads": 1,
+    "max_age": 17,
+    "pages": [
+     "Miami Herald"
+    ],
+    "hosts": [
+     "trendhunter.com"
+    ]
+   }
+  ]
+ },
+ "tallow_balm": {
+  "phrase": "tallow balm",
+  "date": "2026-11-07",
+  "active": 2500,
+  "aged90": 220,
+  "aged180": 52,
+  "sample": 59,
+  "sample_no_domain": 18,
+  "stores": [
+   {
+    "domain": "ancestralcosmetics.com",
+    "ads": 7,
+    "max_age": 348,
+    "pages": [
+     "Ancestral Cosmetics"
+    ],
+    "hosts": [
+     "ancestralcosmetics.com"
+    ]
+   },
+   {
+    "domain": "byminus.com",
+    "ads": 3,
+    "max_age": 310,
+    "pages": [
+     "Minus SkinCare"
+    ],
+    "hosts": [
+     "byminus.com"
+    ]
+   },
+   {
+    "domain": "cattle-creek.com",
+    "ads": 1,
+    "max_age": 297,
+    "pages": [
+     "Cattle Creek Mercantile"
+    ],
+    "hosts": [
+     "cattle-creek.com"
+    ]
+   },
+   {
+    "domain": "wildgoldtallow.com",
+    "ads": 6,
+    "max_age": 268,
+    "pages": [
+     "Wild Gold Tallow"
+    ],
+    "hosts": [
+     "wildgoldtallow.com"
+    ]
+   },
+   {
+    "domain": "magnolia.com",
+    "ads": 2,
+    "max_age": 267,
+    "pages": [
+     "Magnolia"
+    ],
+    "hosts": [
+     "magnolia.com"
+    ]
+   },
+   {
+    "domain": "summersolacetallow.com",
+    "ads": 1,
+    "max_age": 247,
+    "pages": [
+     "Summer Solace Tallow"
+    ],
+    "hosts": [
+     "summersolacetallow.com"
+    ]
+   },
+   {
+    "domain": "bare-ritual.com",
+    "ads": 2,
+    "max_age": 241,
+    "pages": [
+     "Bare Ritual"
+    ],
+    "hosts": [
+     "bare-ritual.com"
+    ]
+   },
+   {
+    "domain": "toupsandco.com",
+    "ads": 4,
+    "max_age": 206,
+    "pages": [
+     "Toups and Co Organics"
+    ],
+    "hosts": [
+     "toupsandco.com"
+    ]
+   },
+   {
+    "domain": "thetallowedtruth.com",
+    "ads": 4,
+    "max_age": 159,
+    "pages": [
+     "Ben Corkery Founder at The Tallowed Truth",
+     "The Tallowed Truth"
+    ],
+    "hosts": [
+     "thetallowedtruth.com"
+    ]
+   },
+   {
+    "domain": "thepapabear.com",
+    "ads": 1,
+    "max_age": 155,
+    "pages": [
+     "Papabear Naturals"
+    ],
+    "hosts": [
+     "lp.thepapabear.com"
+    ]
+   },
+   {
+    "domain": "neptunehealthco.com",
+    "ads": 1,
+    "max_age": 120,
+    "pages": [
+     "Neptune Health"
+    ],
+    "hosts": [
+     "neptunehealthco.com"
+    ]
+   },
+   {
+    "domain": "shoppuregood.com",
+    "ads": 3,
+    "max_age": 103,
+    "pages": [
+     "Pure Good"
+    ],
+    "hosts": [
+     "shoppuregood.com"
+    ]
+   },
+   {
+    "domain": "try-forge.com",
+    "ads": 3,
+    "max_age": 90,
+    "pages": [
+     "Forge Men",
+     "The Elite Man"
+    ],
+    "hosts": [
+     "shop.try-forge.com",
+     "store.try-forge.com"
+    ]
+   },
+   {
+    "domain": "leskinclub.com",
+    "ads": 1,
+    "max_age": 80,
+    "pages": [
+     "Le Skin Club"
+    ],
+    "hosts": [
+     "leskinclub.com"
+    ]
+   },
+   {
+    "domain": "faithfulfamilyfarmer.com",
+    "ads": 1,
+    "max_age": 57,
+    "pages": [
+     "Faithful Family Farmer"
+    ],
+    "hosts": [
+     "shop.faithfulfamilyfarmer.com"
+    ]
+   }
+  ]
+ },
+ "turmeric_soap": {
+  "phrase": "turmeric soap",
+  "date": "2026-11-07",
+  "active": 330,
+  "aged90": 24,
+  "aged180": 14,
+  "sample": 45,
+  "sample_no_domain": 11,
+  "stores": [
+   {
+    "domain": "glomelanin.com",
+    "ads": 1,
+    "max_age": 337,
+    "pages": [
+     "GloMelanin"
+    ],
+    "hosts": [
+     "glomelanin.com"
+    ]
+   },
+   {
+    "domain": "earthlyderm.com",
+    "ads": 14,
+    "max_age": 253,
+    "pages": [
+     "Devon Collins with Earthly Derm",
+     "Earthly Derm",
+     "Jd profits with Earthly Derm",
+     "Taie Mitchell with Earthly Derm",
+     "d_venu1 with Earthly Derm",
+     "mrkutthroatt with Earthly Derm"
+    ],
+    "hosts": [
+     "earthlyderm.com"
+    ]
+   },
+   {
+    "domain": "trystrawberry.com",
+    "ads": 2,
+    "max_age": 182,
+    "pages": [
+     "Elise Warren, Clinical Skin Analyst",
+     "Nicole Knows Skin Care"
+    ],
+    "hosts": [
+     "trystrawberry.com"
+    ]
+   },
+   {
+    "domain": "honeyglownewyork.com",
+    "ads": 2,
+    "max_age": 173,
+    "pages": [
+     "Honey Glow",
+     "River Fields with Honey Glow"
+    ],
+    "hosts": [
+     "honeyglownewyork.com"
+    ]
+   },
+   {
+    "domain": "herbneden.com",
+    "ads": 2,
+    "max_age": 130,
+    "pages": [
+     "Herb'N Eden"
+    ],
+    "hosts": [
+     "www.herbneden.com"
+    ]
+   },
+   {
+    "domain": "fourerasbeauty.com",
+    "ads": 1,
+    "max_age": 111,
+    "pages": [
+     "Fourera Naturals"
+    ],
+    "hosts": [
+     "fourerasbeauty.com"
+    ]
+   },
+   {
+    "domain": "stemandsoul.co",
+    "ads": 3,
+    "max_age": 105,
+    "pages": [
+     "STEM & SOUL"
+    ],
+    "hosts": [
+     "www.stemandsoul.co"
+    ]
+   },
+   {
+    "domain": "merakihealthy.com",
+    "ads": 1,
+    "max_age": 95,
+    "pages": [
+     "Frances Rivera"
+    ],
+    "hosts": [
+     "www.merakihealthy.com"
+    ]
+   },
+   {
+    "domain": "kashcosmetics.com",
+    "ads": 1,
+    "max_age": 68,
+    "pages": [
+     "Kash Cosmeticss"
+    ],
+    "hosts": [
+     "kashcosmetics.com"
+    ]
+   },
+   {
+    "domain": "trykaoli.com",
+    "ads": 5,
+    "max_age": 9,
+    "pages": [
+     "Emily Carter"
+    ],
+    "hosts": [
+     "trykaoli.com"
+    ]
+   },
+   {
+    "domain": "nolimitbeautyshop.com",
+    "ads": 1,
+    "max_age": 1,
+    "pages": [
+     "No Limit Beauty"
+    ],
+    "hosts": [
+     "nolimitbeautyshop.com"
+    ]
+   }
+  ]
+ },
+ "whitening_powder": {
+  "phrase": "whitening powder",
+  "date": "2026-11-08",
+  "active": 150,
+  "aged90": 2,
+  "aged180": 0,
+  "sample": 36,
+  "sample_no_domain": 5,
+  "stores": [
+   {
+    "domain": "dailysale.com",
+    "ads": 1,
+    "max_age": 175,
+    "pages": [
+     "DailySale"
+    ],
+    "hosts": [
+     "dailysale.com"
+    ]
+   },
+   {
+    "domain": "trywhyteproducts.com",
+    "ads": 12,
+    "max_age": 106,
+    "pages": [
+     "WHYTE",
+     "WHYTE with Shubhangi Tyagi"
+    ],
+    "hosts": [
+     "trywhyteproducts.com"
+    ]
+   },
+   {
+    "domain": "trymooths.com",
+    "ads": 4,
+    "max_age": 77,
+    "pages": [
+     "Mooths",
+     "Oral Health Tips"
+    ],
+    "hosts": [
+     "trymooths.com"
+    ]
+   },
+   {
+    "domain": "boka.com",
+    "ads": 2,
+    "max_age": 68,
+    "pages": [
+     "Boka"
+    ],
+    "hosts": [
+     "www.boka.com"
+    ]
+   },
+   {
+    "domain": "ecobrightsmile.com",
+    "ads": 4,
+    "max_age": 61,
+    "pages": [
+     "Eco Bright Smile"
+    ],
+    "hosts": [
+     "ecobrightsmile.com"
+    ]
+   },
+   {
+    "domain": "oralcarereviews.com",
+    "ads": 3,
+    "max_age": 51,
+    "pages": [
+     "Modern Wellness Journal"
+    ],
+    "hosts": [
+     "oralcarereviews.com"
+    ]
+   },
+   {
+    "domain": "thenewfind.com",
+    "ads": 1,
+    "max_age": 38,
+    "pages": [
+     "The New Find"
+    ],
+    "hosts": [
+     "www.thenewfind.com"
+    ]
+   },
+   {
+    "domain": "markedscripts.com",
+    "ads": 1,
+    "max_age": 37,
+    "pages": [
+     "Insight Point Hub"
+    ],
+    "hosts": [
+     "related.markedscripts.com"
+    ]
+   },
+   {
+    "domain": "lucentglobe.com",
+    "ads": 1,
+    "max_age": 31,
+    "pages": [
+     "Lucent Globe"
+    ],
+    "hosts": [
+     "lucentglobe.com"
+    ]
+   },
+   {
+    "domain": "livingwellwithdrmichelle.com",
+    "ads": 2,
+    "max_age": 26,
+    "pages": [
+     "Living Well with Dr. Michelle Jorgensen"
+    ],
+    "hosts": [
+     "livingwellwithdrmichelle.com"
+    ]
+   }
+  ]
+ }
+}

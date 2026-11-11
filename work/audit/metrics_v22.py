@@ -11,9 +11,10 @@ J = lambda p: json.load(open(p, encoding="utf-8"))
 TS = J("trends_series_summary.json")
 TT = J(A / "trends_terms.json")["categories"]
 
-# A1 override: all phrasings pulled together and summed, divided by the sector controls (AUDIT section 7)
-A1_COMBINED = {"tallow_balm": (0.78, "tallow balm + beef tallow for skin + tallow skincare + tallow moisturizer, summed"),
-               "turmeric_soap": (0.72, "turmeric soap + kojic acid soap + turmeric bar, summed")}
+# A1 override: all phrasings pulled together and summed, divided by the sector controls (AUDIT section 7).
+# Mean of the daily samples printed by trends_combined.py: 2026-11-09 (AUDIT section 7) and 2026-11-10 (combined_*_2026-11-10.txt).
+A1_COMBINED = {"tallow_balm": (0.78, "tallow balm + beef tallow for skin + tallow skincare + tallow moisturizer, summed", [0.78, 0.77]),
+               "turmeric_soap": (0.73, "turmeric soap + kojic acid soap + turmeric bar, summed", [0.72, 0.73])}
 # D2: price reading over 12 months (Keepa charts read by eye + camelcamelcamel table), AUDIT sections 9-10
 D2 = {"color_foundation": ("stable", "Luxe cut to ~$13-17 Jul-Oct, back to $28-30; temporary"),
       "dog_fountain": ("stable", "flat all year, regular discount cycles"),
@@ -53,7 +54,7 @@ for f in sorted(pathlib.Path("graveyard_us").glob("*.json")):
     a1, a1src = (A1_COMBINED[pid][0], A1_COMBINED[pid][1]) if pid in A1_COMBINED else (ts.get("rel_yoy_mean"), TT[pid]["current"][0])
     shops = [{"domain": d, "active": v.get("active"), "aged90": v.get("aged90")} for d, v in MD.items() if v.get("pid") == pid] if isinstance(MD, dict) else []
     out[pid] = {
-        "A1": a1, "A1_terms": a1src, "A1_pulls": len(ts.get("pulls", {})),
+        "A1": a1, "A1_terms": a1src, "A1_pulls": len(A1_COMBINED[pid][2]) if pid in A1_COMBINED else len(ts.get("pulls", {})),
         "A1_zero_share": max([v.get("zero_share_2y") or 0 for v in ts.get("pulls", {}).values()] or [None]),
         "A2": U, "A2_source": J(f).get("source") or "automated scan",
         "flags": [x for x, ok in [("small sample: under 20 entrants", len(E) < 20),

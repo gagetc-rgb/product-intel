@@ -1,0 +1,41 @@
+{
+ "domain": "superfeet.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-07-22",
+ "ads": "8",
+ "pages": [],
+ "home": {
+  "url": "https://superfeet.com/?currency=USD",
+  "final": "https://www.superfeet.com/?currency=USD",
+  "status": 200,
+  "title": "Premium Insoles For Comfort & Pain Relief\n – Superfeet Worldwide",
+  "desc": "Discover Superfeet insoles & inserts designed to improve foot health & comfort. Enjoy better support, stability & alignment for all activities.",
+  "kw_hits": [
+   " Premium Insoles For Comfort & Pain Relief – Superfeet Worldwide Skip to content Free Shipping ",
+   "ree Shipping & Returns Shop Now Need Help Choosing? Try Our Insole Finder 60-Day Guarantee Learn More Find a Retailer Shop Insole Finder ME3D Why ",
+   "ole Finder 60-Day Guarantee Learn More Find a Retailer Shop Insole Finder ME3D Why Superfeet Search Account Cart Menu Shop Insole Finder ME3D Why ",
+   "ole Finder ME3D Why Superfeet Search Account Cart Menu Shop Insole Finder ME3D Why Superfeet Search Shop Insole Finder ME3D Why Superfeet Account "
+  ],
+  "kw_n": 18,
+  "prices": [
+   "$59.99",
+   "$59.99",
+   "$64.99",
+   "$59.99",
+   "$69.99",
+   "$64.99",
+   "$59.99",
+   "$59.99"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 5893
+ },
+ "rdap": "1996-05-09",
+ "wayback": "1996-12-28",
+ "age_class": "old"
+}

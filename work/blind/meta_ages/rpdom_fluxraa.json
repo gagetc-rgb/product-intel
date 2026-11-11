@@ -1,0 +1,386 @@
+{
+ "phrase": "fluxraa.com",
+ "date": "2026-11-10",
+ "active": 220,
+ "aged30": 150,
+ "aged90": 40,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "864746553080446",
+   "page": "Matthew Jones",
+   "start": "2026-07-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1068159316158257",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2844623259257880",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-07-31",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1403958645171510",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "913922191770448",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-08-06",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "985830057817891",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "929417222830890",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2185530562227572",
+   "page": "Matthew Jones",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1930090940999051",
+   "page": "Matthew Jones",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2328297904591907",
+   "page": "Matthew Jones",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2195862491190391",
+   "page": "Matthew Jones",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1750881766263583",
+   "page": "Matthew Jones",
+   "start": "2026-07-16",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1348915146566552",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1598671548628632",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-07-21",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1564223341777282",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-07-31",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3616083361883373",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1035860325802160",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1384624410200292",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1063139246371436",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1361204762770035",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1723148028788117",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1333963151641675",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "965596689584130",
+   "page": "William Jones",
+   "start": "2026-07-26",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1855021352549292",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1540706251118027",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1003390725818389",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1845844000185622",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1021021690565760",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1689013595499420",
+   "page": "Mark Grace Smith",
+   "start": "2026-09-21",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1708156146935707",
+   "page": "William Jones",
+   "start": "2026-09-21",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1086725457612521",
+   "page": "Matthew Jones",
+   "start": "2026-09-30",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1400676354922537",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1601085674726874",
+   "page": "William Jones",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1101909552806683",
+   "page": "Matthew Jones",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2900728136954050",
+   "page": "Matthew Jones",
+   "start": "2026-09-21",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2335199470586303",
+   "page": "Matthew Jones",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1274799751398554",
+   "page": "Mark Grace Smith",
+   "start": "2026-09-21",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1061898976469111",
+   "page": "William Jones",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2324050498342434",
+   "page": "William Jones",
+   "start": "2026-09-21",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1079492221114127",
+   "page": "Mark Grace Smith",
+   "start": "2026-09-21",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2457939124728234",
+   "page": "Daniel Scott Rodriguez",
+   "start": "2026-09-21",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1356247519915927",
+   "page": "William Jones",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "956340216875107",
+   "page": "Matthew Jones",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2600896060398217",
+   "page": "Matthew Jones",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1113903267936666",
+   "page": "Matthew Jones",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1657049582787542",
+   "page": "Matthew Jones",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1387583130024705",
+   "page": "William Jones",
+   "start": "2026-10-17",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "0-30"
+  }
+ ]
+}

@@ -1,0 +1,315 @@
+
+== body_oil q='body oil for crepey skin': on-target 130/240, units 31% of 632,500
+  +  20000 GODA Silk Body Oil Women - Firming Anti Aging Moisturizing Formula, Crepey Skin Hydrating After Shower, Scente
+  +  10000 Palmer's Brazilian Cocoa Firming Body Oil, Coconut Oil Formula (6.5 Fl Oz)
+  +  10000 OSEA Undaria Algae Body Oil, Visibly Firming, Deeply Moisturizing, 5 oz
+  +  10000 Aveeno Daily Moisturizing Body Oil Mist, 6.7 fl. oz
+  +  10000 eos Cashmere Body Oil- Vanilla Cashmere, 24H Moisture, Plant-Based Squalane, 6 fl oz
+  +  10000 Amazon Essentials Body Oil Gel with Cocoa Butter, Paraben Free, 6.8 fl oz (Pack of 1) (Previously Amazon Basic
+  +  10000 Palmer's Moisturizing Body Oil, Cocoa Butter Formula (8.5 Fl Oz)
+  +  10000 Palmer's Tahitian Vanilla Body Oil, Cocoa Butter Formula (6.5 Fl Oz)
+  +   9000 Neutrogena Body Oil Light Sesame Formula, 16 fl. oz
+  +   9000 Neutrogena Body Oil Light Sesame Formula, Fragrance-Free, 8.5 fl. oz
+  +   9000 Yoken Vitamin E Oil for Skin Face Body 8 Oz Cold Pressed Vitamine Body oils
+  +   8000 Palmer's Skin Therapy Body Oil, Moisturizing Cocoa Butter Formula (5.1 Oz)
+  +   6000 Neutrogena Body Oil Light Sesame Formula, 8.5 fl oz
+  +   6000 Saltair Body Oil | Salt Water Vanilla After Shower Moisturizer | 4 fl oz
+  -  30000 Gold Bond Age Renew Retinol Overnight Body & Face Lotion, 13 Oz
+  -  20000 Gold Bond Age Renew Crepe Corrector Body Lotion, 14 Oz
+  -  20000 Jergens Ultra Healing Body Lotion, Moisturizer for Dry Skin, 32 fl oz
+  -  10000 Firming Body Oil, Cellulite Massage Oil for Legs and Body, 8 fl oz by M3
+  -  10000 Bio-Oil Skincare Body Oil Serum, Face and Body Moisturizer with Vitamin E & A, for Scars, Stretch Marks, Sensi
+
+== chin_wrap q='v line lifting mask chin strap': on-target 195/240, units 77% of 54,850
+  +   7000 MAREE V Line Lifting Mask - Gold Face Lift Tape & Double Chin Lifting Mask
+  +   5000 Stylia V Line Lifting Collagen Face Mask - Lift, Firm & Contour Jawline - Double Chin Strap with Hyaluronic Ac
+  +   3000 Graphene V-Line Mask Chin Up Mask V Shaped Face Mask Chin Strap for Sleeping,Jawline Shaper,Red,Medium
+  +   2000 ParaFaciem Reusable V Line Mask Facial Slimming Strap Double Chin Reducer Chin Up Mask Face Lifting Belt V Sha
+  +   2000 Dr.Melaxin CACTOX V-Lifting Mewing Band – Cactox + Caffeine + Collagen Double Chin Lifting Band for Sagging Ja
+  +   1000 Chinstrap for Sleeping, V-Line Lifting Chinstrap, V-Line Mask, Reusable Face Strap, Chin Up Patch, V-Shaped Be
+  +   1000 Jawline Shaper Chin Strap for Sleeping, Reusable V-Line Mask for Women Face Lifting Made w/Electric-Hot-Press 
+  +   1000 Stylia V Line Lifting Collagen Face Mask - Lift, Firm & Contour Jawline - Double Chin Strap with Hyaluronic Ac
+  +   1000 Reusable V Line Lifting Mask with Chin Strap for Sleeping, V Shaped Face Mask for Sagging, Jawline Shaper(Blac
+  +   1000 LAUER COSMETIC V Shaped Hydrogel Chin Mask with Collagen, 10 Count
+  +   1000 Stylia MaxiLift V-Line Lifting Collagen Face Mask - Double Chin Strap - Jawline Lifting Mask & Shaper - Neck F
+  +   1000 V Line Face Slimming Mask for Sleeping, Double Chin Reducer Jawline Shaper for Women, Medium
+  +   1000 LAUER COSMETIC V Shaped Hydrogel Chin Mask with Collagen, 25 Count
+  +   1000 V Line Lifting Mask with Collagen Retinol Hyaluronic Acid Niacinamide 7 pcs
+  -   5000 Dr.Melaxin Necksphalt Firming Cream with ECM-5 20,000ppm, Firming & Lifting Neck Cream for Wrinkles & Sagging 
+  -   2000 Electric Double Chin Device & V-Face Machine with 6 Modes and 12 Gear Adjustable Intensities - for Jawline Imp
+  -   1000 7 Color Galvanic Machines - Red Light Therapy for Face and Neck, Face Massager Tool for Wrinkles, Double Chin,
+  -   1000 medicube PDRN Pink Tension Up Sheet Mask - 3-Step Contouring Mask
+  -    600 Reusable V Line Lifting Mask for Double Chin Reducer,chin strap for sleeping,jaw exerciser,Face Lift Belt Prev
+
+== compression_socks q='compression socks': on-target 59/238, units 27% of 243,200
+  +  10000 4 Pairs-Compression Socks for Women&Men Circulation-Best Support for Nurses,Running,Athletic
+  +  10000 Compression Socks for Women & Men 15-20 mmHg, Knee High, 3 Pairs
+  +   8000 Copper Compression Socks 15-20 mmHg for Men & Women 8 Pairs – Circulation Support for Nurses, Travel, Running,
+  +   8000 4 Pairs Compression Socks for Women & Men -Best Support for Nurses,Flying,pregnancy,Athletic,Travel ,Knee-High
+  +   6000 Compression Socks for Women and Men,15-20 mmHg Support(3 Pairs)
+  +   4000 6 Pairs Compression Socks Women & Men for Plantar Fasciitis Relief
+  +   3000 Copper Compression Socks for Women & Men (6 pairs) - Best Support for Nurses, Running, Hiking, Recovery
+  +   2000 Compression Socks for Women Men Circulation Knee High 8 Pairs for Nurses, Running, Travel, Athletic
+  +   2000 (3 pairs) Compression Socks 20-30 mmHg Long Knee High Socks for Women Men Support Athletic Travel Daily Wear
+  +   1000 3 Pack Medical Compression Sock-Compression Sock For Women and Men Circulation -Best for Running,Nursing,Athle
+  +   1000 Compression Socks for Women and Men 15-20mmHg for Flying 3 Pairs
+  +    900 Copper Compression Socks for Women & Men (6 pairs) - Best Support for Nurses, Running, Hiking, Recovery
+  +    800 Compression Socks for Women & Men Circulation(6 pairs)-Graduated Supports Socks for Running, Athletic Sports
+  +    800 6 Pairs Copper Ankle Compression Socks for Men and Women
+  -  10000 CHARMKING
+  -  10000 FITRELL
+  -  10000 Ankle Brace for Women & Men, Ankle Compression Sleeve Support Copper Infused Ankle Brace for Sprained Ankle, P
+  -   9000 FuelMeFoot
+  -   7000 fenglaoda
+
+== exfoliating_towel q='exfoliating towel': on-target 137/240, units 17% of 309,500
+  +   8000 Exfoliating Washcloth & Japanese Shower Towel, 3 Pack, Body Scrubber
+  +   4000 GOSHI Exfoliating Shower Towel - Long Body Scrubber, Grey
+  +   3000 Exfoliating Washcloth Face & Body Scrub Towel - Japanese Exfoliating Towel with Hexagon Fibers, Body Scrubber 
+  +   3000 GOSHI Exfoliating Shower Towel - Long Body Scrubber, Blue
+  +   2000 MainBasics Deep Exfoliating Japanese Shower Towel, 3 Pack, Earthy Love
+  +   2000 GOSHI Exfoliating Shower Towel - Long Body Scrubber, Red
+  +   2000 GOSHI Exfoliating Shower Towel - Long Body Scrubber, Orange
+  +   2000 GOSHI Exfoliating Shower Towel - Long Body Scrubber, Green
+  +   2000 Extra Rough Exfoliating Washcloth, Extreme Body & Back Scrubber for Shower
+  +   2000 SALUX Nylon Japanese Beauty Skin Bath Wash Cloth Towel 3 Count Pink Yellow Blue
+  +   2000 8 pcs Asian Exfoliating Bath Washcloth - Red & Green
+  +   1000 Exfoliating Towel, Silver Ion Infused Bath Washcloth for Shower, Durable Body & Back Scrubber for All Skin Typ
+  +   1000 Tatuo 5 Pcs Exfoliating Face and Body Wash Cloths Towel, Beige
+  +   1000 2 PC Alorin Silver Towel Exfoliating Shower Towel, Rip-Resistant Washcloth for All Skin Types, Pink and Black
+  -  20000 4 Pack Authentic African Net Sponge, Exfoliating Washcloth, Back Scrubber
+  -  20000 Cliganic Face Towels XL, Disposable Makeup Remover, Soft Dry Wipes, 50 ct
+  -  10000 CORATED African Net Sponge Authentic, Shower Loofah Exfoliating Bath Sponge
+  -  10000 Ditoi Face Towels XL, Ultra‑Soft Disposable Facial Towels 10"×12"
+  -  10000 3 Pack African Net Sponge, African Exfoliating Net Bath Sponge Long Net Bath Sponge Exfoliating Shower Body Sc
+
+== hair_removal_cream q='hair removal cream for men': on-target 89/240, units 39% of 220,750
+  +  30000 Veet Professional 2 Min Hair Removal Cream, Full Body & Bikini, 13.5 FL OZ
+  +  10000 Nair Men Hair Remover Body Cream, 12 Oz
+  +  10000 Nair Sensitive Shower Hair Removal Cream, Coconut Oil & Vitamin E, 12 Oz
+  +  10000 NAIR Prep & Smooth Face Hair Removal Cream, Sensitive Skin, 1.76 Oz
+  +   7000 Veet Hair Removal Cream For Men, 5 Min Sensitive Skin, Hair Removal Gel For Body, Chest & Back, Dermatological
+  +   6000 PHOFAY Smooth Hair Removal Cream for Women and Men Body hair removal spray
+  +   3000 Nair Body Cream Hair Remover, Soothing Aloe and Water Lily, 12 Oz
+  +   1000 Nair Men Hair Removal Body Cream, 12 Ounce (Pack of 2)
+  +   1000 Gentle Body Hair Removal Cream-Pain free Hairs Removal Cream for Sensitive Skin with a Neutral Formula for Hai
+  +    900 PHOFAY Hair Removal Cream for Men&Women Sensitive Skin–Fast-Acting Gentle
+  +    700 Nair Body Cream Hair Remover, Nourishing Oat Milk & Vanilla, Dermatologist Tested, 7.9 oz (Pack of 3)
+  +    600 Hair Removal Cream for Women & Men, 7–10 Minute Formula, 4.2 oz
+  +    500 Hair Removal Spray & Cream Set, 120ml Tube + 150ml Spray
+  +    400 SHINEMORE Facial Hair Removal Cream Kit, 2.03 Fl Oz
+  -  10000 No Hair Crew Intimate/Private At Home Hair Removal Cream for Men - Painless, Flawless, Soothing Depilatory for
+  -  10000 SoftSheen-Carson Magic Razorless Hair Removal Cream, Extra Strength, 6 oz
+  -   7000 Freebird FlexSeries Electric Head & Body Hair Shaver - Mens Cordless Rechargeable Wet/Dry Skull Bald Head Back
+  -   7000 Uocasi Cyperus Rotundus Oil, Cypress Rotundus Oil for Hair Removal, Natural Inhibitor to Reduce Unwanted Hair 
+  -   6000 PHOFAY Body Hair Removal Spray for Women & Men,Painless,smooth hair removal
+
+== hair_serum q='hair growth serum': on-target 107/237, units 19% of 1,289,350
+  +  70000 Bare Anatomy Nature x Science Rosemary Water Spray for Hair Growth & Hair Thickness with Rice Water |100% Natu
+  +  20000 BASK & LATHER Scalp Stimulator Hair Growth Oil, Cold Pressed Mint and Rosemary Blend with Grapeseed for Hair G
+  +  10000 Botanic Hearth Rosemary Oil for Hair Growth - 6.7 Fl oz
+  +  10000 lilyeve GROWTURN Exosome Hair Growth Serum with Built-In Brush, 3.38 fl oz
+  +  10000 Botanic Hearth Rosemary and Rice Water Spray For Hair Growth - 6.8 Fl oz
+  +   8000 Wild Growth Hair Oil 4 Oz
+  +   7000 Be Bodywise Rosemary Hair Growth Serum Roll-On, Saw Palmetto, 0.84 fl oz
+  +   7000 Dr. Groot Award-Winning Hair Thickening Serum for Thinning Hair
+  +   7000 Kitsch Rosemary Oil for Hair Growth -With Castor Oil, Biotin & Jojoba- 60mL
+  +   5000 Blend Of Pure Rosemary Oil For Hair Growth 6 Fl Oz With Castor, Batana Oil
+  +   5000 divi Scalp Serum for Thinning Hair, Hair Growth Serum, 30ml
+  +   4000 Botanic Hearth Rosemary Oil for Hair Growth - 2 Fl oz
+  +   4000 Botanic Hearth Rosemary Oil for Hair Growth - 4 Fl oz
+  +   4000 Organic Castor Oil Eyelash Growth Serum, Eyebrow Lash Serum for Hair Growth
+  -  90000 Nutrafol Women's Balance Hair Growth Supplements, Age 45+, 1-Month Bottle
+  -  90000 WEEM Hair Skin and Nails Gummies - Supports Healthy Hair - Vegan biotin Vitamins for Women & Men Supports Fast
+  -  50000 Mielle Organics Rosemary Mint Hair Oil with Biotin, 2 oz
+  -  50000 Biotin, Collagen & Keratin + Full B-Complex - Hair Growth Support - 60 Caps
+  -  40000 Men's Rogaine 5% Minoxidil Topical Foam, Unscented, 3 x 2.11 oz
+
+== magnesium_spray q='magnesium oil spray': on-target 190/239, units 37% of 162,300
+  +   9000 Seven Minerals Magnesium Oil Spray for Sleep, Leg Cramps & Feet, Big 12 oz
+  +   8000 Dr Teal's Magnesium Lavender Spray with Natural Dead Sea Salt, 8 fl oz (Pack of 2)
+  +   6000 Pure Magnesium Oil Spray for Sleep, Feet & Leg Cramps - USP Grade - 8oz
+  +   4000 Dr Teal's Topical Magnesium Spray with Natural Dead Sea Salt, Fragrance Free, 8 fl oz (Pack of 2)
+  +   3000 Magnesium Spray, Pure Magnesium Oil Spray for Feet, Natural Ingredient in Glass Bottle, Easy to Absorb and Use
+  +   3000 ASUTRA Zechstein Pure Magnesium Oil Spray for Feet and Leg Cramps, Topical
+  +   2000 Ancient Minerals Magnesium Oil Spray, Zechstein Chloride, 8oz
+  +   2000 Ancient Minerals Magnesium Oil Spray, Zechstein Chloride, 4oz
+  +   1000 LIFE-FLO Magnesium Oil Spray, 8 fl oz
+  +   1000 Pure Magnesium Oil Spray for Sleep, Feet & Leg Cramps - USP Grade - 12oz
+  +   1000 Pure Magnesium Oil Spray for Sleep, Feet & Leg Cramps - 8oz - 2 Pack
+  +   1000 Magnesium Lotion & Magnesium Oil Spray Set with Arnica & Lavender, Topical Magnesium for Legs Feet Body, Daily
+  +   1000 ArtNaturals Magnesium Oil Spray & Body Lotion Set
+  +   1000 Magnesium Spray, Pure Magnesium Oil Spray for Feet, Natural Ingredient in Glass Bottle, Easy to Absorb and Use
+  -  20000 Magnesium Complex 700mg | 12-in-1 High Absorption Supplement | Glycinate, Citrate, Malate, Taurate & More | Sl
+  -  20000 Magnum Solace Nighttime Magnesium Lotion with Arnica – Highly Concentrated Magnesium for Muscles & Joints – Ap
+  -  20000 Organics Ocean Pure Magnesium Glycinate Supplement with Zinc, 90 Capsules
+  -   6000 Total Relief Magnesium Cream - Topical Lotion for Muscles & Joints, 3.5 oz
+  -   5000 LIFE-FLO Unscented Magnesium Lotion, 8 fl oz
+
+== neck_cream q='neck firming cream': on-target 110/240, units 10% of 1,082,850
+  +  30000 medicube PDRN Collagen Gua Sha Neck Wrinkle Cream - Firming, Contour Care
+  +  20000 Gold Bond Age Renew Neck & Chest Firming Age Renew Cream, 2 oz
+  +  10000 goPure Tighten & Lift Neck & Chest Moisturizer Cream for Visibly Firming, Tightening and Lifting the Look of W
+  +   7000 LilyAna Naturals Anti Aging Retinol Face Cream for Women – Wrinkle & Neck Cream for Firming, Retinol Moisturiz
+  +   5000 Dr.Melaxin Necksphalt Firming Cream with ECM-5 20,000ppm, Firming & Lifting Neck Cream for Wrinkles & Sagging 
+  +   4000 Eight Saints Firm Intentions Anti Aging Neck Cream For Firming Skin and Reducing Wrinkles, with Protein Peptid
+  +   2000 Retinol Neck Cream, Hyaluronic Acid and Caffeine Enriched Neck Firming Cream to Minimize Fine Lines & Dullness
+  +   2000 StriVectin Tighten and Lift Advanced Neck Cream PLUS with Alpha-3 Peptides for Neck and Décolleté, Smoothing L
+  +   2000 NIVEA Skin Firming & Anti Wrinkle Neck & Chest Cream, Q10, Creatine, 6.7 Oz
+  +   1000 Ycz AH-8 Neck Cream for Tightening and Firming, Reduce Wrinkles, 4.23 Fl Oz
+  +   1000 StriVectin Tighten and Lift Advanced Neck Cream PLUS with Alpha-3 Peptides for Neck and Décolleté, Smoothing L
+  +   1000 StriVectin Tighten and Lift Advanced Neck Cream PLUS with Alpha-3 Peptides for Neck and Décolleté, Smoothing L
+  +   1000 PDRN Collagen Gua Sha Neck Wrinkle Cream - Moisturizing Neck Care Cream
+  +   1000 MDP+ Premium Collagen Naite Thread Neck Cream 2.0 Firming Tightening 3.38oz
+  -  90000 medicube PDRN Collagen Volume Multi Balm Stick, Firming Face & Body Balm
+  -  90000 celimax The Vita A Retinal Shot Tightening Booster (0.51 fl.oz)
+  -  60000 medicube NAD EGF Firming Serum for Face & Body, Elasticity & Anti-Aging
+  -  60000 EQQUALBERRY NAD+ Peptide Boosting Facial Serum, 1.01 fl oz
+  -  50000 Dr.Melaxin Collagen Multi Balm Stick, Calcium & Adenosine Korean Wrinkle Stick for Eye, Neck & Face, Firming C
+
+== persimmon_soap q='persimmon soap': on-target 136/238, units 52% of 133,200
+  +  20000 Mirai Clinical Persimmon Soap for Old People Smell,Nonenal® Odor Eliminator
+  +  10000 3 PCS Persimmon Soap for Body Odor Control, Old People Smell
+  +   8000 5 Pcs Persimmon Soap for Old People Smell with 2 Mesh Soap Bag
+  +   4000 Japanese Persimmon Soap for Old People Smell & nonenal Odor, 2 Pack
+  +   3000 Mirai Clinical Persimmon Soap for Old People Smell,Nonenal® Odor Eliminator
+  +   1000 5 Pcs 80g Persimmon Soap Bar for Old People Smell
+  +   1000 Morovan Persimmon Soap for Body Odor Control - Old People Smell Cleansr
+  +   1000 KAORI Original Persimmon Soap Eliminates The Stubborn Aging Odor That Regular Soap Can'T Remove.
+  +   1000 Mirai Clinical Persimmon Soap for Old People Smell, Nonenal® Solution, 100g
+  +   1000 GPP 3 PCS Persimmon Soap Bar for Body Odor Control, 3.53oz/per
+  +   1000 Japanese Persimmon Soap for Old People Smell & nonenal Odor, 1 Pack
+  +   1000 Mirai Clinical Persimmon Soap for Old People Smell, Nonenal® Odor Solution
+  +   1000 Persimmon Soap for Old People Smell, Body Odor Eliminator Bar, 2 Pack
+  +    900 3 PCS Persimmon Soap Bar for Old People Smell, Remove Bad Body Odor
+  -  10000 Dr. Bronner's Peppermint Pure-Castile Liquid Soap, Body Wash, 32 oz 2-Pack
+  -   7000 Mirai Clinical Persimmon Body Wash for Old People Smell, Nonenal® Solution
+  -   7000 Lume Acidified Body Wash - 8.5 oz (Clean Tangerine)
+  -   6000 Persimmon Body Wash for Old People Smell, Natural Deodorant Bar
+  -   6000 Mirai Clinical Persimmon Body Wash for Old People Smell, Nonenal® Solution
+
+== pore_patch q='hydrocolloid nose pore patches': on-target 32/238, units 6% of 876,950
+  +  20000 Bioré Original Blackhead Remover Strips, Deep Cleansing Nose Strips With Instant Pore Unclogging, Features C-B
+  +   9000 Mighty Patch Hero Cosmetics Nose Large Hydrocolloid Pore Strips, 10 Ct
+  +   6000 Peach Slices - Nose Pore Patches (7 ct) - Overnight Blackhead Remover - Pore Strips - Absorbs Gunk - Thin, Fle
+  +   6000 Bioré Nose+Face Blackhead Remover Strips, Deep Cleansing Strips for Nose, Chin, or Forehead, Instant Blackhead
+  +   5000 Vue Hydrocolloid Nose Patches - Nose Pore Strips for Blackheads, Sebum and Oil Control, Gentle for All Skin Ty
+  +   1000 30 Count Hydrocolloid Nose Pore Patches
+  +   1000 Starface Star Strips® Blackhead Pore Strips for Nose, Extra Strength, 16 ct
+  +   1000 Rael Miracle Melting Pack, Gentle Blackhead Remover, Nose Strips (6 Count)
+  +    800 ilso Clear Nose Patch, Mild Blackhead & Sebaceous Filament Strip (5 pcs)
+  +    400 PEACE OUT Pore Minimizing Hydrocolloid Strips with Retinol & DMAE (8 count)
+  +    300 GENDA Blackhead Remover Nose Pore Strips for Deep Cleansing, Hydrocolloid Nose Patches, Clears Black head and 
+  +    200 MEDIHEAL Blackhead Melting Clear Nose Patch (4 Pack)
+  +    100 Pore Strips,Natural Charcoal Blackhead Strips for All Skin Type,Nose Strips for Blackheads,Charcoal Pore Clean
+  +     50 ZitSticka Nose Pore Strips, Blackhead Remover Strip, 8 Count
+  - 100000 Mighty Patch Hero Cosmetics Original Nighttime Acne Pimple Patches, 36 Ct
+  - 100000 BIODANCE Bio-Collagen Real Deep Mask for Hydrating & Plumping (4ea)
+  -  60000 Hero Cosmetics Mighty Patch Original Nighttime Acne Pimple Patches, 75 Ct
+  -  50000 Hero Cosmetics Mighty Patch Original Nighttime Acne Pimple Patches, 72 Ct
+  -  40000 TKTK 443 Count Pimple Patches for Face, Hydrocolloid Acne Cover Patch Bulk
+
+== prewash_oil q='pre wash hair oil': on-target 101/227, units 34% of 604,400
+  +  50000 Mielle Organics Rosemary Mint Hair Oil with Biotin, 2 oz
+  +  10000 OGX Extra Strength Damage Remedy + Coconut Miracle Hair Oil, 3.3 fl. oz
+  +  10000 OGX Renewing + Argan Oil of Morocco Penetrating Hair Oil, 3.3 fl. oz
+  +  10000 L'Oreal Paris Sulfate Free Bond Repair+ Pre Shampoo Concentrate, Hair Treatment with Bond + Amino Acid Complex
+  +  10000 Moroccanoil Treatment Hair Oil
+  +  10000 Olaplex N°.3PLUS Hair Repair Pre-Shampoo Treatment | Repairs Damage
+  +   9000 Carol's Daughter Goddess Strength 7 Oil Blend Scalp and Hair Oil for Waves, Coils and Curls, Hair Treatment wi
+  +   9000 African Pride Moisture Miracle Pre-Shampoo Hair Detangler, 18 Oz
+  +   9000 Moroccanoil Treatment Hair Oil
+  +   9000 L'Oreal Paris Elvive Extraordinary Oil, Multi-Use Hair Oil, 3.4 Fl Oz
+  +   6000 Lebanta Batana Oil for Hair - Organic Castor Rosemary Scalp Oil 3.38 Fl Oz
+  +   6000 OUAI Hair Oil, Heat Protectant, Hair Frizz Control, Travel Size, 0.45 Fl Oz
+  +   6000 OUAI Hair Oil, Lightweight Heat Protectant, Hair Frizz Control, 1.5 Fl Oz
+  +   5000 L'Oreal Paris Bond Repair+ Hair Oil-in-Serum, Heat Protectant to Strengthen Damaged, Color-Treated Hair, Provi
+  -  30000 Cliganic Organic Jojoba Oil, 100% Pure Cold Pressed for Face & Hair, 4oz
+  -  30000 Dove Hair Intensive Repair 10-in-1 Serum Mask for Damaged Hair, 9.2 fl oz
+  -  30000 L3 Level 3 Sea Salt Spray for Hair, Texturizing, Beachy Waves, 8.45 fl oz
+  -  20000 BASK & LATHER Scalp Stimulator Hair Growth Oil, Cold Pressed Mint and Rosemary Blend with Grapeseed for Hair G
+  -  20000 Redken All Soft Shampoo – For Dry, Brittle Hair
+
+== rosemary_oil q='rosemary oil for hair': on-target 164/240, units 40% of 501,800
+  +  50000 Mielle Organics Rosemary Mint Hair Oil with Biotin, 2 oz
+  +  20000 BASK & LATHER Scalp Stimulator Hair Growth Oil, Cold Pressed Mint and Rosemary Blend with Grapeseed for Hair G
+  +  10000 Botanic Hearth Rosemary Oil for Hair Growth - 6.7 Fl oz
+  +  10000 AVEYA Hair Growth Spray, infused with Rosemary Oil,rice water,Batana Oil&Biotin for Scalp – Strengthens,Thicke
+  +   8000 BASK & LATHER Stimulating Scalp and Hair Balm for Hair Growth, Mango & Shea Butter, Nourishing Jojoba Oil, Pep
+  +   7000 Kitsch Rosemary Oil for Hair Growth -With Castor Oil, Biotin & Jojoba- 60mL
+  +   6000 100% Pure Rosemary Essential Oil for Hair, Undiluted - 4 Fl Oz
+  +   6000 Handcraft Blends Rosemary Essential Oil - Huge 4 Fl Oz
+  +   6000 Lebanta Batana Oil for Hair - Organic Castor Rosemary Scalp Oil 3.38 Fl Oz
+  +   5000 Blend Of Pure Rosemary Oil For Hair Growth 6 Fl Oz With Castor, Batana Oil
+  +   5000 medicube Rosemary PDRN Silk Hair Oil, Lightweight Glass Oil & Adds Shine
+  +   4000 Botanic Hearth Rosemary Oil for Hair Growth - 2 Fl oz
+  +   4000 Botanic Hearth Rosemary Oil for Hair Growth - 4 Fl oz
+  +   4000 SVA Rosemary Essential Oil, Glass Bottle with Dropper, 4 Fl Oz (118 ml)
+  -  70000 Bare Anatomy Nature x Science Rosemary Water Spray for Hair Growth & Hair Thickness with Rice Water |100% Natu
+  -  20000 Mielle Organics Rosemary Mint Biotin Strengthening Shampoo, 12 oz
+  -  20000 Dr. Groot Hair Thickening Shampoo, Korean Hair Care with Biotin, Rosemary Oil to Help Volumize Thinning, Damag
+  -  20000 Minoxidil for Men and Women, Hair Growth Serum with Biotin, Rosemary and Batana for Hair Beard Regrowth Treatm
+  -  10000 Botanic Hearth Rosemary and Rice Water Spray For Hair Growth - 6.8 Fl oz
+
+== scent_diffuser q='waterless scent diffuser': on-target 174/240, units 37% of 156,550
+  +   8000 The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil Machine
+  +   4000 Waterless Diffuser Pro with 5 Scent Oils, Luxury Hotel-Class Essential Oil Diffuser Aromatherapy Machine with 
+  +   3000 ANZ Waterless Diffuser for Essential Oil for Home, Room, Black
+  +   3000 Airversa AN8 Waterless Essential Oil Diffuser Starter Kit, Black
+  +   3000 Airversa AN6 Waterless Diffuser for Essential Oil for Home, Room, Black
+  +   2000 The AirScent Waterless Diffuser - Cold Air Scent Diffuser Oil Machine
+  +   1000 3500 Sq.Ft Smart Scent Diffuser - HVAC System
+  +   1000 FEPPO Waterless Diffuser - Diffusers for Home Hotel Office Spa Large Room
+  +   1000 Airversa ANW Smart Waterless Essential Oil Diffuser for Large Room, White
+  +   1000 Waterless Essential Oil Diffuser with App Control for Home, Black
+  +   1000 3500 Sq.Ft Smart Scent Diffuser - HVAC System
+  +   1000 Tower Waterless Diffuser with 5 Hotel-inspried Scent Oil Set
+  +   1000 VINEVIDA (32oz) Hotel Fragrance Diffuser Oil - Hotel Scents for Home - Cold Air Diffuser Oil - Essential Oil -
+  +    900 Metal Waterless Essential Oil Diffuser, Scent Diffuser with Remote, Black
+  -  10000 ASAKUKI Essential Oil Diffuser for Home, 500ML Aromatherapy Humidifier
+  -  10000 AirScent Hotel Diffuser Oil No. 1014 - Iconic 5-Star Hotel Blend - 120 mL
+  -   9000 AirScent Hotel Diffuser Oil No. 1014 - Iconic 5-Star Hotel Blend - 500 mL
+  -   9000 AirScent Hotel Diffuser Oil No. 1023 - Baccarat Hotel Inspired - 120 mL
+  -   7000 InnoGear Essential Oil Diffuser Ultrasonic Diffusers for Home, Basic White
+
+== turmeric_soap q='turmeric soap bar': on-target 205/240, units 61% of 181,300
+  +  30000 VALITIC Kojic Acid Dark Spot Remover Soap Bars, Turmeric Bar Soaps 2 Pack
+  +  10000 5 Pcs 80g Turmeric Kojic Acid Soap Bars with 2 Foaming Mesh Nets
+  +   9000 VALITIC Kojic Acid Dark Spot Remover Soap Bars, Turmeric Bar Soaps 3 Pack
+  +   5000 Kojic Acid Soap, Turmeric Soap Bar for Dark Spots, 3 Pack
+  +   4000 Treeroot 5 Pack 80g Turmeric Kojic Acid Soap Bar for Face and Body
+  +   4000 Kitsch Kojic Acid Soap – Turmeric Soap Bar – Made in USA, 4 oz
+  +   3000 VALITIC Kojic Acid Dark Spot Remover Soap Bars, Turmeric Bar Soaps 5 Pack
+  +   3000 QOOQ Turmeric Kojic Acid Soap for Dark Spot Remover - Facial Cleansing Bar
+  +   3000 VALITIC Kojic Acid Dark Spot Remover Soap Bars, Turmeric Bar Soaps 4 Pack
+  +   2000 Turmeric Soap Bar for Face and Body, Handmade Turmeric Cleansing Soap, Gentle Daily Cleanser for Men and Women
+  +   2000 Glo Melanin Turmeric Brightening Soap with Vitamin C, Alpha Arbutin & Oats
+  +   2000 Dr.Melaxin Kojic Acid Turmeric Serum Soap with Niacinamide, Tone Care Cleansing Bar for Uneven Skin Tone & Dar
+  +   2000 Treeroot 4 Pcs Turmeric Face Wash Set, 2 Pack 70g Turmeric Kojic Acid Soap
+  +   1000 Natural Turmeric Soap Bar for Face & Body – Turmeric Skin Brightening Soap for Dark Spots, Uneven Skin Tone & 
+  -  20000 Dove Shea Butter Beauty Bar Soap 8 Count, Cleanser, 3.75 oz I beauty bar
+  -  10000 Kojie San Skin and Body Brightening Soap - Original Kojic Acid, Dark Spot Remover Bar Soap with Glycerin & Tea
+  -   9000 Dr. Bronner's Pure-Castile Bar Soap for Men & Women, Lavender, 5 oz, 2-Pack
+  -   7000 Good Molecules Brightening & Dark Spots Bar, Kojic Acid Soap, 3 oz
+  -   7000 Quatish Leakproof Bar Soap Holder Dish with Lid for Shower, Portable 1 Pack Travel Soap Case Box for Gym, Camp
+
+== whitening_powder q='teeth whitening powder': on-target 93/238, units 2% of 767,200
+  +   5000 Boka Teeth Whitening Powder with Nano Hydroxyapatite 1pack
+  +   2000 Teeth whitening Powder, containing hydroxyapatite, removes Tooth Stains
+  +   2000 Viva Doria Natural Tooth Powder, Remineralizing, Natural Teeth Whitening, Breath Freshener | Refreshing Mint F
+  +   1000 Living Well Dr. Michelle Remineralizing & Whitening Tooth Powder, Cool Mint
+  +   1000 (1LB) Organic Coconut Activated Charcoal Powder - Food Grade, Kosher - Teeth Whitening, Facial Scrub, Soap Mak
+  +    700 Enamel-Safe Teeth Whitening Powder - Hydroxyapatite - Gentle on Teeth - No Sensitivity Formula - Removes Stain
+  +    500 Teeth Whitening Powder with Hydroxyapatite, Removes Stains & Fresh Breath
+  +    500 Updated Design Teeth Whitening Powder - Hydroxyapatite - Gentle on Teeth - No Sensitivity - Removes Stains - B
+  +    500 Viva Doria Natural Tooth Powder, Remineralizing, Natural Teeth Whitening, Breath Freshener | Refreshing Mint F
+  +    300 Teeth Whitening Powder - Remineralizing Tooth Powder with Nano Hydroxyapatite, Charcoal + Bentonite & Kaolin C
+  +    200 MySweetSmile 3-in-1 Teeth Whitening Powder – 6 Month Supply – Mint Flavour
+  +    200 Enamel Safe Whitening Tooth Powder,Remineralizing Teeth
+  +    200 Zero Waste up to 6 Month Supply Organic Vegan Fluoride Free Tooth Powder Peppermint Flavor- Ships Without Any 
+  +    100 SNOW Sensitive Magic Powder Teeth Whitening Booster with Hydroxyapatite
+  - 100000 Crest Teeth Whitening Strips, Crest 3D Whitestrips Professional Effects, Enamel Safe Teeth Whitening Kit, 22 T
+  -  90000 Boka Toothpaste - Nano Hydroxyapatite Toothpaste, Fluoride Free Toothpaste
+  -  60000 Mouthology 10% Nano Hydroxyapatite Toothpaste Fluoride Free, Whitening*, Rod Shaped nHA, Xylitol Toothpaste fo
+  -  50000 GuruNanda Teeth Whitening Strips - 4X Whiter Teeth, 7-Day Whitening Kit
+  -  50000 Crest 3D White Deep Stain Remover Brilliant White Toothpaste, 3.1 oz (Pack of 2), Whiter Teeth in 1 Day, Ename

@@ -1,0 +1,40 @@
+{
+ "domain": "sequoiashoe.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2025-11-28",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://sequoiashoe.com/?currency=USD",
+  "final": "https://sequoiashoe.com/?currency=USD",
+  "status": 200,
+  "title": "SEQUOIASHOE",
+  "desc": "SEQUOIASHOE SHOES SHOE Orthopedic Casual Walking Shoes for Men - Comfortable Breathable with Arch Support, Shock Absorption, and Anti-slip Features",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$45.69",
+   "$93.36",
+   "$37.69",
+   "$75.36",
+   "$45.69",
+   "$93.36",
+   "$58.99",
+   "$105.99"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "laster updateds, sales & limited editions Enter your email Subscribe Support TERMS OF SERVICE PAYMENT METHOD PAYPAL PAYMENTS SHI"
+  ],
+  "epa": [],
+  "len": 2714
+ },
+ "rdap": "2023-05-10",
+ "wayback": "2023-07-23",
+ "age_class": "old"
+}

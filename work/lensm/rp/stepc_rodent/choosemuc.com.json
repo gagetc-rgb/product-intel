@@ -1,0 +1,44 @@
+{
+ "domain": "choosemuc.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-08-05",
+ "ads": "2",
+ "pages": [],
+ "home": {
+  "url": "https://choosemuc.com/?currency=USD",
+  "final": "https://choosemuc.com/?currency=USD",
+  "status": 200,
+  "title": "choosemuc",
+  "desc": "",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$70",
+   "$70",
+   "$70",
+   "$70",
+   "$25.99",
+   "$49.99",
+   "$25.99",
+   "$29.99"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD"
+  ],
+  "bundle": [
+   "ipping for Orders Over $70 Welcome to Choosemuc | Buy 3 Get 10% OFF Free Shipping for Orders Over $70 Wel",
+   "come to Choosemuc | Buy 3 Get 10% OFF Free Shipping for Orders Over $70 Wel",
+   "come to Choosemuc | Buy 3 Get 10% OFF Free Shipping for Orders Over $70 Wel"
+  ],
+  "sub": [
+   "curity SSL Secure encryption Guarantee Money Back Guarantee Subscribe to our emails Be the first to know about new collections an",
+   "To receive exclusive deals and updates on new arrivals, subscribe to our emails at the bottom of our homepage"
+  ],
+  "epa": [],
+  "len": 14188
+ },
+ "rdap": "2023-11-04",
+ "wayback": "2024-05-02",
+ "age_class": "old"
+}

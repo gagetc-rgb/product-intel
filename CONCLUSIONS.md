@@ -1,6 +1,8 @@
 # Product Intel: conclusions (2026-11-07)
 
-## SUPERSEDED (2026-11-08): the current verdict is `work/blind/FINAL_V2.md` (method v2.0, /RUNBOOK.md): 1 color-changing foundation, 2 body oil, 3 waterless diffuser, 4 tallow balm, 5 persimmon soap. The v3 list below fails v2.0 data: socks 3% to newcomers, magnesium newcomers are older brands, turmeric soap demand falling.
+## SUPERSEDED. Current verdict (2026-11-09, method v2.2): `work/audit/AUDIT_2026-11-09.md` §11 — pet water fountain, color foundation, lash serum, tallow balm, shower filter (see HANDOFF "START HERE").
+
+## (superseded 2026-11-09 by v2.2) SUPERSEDED (2026-11-08): the verdict then is `work/blind/FINAL_V2.md` (method v2.0, /RUNBOOK.md): 1 color-changing foundation, 2 body oil, 3 waterless diffuser, 4 tallow balm, 5 persimmon soap. The v3 list below fails v2.0 data: socks 3% to newcomers, magnesium newcomers are older brands, turmeric soap demand falling.
 
 ## Shortlist v3 (2026-11-07, history)
 

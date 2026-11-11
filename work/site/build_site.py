@@ -18,6 +18,26 @@ SHORT = {"color_foundation": "Color foundation", "body_oil": "Body oil", "scent_
          "magnesium_spray": "Magnesium spray", "exfoliating_towel": "Exfoliating towel", "rosemary_oil": "Rosemary oil", "turmeric_soap": "Turmeric soap"}
 # store photos that show the wrong product (checked on the photo sheet) are not used as the category photo
 BAD_PHOTO = {"vibriance.com", "vueswiss.com", "boka.com", "sringe.com"}
+# advertisers whose ads are not the category's product at all (2026-11-10: osanyinherbs.com is a herbal shop, it came in under chin wrap)
+BAD_ADS = {"osanyinherbs.com"}
+# per category: advertisers whose ads in our sample show another product (2026-11-11: Particle ran fragrance ads, Vibriance a face serum)
+BAD_ADS_CAT = {"neck_cream": {"particleformen.com", "vibriance.com"},
+               "dog_fountain": {"winkflo.com", "theflowzy.com"},      # grooming comb, leash, warehouse: not the fountain
+               "hair_removal_cream": {"bumzzy.com"},                  # an electric body shaver
+               "whitening_powder": {"boka.com"},                      # toothpaste
+               "color_foundation": {"smooche.com"},                   # lip plumper ads
+               "body_oil": {"goda.co"},                               # perfume-oil ads
+               "rosemary_oil": {"hairqare.co"}}                       # a hair-care course, not the oil
+# single ads that show another product of an otherwise right brand
+BAD_IMG = {"media/4565047e8b095c7c.jpg"}                               # Prime Prometics eyeliner
+# category photo chosen by hand from the category's own ads when the automatic pick shows another product (checked on a contact sheet 2026-11-11)
+# chin wrap, rosemary oil, neck cream: the leader's own product photo from its store (tryskult.com, mielleorganics.com, medicube.us), fetched 2026-11-11
+PHOTO_OVERRIDE = {"hair_serum": "media/prod_hair_bodywise.jpg", "pore_patch": "media/f7cf7a3c346a5b3b.jpg", "rosemary_oil": "media/prod_rosemary_mielle.jpg",
+                  "chin_wrap": "media/prod_chin_skult.jpg", "neck_cream": "media/prod_neck_medicube.jpg",
+                  "dog_fountain": "media/bd7400a7cd7fa20b.jpg", "body_oil": "media/766ef63a4d9c956b.jpg", "color_foundation": "media/9fae9b7bc570df28.jpg",
+                  "whitening_powder": "media/85bccf6d73501792.jpg", "hair_removal_cream": "media/e690ff4f4bcf864e.jpg",
+                  # lash serum: Hanae, the young copy the page is about, instead of the auto-picked Borboleta store photo (owner, 2026-11-11)
+                  "lash_serum": "media/prod_lash_hanae.jpg"}
 
 # ---------- tiny markdown -> html ----------
 TIER = {"◆": ("t1", "counted by a platform"), "◈": ("t2", "estimate or our reading"), "◇": ("t3", "disputed")}
@@ -158,9 +178,11 @@ def growth(s):
 ADS = {}
 for f in ["work/ads/longrunning_v2.json", "work/ads/longrunning_v3a.json", "work/ads/longrunning_v3b.json"]:
     for b in J(R / f)["brands"]: ADS.setdefault(b["id"], []).append(b)
+CFIX = J(R / "work/site/creatives_fix.json")
 def creatives(pid):
     out, photo_ = [], None
     for b in ADS.get(pid, []):
+        if b["domain"] in BAD_ADS or b["domain"] in BAD_ADS_CAT.get(pid, ()): continue
         stem = b["domain"].split(".")[0]
         if not photo_ and b["domain"] not in BAD_PHOTO and b.get("photos"): photo_ = img(b["photos"][0], 640)
         seen, n = set(), 0
@@ -169,17 +191,19 @@ def creatives(pid):
             key = (a.get("body") or "")[:70] + (a.get("headline") or "")[:30]
             if key in seen: continue
             seen.add(key); src = img(a["imgLocal"])
-            if not src: continue
+            if not src or src in BAD_IMG: continue
             out.append({"img": src, "days": a.get("days"), "start": a.get("startISO"), "page": a.get("page"), "domain": b["domain"],
                         "head": (a.get("headline") or "").split(" · ")[0][:90], "body": re.sub(r"\s+", " ", a.get("body") or "")[:180],
                         "video": bool(a.get("video")), "lib": f"https://www.facebook.com/ads/library/?id={a['id']}"})
             n += 1
             if n >= 3: break
+    # 2026-11-11: drop shown ads that Meta no longer runs, add replacements (work/site/creatives_fix.json, checked through Apify)
+    out = [c for c in out if c["lib"].split("id=")[-1] not in CFIX["dead_ids"]] + CFIX["add"].get(pid, [])
     out.sort(key=lambda c: -(c["days"] or 0))
     return out[:6], photo_
 
 # ---------- categories ----------
-M22 = J(R / "work/audit/metrics_v22.json")
+M22 = J(R / "work/audit/metrics_v23.json")
 cats = []
 for f in [p for p in sorted((D / "content").glob("[0-2][0-9]_*.md")) if not p.name.startswith("00")]:
     fm, body = front(f.read_text(encoding="utf-8"))
@@ -207,6 +231,7 @@ for f in [p for p in sorted((D / "content").glob("[0-2][0-9]_*.md")) if not p.na
         s = {k: sum((p.get(k) or 0) for p in v.get("own", {}).values()) for k in ("active", "aged30", "aged90", "aged180")}
         bp.append({"name": name, **s, "pages": len(v.get("own", {})), "sample": v.get("phrase_sample"), "own_domain": v.get("own_domain")})
     cr, ph = creatives(pid)
+    if pid in PHOTO_OVERRIDE: ph = PHOTO_OVERRIDE[pid] or ""
     rv = None
     if pid in REV:
         rv = {"series": [{"name": n, "pts": [[ym, *(s.get(ym) or [None, False])] for ym in MONTHS], "growth": growth(s)} for n, s in REV[pid]]}
@@ -219,7 +244,7 @@ for f in [p for p in sorted((D / "content").glob("[0-2][0-9]_*.md")) if not p.na
         "winB": vr.get("winB"), "winG": vr.get("winG"), "stores": vr.get("stores"), "stores90": vr.get("stores90"),
         "meta": {k: m.get(k) for k in ("phrase", "active", "aged30", "aged90", "aged180", "date")} if m else None,
         "kind": a.get("units_by_kind"), "age": a.get("units_by_brand_age"), "leaders": leaders, "brandPages": bp,
-        "storesTop": d.get("meta_stores_top") or [], "trend": tr, "reviews": rv, "creatives": cr, "photo": ph or (cr[0]["img"] if cr else None),
+        "storesTop": d.get("meta_stores_top") or [], "trend": tr, "reviews": rv, "creatives": cr, "photo": (ph or None) if pid in PHOTO_OVERRIDE else (ph or (cr[0]["img"] if cr else None)),
         "lead": md(lead), "sections": secs, "m": M22.get(pid), "kill": vr.get("kill"), "note": vr.get("note"),
     })
     print(pid, "secs", [s["kind"] for s in secs], "cr", len(cr), "photo", bool(ph), "rev", bool(rv))
@@ -245,6 +270,11 @@ js = json.dumps(DATA, ensure_ascii=False, separators=(",", ":"))
 tpl = (R / "work/site/template.html").read_text(encoding="utf-8")
 (OUT / "v21_en.html").write_text(tpl.replace("/*__DATA__*/null", js), encoding="utf-8")  # previous English site, kept for reference
 DATA["ru"] = J(R / "work/site/ru.json")
+DATA["credraw"] = J(R / "work/audit/cred_check.json")  # numbers for "Насколько верить видео"
+DATA["margin"] = J(R / "work/margin/margin.json")["cases"]  # money left per sale before ads (work/margin/margin.py)
+DATA["groups"] = J(R / "work/site/groups_ru.json")  # go / watch / no, one-line reasons, young followers
+DATA["story"] = J(R / "work/site/story_ru.json")  # home-page story blocks (make_story.py, site plan v2.5)
+DATA["grave"] = J(R / "work/site/graveyard_ru.json")  # stopped advertisers per product, from BigSpy US tables (work/graveyard/make_graveyard.py)
 js = json.dumps(DATA, ensure_ascii=False, separators=(",", ":"))
 tpl = (R / "work/site/template_ru.html").read_text(encoding="utf-8")
 (OUT / "index.html").write_text(tpl.replace("/*__DATA__*/null", js), encoding="utf-8")

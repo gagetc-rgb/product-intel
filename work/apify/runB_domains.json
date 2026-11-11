@@ -1,0 +1,2020 @@
+{
+ "tallow_balm": {
+  "phrase": "tallow balm",
+  "ads": 327,
+  "meta_total": 532,
+  "domains": [
+   {
+    "domain": "about.terralotus.shop",
+    "ads": 56,
+    "oldest_days": 46,
+    "pages": [
+     "Terra Lotus",
+     "HomeCraft Balm"
+    ]
+   },
+   {
+    "domain": "thetallowedtruth.com",
+    "ads": 45,
+    "oldest_days": 163,
+    "pages": [
+     "The Tallowed Truth",
+     "Ben Corkery Founder at The Tallowed Truth",
+     "Vitality For You"
+    ]
+   },
+   {
+    "domain": "toupsandco.com",
+    "ads": 29,
+    "oldest_days": 210,
+    "pages": [
+     "Toups and Co Organics"
+    ]
+   },
+   {
+    "domain": "birthright.co",
+    "ads": 18,
+    "oldest_days": 153,
+    "pages": [
+     "Birthright Supplements"
+    ]
+   },
+   {
+    "domain": "ancestralcosmetics.com",
+    "ads": 15,
+    "oldest_days": 352,
+    "pages": [
+     "Ancestral Cosmetics",
+     "Ancestral Beauty Secrets"
+    ]
+   },
+   {
+    "domain": "honeybeauty.co",
+    "ads": 13,
+    "oldest_days": 166,
+    "pages": [
+     "Honey Natural Beauty"
+    ]
+   },
+   {
+    "domain": "shoppuregood.com",
+    "ads": 11,
+    "oldest_days": 107,
+    "pages": [
+     "Pure Good"
+    ]
+   },
+   {
+    "domain": "bare-ritual.com",
+    "ads": 11,
+    "oldest_days": 305,
+    "pages": [
+     "Bare Ritual"
+    ]
+   },
+   {
+    "domain": "wildgoldtallow.com",
+    "ads": 11,
+    "oldest_days": 272,
+    "pages": [
+     "Wild Gold Tallow"
+    ]
+   },
+   {
+    "domain": "neptunehealthco.com",
+    "ads": 9,
+    "oldest_days": 124,
+    "pages": [
+     "Neptune Health"
+    ]
+   },
+   {
+    "domain": "store.try-forge.com",
+    "ads": 9,
+    "oldest_days": 85,
+    "pages": [
+     "Forge Men",
+     "The Elite Man"
+    ]
+   },
+   {
+    "domain": "shop.gubbahomestead.com",
+    "ads": 8,
+    "oldest_days": 76,
+    "pages": [
+     "Gubba Homestead"
+    ]
+   },
+   {
+    "domain": "basedsupplies.com",
+    "ads": 7,
+    "oldest_days": 31,
+    "pages": [
+     "Skincare Guide"
+    ]
+   },
+   {
+    "domain": "thepapabear.com",
+    "ads": 7,
+    "oldest_days": 159,
+    "pages": [
+     "Papabear Naturals"
+    ]
+   },
+   {
+    "domain": "hibiyouth.com",
+    "ads": 6,
+    "oldest_days": 707,
+    "pages": [
+     "HIBI Youth Skincare"
+    ]
+   },
+   {
+    "domain": "shop.try-forge.com",
+    "ads": 5,
+    "oldest_days": 94,
+    "pages": [
+     "Forge Men"
+    ]
+   },
+   {
+    "domain": "lassotallow.us",
+    "ads": 5,
+    "oldest_days": 57,
+    "pages": [
+     "Lasso Co."
+    ]
+   },
+   {
+    "domain": "leskinclub.com",
+    "ads": 4,
+    "oldest_days": 84,
+    "pages": [
+     "Le Skin Club"
+    ]
+   },
+   {
+    "domain": "byminus.com",
+    "ads": 4,
+    "oldest_days": 314,
+    "pages": [
+     "Minus SkinCare"
+    ]
+   },
+   {
+    "domain": "trybullbee.com",
+    "ads": 4,
+    "oldest_days": 51,
+    "pages": [
+     "BullBee"
+    ]
+   },
+   {
+    "domain": "trytallow.com",
+    "ads": 3,
+    "oldest_days": 140,
+    "pages": [
+     "TryTallow - Natural Skincare",
+     "Kevin Leight - Co-Founder of TryTallow"
+    ]
+   },
+   {
+    "domain": "get.thetallowedtruth.com",
+    "ads": 3,
+    "oldest_days": 163,
+    "pages": [
+     "Non-Woke Daily",
+     "The Tallowed Truth"
+    ]
+   },
+   {
+    "domain": "rr-collective.com",
+    "ads": 3,
+    "oldest_days": 32,
+    "pages": [
+     "R&R Collective Co. "
+    ]
+   },
+   {
+    "domain": "magnolia.com",
+    "ads": 2,
+    "oldest_days": 271,
+    "pages": [
+     "Magnolia"
+    ]
+   },
+   {
+    "domain": "tryholicow.com",
+    "ads": 2,
+    "oldest_days": 138,
+    "pages": [
+     "Rebecca Brown",
+     "Holicow"
+    ]
+   },
+   {
+    "domain": "shopbrooksie.com",
+    "ads": 2,
+    "oldest_days": 44,
+    "pages": [
+     "Brooksie"
+    ]
+   },
+   {
+    "domain": "trywondernaturals.com",
+    "ads": 2,
+    "oldest_days": 43,
+    "pages": [
+     "Glow with Giulia Rossi"
+    ]
+   },
+   {
+    "domain": "lp.thepapabear.com",
+    "ads": 2,
+    "oldest_days": 159,
+    "pages": [
+     "Papabear Naturals"
+    ]
+   },
+   {
+    "domain": "heaventallow.com",
+    "ads": 2,
+    "oldest_days": 39,
+    "pages": [
+     "Jasmine Rade"
+    ]
+   },
+   {
+    "domain": "gingerlilytallow.com",
+    "ads": 2,
+    "oldest_days": 74,
+    "pages": [
+     "Ginger Lily Tallow"
+    ]
+   },
+   {
+    "domain": "onaturelle.co",
+    "ads": 2,
+    "oldest_days": 32,
+    "pages": [
+     "O'Naturelle"
+    ]
+   },
+   {
+    "domain": "apothekedujardin.com",
+    "ads": 2,
+    "oldest_days": 143,
+    "pages": [
+     "Apotheke DuJardin"
+    ]
+   },
+   {
+    "domain": "goodlifetallow.com",
+    "ads": 2,
+    "oldest_days": 42,
+    "pages": [
+     "Good Life Tallow"
+    ]
+   },
+   {
+    "domain": "amazon.com",
+    "ads": 1,
+    "oldest_days": 289,
+    "pages": [
+     "Cinder Brands"
+    ]
+   },
+   {
+    "domain": "shop.faithfulfamilyfarmer.com",
+    "ads": 1,
+    "oldest_days": 61,
+    "pages": [
+     "Faithful Family Farmer"
+    ]
+   },
+   {
+    "domain": "skinbyrender.com",
+    "ads": 1,
+    "oldest_days": 54,
+    "pages": [
+     "Skin By Render"
+    ]
+   },
+   {
+    "domain": "organicsuntamed.com",
+    "ads": 1,
+    "oldest_days": 95,
+    "pages": [
+     "Untamed Organics"
+    ]
+   },
+   {
+    "domain": "summersolacetallow.com",
+    "ads": 1,
+    "oldest_days": 251,
+    "pages": [
+     "Summer Solace Tallow"
+    ]
+   },
+   {
+    "domain": "hearthandhomesteadstore.com",
+    "ads": 1,
+    "oldest_days": 43,
+    "pages": [
+     "Hearth and Homestead"
+    ]
+   },
+   {
+    "domain": "wholesalenaturalbodycare.com",
+    "ads": 1,
+    "oldest_days": 51,
+    "pages": [
+     "Wholesale Natural Body Care"
+    ]
+   },
+   {
+    "domain": "ecommercealley.com",
+    "ads": 1,
+    "oldest_days": 147,
+    "pages": [
+     "Josh Coffy"
+    ]
+   },
+   {
+    "domain": "prairiefirecandles.com",
+    "ads": 1,
+    "oldest_days": 131,
+    "pages": [
+     "Prairie Fire Tallow, Candles, & Lavender"
+    ]
+   },
+   {
+    "domain": "tetonskincare.com",
+    "ads": 1,
+    "oldest_days": 147,
+    "pages": [
+     "Teton Skincare"
+    ]
+   },
+   {
+    "domain": "grassfedsoaps.com",
+    "ads": 1,
+    "oldest_days": 58,
+    "pages": [
+     "Grass Fed Soaps"
+    ]
+   },
+   {
+    "domain": "thelittlecatholicbox.com",
+    "ads": 1,
+    "oldest_days": 62,
+    "pages": [
+     "The Little Catholic Box"
+    ]
+   },
+   {
+    "domain": "eat2live.life",
+    "ads": 1,
+    "oldest_days": 93,
+    "pages": [
+     "Eat 2 Live"
+    ]
+   },
+   {
+    "domain": "cattle-creek.com",
+    "ads": 1,
+    "oldest_days": 301,
+    "pages": [
+     "Cattle Creek Mercantile"
+    ]
+   },
+   {
+    "domain": "growhabity.com",
+    "ads": 1,
+    "oldest_days": 38,
+    "pages": [
+     "Growhabity-L"
+    ]
+   },
+   {
+    "domain": "crafttallow.com",
+    "ads": 1,
+    "oldest_days": 32,
+    "pages": [
+     "Craft Tallow"
+    ]
+   },
+   {
+    "domain": "skyandsol.co",
+    "ads": 1,
+    "oldest_days": 71,
+    "pages": [
+     "Sky&sol"
+    ]
+   },
+   {
+    "domain": "try.thetallowedtruth.com",
+    "ads": 1,
+    "oldest_days": 163,
+    "pages": [
+     "The Tallowed Truth"
+    ]
+   },
+   {
+    "domain": "fb.com",
+    "ads": 1,
+    "oldest_days": 62,
+    "pages": [
+     "Ozark Ridge Organics"
+    ]
+   },
+   {
+    "domain": "peruviangoldbalm.com",
+    "ads": 1,
+    "oldest_days": 32,
+    "pages": [
+     "Peruvian Gold Wellness"
+    ]
+   },
+   {
+    "domain": "tribevitamins.com",
+    "ads": 1,
+    "oldest_days": 54,
+    "pages": [
+     "TRIBE Vitamins"
+    ]
+   }
+  ]
+ },
+ "whitening_powder": {
+  "phrase": "tooth powder",
+  "ads": 105,
+  "meta_total": 106,
+  "domains": [
+   {
+    "domain": "getmyto.com",
+    "ads": 70,
+    "oldest_days": 134,
+    "pages": [
+     "Myto Oral Care"
+    ]
+   },
+   {
+    "domain": "trymooths.com",
+    "ads": 15,
+    "oldest_days": 97,
+    "pages": [
+     "Mooths"
+    ]
+   },
+   {
+    "domain": "banyanbotanicals.com",
+    "ads": 4,
+    "oldest_days": 154,
+    "pages": [
+     "Banyan Botanicals"
+    ]
+   },
+   {
+    "domain": "organicwavewellness.com",
+    "ads": 4,
+    "oldest_days": 175,
+    "pages": [
+     "Organic Wave Wellness"
+    ]
+   },
+   {
+    "domain": "yagalifestyle.com",
+    "ads": 3,
+    "oldest_days": 94,
+    "pages": [
+     "Yaga Lifestyle"
+    ]
+   },
+   {
+    "domain": "drsebis.com",
+    "ads": 2,
+    "oldest_days": 195,
+    "pages": [
+     "Dr. Sebi's Cell Food"
+    ]
+   },
+   {
+    "domain": "offers.trymooths.com",
+    "ads": 2,
+    "oldest_days": 100,
+    "pages": [
+     "Mooths"
+    ]
+   },
+   {
+    "domain": "a.co",
+    "ads": 1,
+    "oldest_days": 62,
+    "pages": [
+     "Rocky Top Woodworks"
+    ]
+   },
+   {
+    "domain": "dakotatallow.com",
+    "ads": 1,
+    "oldest_days": 51,
+    "pages": [
+     "Dakota Tallow Skin Care & More"
+    ]
+   },
+   {
+    "domain": "longertogetherpet.com",
+    "ads": 1,
+    "oldest_days": 36,
+    "pages": [
+     "Living Well with Dr. Michelle Jorgensen"
+    ]
+   },
+   {
+    "domain": "kreainco.com",
+    "ads": 1,
+    "oldest_days": 147,
+    "pages": [
+     "Kreain Co."
+    ]
+   },
+   {
+    "domain": "healthylivingco.net",
+    "ads": 1,
+    "oldest_days": 38,
+    "pages": [
+     "Healthylivingco.net"
+    ]
+   }
+  ]
+ },
+ "persimmon_soap": {
+  "phrase": "persimmon soap",
+  "ads": 330,
+  "meta_total": 905,
+  "domains": [
+   {
+    "domain": "try-kaori.com",
+    "ads": 147,
+    "oldest_days": 210,
+    "pages": [
+     "Linda Doxey",
+     "Kaori",
+     "Fabulous After 60"
+    ]
+   },
+   {
+    "domain": "kakiyucare.com",
+    "ads": 74,
+    "oldest_days": 82,
+    "pages": [
+     "Kakiyu",
+     "Mari Tanaka",
+     "Dr. Margaret Ellis"
+    ]
+   },
+   {
+    "domain": "skinscienceinsider.com",
+    "ads": 28,
+    "oldest_days": 76,
+    "pages": [
+     "Skin Science Insider",
+     "Minnesota Health Center"
+    ]
+   },
+   {
+    "domain": "miraiclinical.com",
+    "ads": 27,
+    "oldest_days": 496,
+    "pages": [
+     "Mirai Clinical",
+     "Koko Face Yoga",
+     "Jared Brubaker"
+    ]
+   },
+   {
+    "domain": "swarva.com",
+    "ads": 20,
+    "oldest_days": 124,
+    "pages": [
+     "Over 60 & Thriving",
+     "Swarva",
+     "Barb Whitmore"
+    ]
+   },
+   {
+    "domain": "bellaviashop.com",
+    "ads": 15,
+    "oldest_days": 90,
+    "pages": [
+     "Mari Tanaka"
+    ]
+   },
+   {
+    "domain": "cachinaturals.com",
+    "ads": 12,
+    "oldest_days": 91,
+    "pages": [
+     "Cachi Naturals"
+    ]
+   },
+   {
+    "domain": "toshiico.com",
+    "ads": 2,
+    "oldest_days": 85,
+    "pages": [
+     "Amy Lewis"
+    ]
+   },
+   {
+    "domain": "goda.co",
+    "ads": 2,
+    "oldest_days": 57,
+    "pages": [
+     "Over 40 & Fabulous "
+    ]
+   },
+   {
+    "domain": "aurellee.co",
+    "ads": 2,
+    "oldest_days": 96,
+    "pages": [
+     "Aurellee"
+    ]
+   },
+   {
+    "domain": "hadoriskin.com",
+    "ads": 1,
+    "oldest_days": 38,
+    "pages": [
+     "Hadori"
+    ]
+   }
+  ]
+ },
+ "lash_serum": {
+  "phrase": "lash serum",
+  "ads": 325,
+  "meta_total": 1159,
+  "domains": [
+   {
+    "domain": "hanaekorea.com",
+    "ads": 77,
+    "oldest_days": 123,
+    "pages": [
+     "Trending In Korea",
+     "Hanae Korea"
+    ]
+   },
+   {
+    "domain": "(none)",
+    "ads": 61,
+    "oldest_days": 630,
+    "pages": [
+     "Natural Beauty by Melissa Rae",
+     "The Beauty Edit with Nicole Wagner",
+     "Mastering Inner & Outer Beauty-Hollie O'Brien"
+    ]
+   },
+   {
+    "domain": "facelove-cosmetics.com",
+    "ads": 29,
+    "oldest_days": 158,
+    "pages": [
+     "Facelove Cosmetics",
+     "Facelove Deals",
+     "Glow Like Korea"
+    ]
+   },
+   {
+    "domain": "borboleta.com",
+    "ads": 22,
+    "oldest_days": 729,
+    "pages": [
+     "Borboleta",
+     "Melissa Radke",
+     "Shannon"
+    ]
+   },
+   {
+    "domain": "lilash.com",
+    "ads": 15,
+    "oldest_days": 418,
+    "pages": [
+     "LiLash Beauty"
+    ]
+   },
+   {
+    "domain": "babeoriginal.com",
+    "ads": 14,
+    "oldest_days": 215,
+    "pages": [
+     "Babe Original"
+    ]
+   },
+   {
+    "domain": "primeprometics.com",
+    "ads": 11,
+    "oldest_days": 110,
+    "pages": [
+     "Prime Prometics",
+     "Makeup Over 50 with Lisa Hart"
+    ]
+   },
+   {
+    "domain": "diablocosmetics.com",
+    "ads": 11,
+    "oldest_days": 196,
+    "pages": [
+     "Diablo Cosmetics"
+    ]
+   },
+   {
+    "domain": "lashbymaya.com",
+    "ads": 10,
+    "oldest_days": 46,
+    "pages": [
+     "Lash by Maya London"
+    ]
+   },
+   {
+    "domain": "moxielash.com",
+    "ads": 8,
+    "oldest_days": 353,
+    "pages": [
+     "MoxieLash",
+     "Lash Obsession"
+    ]
+   },
+   {
+    "domain": "shop.serevedeals.com",
+    "ads": 8,
+    "oldest_days": 46,
+    "pages": [
+     "Renora"
+    ]
+   },
+   {
+    "domain": "sephora.com",
+    "ads": 7,
+    "oldest_days": 140,
+    "pages": [
+     "Kosas"
+    ]
+   },
+   {
+    "domain": "flashcosmetics.com",
+    "ads": 6,
+    "oldest_days": 183,
+    "pages": [
+     "fLASH Cosmetics"
+    ]
+   },
+   {
+    "domain": "glaume.com",
+    "ads": 5,
+    "oldest_days": 58,
+    "pages": [
+     "Glaume"
+    ]
+   },
+   {
+    "domain": "sownbeauty.com",
+    "ads": 5,
+    "oldest_days": 70,
+    "pages": [
+     "Sown Beauty"
+    ]
+   },
+   {
+    "domain": "nulastin.com",
+    "ads": 4,
+    "oldest_days": 75,
+    "pages": [
+     "NULASTIN"
+    ]
+   },
+   {
+    "domain": "walmart.com",
+    "ads": 3,
+    "oldest_days": 36,
+    "pages": [
+     "Sky Organics"
+    ]
+   },
+   {
+    "domain": "productoskaloni.com",
+    "ads": 2,
+    "oldest_days": 43,
+    "pages": [
+     "Kaloni Products"
+    ]
+   },
+   {
+    "domain": "baskandlatherco.com",
+    "ads": 2,
+    "oldest_days": 34,
+    "pages": [
+     "Bask & Lather Co"
+    ]
+   },
+   {
+    "domain": "target.com",
+    "ads": 2,
+    "oldest_days": 86,
+    "pages": [
+     "Babe Original"
+    ]
+   },
+   {
+    "domain": "grandecosmetics.com",
+    "ads": 2,
+    "oldest_days": 64,
+    "pages": [
+     "Grande Cosmetics"
+    ]
+   },
+   {
+    "domain": "cvs.com",
+    "ads": 2,
+    "oldest_days": 44,
+    "pages": [
+     "KISS Lashes"
+    ]
+   },
+   {
+    "domain": "url.comestayawhile.com",
+    "ads": 2,
+    "oldest_days": 36,
+    "pages": [
+     "Come Stay Awhile"
+    ]
+   },
+   {
+    "domain": "cosmetis.com",
+    "ads": 2,
+    "oldest_days": 124,
+    "pages": [
+     "Cosmetis World"
+    ]
+   },
+   {
+    "domain": "londontownusa.com",
+    "ads": 2,
+    "oldest_days": 168,
+    "pages": [
+     "Londontown USA"
+    ]
+   },
+   {
+    "domain": "froyaorganics.com",
+    "ads": 1,
+    "oldest_days": 68,
+    "pages": [
+     "Frøya Organics"
+    ]
+   },
+   {
+    "domain": "lash.maree.club",
+    "ads": 1,
+    "oldest_days": 113,
+    "pages": [
+     "Marée"
+    ]
+   },
+   {
+    "domain": "instagram.com",
+    "ads": 1,
+    "oldest_days": 200,
+    "pages": [
+     "RevitaLash Cosmetics"
+    ]
+   },
+   {
+    "domain": "analytics.wywrd.com",
+    "ads": 1,
+    "oldest_days": 96,
+    "pages": [
+     "Brit + Co"
+    ]
+   },
+   {
+    "domain": "thelashhause.co.uk",
+    "ads": 1,
+    "oldest_days": 113,
+    "pages": [
+     "The Lash Hause"
+    ]
+   },
+   {
+    "domain": "avarawell.com",
+    "ads": 1,
+    "oldest_days": 56,
+    "pages": [
+     "Avara Well"
+    ]
+   },
+   {
+    "domain": "bareelementlasersalon.com",
+    "ads": 1,
+    "oldest_days": 179,
+    "pages": [
+     "Bare Element"
+    ]
+   },
+   {
+    "domain": "lashtherapyaustralia.com",
+    "ads": 1,
+    "oldest_days": 113,
+    "pages": [
+     "Lash Therapy Australia"
+    ]
+   },
+   {
+    "domain": "amazon.com",
+    "ads": 1,
+    "oldest_days": 105,
+    "pages": [
+     "Natnique"
+    ]
+   },
+   {
+    "domain": "vitaliskincare.com",
+    "ads": 1,
+    "oldest_days": 40,
+    "pages": [
+     "Vitali Skin Care"
+    ]
+   },
+   {
+    "domain": "glowze.com",
+    "ads": 1,
+    "oldest_days": 31,
+    "pages": [
+     "Glowze"
+    ]
+   },
+   {
+    "domain": "quiz.hanaekorea.com",
+    "ads": 1,
+    "oldest_days": 34,
+    "pages": [
+     "Hanae Korea"
+    ]
+   },
+   {
+    "domain": "topbeautysolutions.com",
+    "ads": 1,
+    "oldest_days": 45,
+    "pages": [
+     "Top Beauty Solutions"
+    ]
+   }
+  ]
+ },
+ "chin_wrap": {
+  "phrase": "double chin",
+  "ads": 324,
+  "meta_total": 1981,
+  "domains": [
+   {
+    "domain": "(none)",
+    "ads": 22,
+    "oldest_days": 286,
+    "pages": [
+     "Mirrored Aesthetics",
+     "Weight & Body Solutions",
+     "Siamloft Liposuction "
+    ]
+   },
+   {
+    "domain": "mellowsleep.com",
+    "ads": 20,
+    "oldest_days": 106,
+    "pages": [
+     "Kayla Vashti",
+     "Idris Ali",
+     "Mellow Sleep"
+    ]
+   },
+   {
+    "domain": "instagram.com",
+    "ads": 17,
+    "oldest_days": 498,
+    "pages": [
+     "Rejuvenate.Skincare",
+     "Ageless by Isabelle Wilcox",
+     "PRIA Clinic"
+    ]
+   },
+   {
+    "domain": "go.faceyogamethod.com",
+    "ads": 15,
+    "oldest_days": 156,
+    "pages": [
+     "Face Yoga Method"
+    ]
+   },
+   {
+    "domain": "im8health.com",
+    "ads": 14,
+    "oldest_days": 38,
+    "pages": [
+     "IM8 Health"
+    ]
+   },
+   {
+    "domain": "fb.me",
+    "ads": 14,
+    "oldest_days": 370,
+    "pages": [
+     "Adorn Medical Spa",
+     "Bodenvy CoolSculpting, Weight Loss & Body Sculpting Atlanta",
+     "bodenvy"
+    ]
+   },
+   {
+    "domain": "tryskult.com",
+    "ads": 13,
+    "oldest_days": 331,
+    "pages": [
+     "Skult",
+     "Tryskult"
+    ]
+   },
+   {
+    "domain": "airsculpt.com",
+    "ads": 13,
+    "oldest_days": 497,
+    "pages": [
+     "AirSculpt"
+    ]
+   },
+   {
+    "domain": "amazonvlifitng.com",
+    "ads": 12,
+    "oldest_days": 217,
+    "pages": [
+     "Marée"
+    ]
+   },
+   {
+    "domain": "trytshape.artemis.co",
+    "ads": 11,
+    "oldest_days": 39,
+    "pages": [
+     "Artemis Distribution"
+    ]
+   },
+   {
+    "domain": "try-chinology.com",
+    "ads": 8,
+    "oldest_days": 77,
+    "pages": [
+     "Chinology Community",
+     "Let’s Talk Beauty 40+"
+    ]
+   },
+   {
+    "domain": "ortaclinic.com",
+    "ads": 7,
+    "oldest_days": 93,
+    "pages": [
+     "Ortaclinic.en"
+    ]
+   },
+   {
+    "domain": "evercushion.com",
+    "ads": 6,
+    "oldest_days": 131,
+    "pages": [
+     "Ever Cushion Store"
+    ]
+   },
+   {
+    "domain": "spnutrition-us.com",
+    "ads": 6,
+    "oldest_days": 77,
+    "pages": [
+     "Wellness Tips",
+     "Wellness Tipss",
+     "Alice Williams"
+    ]
+   },
+   {
+    "domain": "mirrored-aesthetics.com",
+    "ads": 6,
+    "oldest_days": 156,
+    "pages": [
+     "Mirrored Aesthetics"
+    ]
+   },
+   {
+    "domain": "utw.mirrored-aesthetics.com",
+    "ads": 4,
+    "oldest_days": 144,
+    "pages": [
+     "Mirrored Aesthetics"
+    ]
+   },
+   {
+    "domain": "us-chinology.com",
+    "ads": 4,
+    "oldest_days": 41,
+    "pages": [
+     "Chinology"
+    ]
+   },
+   {
+    "domain": "thestandardlab.com",
+    "ads": 4,
+    "oldest_days": 55,
+    "pages": [
+     "Healthy Men 40+"
+    ]
+   },
+   {
+    "domain": "callixe.com",
+    "ads": 3,
+    "oldest_days": 123,
+    "pages": [
+     "CALLIXE"
+    ]
+   },
+   {
+    "domain": "kojeva.com",
+    "ads": 3,
+    "oldest_days": 167,
+    "pages": [
+     "Kojeva"
+    ]
+   },
+   {
+    "domain": "beaund.us",
+    "ads": 3,
+    "oldest_days": 50,
+    "pages": [
+     "Beaund Global"
+    ]
+   },
+   {
+    "domain": "localmedspadeals.com",
+    "ads": 3,
+    "oldest_days": 55,
+    "pages": [
+     "Glow Clinics",
+     "BeU Medical Spa",
+     "You Glow Aesthetics Spa"
+    ]
+   },
+   {
+    "domain": "qa.airsculpt.com",
+    "ads": 3,
+    "oldest_days": 211,
+    "pages": [
+     "AirSculpt"
+    ]
+   },
+   {
+    "domain": "theinia.com",
+    "ads": 3,
+    "oldest_days": 162,
+    "pages": [
+     "INIA"
+    ]
+   },
+   {
+    "domain": "jawzrsize.com",
+    "ads": 3,
+    "oldest_days": 160,
+    "pages": [
+     "Jawzrsize"
+    ]
+   },
+   {
+    "domain": "bestclinichere.com",
+    "ads": 3,
+    "oldest_days": 68,
+    "pages": [
+     "Ready Med ",
+     "Medspa810 Burlington",
+     "Generations Wellness Center"
+    ]
+   },
+   {
+    "domain": "sculpt.aestheticpromo.com",
+    "ads": 3,
+    "oldest_days": 154,
+    "pages": [
+     "Sculpt TX"
+    ]
+   },
+   {
+    "domain": "weareluna.store",
+    "ads": 2,
+    "oldest_days": 366,
+    "pages": [
+     "Soluna SKIN"
+    ]
+   },
+   {
+    "domain": "clueblog.com",
+    "ads": 2,
+    "oldest_days": 203,
+    "pages": [
+     "Online Data Center"
+    ]
+   },
+   {
+    "domain": "fb.com",
+    "ads": 2,
+    "oldest_days": 86,
+    "pages": [
+     "Beso Aesthetics"
+    ]
+   },
+   {
+    "domain": "api.whatsapp.com",
+    "ads": 2,
+    "oldest_days": 252,
+    "pages": [
+     "Full Harmony",
+     "DermaclinicLipo"
+    ]
+   },
+   {
+    "domain": "aha.mirrored-aesthetics.com",
+    "ads": 2,
+    "oldest_days": 57,
+    "pages": [
+     "Mirrored Aesthetics"
+    ]
+   },
+   {
+    "domain": "goldivywellness.spaoffers.co",
+    "ads": 2,
+    "oldest_days": 168,
+    "pages": [
+     "Gold Ivy Wellness"
+    ]
+   },
+   {
+    "domain": "pewaukee-medical-aesthetics.com",
+    "ads": 2,
+    "oldest_days": 117,
+    "pages": [
+     "Pewaukee Medical Aesthetics"
+    ]
+   },
+   {
+    "domain": "ruterochaestheticsus.com",
+    "ads": 2,
+    "oldest_days": 135,
+    "pages": [
+     "Rute Rocha Esthetics"
+    ]
+   },
+   {
+    "domain": "royalmedspaillinois.com",
+    "ads": 2,
+    "oldest_days": 225,
+    "pages": [
+     "Royal Medical Spa"
+    ]
+   },
+   {
+    "domain": "icryoshadowcreek.spaoffers.co",
+    "ads": 2,
+    "oldest_days": 208,
+    "pages": [
+     "iCRYO Shadow Creek, TX"
+    ]
+   },
+   {
+    "domain": "flutterandwink.facialpromos.co",
+    "ads": 2,
+    "oldest_days": 179,
+    "pages": [
+     "Flutter and Wink"
+    ]
+   },
+   {
+    "domain": "icryosouthpark.spaoffers.co",
+    "ads": 2,
+    "oldest_days": 267,
+    "pages": [
+     "iCRYO - South Park, NC"
+    ]
+   },
+   {
+    "domain": "hlcwellnessaesthetics.com",
+    "ads": 2,
+    "oldest_days": 55,
+    "pages": [
+     "HLC Wellness & Aesthetic"
+    ]
+   },
+   {
+    "domain": "liveinwellness.spapromos.co",
+    "ads": 2,
+    "oldest_days": 159,
+    "pages": [
+     "Live In Wellness"
+    ]
+   },
+   {
+    "domain": "prettyspecialmedspa.spaoffer.co",
+    "ads": 2,
+    "oldest_days": 166,
+    "pages": [
+     "Pretty Special Medspa"
+    ]
+   },
+   {
+    "domain": "ssm.mirrored-aesthetics.com",
+    "ads": 2,
+    "oldest_days": 63,
+    "pages": [
+     "Mirrored Aesthetics"
+    ]
+   },
+   {
+    "domain": "desertrenewal.aestheticpromos.com",
+    "ads": 2,
+    "oldest_days": 165,
+    "pages": [
+     "Desert Renewal"
+    ]
+   },
+   {
+    "domain": "zonaphysicaltherapy.beautypromotions.co",
+    "ads": 2,
+    "oldest_days": 166,
+    "pages": [
+     "Zona Physical Therapy & Wellness"
+    ]
+   },
+   {
+    "domain": "timelessvitalitycenter.spapromos.co",
+    "ads": 2,
+    "oldest_days": 166,
+    "pages": [
+     "Timeless Vitality Center"
+    ]
+   },
+   {
+    "domain": "bambooleaf.bookmyupgrade.com",
+    "ads": 2,
+    "oldest_days": 139,
+    "pages": [
+     "Bamboo leaf Medi-Spa"
+    ]
+   },
+   {
+    "domain": "peakphysicalmedicine.spaoffers.co",
+    "ads": 2,
+    "oldest_days": 189,
+    "pages": [
+     "Peak Physical Medicine Visalia"
+    ]
+   },
+   {
+    "domain": "amazon.com",
+    "ads": 2,
+    "oldest_days": 36,
+    "pages": [
+     "Avajar Global Official"
+    ]
+   },
+   {
+    "domain": "specials.invisared.co",
+    "ads": 2,
+    "oldest_days": 63,
+    "pages": [
+     "Columbia Basin Medical Center",
+     "Weight Loss Center Wexford"
+    ]
+   },
+   {
+    "domain": "clinicpromos.com",
+    "ads": 2,
+    "oldest_days": 103,
+    "pages": [
+     "HEC Wellness Center",
+     "Regen RX by Dr Joyce Martin"
+    ]
+   },
+   {
+    "domain": "amzn.markable.ai",
+    "ads": 1,
+    "oldest_days": 134,
+    "pages": [
+     "hannahann_sluss"
+    ]
+   },
+   {
+    "domain": "restoradaily.com",
+    "ads": 1,
+    "oldest_days": 32,
+    "pages": [
+     "Restora"
+    ]
+   },
+   {
+    "domain": "nms.mirrored-aesthetics.com",
+    "ads": 1,
+    "oldest_days": 68,
+    "pages": [
+     "Mirrored Aesthetics"
+    ]
+   },
+   {
+    "domain": "pria.clinic",
+    "ads": 1,
+    "oldest_days": 166,
+    "pages": [
+     "PRIA Clinic"
+    ]
+   },
+   {
+    "domain": "share.google",
+    "ads": 1,
+    "oldest_days": 156,
+    "pages": [
+     "Selenaclinic Beauty Skin Anti-aging Clinic in Korea"
+    ]
+   },
+   {
+    "domain": "thestudiomd.com",
+    "ads": 1,
+    "oldest_days": 782,
+    "pages": [
+     "Studio-MD"
+    ]
+   },
+   {
+    "domain": "sephora.com",
+    "ads": 1,
+    "oldest_days": 89,
+    "pages": [
+     "Dermalogica"
+    ]
+   },
+   {
+    "domain": "buykglow.com",
+    "ads": 1,
+    "oldest_days": 172,
+    "pages": [
+     "K Glow"
+    ]
+   },
+   {
+    "domain": "img.mirrored-aesthetics.com",
+    "ads": 1,
+    "oldest_days": 75,
+    "pages": [
+     "Mirrored Aesthetics"
+    ]
+   },
+   {
+    "domain": "belowzerobeauty.com",
+    "ads": 1,
+    "oldest_days": 51,
+    "pages": [
+     "Below Zero Beauty"
+    ]
+   },
+   {
+    "domain": "get.tryrosanova.com",
+    "ads": 1,
+    "oldest_days": 38,
+    "pages": [
+     "Rosanova"
+    ]
+   },
+   {
+    "domain": "chocboxla.com",
+    "ads": 1,
+    "oldest_days": 68,
+    "pages": [
+     "Chocbox"
+    ]
+   },
+   {
+    "domain": "thetallowedtruth.com",
+    "ads": 1,
+    "oldest_days": 163,
+    "pages": [
+     "The Tallowed Truth"
+    ]
+   },
+   {
+    "domain": "trynavaro.com",
+    "ads": 1,
+    "oldest_days": 41,
+    "pages": [
+     "MelaninTalks"
+    ]
+   },
+   {
+    "domain": "mariahbeautyservice.com",
+    "ads": 1,
+    "oldest_days": 315,
+    "pages": [
+     "Mariah - Beauty Services"
+    ]
+   },
+   {
+    "domain": "eternalbeautymedspallc.com",
+    "ads": 1,
+    "oldest_days": 174,
+    "pages": [
+     "Eternal Beauty Med Spa & Vitality Clinic"
+    ]
+   },
+   {
+    "domain": "shop.tolevita.com",
+    "ads": 1,
+    "oldest_days": 61,
+    "pages": [
+     "Tolevita Beauty"
+    ]
+   },
+   {
+    "domain": "regenix-labs.com",
+    "ads": 1,
+    "oldest_days": 62,
+    "pages": [
+     "Regenix Labs "
+    ]
+   },
+   {
+    "domain": "eve-aesthetics.com",
+    "ads": 1,
+    "oldest_days": 71,
+    "pages": [
+     "Eve Aesthetics Medical Spa"
+    ]
+   },
+   {
+    "domain": "sculptedbeautyandwellness.spaoffers.co",
+    "ads": 1,
+    "oldest_days": 120,
+    "pages": [
+     "Sculpted Beauty & Wellness Studio"
+    ]
+   },
+   {
+    "domain": "offer.getnuzzle.com",
+    "ads": 1,
+    "oldest_days": 43,
+    "pages": [
+     "Nuzzle"
+    ]
+   },
+   {
+    "domain": "mywellnesshaven.spaoffer.co",
+    "ads": 1,
+    "oldest_days": 134,
+    "pages": [
+     "My Wellness Haven MedSpa Maryland"
+    ]
+   },
+   {
+    "domain": "injectormichelleannllc.com",
+    "ads": 1,
+    "oldest_days": 110,
+    "pages": [
+     "Injector Michelle Ann"
+    ]
+   },
+   {
+    "domain": "giovannimedspa.beautypromo.co",
+    "ads": 1,
+    "oldest_days": 163,
+    "pages": [
+     "Giovanni Med Spa"
+    ]
+   },
+   {
+    "domain": "4do.mirrored-aesthetics.com",
+    "ads": 1,
+    "oldest_days": 40,
+    "pages": [
+     "Mirrored Aesthetics"
+    ]
+   },
+   {
+    "domain": "thecryowellness-hifu.vibepreview.com",
+    "ads": 1,
+    "oldest_days": 37,
+    "pages": [
+     "The CryoWellness Spa"
+    ]
+   },
+   {
+    "domain": "pps.skintherapymaster.com",
+    "ads": 1,
+    "oldest_days": 45,
+    "pages": [
+     "Skin Therapy Master"
+    ]
+   },
+   {
+    "domain": "crystaltriangle.cryopromo.co",
+    "ads": 1,
+    "oldest_days": 173,
+    "pages": [
+     "Crystal Triangle Body-Sculpting"
+    ]
+   },
+   {
+    "domain": "bayareamedical.wellness-special.com",
+    "ads": 1,
+    "oldest_days": 89,
+    "pages": [
+     "Bay Area Medical Group"
+    ]
+   },
+   {
+    "domain": "icryowichita.aestheticpromos.com",
+    "ads": 1,
+    "oldest_days": 128,
+    "pages": [
+     "ICRYO Wichita"
+    ]
+   },
+   {
+    "domain": "comfortfacial.wellness-special.com",
+    "ads": 1,
+    "oldest_days": 80,
+    "pages": [
+     "Comfort Facial Aesthetics"
+    ]
+   },
+   {
+    "domain": "nuyou.exclusiveoffer.co",
+    "ads": 1,
+    "oldest_days": 44,
+    "pages": [
+     "NUyou Regenerative Medical Spa"
+    ]
+   },
+   {
+    "domain": "cryolounge.spaoffers.co",
+    "ads": 1,
+    "oldest_days": 119,
+    "pages": [
+     "Cryo Lounge NWA"
+    ]
+   },
+   {
+    "domain": "bisnftwrem.com",
+    "ads": 1,
+    "oldest_days": 64,
+    "pages": [
+     "Bisnftwrem/D"
+    ]
+   },
+   {
+    "domain": "youngerskinchagrin.opaline.ai",
+    "ads": 1,
+    "oldest_days": 176,
+    "pages": [
+     "comprehensive Aesthetics"
+    ]
+   },
+   {
+    "domain": "mozamedspa.newbeautydeals.com",
+    "ads": 1,
+    "oldest_days": 166,
+    "pages": [
+     "Moza Med Spa"
+    ]
+   },
+   {
+    "domain": "nurabeam.com",
+    "ads": 1,
+    "oldest_days": 108,
+    "pages": [
+     "NuraBeam beauty"
+    ]
+   },
+   {
+    "domain": "bdy.mirrored-aesthetics.com",
+    "ads": 1,
+    "oldest_days": 68,
+    "pages": [
+     "Mirrored Aesthetics"
+    ]
+   },
+   {
+    "domain": "lymphlite.com",
+    "ads": 1,
+    "oldest_days": 53,
+    "pages": [
+     "Lymphlite"
+    ]
+   },
+   {
+    "domain": "upliftedcryo.cryoskinpromo.com",
+    "ads": 1,
+    "oldest_days": 97,
+    "pages": [
+     "Uplifted Cryo Glenview"
+    ]
+   },
+   {
+    "domain": "dawnoflife.spaoffers.co",
+    "ads": 1,
+    "oldest_days": 36,
+    "pages": [
+     "Dawn of Life Aesthetics & Wellness"
+    ]
+   },
+   {
+    "domain": "hello.skinsolutionmedspa.com",
+    "ads": 1,
+    "oldest_days": 33,
+    "pages": [
+     "Skin Solution MedSpa"
+    ]
+   },
+   {
+    "domain": "zerowrinkles21.com",
+    "ads": 1,
+    "oldest_days": 100,
+    "pages": [
+     "Jolie Girard USA"
+    ]
+   },
+   {
+    "domain": "callamedspa.spaoffers.co",
+    "ads": 1,
+    "oldest_days": 103,
+    "pages": [
+     "Calla Medspa "
+    ]
+   },
+   {
+    "domain": "alabamawellnessandesthetics.spaoffers.co",
+    "ads": 1,
+    "oldest_days": 68,
+    "pages": [
+     "Alabama Wellness & Aesthetics"
+    ]
+   },
+   {
+    "domain": "madshorfit.com",
+    "ads": 1,
+    "oldest_days": 103,
+    "pages": [
+     "Madison Horne"
+    ]
+   },
+   {
+    "domain": "cosmeticomedspa.clinicexclusives.com",
+    "ads": 1,
+    "oldest_days": 57,
+    "pages": [
+     "Cosmetico Medspa"
+    ]
+   },
+   {
+    "domain": "natureinspiredtherapies.cryopromo.co",
+    "ads": 1,
+    "oldest_days": 77,
+    "pages": [
+     "Nature Inspired Therapies"
+    ]
+   },
+   {
+    "domain": "edenmedspa.specialpromos.co",
+    "ads": 1,
+    "oldest_days": 58,
+    "pages": [
+     "Eden Med Spa"
+    ]
+   },
+   {
+    "domain": "corenutritionandwellness.topbeautypromos.com",
+    "ads": 1,
+    "oldest_days": 135,
+    "pages": [
+     "Core Nutrition and Wellness"
+    ]
+   },
+   {
+    "domain": "diamondsuniquewellness.spaoffers.co",
+    "ads": 1,
+    "oldest_days": 118,
+    "pages": [
+     "Diamond's Unique Wellness"
+    ]
+   },
+   {
+    "domain": "claytonsouthernchiropractic.com",
+    "ads": 1,
+    "oldest_days": 165,
+    "pages": [
+     "Southern Chiropractic PLLC"
+    ]
+   },
+   {
+    "domain": "skintightmedicalspapromo.com",
+    "ads": 1,
+    "oldest_days": 96,
+    "pages": [
+     "Skin Tight Medical Spa"
+    ]
+   }
+  ]
+ },
+ "color_foundation": {
+  "phrase": "color changing foundation",
+  "ads": 330,
+  "meta_total": 2649,
+  "domains": [
+   {
+    "domain": "smooche.com",
+    "ads": 102,
+    "oldest_days": 168,
+    "pages": [
+     "Smooche",
+     "Korean Beauty Tips",
+     "Cosmetic Times"
+    ]
+   },
+   {
+    "domain": "try.luxeresearchlab.com",
+    "ads": 63,
+    "oldest_days": 104,
+    "pages": [
+     "Korean Beauty Insider",
+     "Alex Makeup Tips"
+    ]
+   },
+   {
+    "domain": "primeprometics.com",
+    "ads": 47,
+    "oldest_days": 474,
+    "pages": [
+     "Prime Prometics",
+     "Prime Deals",
+     "Makeup Hacks for Mature Women"
+    ]
+   },
+   {
+    "domain": "us.luxe.com",
+    "ads": 27,
+    "oldest_days": 59,
+    "pages": [
+     "Luxe Cosmetics",
+     "Korean Beauty Insider"
+    ]
+   },
+   {
+    "domain": "hestiacosmetics.com",
+    "ads": 19,
+    "oldest_days": 195,
+    "pages": [
+     "Hestia"
+    ]
+   },
+   {
+    "domain": "facelove-cosmetics.com",
+    "ads": 14,
+    "oldest_days": 90,
+    "pages": [
+     "The Glow Up",
+     "Real Women Real Stories",
+     "Your Prime Years"
+    ]
+   },
+   {
+    "domain": "trylumineskin.com",
+    "ads": 9,
+    "oldest_days": 371,
+    "pages": [
+     "Hestia",
+     "Lumine Skin"
+    ]
+   },
+   {
+    "domain": "trynova.store",
+    "ads": 9,
+    "oldest_days": 100,
+    "pages": [
+     "Trending On K-Beauty",
+     "TryNova"
+    ]
+   },
+   {
+    "domain": "luxeresearchlab.com",
+    "ads": 8,
+    "oldest_days": 59,
+    "pages": [
+     "Korean Beauty Insider"
+    ]
+   },
+   {
+    "domain": "mushicosmetics.com",
+    "ads": 8,
+    "oldest_days": 78,
+    "pages": [
+     "Claire Parker",
+     "Mushi"
+    ]
+   },
+   {
+    "domain": "beaumontvoss.store",
+    "ads": 6,
+    "oldest_days": 92,
+    "pages": [
+     "Beaumont Voss"
+    ]
+   },
+   {
+    "domain": "amazon.luminesscosmetics.com",
+    "ads": 4,
+    "oldest_days": 85,
+    "pages": [
+     "LUMINESS"
+    ]
+   },
+   {
+    "domain": "magnixa.com",
+    "ads": 3,
+    "oldest_days": 486,
+    "pages": [
+     "Magnixa"
+    ]
+   },
+   {
+    "domain": "officialyuki.com",
+    "ads": 2,
+    "oldest_days": 112,
+    "pages": [
+     "Korean Foundation Tips"
+    ]
+   },
+   {
+    "domain": "vimacosmetics.com",
+    "ads": 2,
+    "oldest_days": 346,
+    "pages": [
+     "Beauty Reviews"
+    ]
+   },
+   {
+    "domain": "amazon.com",
+    "ads": 2,
+    "oldest_days": 64,
+    "pages": [
+     "Elroel US"
+    ]
+   },
+   {
+    "domain": "serentia-shop.com",
+    "ads": 1,
+    "oldest_days": 167,
+    "pages": [
+     "Serentia Shop"
+    ]
+   },
+   {
+    "domain": "quiz.smooche.com",
+    "ads": 1,
+    "oldest_days": 87,
+    "pages": [
+     "Cosmetic Times"
+    ]
+   },
+   {
+    "domain": "copenrain.com",
+    "ads": 1,
+    "oldest_days": 39,
+    "pages": [
+     "Copenrain Shop"
+    ]
+   },
+   {
+    "domain": "huemebeauty.com",
+    "ads": 1,
+    "oldest_days": 44,
+    "pages": [
+     "Hueme Beauty "
+    ]
+   },
+   {
+    "domain": "lilingg.com",
+    "ads": 1,
+    "oldest_days": 33,
+    "pages": [
+     "Lilingg Shop"
+    ]
+   }
+  ]
+ }
+}

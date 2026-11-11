@@ -1,5 +1,7 @@
 # Category verdict, method v2.0 (2026-11-07)
 
+**Superseded** by v2.1 (`work/dossier/FINAL_V21.md`, 2026-11-08), then v2.2 (`work/audit/AUDIT_2026-11-09.md` §11, 2026-11-09). Kept as history.
+
 All layers measured the same way for every category (see /RUNBOOK.md). Sources: `graveyard_table.py` (Amazon), `meta_stats.py` (Meta), `trends_v2.json` (Google Trends).
 
 | Category | Amazon: to NEW brands /mo | NEW brand winners ≥1K | Amazon: to generics /mo | Meta active ads | Meta ads alive 90d+ | Trend (YoY vs controls) | Price $ | Verdict |

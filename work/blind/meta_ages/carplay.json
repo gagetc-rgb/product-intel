@@ -1,0 +1,322 @@
+{
+ "phrase": "wireless carplay adapter",
+ "date": "2026-11-10",
+ "active": 180,
+ "aged30": 18,
+ "aged90": 5,
+ "aged180": 4,
+ "ads": [
+  {
+   "id": "942399544999030",
+   "page": "Wireless Carplaylife",
+   "start": "2026-04-08",
+   "n": 1,
+   "domain": "ottocast.store",
+   "window": "180+"
+  },
+  {
+   "id": "1367238011383990",
+   "page": "Homniva",
+   "start": "",
+   "n": 1,
+   "domain": "homniva.com",
+   "window": "180+"
+  },
+  {
+   "id": "2122186101902689",
+   "page": "Absorrption.SO02",
+   "start": "",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2132857040594779",
+   "page": "Drivefix",
+   "start": "",
+   "n": 1,
+   "domain": "drivefix.net",
+   "window": "90-180"
+  },
+  {
+   "id": "1023925970661959",
+   "page": "CarPlay Upgrade Store",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "www.ottocastcarplay.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1461271185819112",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1113129967770466",
+   "page": "AutoLinkr",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1420474330185011",
+   "page": "Twelve South",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1823470562344586",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2120062962270150",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1998411774148820",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "952843160487170",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1059478543499292",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1991712768192972",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1746381306672114",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1600014501518736",
+   "page": "AutoLinkr",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "theautolinkr.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4512859165594616",
+   "page": "CarPlay Upgrade Store",
+   "start": "2026-10-13",
+   "n": 1,
+   "domain": "ottocastcarplay.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1692203192289749",
+   "page": "Evotechofficial",
+   "start": "2026-10-24",
+   "n": 1,
+   "domain": "shopevotech.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1487887259828038",
+   "page": "Evotechofficial",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "shopevotech.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2817085058706896",
+   "page": "Alibaba.com",
+   "start": "2026-11-04",
+   "n": 1,
+   "domain": "alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2614579669055778",
+   "page": "Ottocast US",
+   "start": "2026-10-17",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1125582420123642",
+   "page": "Evotechofficial",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "shopevotech.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1641791687586714",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1979687652727528",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1805764561554984",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1133796495759108",
+   "page": "Ottocast US",
+   "start": "2026-10-17",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1536891671597105",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1134072829097371",
+   "page": "Ottocast US",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "ottocast.us",
+   "window": "0-30"
+  },
+  {
+   "id": "1143794254827048",
+   "page": "Probablei+gy",
+   "start": "2026-11-03",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1725471399580181",
+   "page": "Ottocast US",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "ottocast.us",
+   "window": "0-30"
+  },
+  {
+   "id": "1780277436536073",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "28844787958517009",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1760915388534104",
+   "page": "Evotechofficial",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "shopevotech.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2606864039718935",
+   "page": "Alibaba.com",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "m.alibaba.com",
+   "window": "0-30"
+  },
+  {
+   "id": "4506555282899911",
+   "page": "Ottocast US",
+   "start": "2026-10-17",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1686082142951534",
+   "page": "Evotechofficial",
+   "start": "2026-10-20",
+   "n": 1,
+   "domain": "shopevotech.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2244741919441552",
+   "page": "Ottocast US",
+   "start": "2026-10-17",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1423684406093347",
+   "page": "Ottocast US",
+   "start": "2026-10-17",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2180622282850663",
+   "page": "CarPlay Upgrade Store",
+   "start": "2026-11-02",
+   "n": 1,
+   "domain": "ottocastcarplay.com",
+   "window": "0-30"
+  }
+ ]
+}

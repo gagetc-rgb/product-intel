@@ -1,0 +1,41 @@
+{
+ "domain": "movaracare.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-07-23",
+ "ads": "2",
+ "pages": [],
+ "home": {
+  "url": "https://movaracare.com/?currency=USD",
+  "final": "https://movaracare.com/?currency=USD",
+  "status": 200,
+  "title": "Movara",
+  "desc": "",
+  "kw_hits": [
+   "SD Subtotal $0.00 USD CHECKOUT Customers Also Bought Memory Insoles Comfort Insoles - Cushioned and Shock-Absorbing $14.95 USD $29.90 USD Add To C",
+   "0 USD CHECKOUT Customers Also Bought Memory Insoles Comfort Insoles - Cushioned and Shock-Absorbing $14.95 USD $29.90 USD Add To Cart See more opt",
+   "Cart See more options + Movara Steel Toe Work Boots Comfort Insoles - Cushioned and Shock-Absorbing $89.95 USD $245.00 USD COLOR BROWN BLACK SIZE ",
+   "Cart See more options + Breathable Orthopedic Shoes Comfort Insoles - Cushioned and Shock-Absorbing $68.95 USD $137.90 USD COLOR BROWN COFFEE BLAC"
+  ],
+  "kw_n": 6,
+  "prices": [
+   "$3.65",
+   "$0.00",
+   "$0.00",
+   "$14.95",
+   "$29.90",
+   "$24.95",
+   "$55.44",
+   "$16.95"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 6004
+ },
+ "rdap": "2026-02-28",
+ "wayback": "none",
+ "age_class": "young"
+}

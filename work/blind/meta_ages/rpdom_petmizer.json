@@ -1,0 +1,370 @@
+{
+ "phrase": "petmizer.com",
+ "date": "2026-11-10",
+ "active": 1000,
+ "aged30": 630,
+ "aged90": 140,
+ "aged180": 5,
+ "ads": [
+  {
+   "id": "987532214025975",
+   "page": "James Kennedy",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "180+"
+  },
+  {
+   "id": "1257780843217332",
+   "page": "James Kennedy",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "180+"
+  },
+  {
+   "id": "843066991536170",
+   "page": "Sarah Callahan, DVM",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "180+"
+  },
+  {
+   "id": "1497137845532843",
+   "page": "Sarah Callahan, DVM",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "180+"
+  },
+  {
+   "id": "1704018424367992",
+   "page": "James Kennedy",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "180+"
+  },
+  {
+   "id": "1804981020477477",
+   "page": "Joanne Hill",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1000510412525719",
+   "page": "Petmizer",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "967155149658415",
+   "page": "Sarah Callahan, DVM",
+   "start": "2026-06-18",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1321920796750362",
+   "page": "Petmizer",
+   "start": "2026-05-26",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2019320026136807",
+   "page": "Petmizer",
+   "start": "2026-06-28",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1024857446893610",
+   "page": "Petmizer",
+   "start": "2026-05-26",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1769804194182119",
+   "page": "Petmizer",
+   "start": "2026-06-08",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1008150061718105",
+   "page": "Petmizer",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1520876266440304",
+   "page": "Petmizer",
+   "start": "2026-06-23",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "993371103664605",
+   "page": "Petmizer",
+   "start": "2026-06-04",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1752546276119087",
+   "page": "Sarah Callahan, DVM",
+   "start": "2026-05-26",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1377811044202754",
+   "page": "Petmizer",
+   "start": "2026-06-25",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1179767117581201",
+   "page": "James Kennedy",
+   "start": "2026-05-26",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1922646428443502",
+   "page": "Petmizer",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1021593416957803",
+   "page": "Petmizer",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1575824054057835",
+   "page": "James Kennedy",
+   "start": "2026-05-26",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1330729469165676",
+   "page": "Petmizer",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1488258966389809",
+   "page": "Daily Cat News",
+   "start": "2026-07-25",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2309389006131399",
+   "page": "Petmizer",
+   "start": "2026-05-28",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "26872093849099001",
+   "page": "Petmizer",
+   "start": "2026-05-26",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1170773895177239",
+   "page": "Sarah Callahan, DVM",
+   "start": "2026-05-26",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "35716093078038292",
+   "page": "Petmizer",
+   "start": "2026-05-26",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2081699429082829",
+   "page": "James Kennedy",
+   "start": "2026-07-16",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1319034769644235",
+   "page": "Joanne Hill",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1005776225180608",
+   "page": "Joanne Hill",
+   "start": "2026-05-26",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1595746065486128",
+   "page": "Petmizer",
+   "start": "2026-08-28",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1749556886283373",
+   "page": "Petmizer",
+   "start": "2026-09-17",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1994055347929889",
+   "page": "Petmizer",
+   "start": "2026-08-14",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28169817896014087",
+   "page": "Petmizer",
+   "start": "2026-08-27",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4475146032740940",
+   "page": "Petmizer",
+   "start": "2026-09-01",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1685670912516917",
+   "page": "Petmizer",
+   "start": "2026-08-15",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2397702254101968",
+   "page": "Petmizer",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1051404990976512",
+   "page": "Daily Cat News",
+   "start": "2026-08-21",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2040369580019177",
+   "page": "Daily Cat News",
+   "start": "2026-08-21",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1577609217444147",
+   "page": "Petmizer",
+   "start": "2026-09-08",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "5013921785561601",
+   "page": "Petmizer",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1502372051657734",
+   "page": "Petmizer",
+   "start": "2026-08-14",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1648025353408457",
+   "page": "Petmizer",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1073941318570556",
+   "page": "Joanne Hill",
+   "start": "2026-09-27",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2868973760148714",
+   "page": "Petmizer",
+   "start": "2026-10-16",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "0-30"
+  }
+ ]
+}

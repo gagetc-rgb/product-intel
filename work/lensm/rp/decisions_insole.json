@@ -1,0 +1,15 @@
+{
+"getxstance.com":{"sells_product":"yes","reason":"insoles for workers, named","product_name":"XSTANCE insoles; Plantar Fasciitis Bundle","price_as_shown":"$19.95; $59.95 (several prices on page)","usd":"yes","bundle_text":"The XSTANCE Plantar Fasciitis Bundle is a therapy system","sub_refill_text":"none seen","dom_pid":"rpdom_xstance"},
+"movaracare.com":{"sells_product":"yes","reason":"cushioned comfort insoles listed","product_name":"Memory Insoles Comfort Insoles - Cushioned and Shock-Absorbing","price_as_shown":"$14.95 USD (struck $29.90 USD)","usd":"yes","bundle_text":"none seen","sub_refill_text":"none seen","dom_pid":"rpdom_movara"},
+"superfeet.com":{"sells_product":"yes","reason":"premium insoles, main business","product_name":"Superfeet insoles","price_as_shown":"$59.99; $64.99; $69.99","usd":"yes","bundle_text":"none seen","sub_refill_text":"none seen","dom_pid":"rpdom_superfeet"},
+"koprez.com":{"sells_product":"yes","reason":"Custom Insoles shown for all-day standing","product_name":"Koprez Custom Insoles","price_as_shown":"$79.99 (struck $159.99)","usd":"yes","bundle_text":"none seen","sub_refill_text":"none seen","dom_pid":"rpdom_koprez"},
+"cosyisland.co":{"sells_product":"no","reason":"heels brand; insole is a feature","product_name":"heels with cushion insole","price_as_shown":"$149.00 among others","usd":"yes","bundle_text":"none seen","sub_refill_text":"\"Subscribe & Get an Extra $20 OFF\" (email promo)"},
+"getwildnest.com":{"sells_product":"no","reason":"sells wool socks, no insoles","product_name":"GroundGuard wool","price_as_shown":"not read ($0.00 cart only)","usd":"unknown","bundle_text":"Buy 3 pairs, get 3 free","sub_refill_text":"none seen"},
+"toddwexler.com":{"sells_product":"unclear","reason":"home page names no insoles","product_name":"not named","price_as_shown":"$50 (unlabelled)","usd":"yes","bundle_text":"none seen","sub_refill_text":"none seen"},
+"vivaia.com":{"sells_product":"unclear","reason":"HTTP 403 blocked, not retried","product_name":"unknown","price_as_shown":"unknown","usd":"unknown","bundle_text":"unknown","sub_refill_text":"unknown"},
+"sequoiashoe.com":{"sells_product":"no","reason":"shoe store, no insoles named"},
+"meaboots.com":{"sells_product":"no","reason":"boot store, no insoles named"},
+"melbob.com":{"sells_product":"no","reason":"general shop, no insoles named"},
+"projectcloudshoes.com":{"sells_product":"no","reason":"shoe store, no insoles named"},
+"wearviceversa.com":{"sells_product":"no","reason":"convertible heels, no insoles"}
+}

@@ -1,0 +1,50 @@
+{
+ "domain": "lapcosusa.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-11-02",
+ "ads": "4",
+ "pages": [],
+ "home": {
+  "url": "https://lapcosusa.com/?currency=USD",
+  "final": "https://www.lapcosusa.com/?currency=USD",
+  "status": 200,
+  "title": "LAPCOS Skincare & Face Masks • Shop Korean Skincare Products",
+  "desc": "Rooted in Korean skincare traditions and technologies, inspired by the sunny, breezy and endlessly creative Los Angeles way of life, our face masks, body masks, and haircare products are the perfect blend between tried-and-true formulations and pract",
+  "kw_hits": [
+   "s Clinical Grade See All See All Save 38% Add to cart Daily Collagen Firming Face Mask 30-Day Box $93.00 $150.00 Add to cart Add to cart Retinal Res",
+   "k 5-Pack Box 10 Reviews $29.00 Add to cart Add to cart Deep Collagen Glass Skin Overnight Mask 4-pack 20 Reviews $19.00 Add to cart Quick add Daily ",
+   "ews $29.00 Add to cart Add to cart Deep Collagen Glass Skin Overnight Mask 4-pack 20 Reviews $19.00 Add to cart Quick add Daily Collagen Firming Faci",
+   "t Mask 4-pack 20 Reviews $19.00 Add to cart Quick add Daily Collagen Firming Facial Skin Mask 24 Reviews From $5.00 Quick add Add to cart Rejuvenati"
+  ],
+  "kw_n": 10,
+  "prices": [
+   "$50",
+   "$50",
+   "$93.00",
+   "$150.00",
+   "$29.00",
+   "$19.00",
+   "$5.00",
+   "$20.00"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD"
+  ],
+  "bundle": [
+   "o cart Add to cart Retinal Resurfacing Sheet Mask 5-Pack Box 10 Reviews $29",
+   "d to cart Deep Collagen Glass Skin Overnight Mask 4-pack 20 Reviews $19",
+   "d to cart Deep Collagen Glass Skin Overnight Mask 4-pack 20 Reviews $19"
+  ],
+  "sub": [
+   "ll Skin Types About Us Our Story Retailers Contact FAQ Blog Subscribe & Save Manage Subscription Wholesale Affiliates Shop Show m",
+   "enu Exit menu About Us Our Story Retailers Contact FAQ Blog Subscribe & Save Manage Subscription Wholesale Affiliates Instagram F",
+   "alculated at checkout Your Cart is Empty Shop About Us Blog Subscribe & Save Manage Subscription Wholesale Affiliates Korean Skin"
+  ],
+  "epa": [],
+  "len": 10310
+ },
+ "rdap": "2016-11-28",
+ "wayback": "2017-12-11",
+ "age_class": "old"
+}

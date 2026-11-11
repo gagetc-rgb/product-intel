@@ -1,5 +1,7 @@
 # Category verdict, method v2.1 (2026-11-08)
 
+**Superseded 2026-11-09** by method v2.2 (`/METRICS.md`) and the verdict in `work/audit/AUDIT_2026-11-09.md` §11. Kept as history.
+
 Supersedes `work/blind/FINAL_V2.md`. Same rules (/RUNBOOK.md, rules 1-6); changes from v2.0 are listed in the RUNBOOK version log.
 What changed in the data: Amazon now read with a US delivery address (ZIP 10001) — 16 categories by script, 4 collected by hand by the owner's assistant; Meta counted for all 20 categories with a 30-day window; brand ads counted on the brand's own Facebook Page; Google Trends pull 1 of 3.
 

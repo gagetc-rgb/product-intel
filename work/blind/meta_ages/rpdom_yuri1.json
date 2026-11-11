@@ -1,0 +1,18 @@
+{
+ "phrase": "beautywithyuri.com",
+ "date": "2026-11-10",
+ "active": 1,
+ "aged30": 1,
+ "aged90": 1,
+ "aged180": 1,
+ "ads": [
+  {
+   "id": "1770209857007644",
+   "page": "Korean Beauty Secrets",
+   "start": "2026-01-15",
+   "n": 1,
+   "domain": "beautywithyuri.com",
+   "window": "180+"
+  }
+ ]
+}

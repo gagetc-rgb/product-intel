@@ -1,0 +1,199 @@
+{
+ "persimmon_soap": [
+  {
+   "domain": "try-kaori.com",
+   "ads90": 150,
+   "oldest": 210,
+   "registered": "2026-02-11",
+   "young": true,
+   "pages": [
+    "Kaori",
+    "Patti Clayton",
+    "Grandma's Glow"
+   ],
+   "links": [
+    "/try-kaori.com/products/deodorizing-persimmon-soap",
+    "https://try-kaori.com/pages/7-reasons-why"
+   ]
+  },
+  {
+   "domain": "swarva.com",
+   "ads90": 14,
+   "oldest": 124,
+   "registered": "2024-04-27",
+   "young": false,
+   "pages": [
+    "Over 60 & Thriving",
+    "Swarva",
+    "Closer After 60"
+   ],
+   "links": [
+    "https://swarva.com/pages/5-reaons-why-1",
+    "https://swarva.com/pages/esp-5-reasons-why-1-1"
+   ]
+  },
+  {
+   "domain": "miraiclinical.com",
+   "ads90": 12,
+   "oldest": 520,
+   "registered": "2010-04-13",
+   "young": false,
+   "pages": [
+    "Mirai Clinical"
+   ],
+   "links": [
+    "clinical.com/pages/deodorizing-soap-with-persimmon",
+    "raiclinical.com/products/persimmon-soap-trio-combo"
+   ]
+  },
+  {
+   "domain": "cachinaturals.com",
+   "ads90": 7,
+   "oldest": 91,
+   "registered": "2026-08-03",
+   "young": true,
+   "pages": [
+    "Cachi Naturals"
+   ],
+   "links": [
+    "ls.com/products/persimmon-nonenal-deodorizing-soap"
+   ]
+  },
+  {
+   "domain": "bellaviashop.com",
+   "ads90": 6,
+   "oldest": 90,
+   "registered": "2026-03-25",
+   "young": true,
+   "pages": [
+    "Mari Tanaka"
+   ],
+   "links": [
+    "bellaviashop.com/pages/is-your-persimmon-soap-real"
+   ]
+  },
+  {
+   "domain": "aurellee.co",
+   "ads90": 3,
+   "oldest": 96,
+   "registered": "unknown",
+   "young": false,
+   "pages": [
+    "Aurellee"
+   ],
+   "links": [
+    "https://aurellee.co/products/soap"
+   ]
+  }
+ ],
+ "turmeric_soap": [
+  {
+   "domain": "earthlyderm.com",
+   "ads90": 30,
+   "oldest": 253,
+   "registered": "2024-01-22",
+   "young": false,
+   "pages": [
+    "Earthly Derm"
+   ],
+   "links": [
+    "ttps://earthlyderm.com/products/turmeric-glow-soap",
+    "rm.com/products/turmeric-fade-glow-bar-razor-bumps"
+   ]
+  },
+  {
+   "domain": "myskincycle.com",
+   "ads90": 16,
+   "oldest": 112,
+   "registered": "2026-04-10",
+   "young": true,
+   "pages": [
+    "Derm Glow",
+    "Derm Glow Co"
+   ],
+   "links": [
+    "es/1-1-1-kojic-acid-soap-trial-2026-03-24-16-45-10"
+   ]
+  },
+  {
+   "domain": "herbneden.com",
+   "ads90": 5,
+   "oldest": 448,
+   "registered": "2015-07-24",
+   "young": false,
+   "pages": [
+    "Herb'N Eden"
+   ],
+   "links": [
+    "collections/top-sellers/products/tea-tree-turmeric",
+    "https://www.herbneden.com/collections/turmeric"
+   ]
+  },
+  {
+   "domain": "stemandsoul.co",
+   "ads90": 5,
+   "oldest": 169,
+   "registered": "unknown",
+   "young": false,
+   "pages": [
+    "STEM & SOUL"
+   ],
+   "links": [
+    "s://www.stemandsoul.co/products/superfood-soap-bar",
+    ".stemandsoul.co/pages/adv-rose-superfood-soap-main"
+   ]
+  },
+  {
+   "domain": "herbalciddy.com",
+   "ads90": 1,
+   "oldest": 103,
+   "registered": "unknown",
+   "young": false,
+   "pages": [
+    "Herbal Ciddy"
+   ],
+   "links": [
+    "http://herbalciddy.com/"
+   ]
+  },
+  {
+   "domain": "honeyglownewyork.com",
+   "ads90": 1,
+   "oldest": 177,
+   "registered": "unknown",
+   "young": false,
+   "pages": [
+    "Honey Glow "
+   ],
+   "links": [
+    "m/products/glow-bar-kojic-acid-lemon-turmeric-soap"
+   ]
+  },
+  {
+   "domain": "(none)",
+   "ads90": 1,
+   "oldest": 107,
+   "registered": "-",
+   "young": false,
+   "pages": [
+    "Lu's Essentials"
+   ],
+   "links": [
+    ""
+   ]
+  },
+  {
+   "domain": "shopsolrise.com",
+   "ads90": 1,
+   "oldest": 477,
+   "registered": "unknown",
+   "young": false,
+   "pages": [
+    "Solrise"
+   ],
+   "links": [
+    "rise-glow-bar-turmeric-kojic-soap-for-radiant-skin"
+   ]
+  }
+ ]
+}

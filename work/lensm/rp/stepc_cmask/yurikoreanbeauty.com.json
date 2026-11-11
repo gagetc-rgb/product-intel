@@ -1,0 +1,41 @@
+{
+ "domain": "yurikoreanbeauty.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-01-31",
+ "ads": "30",
+ "pages": [],
+ "home": {
+  "url": "https://yurikoreanbeauty.com/?currency=USD",
+  "final": "https://www.officialyuri.com/?currency=USD",
+  "status": 200,
+  "title": "Official YURI",
+  "desc": "",
+  "kw_hits": [
+   "BLACK FRIDAY Sale Ends In 20 HRS : 32 MIN : 07 SEC SHOP ALL COLLAGEN MASK ORDER TRACKING CONTACT US Log in Country/region United States | USD $ Sear",
+   "tes USD $ United Kingdom USD $ United States USD $ SHOP ALL COLLAGEN MASK ORDER TRACKING CONTACT US Log in Cart Cart • 0 Your cart is empty Start sh",
+   "on 25,320+ reviews Wake Up To Visible Glass Skin The Korean overnight collagen ritual that seals in 8 hours of hydration while you sleep. Brush on, d",
+   " reviews Wake Up To Visible Glass Skin The Korean overnight collagen ritual that seals in 8 hours of hydration while you sleep. Brush on, drift off,"
+  ],
+  "kw_n": 18,
+  "prices": [
+   "$45",
+   "$45.00",
+   "$90.00",
+   "$45.00",
+   "$50",
+   "$49.95",
+   "$99.95",
+   "$49.95"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 3484
+ },
+ "rdap": "2025-11-22",
+ "wayback": "none",
+ "age_class": "young"
+}

@@ -1,0 +1,60 @@
+{
+ "domain": "uprootclean.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-04-28",
+ "ads": "4",
+ "pages": [],
+ "home": {
+  "url": "https://uprootclean.com/?currency=USD",
+  "final": "https://uprootclean.com/?currency=USD",
+  "status": 200,
+  "title": "Lint Cleaner and Pet Hair Remover Tool | Uproot Clean",
+  "desc": "Find your new favorite lint and pet hair remover at Uproot Clean. These easy-to-use tools remove lint and fur from carpets, rugs, furniture, clothing and more.",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$49",
+   "$49",
+   "$21.19",
+   "$63.59",
+   "$127.05",
+   "$169.59",
+   "$352.98",
+   "$105.99"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD"
+  ],
+  "bundle": [
+   "✦ 55% OFF ✦ Laundry Buy 2 Get 2 Free Laundry Essentials made specifically f",
+   "19 Buy 2 Get 2 Free Laundry Cycle Pro 4-Pack $63",
+   "05 Buy 2 Get 2 Free Pet Grooming Kit $169"
+  ],
+  "sub": [
+   "sel Controls Previous Slide Next Slide Uproot Fur-ternity - Subscribe & Save Join the Uproot Fur-ternity and we'll shower you wit",
+   "pet hair only exists on our beloved furballs! Email Address subscribe Signup Successful! Check your inbox",
+   "ng Policy Refund Policy Privacy Policy Accessibility Manage Subscription Contact Us Store Locator Reviews Influencer Program Terms o"
+  ],
+  "epa": [],
+  "len": 8484
+ },
+ "landing": {
+  "url": "https://order.uprootclean.com/?currency=USD",
+  "final": "https://order.uprootclean.com/?currency=USD",
+  "status": 404,
+  "title": "Parked Domain",
+  "desc": "",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [],
+  "currency_meta": [],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 1227
+ },
+ "rdap": "2021-06-10",
+ "wayback": "2021-12-07",
+ "age_class": "old"
+}

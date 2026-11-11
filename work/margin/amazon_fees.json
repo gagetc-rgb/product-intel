@@ -1,0 +1,24 @@
+{
+ "read": "2026-11-10",
+ "fba_src": "https://sellercentral.amazon.com/help/hub/reference/external/GABBX6GZPA8MSZGW",
+ "referral_src": "https://sell.amazon.com/pricing",
+ "note": "FBA fulfillment fees per unit, non-apparel, standard size. Columns: price band under $10 / $10-50 / over $50. 'nonpeak_2027' = from 2027-01-15 (used for a launch in 2027); 'nonpeak_2026' = 2026-01-15..2026-10-14; 'peak_2026' = 2026-10-15..2027-01-14. A 3.5% fuel and logistics surcharge applies on top of every fulfillment fee (since 2026-04-17). Small standard is priced on unit weight; other tiers on the greater of unit and dimensional weight. Step key = upper bound of the weight step in ounces (16 oz = 1 lb).",
+ "surcharge": 0.035,
+ "small_standard": {
+  "nonpeak_2026": {"2": [2.43, 3.32, 3.58], "4": [2.49, 3.42, 3.68], "6": [2.56, 3.45, 3.71], "8": [2.66, 3.54, 3.80], "10": [2.77, 3.68, 3.94], "12": [2.82, 3.78, 4.04], "14": [2.92, 3.91, 4.17], "16": [2.95, 3.96, 4.22]},
+  "nonpeak_2027": {"2": [2.64, 3.75, 4.31], "4": [2.72, 3.78, 4.34], "6": [2.80, 3.92, 4.47], "8": [2.83, 3.97, 4.53], "10": [2.87, 4.06, 4.62], "12": [2.92, 4.16, 4.73], "14": [2.96, 4.30, 4.85], "16": [2.99, 4.32, 4.88]},
+  "peak_2026": {"2": [2.62, 3.51, 3.77], "4": [2.68, 3.61, 3.87], "6": [2.76, 3.65, 3.91], "8": [2.86, 3.74, 4.00], "10": [2.98, 3.89, 4.15], "12": [3.03, 3.99, 4.25], "14": [3.14, 4.13, 4.39], "16": [3.17, 4.18, 4.44]}
+ },
+ "large_standard": {
+  "nonpeak_2026": {"4": [2.91, 3.73, 3.99], "8": [3.13, 3.95, 4.21], "12": [3.38, 4.20, 4.46], "16": [3.78, 4.60, 4.86], "20": [4.22, 5.04, 5.30], "24": [4.60, 5.42, 5.68], "28": [4.75, 5.57, 5.83], "32": [5.00, 5.82, 6.08], "36": [5.10, 5.92, 6.18], "40": [5.28, 6.10, 6.36], "44": [5.44, 6.26, 6.52], "48": [5.85, 6.67, 6.93], "over48_base": [6.15, 6.97, 7.23], "over48_per4oz": 0.08},
+  "nonpeak_2027": {"4": [2.91, 3.79, 4.35], "8": [3.13, 4.01, 4.57], "12": [3.38, 4.26, 4.83], "16": [3.78, 4.67, 5.23], "20": [4.22, 5.19, 5.75], "24": [4.60, 5.57, 6.14], "28": [4.75, 5.72, 6.29], "32": [5.00, 5.98, 6.54], "36": [5.10, 6.08, 6.64], "40": [5.28, 6.26, 6.83], "44": [5.44, 6.42, 6.99], "48": [5.85, 6.85, 7.41], "over48_base": [6.15, 7.16, 7.73], "over48_per4oz": 0.08},
+  "peak_2026": {"4": [3.15, 3.97, 4.23], "8": [3.39, 4.21, 4.47], "12": [3.66, 4.48, 4.74], "16": [4.07, 4.89, 5.15], "20": [4.52, 5.34, 5.60], "24": [4.91, 5.73, 5.99], "28": [5.07, 5.89, 6.15], "32": [5.33, 6.15, 6.41], "36": [5.47, 6.29, 6.55], "40": [5.67, 6.49, 6.75], "44": [5.84, 6.66, 6.92], "48": [6.26, 7.08, 7.34], "over48_base": [6.69, 7.51, 7.77], "over48_per4oz": 0.08}
+ },
+ "referral": {
+  "beauty": {"rule": "8% if total price <= $10, 15% above; minimum $0.30", "category": "Beauty, Health, and Personal Care"},
+  "pet": {"rule": "15% (22% for veterinary diets); minimum $0.30", "category": "Pet Supplies"},
+  "home": {"rule": "15%; minimum $0.30", "category": "Home and Kitchen"},
+  "clothing": {"rule": "5% if <= $15, 10% if $15-20, 17% above (third-party summary, not read on the Amazon page)", "category": "Clothing and Accessories"}
+ },
+ "storage_per_cuft_month": {"jan_sep": 0.78, "oct_dec": 2.40, "src": "third-party summaries (novadata.io, prepvia.com), not read on an Amazon page"}
+}

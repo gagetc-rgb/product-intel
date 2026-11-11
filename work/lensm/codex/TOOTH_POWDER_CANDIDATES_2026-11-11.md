@@ -1,0 +1,12 @@
+# Tooth-powder candidate checks — 2026-11-11
+
+| Domain | What was observed | Classification |
+|---|---|---|
+| [trydeos.com](https://trydeos.com/) | Homepage lists an odor-eliminating supplement, spray, breath spray, detox mask and accessories. Its [90+ ad](https://www.facebook.com/ads/library/?id=1033045976147655) promotes a capsule. | Tooth powder **not found** in the pages read; absence across the full catalog is not proven. ◈ |
+| [bronzepalms.com](https://bronzepalms.com/teeth-whitening-thousand-oaks/) | Lists LED teeth-whitening and spray-tan services; the matching ad describes whitening appointments and drying powder for spray tanning. | Tooth powder **not found** on pages and ad read; full shop not exhaustively checked. ◈ |
+| [essentialoxygen.com](https://essentialoxygen.com/products/on-demand-tooth-polish-peppermint) | On-Demand Tooth Polish 2 oz, $12; page says to sprinkle it onto toothpaste for added abrasion and whitening. | Yes, powder-form tooth polish inferred from dispensing instruction and a page review describing powder; not a standalone daily tooth-powder replacement. ◈ A domain-level ad count covers the whole oral-care business, not just powder. |
+| [banyanbotanicals.com](https://www.banyanbotanicals.com/products/tooth-powder) | Mint Tooth Powder 0.75 oz, $17.99, explicitly sold for tooth brushing. One [pre-filtered phrase result](https://www.facebook.com/ads/library/?id=1608618853534973) linked to an oral-health bundle containing the powder. | Confirmed powder seller; compare relevant 90+ powder ads before calling anyone the category leader. ◆◈ |
+
+Search results and pages were read without opening checkout or submitting forms. Product and price observations can change. The current evidence is insufficient to identify the overall 90+ tooth-powder ad leader; MYTO has 27 visible domain-search matches, MOOTHS 7, but other sellers and product-specific counts remain to be checked.
+
+The [Banyan 90+ domain-keyword search](https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=banyanbotanicals.com&search_type=keyword_unordered&start_date[max]=2026-08-13) showed approximately 60 results on 2026-11-11. Of the first 30 visible cards, four (IDs 1608618853534973, 1482148193020341, 880418417752285 and 1018717504431293) linked to the oral-health bundle that contains tooth powder; many other cards promoted different products. This is only the visible sample, not all 60 results or a full count of powder ads. ◆◈

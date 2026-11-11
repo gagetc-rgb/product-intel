@@ -1,8 +1,8 @@
 {
  "body_oil": {
-  "A1": 1.02,
+  "A1": 1.03,
   "A1_terms": "crepey skin",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 196800,
   "A2_source": "automated scan",
@@ -36,7 +36,7 @@
  "chin_wrap": {
   "A1": 0.84,
   "A1_terms": "double chin",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 42450,
   "A2_source": "automated scan",
@@ -55,9 +55,9 @@
   "D2_note": "not measured"
  },
  "color_foundation": {
-  "A1": 4.52,
+  "A1": 4.49,
   "A1_terms": "color changing foundation",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 322950,
   "A2_source": "automated scan",
@@ -92,9 +92,9 @@
   "D2_note": "Luxe cut to ~$13-17 Jul-Oct, back to $28-30; temporary"
  },
  "compression_socks": {
-  "A1": 0.99,
+  "A1": 0.98,
   "A1_terms": "compression socks",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 66850,
   "A2_source": "automated scan",
@@ -116,9 +116,9 @@
   "D2_note": "not measured"
  },
  "dog_fountain": {
-  "A1": 1.46,
+  "A1": 1.45,
   "A1_terms": "pet water fountain",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 220150,
   "A2_source": "automated scan",
@@ -137,10 +137,10 @@
   "D2_note": "flat all year, regular discount cycles"
  },
  "exfoliating_towel": {
-  "A1": 1.5,
+  "A1": 1.47,
   "A1_terms": "exfoliating towel",
-  "A1_pulls": 2,
-  "A1_zero_share": 0.02,
+  "A1_pulls": 3,
+  "A1_zero_share": 0.03,
   "A2": 53700,
   "A2_source": "automated scan",
   "flags": [],
@@ -160,7 +160,7 @@
  "hair_removal_cream": {
   "A1": 0.96,
   "A1_terms": "hair removal cream",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 85550,
   "A2_source": "automated scan",
@@ -179,9 +179,9 @@
   "D2_note": "not measured"
  },
  "hair_serum": {
-  "A1": 1.15,
+  "A1": 1.14,
   "A1_terms": "hair growth serum",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 240900,
   "A2_source": "manual (AMAZON_TASK.md)",
@@ -205,20 +205,18 @@
  "lash_serum": {
   "A1": 1.17,
   "A1_terms": "lash serum",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
-  "A2": 213450,
-  "A2_source": "manual (AMAZON_TASK.md)",
-  "flags": [
-   "Amazon data collected by hand, not re-verified"
-  ],
-  "B1": 0.164,
-  "B1_n": 55,
-  "B2_1k": 9,
-  "B2_300": 17,
-  "B3_hhi": 775,
-  "B3_top3": 0.35,
-  "D1_unbranded_1k": 3,
+  "A2": 225950,
+  "A2_source": "automated scan",
+  "flags": [],
+  "B1": 0.217,
+  "B1_n": 46,
+  "B2_1k": 10,
+  "B2_300": 16,
+  "B3_hhi": 717,
+  "B3_top3": 0.34,
+  "D1_unbranded_1k": 4,
   "B4_shops": [
    {
     "domain": "borboleta.com",
@@ -234,7 +232,7 @@
  "magnesium_spray": {
   "A1": 0.95,
   "A1_terms": "magnesium spray",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 60250,
   "A2_source": "automated scan",
@@ -253,9 +251,9 @@
   "D2_note": "not measured"
  },
  "neck_cream": {
-  "A1": 1.19,
+  "A1": 1.2,
   "A1_terms": "neck cream",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 103400,
   "A2_source": "automated scan",
@@ -274,9 +272,9 @@
   "D2_note": "not measured"
  },
  "persimmon_soap": {
-  "A1": 4.7,
+  "A1": 4.73,
   "A1_terms": "persimmon soap",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0.13,
   "A2": 69550,
   "A2_source": "automated scan",
@@ -306,9 +304,9 @@
   "D2_note": "cheap multipacks down ~20%; Mirai $23 to $18-20"
  },
  "pore_patch": {
-  "A1": 0.88,
+  "A1": 0.83,
   "A1_terms": "pore patches",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0.3,
   "A2": 50900,
   "A2_source": "automated scan",
@@ -332,7 +330,7 @@
  "prewash_oil": {
   "A1": 3.41,
   "A1_terms": "pre wash hair oil",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0.76,
   "A2": 203900,
   "A2_source": "manual (AMAZON_TASK.md)",
@@ -355,9 +353,9 @@
   "D2_note": "not measured"
  },
  "rosemary_oil": {
-  "A1": 0.76,
+  "A1": 0.77,
   "A1_terms": "rosemary oil for hair",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 200700,
   "A2_source": "automated scan",
@@ -378,9 +376,9 @@
   "D2_note": "not measured"
  },
  "scent_diffuser": {
-  "A1": 2.01,
+  "A1": 2.04,
   "A1_terms": "waterless diffuser",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 58000,
   "A2_source": "automated scan",
@@ -415,9 +413,9 @@
   "D2_note": "promo dips; new models launch at $130 and settle at $80-90"
  },
  "shower_filter": {
-  "A1": 1.09,
+  "A1": 1.1,
   "A1_terms": "shower filter",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
   "A2": 103550,
   "A2_source": "automated scan",
@@ -494,7 +492,7 @@
   "D2_note": "nearly flat; Terra Lotus $19.99 all year"
  },
  "turmeric_soap": {
-  "A1": 0.72,
+  "A1": 0.73,
   "A1_terms": "turmeric soap + kojic acid soap + turmeric bar, summed",
   "A1_pulls": 2,
   "A1_zero_share": 0,
@@ -521,22 +519,19 @@
   "D2_note": "cheap 5-packs drift $10 to $7; Valitic flat"
  },
  "whitening_powder": {
-  "A1": 1.08,
+  "A1": 1.06,
   "A1_terms": "teeth whitening powder",
-  "A1_pulls": 2,
+  "A1_pulls": 3,
   "A1_zero_share": 0,
-  "A2": 16100,
-  "A2_source": "manual (AMAZON_TASK.md)",
-  "flags": [
-   "small sample: under 20 entrants",
-   "Amazon data collected by hand, not re-verified"
-  ],
-  "B1": 0.105,
-  "B1_n": 19,
+  "A2": 16750,
+  "A2_source": "automated scan",
+  "flags": [],
+  "B1": 0.091,
+  "B1_n": 22,
   "B2_1k": 2,
-  "B2_300": 2,
-  "B3_hhi": 1537,
-  "B3_top3": 0.6,
+  "B2_300": 3,
+  "B3_hhi": 1450,
+  "B3_top3": 0.57,
   "D1_unbranded_1k": 0,
   "B4_shops": [],
   "B6": null,

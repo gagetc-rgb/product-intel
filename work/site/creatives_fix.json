@@ -1,0 +1,44 @@
+{
+ "_note": "2026-11-11: shown ads checked active through Apify (work/apify/runS*); trywhyteproducts.com ads are off, replaced by MYTO's longest active ads from run A",
+ "dead_ids": [
+  "36656591950650631",
+  "1838700673657597"
+ ],
+ "add": {
+  "whitening_powder": [
+   {
+    "img": "media/myto_1036087932444156.jpg",
+    "days": 134,
+    "start": "2026-06-30",
+    "page": "Myto Oral Care",
+    "domain": "getmyto.com",
+    "head": "UP TO 55% OFF + FREE GIFTS!",
+    "body": "Myto's tooth powder uses calcium bentonite clay and hydroxyapatite — the same mineral your enamel is made of — to rebuild, strengthen, and protect without the harsh chemicals. ✨ Na",
+    "video": true,
+    "lib": "https://www.facebook.com/ads/library/?id=1036087932444156"
+   },
+   {
+    "img": "media/myto_2105628406831545.jpg",
+    "days": 107,
+    "start": "2026-07-27",
+    "page": "Myto Oral Care",
+    "domain": "getmyto.com",
+    "head": "15% Clinical Dose",
+    "body": "If you've tried hydroxyapatite toothpaste and it didn't work this is why. 👇 Myto's tooth powder uses calcium bentonite clay and hydroxyapatite the same mineral your enamel is made ",
+    "video": true,
+    "lib": "https://www.facebook.com/ads/library/?id=2105628406831545"
+   },
+   {
+    "img": "media/myto_1017582977848816.jpg",
+    "days": 102,
+    "start": "2026-08-01",
+    "page": "Myto Oral Care",
+    "domain": "getmyto.com",
+    "head": "{{product.name}}",
+    "body": "{{product.brand}}",
+    "video": false,
+    "lib": "https://www.facebook.com/ads/library/?id=1017582977848816"
+   }
+  ]
+ }
+}

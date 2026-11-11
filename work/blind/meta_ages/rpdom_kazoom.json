@@ -1,0 +1,82 @@
+{
+ "phrase": "kittykazoom.com",
+ "date": "2026-11-10",
+ "active": 10,
+ "aged30": 10,
+ "aged90": 8,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1716891246302621",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1724671028572485",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1571627347904522",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2675631822833723",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2285307645545268",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1206456721613786",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1033410479339436",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1650484799770327",
+   "page": "Kitty Kazoom",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1826446235187472",
+   "page": "Kitty Kazoom",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "30-90"
+  }
+ ]
+}

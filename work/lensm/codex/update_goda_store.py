@@ -1,0 +1,10 @@
+import csv
+from pathlib import Path
+p=Path(__file__).parent/'store_facts.csv'
+with p.open(encoding='utf-8-sig',newline='') as f:
+    r=csv.DictReader(f);fields=r.fieldnames;rows=list(r)
+if not any(x['domain']=='goda.co' and x['category']=='body_oil' for x in rows):
+    d=dict(category='body_oil',domain='goda.co',sells='yes',product_url='https://goda.co/products/silk-body-oil',price_one_bar='$49 product page; $37 homepage; conflicting display, both USD country shown on homepage; purchase selection unverified',bundles='one, two and three refills mentioned; initial prices unknown',default_bundle='unknown: subscription controls did not render in search-service view',subscription='$39 per refill; two at $39 each per month; three at $39 each every 2 months, as text displayed',refill_interval='one and two refill options monthly; three refills every 2 months',subscription_cancellation='skip, pause or cancel anytime, as product page states',shipping='homepage states US 2–5 business days after 1–3 day processing; free shipping over $40, but other banners say free shipping on all orders',ships_from='homepage says Nevada and Pennsylvania warehouses',returns='30-day money-back guarantee stated',review_widget='unknown: iframe not rendered in search-service view',review_count='homepage shows 1,381 for body oil; unverified seller figure',country='United States USD shown on homepage search-service copy',currency='USD shown on homepage search-service copy',domain_registration='unknown',first_wayback='unknown',oldest_review='unknown',facebook_creation='unknown',oldest_shopify_product='unknown',age_class='unclear: age evidence incomplete',source_urls='https://goda.co/products/silk-body-oil ; https://goda.co/',source_date='2026-11-10',tier='◆ / ◈',note='Search-service page copies reported crawled today. Product page $49 versus homepage $37; subscription defaults and selected variants not observed. Do not assume price contradiction is for identical option.')
+    rows.append({k:d.get(k,'') for k in fields})
+with p.open('w',encoding='utf-8-sig',newline='') as f:
+    w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerows(rows)

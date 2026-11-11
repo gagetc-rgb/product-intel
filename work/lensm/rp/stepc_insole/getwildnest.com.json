@@ -1,0 +1,56 @@
+{
+ "domain": "getwildnest.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-10-31",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://getwildnest.com/?currency=USD",
+  "final": "https://www.getwildnest.com/?currency=USD",
+  "status": 200,
+  "title": "GetWildNest",
+  "desc": "",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$0.00"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [
+   "00 USD Check out BLACK MONTH SALE — Buy 3 Pairs, Get 3 Free Home Contact Us GroundGuard™ Wo",
+   "Shop GroundGuard → Buy 3 pairs, get 3 free · 99-day money back, worn or wa",
+   "Cheap 6-pack Wool GroundGuard™ No holes after a year ✕ ~ ✓ Cus"
+  ],
+  "sub": [],
+  "epa": [],
+  "len": 5173
+ },
+ "landing": {
+  "url": "https://www.getwildnest.com/?currency=USD",
+  "final": "https://www.getwildnest.com/?currency=USD",
+  "status": 200,
+  "title": "GetWildNest",
+  "desc": "",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$0.00"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [
+   "00 USD Check out BLACK MONTH SALE — Buy 3 Pairs, Get 3 Free Home Contact Us GroundGuard™ Wo",
+   "Shop GroundGuard → Buy 3 pairs, get 3 free · 99-day money back, worn or wa",
+   "Cheap 6-pack Wool GroundGuard™ No holes after a year ✕ ~ ✓ Cus"
+  ],
+  "sub": [],
+  "epa": [],
+  "len": 5173
+ },
+ "rdap": "2026-05-27",
+ "wayback": "none",
+ "age_class": "young"
+}

@@ -1,0 +1,19 @@
+{
+ "urls": [
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22lash%20serum%22&search_type=keyword_exact_phrase&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22tallow%20balm%22&search_type=keyword_exact_phrase&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22color%20changing%20foundation%22&search_type=keyword_exact_phrase&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=%22tooth%20powder%22&search_type=keyword_exact_phrase&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  }
+ ],
+ "count": 1900,
+ "limitPerSource": 500,
+ "scrapeAdDetails": false
+}

@@ -1,0 +1,58 @@
+{
+ "urls": [
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=primeprometics.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-29"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=borboleta.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-02-19"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=ancestralcosmetics.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-02"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=sproos.co&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-06-16"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=jcsmiracleproducts.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2024-07-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=miraiclinical.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-22"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=try-kaori.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-03-20"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=everstridesocks.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-04-06"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=hushedsocks.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-09-28"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=vueswiss.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-05-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=ekmiveda.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-05"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=trywhyteproducts.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-07-25"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=glomelanin.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-12-13"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=shopluuma.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-03-22"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=scentifyhome.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-02-06"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=goshi.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2024-07-24"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=sringe.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-04-28"
+  }
+ ],
+ "count": 1500,
+ "limitPerSource": 80,
+ "scrapeAdDetails": false
+}

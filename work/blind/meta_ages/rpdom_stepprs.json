@@ -1,0 +1,322 @@
+{
+ "phrase": "stepprs.com",
+ "date": "2026-11-10",
+ "active": 910,
+ "aged30": 150,
+ "aged90": 35,
+ "aged180": 31,
+ "ads": [
+  {
+   "id": "4178555935748219",
+   "page": "Stepprs",
+   "start": "2025-07-29",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2063475840726648",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1813116840081678",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "772639112214398",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1533799197960619",
+   "page": "Stepprs",
+   "start": "2025-10-22",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1453071929153538",
+   "page": "Stepprs",
+   "start": "2025-07-29",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1125811496134634",
+   "page": "Stepprs",
+   "start": "2025-07-29",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1123882333024431",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1843057880424516",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1570693074037245",
+   "page": "Stepprs",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1472367163886798",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "815722281522977",
+   "page": "Stepprs",
+   "start": "2026-01-12",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "4538613873124080",
+   "page": "Stepprs",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "4224013384509204",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "24768807249413841",
+   "page": "Stepprs",
+   "start": "2025-10-22",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1893184628290864",
+   "page": "Stepprs",
+   "start": "2025-10-22",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2309254016215030",
+   "page": "Stepprs",
+   "start": "2026-01-12",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "770986265562044",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "24395723966734985",
+   "page": "Stepprs",
+   "start": "2025-07-29",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "2377502239310395",
+   "page": "Stepprs",
+   "start": "2025-07-29",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "2572920253040847",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1120162486903226",
+   "page": "Stepprs",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "3363140047175370",
+   "page": "Stepprs",
+   "start": "2026-01-12",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1301038122074967",
+   "page": "Stepprs",
+   "start": "2026-03-12",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1287262092547215",
+   "page": "Stepprs",
+   "start": "2025-09-18",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "2360572971050445",
+   "page": "Stepprs",
+   "start": "2026-01-13",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1110403061176972",
+   "page": "Stepprs",
+   "start": "2025-10-24",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "180+"
+  },
+  {
+   "id": "2535310046906471",
+   "page": "Stepprs",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1674865260241209",
+   "page": "Stepprs",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1607291467694055",
+   "page": "Stepprs",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1317251743682475",
+   "page": "Stepprs",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1629619998951762",
+   "page": "Stepprs",
+   "start": "2026-09-02",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1888496052561341",
+   "page": "Stepprs",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1646026937082775",
+   "page": "Stepprs",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "965379293288477",
+   "page": "Foot Health Club",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "867054116373339",
+   "page": "Stepprs",
+   "start": "2026-09-10",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "3571372743036082",
+   "page": "Stepprs",
+   "start": "2026-10-13",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1697667915298738",
+   "page": "Stepprs",
+   "start": "2026-11-01",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1679696773947051",
+   "page": "Stepprs",
+   "start": "2026-11-01",
+   "n": 1,
+   "domain": "stepprs.com",
+   "window": "0-30"
+  }
+ ]
+}

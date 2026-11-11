@@ -50,6 +50,8 @@ python meta_stats.py                                   # Meta layer -> meta_ages
 
 ## Version log
 
+- v2.2 (2026-11-09, owner instruction, made after seeing results): metrics and decision rule moved to `/METRICS.md`. No category is dropped on search alone, so kill rule 5(a) above no longer applies; the main criterion is whether recent entrants survive (B1/B2), then concentration (B3). Verdict: `work/audit/AUDIT_2026-11-09.md` §7-§11. Collection steps and definitions above still apply.
+
 - v2.1 addendum 2 (2026-11-08): accents are folded before brand matching ('L'Oréal' and 'L'Oreal' were two brands). Only color foundation's old-brand split moved (L'Oreal 6,000+3,000 merged); new-brand units unchanged.
 
 - v2.1 addendum (2026-11-08): the 4 categories collected manually by the owner (US ZIP, AMAZON_TASK.md) use the same rules; GEN += their product words (lash, eyelash, brow, castor, biotin, rice, batana, scalp, shampoo, wash, pre, teeth...), EST += revitalash, olaplex, dralthea (long-established brands with recent ASINs). Done after a first look at their brand list, before final reading; disclosed.

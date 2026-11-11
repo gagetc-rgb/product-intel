@@ -1,0 +1,258 @@
+{
+ "phrase": "movaracare.com",
+ "date": "2026-11-10",
+ "active": 190,
+ "aged30": 81,
+ "aged90": 17,
+ "aged180": 8,
+ "ads": [
+  {
+   "id": "1505900274288320",
+   "page": "Movara",
+   "start": "2026-03-26",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1475710427546784",
+   "page": "Movara",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "180+"
+  },
+  {
+   "id": "4449333105324332",
+   "page": "Movara",
+   "start": "2026-05-09",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "180+"
+  },
+  {
+   "id": "1631592778793971",
+   "page": "Movara",
+   "start": "2026-05-06",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "180+"
+  },
+  {
+   "id": "4330256493882653",
+   "page": "Movara",
+   "start": "2026-04-24",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "180+"
+  },
+  {
+   "id": "945008711746346",
+   "page": "Movara",
+   "start": "2026-05-05",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "180+"
+  },
+  {
+   "id": "1267563075463807",
+   "page": "Movara",
+   "start": "2026-04-24",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "180+"
+  },
+  {
+   "id": "1839651230085056",
+   "page": "Movara",
+   "start": "2026-03-27",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1763119895059191",
+   "page": "Movara",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1028891492803710",
+   "page": "Movara",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1626102358477878",
+   "page": "Movara",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1366039018704383",
+   "page": "Movara",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1430714412410535",
+   "page": "Movara",
+   "start": "2026-06-11",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1140472915825157",
+   "page": "Movara",
+   "start": "2026-07-23",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1898622217467460",
+   "page": "Movara",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1998273454206601",
+   "page": "Movara",
+   "start": "2026-06-27",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1007731392127421",
+   "page": "Movara",
+   "start": "2026-06-27",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1131338562881986",
+   "page": "Movara",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1586400769731625",
+   "page": "Movara",
+   "start": "2026-08-14",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4747013075575264",
+   "page": "Movara",
+   "start": "2026-09-30",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1875473850552859",
+   "page": "Movara",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3287965528257997",
+   "page": "Movara",
+   "start": "2026-08-14",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1449405897222614",
+   "page": "Movara",
+   "start": "2026-08-22",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1369387204747222",
+   "page": "Movara",
+   "start": "2026-08-22",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1558998709024069",
+   "page": "Movara",
+   "start": "2026-08-13",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1031009569934233",
+   "page": "Movara",
+   "start": "2026-08-23",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4268539756613442",
+   "page": "Movara",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1084536650575971",
+   "page": "Movara",
+   "start": "2026-08-22",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1118556910638117",
+   "page": "Movara",
+   "start": "2026-09-15",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2205955769963991",
+   "page": "Movara",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2092766347993203",
+   "page": "Movara",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  }
+ ]
+}

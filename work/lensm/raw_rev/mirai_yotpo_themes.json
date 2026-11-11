@@ -1,0 +1,28 @@
+{
+ "stars": {
+  "1": 49,
+  "2": 26,
+  "3": 67
+ },
+ "with_text": 142,
+ "themes": {
+  "does not work": 25,
+  "product itself": 55,
+  "support and refunds": 11,
+  "shipping and delivery": 8,
+  "billing and subscription": 1
+ },
+ "sub": {
+  "no effect / claim not met": 25,
+  "scent (too weak, fades, not liked)": 39,
+  "slow or generic support": 9,
+  "texture / skin feel": 15,
+  "refund / return / exchange friction": 2,
+  "slow or missing delivery": 8,
+  "durability / defect": 5,
+  "fit / sizing / too tight": 1,
+  "subscription or checkout confusion": 1,
+  "leak / packaging damage": 2
+ },
+ "no_theme": 60
+}

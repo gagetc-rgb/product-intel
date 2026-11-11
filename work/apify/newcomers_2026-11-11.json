@@ -1,0 +1,415 @@
+[
+ {
+  "product": "tallow_balm",
+  "domain": "about.terralotus.shop",
+  "root": "terralotus.shop",
+  "ads": 56,
+  "oldest_days": 46,
+  "registered": "2024-03-03",
+  "pages": [
+   "Terra Lotus",
+   "HomeCraft Balm"
+  ]
+ },
+ {
+  "product": "tallow_balm",
+  "domain": "store.try-forge.com",
+  "root": "try-forge.com",
+  "ads": 9,
+  "oldest_days": 85,
+  "registered": "2023-11-06",
+  "pages": [
+   "Forge Men",
+   "The Elite Man"
+  ]
+ },
+ {
+  "product": "tallow_balm",
+  "domain": "shop.gubbahomestead.com",
+  "root": "gubbahomestead.com",
+  "ads": 8,
+  "oldest_days": 76,
+  "registered": "2021-10-04",
+  "pages": [
+   "Gubba Homestead"
+  ]
+ },
+ {
+  "product": "tallow_balm",
+  "domain": "basedsupplies.com",
+  "root": "basedsupplies.com",
+  "ads": 7,
+  "oldest_days": 31,
+  "registered": "2023-12-24",
+  "pages": [
+   "Skincare Guide"
+  ]
+ },
+ {
+  "product": "tallow_balm",
+  "domain": "shop.try-forge.com",
+  "root": "try-forge.com",
+  "ads": 5,
+  "oldest_days": 94,
+  "registered": "2023-11-06",
+  "pages": [
+   "Forge Men"
+  ]
+ },
+ {
+  "product": "tallow_balm",
+  "domain": "lassotallow.us",
+  "root": "lassotallow.us",
+  "ads": 5,
+  "oldest_days": 57,
+  "registered": "err",
+  "pages": [
+   "Lasso Co."
+  ]
+ },
+ {
+  "product": "tallow_balm",
+  "domain": "leskinclub.com",
+  "root": "leskinclub.com",
+  "ads": 4,
+  "oldest_days": 84,
+  "registered": "2024-03-30",
+  "pages": [
+   "Le Skin Club"
+  ]
+ },
+ {
+  "product": "tallow_balm",
+  "domain": "trybullbee.com",
+  "root": "trybullbee.com",
+  "ads": 4,
+  "oldest_days": 51,
+  "registered": "2025-11-14",
+  "pages": [
+   "BullBee"
+  ]
+ },
+ {
+  "product": "tallow_balm",
+  "domain": "rr-collective.com",
+  "root": "rr-collective.com",
+  "ads": 3,
+  "oldest_days": 32,
+  "registered": "2023-02-15",
+  "pages": [
+   "R&R Collective Co. "
+  ]
+ },
+ {
+  "product": "whitening_powder",
+  "domain": "trymooths.com",
+  "root": "trymooths.com",
+  "ads": 15,
+  "oldest_days": 97,
+  "registered": "2026-05-12",
+  "pages": [
+   "Mooths"
+  ]
+ },
+ {
+  "product": "whitening_powder",
+  "domain": "yagalifestyle.com",
+  "root": "yagalifestyle.com",
+  "ads": 3,
+  "oldest_days": 94,
+  "registered": "2017-09-05",
+  "pages": [
+   "Yaga Lifestyle"
+  ]
+ },
+ {
+  "product": "persimmon_soap",
+  "domain": "kakiyucare.com",
+  "root": "kakiyucare.com",
+  "ads": 74,
+  "oldest_days": 82,
+  "registered": "2026-08-16",
+  "pages": [
+   "Kakiyu",
+   "Mari Tanaka",
+   "Dr. Margaret Ellis"
+  ]
+ },
+ {
+  "product": "persimmon_soap",
+  "domain": "skinscienceinsider.com",
+  "root": "skinscienceinsider.com",
+  "ads": 28,
+  "oldest_days": 76,
+  "registered": "2026-07-06",
+  "pages": [
+   "Skin Science Insider",
+   "Minnesota Health Center"
+  ]
+ },
+ {
+  "product": "persimmon_soap",
+  "domain": "bellaviashop.com",
+  "root": "bellaviashop.com",
+  "ads": 15,
+  "oldest_days": 90,
+  "registered": "2026-03-25",
+  "pages": [
+   "Mari Tanaka"
+  ]
+ },
+ {
+  "product": "persimmon_soap",
+  "domain": "cachinaturals.com",
+  "root": "cachinaturals.com",
+  "ads": 12,
+  "oldest_days": 91,
+  "registered": "2026-08-03",
+  "pages": [
+   "Cachi Naturals"
+  ]
+ },
+ {
+  "product": "lash_serum",
+  "domain": "lashbymaya.com",
+  "root": "lashbymaya.com",
+  "ads": 10,
+  "oldest_days": 46,
+  "registered": "2022-09-26",
+  "pages": [
+   "Lash by Maya London"
+  ]
+ },
+ {
+  "product": "lash_serum",
+  "domain": "shop.serevedeals.com",
+  "root": "serevedeals.com",
+  "ads": 8,
+  "oldest_days": 46,
+  "registered": "2026-06-21",
+  "pages": [
+   "Renora"
+  ]
+ },
+ {
+  "product": "lash_serum",
+  "domain": "glaume.com",
+  "root": "glaume.com",
+  "ads": 5,
+  "oldest_days": 58,
+  "registered": "2026-06-23",
+  "pages": [
+   "Glaume"
+  ]
+ },
+ {
+  "product": "lash_serum",
+  "domain": "sownbeauty.com",
+  "root": "sownbeauty.com",
+  "ads": 5,
+  "oldest_days": 70,
+  "registered": "2020-07-20",
+  "pages": [
+   "Sown Beauty"
+  ]
+ },
+ {
+  "product": "lash_serum",
+  "domain": "nulastin.com",
+  "root": "nulastin.com",
+  "ads": 4,
+  "oldest_days": 75,
+  "registered": "2015-05-11",
+  "pages": [
+   "NULASTIN"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "im8health.com",
+  "root": "im8health.com",
+  "ads": 14,
+  "oldest_days": 38,
+  "registered": "2024-02-26",
+  "pages": [
+   "IM8 Health"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "trytshape.artemis.co",
+  "root": "artemis.co",
+  "ads": 11,
+  "oldest_days": 39,
+  "registered": "err",
+  "pages": [
+   "Artemis Distribution"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "try-chinology.com",
+  "root": "try-chinology.com",
+  "ads": 8,
+  "oldest_days": 77,
+  "registered": "2025-03-20",
+  "pages": [
+   "Chinology Community",
+   "Let’s Talk Beauty 40+"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "ortaclinic.com",
+  "root": "ortaclinic.com",
+  "ads": 7,
+  "oldest_days": 93,
+  "registered": "2024-09-08",
+  "pages": [
+   "Ortaclinic.en"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "spnutrition-us.com",
+  "root": "spnutrition-us.com",
+  "ads": 6,
+  "oldest_days": 77,
+  "registered": "2025-05-15",
+  "pages": [
+   "Wellness Tips",
+   "Wellness Tipss",
+   "Alice Williams"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "us-chinology.com",
+  "root": "us-chinology.com",
+  "ads": 4,
+  "oldest_days": 41,
+  "registered": "2024-10-01",
+  "pages": [
+   "Chinology"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "thestandardlab.com",
+  "root": "thestandardlab.com",
+  "ads": 4,
+  "oldest_days": 55,
+  "registered": "2025-12-19",
+  "pages": [
+   "Healthy Men 40+"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "beaund.us",
+  "root": "beaund.us",
+  "ads": 3,
+  "oldest_days": 50,
+  "registered": "err",
+  "pages": [
+   "Beaund Global"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "localmedspadeals.com",
+  "root": "localmedspadeals.com",
+  "ads": 3,
+  "oldest_days": 55,
+  "registered": "2026-06-29",
+  "pages": [
+   "Glow Clinics",
+   "BeU Medical Spa",
+   "You Glow Aesthetics Spa"
+  ]
+ },
+ {
+  "product": "chin_wrap",
+  "domain": "bestclinichere.com",
+  "root": "bestclinichere.com",
+  "ads": 3,
+  "oldest_days": 68,
+  "registered": "2025-04-16",
+  "pages": [
+   "Ready Med ",
+   "Medspa810 Burlington",
+   "Generations Wellness Center"
+  ]
+ },
+ {
+  "product": "color_foundation",
+  "domain": "us.luxe.com",
+  "root": "luxe.com",
+  "ads": 27,
+  "oldest_days": 59,
+  "registered": "1997-04-14",
+  "pages": [
+   "Luxe Cosmetics",
+   "Korean Beauty Insider"
+  ]
+ },
+ {
+  "product": "color_foundation",
+  "domain": "facelove-cosmetics.com",
+  "root": "facelove-cosmetics.com",
+  "ads": 14,
+  "oldest_days": 90,
+  "registered": "2025-12-28",
+  "pages": [
+   "The Glow Up",
+   "Real Women Real Stories",
+   "Your Prime Years"
+  ]
+ },
+ {
+  "product": "color_foundation",
+  "domain": "trynova.store",
+  "root": "trynova.store",
+  "ads": 9,
+  "oldest_days": 100,
+  "registered": "2026-04-09",
+  "pages": [
+   "Trending On K-Beauty",
+   "TryNova"
+  ]
+ },
+ {
+  "product": "color_foundation",
+  "domain": "luxeresearchlab.com",
+  "root": "luxeresearchlab.com",
+  "ads": 8,
+  "oldest_days": 59,
+  "registered": "2025-06-09",
+  "pages": [
+   "Korean Beauty Insider"
+  ]
+ },
+ {
+  "product": "color_foundation",
+  "domain": "mushicosmetics.com",
+  "root": "mushicosmetics.com",
+  "ads": 8,
+  "oldest_days": 78,
+  "registered": "2026-07-05",
+  "pages": [
+   "Claire Parker",
+   "Mushi"
+  ]
+ },
+ {
+  "product": "color_foundation",
+  "domain": "beaumontvoss.store",
+  "root": "beaumontvoss.store",
+  "ads": 6,
+  "oldest_days": 92,
+  "registered": "2026-05-15",
+  "pages": [
+   "Beaumont Voss"
+  ]
+ }
+]

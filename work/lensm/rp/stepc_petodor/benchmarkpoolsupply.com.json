@@ -1,0 +1,36 @@
+{
+ "domain": "benchmarkpoolsupply.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-08-08",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://benchmarkpoolsupply.com/?currency=USD",
+  "final": "https://benchmarkpoolsupply.com/?currency=USD",
+  "status": 200,
+  "title": "Benchmark Pool Supply | Pool Supplies, Parts, and Equipment",
+  "desc": "Local pool supply store in Fresno & Clovis with big box pricing on pool chemicals, equipment, and parts. Shop online or visit Benchmark Pool Supply today.",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$0.00",
+   "$43.95",
+   "$57.99",
+   "$39.95",
+   "$58.99",
+   "$39.95",
+   "$59.95",
+   "$79.95"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 12874
+ },
+ "rdap": "2022-06-02",
+ "wayback": "2004-03-22",
+ "age_class": "old"
+}

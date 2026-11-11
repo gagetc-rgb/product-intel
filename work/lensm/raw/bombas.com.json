@@ -1,0 +1,1 @@
+{"domain": "bombas.com", "hosts": ["bombas.com"], "pj_status": 429, "pj_final": "https://bombas.com/products.json?limit=250", "products": null, "home_status": 429, "home_final": "https://bombas.com/", "home_title": null, "home_desc": null, "home_text": "", "home_prices": [], "captcha": false, "rdap_status": 200, "rdap_reg": "2000-01-12", "wb_status": 200, "wb_first": "20000510"}

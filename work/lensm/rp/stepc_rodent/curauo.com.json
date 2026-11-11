@@ -1,0 +1,39 @@
+{
+ "domain": "curauo.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-07-30",
+ "ads": "2",
+ "pages": [],
+ "home": {
+  "url": "https://curauo.com/?currency=USD",
+  "final": "https://curauo.com/?currency=USD",
+  "status": 200,
+  "title": "Curauo | Premium Home Office Essentials & Ergonomic Accessories",
+  "desc": "Upgrade your workspace with Curauo. We specialize in high-quality ergonomic tools, smart desk organizers, and productivity gadgets designed for the modern professional. Shop now to improve your daily workflow and comfort.",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$45.97",
+   "$0.00",
+   "$16.99",
+   "$16.99",
+   "$29.99",
+   "$29.99",
+   "$19.99",
+   "$19.99"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "mfort Smart Storage Smart Storage Desk Gadgets Desk Gadgets Subscribe to our emails Be the first to know about new collections an"
+  ],
+  "epa": [],
+  "len": 2163
+ },
+ "rdap": "2026-02-09",
+ "wayback": "none",
+ "age_class": "young"
+}

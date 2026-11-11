@@ -1,0 +1,22 @@
+{
+ "urls": [
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=hestiacosmetics.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=trylumineskin.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=officialyuki.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=trynova.store&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=tryholicow.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-08-14"
+  }
+ ],
+ "count": 600,
+ "limitPerSource": 150,
+ "scrapeAdDetails": false
+}

@@ -1,0 +1,678 @@
+{
+ "results": {
+  "v22": {
+   "body_oil": {
+    "A2": 196800,
+    "B1": 0.128,
+    "n": 47,
+    "B2": 6,
+    "HHI": 1218,
+    "B2_300": 10,
+    "unbranded_1k": 2,
+    "top3": 0.5
+   },
+   "chin_wrap": {
+    "A2": 42450,
+    "B1": 0.04,
+    "n": 99,
+    "B2": 4,
+    "HHI": 1122,
+    "B2_300": 7,
+    "unbranded_1k": 2,
+    "top3": 0.51
+   },
+   "color_foundation": {
+    "A2": 322950,
+    "B1": 0.271,
+    "n": 48,
+    "B2": 13,
+    "HHI": 2403,
+    "B2_300": 29,
+    "unbranded_1k": 10,
+    "top3": 0.65
+   },
+   "compression_socks": {
+    "A2": 66850,
+    "B1": 0.2,
+    "n": 15,
+    "B2": 3,
+    "HHI": 1058,
+    "B2_300": 10,
+    "unbranded_1k": 3,
+    "top3": 0.48
+   },
+   "dog_fountain": {
+    "A2": 220150,
+    "B1": 0.269,
+    "n": 104,
+    "B2": 28,
+    "HHI": 819,
+    "B2_300": 59,
+    "unbranded_1k": 26,
+    "top3": 0.37
+   },
+   "exfoliating_towel": {
+    "A2": 53700,
+    "B1": 0.038,
+    "n": 53,
+    "B2": 2,
+    "HHI": 1011,
+    "B2_300": 10,
+    "unbranded_1k": 2,
+    "top3": 0.46
+   },
+   "hair_removal_cream": {
+    "A2": 85550,
+    "B1": 0.087,
+    "n": 23,
+    "B2": 2,
+    "HHI": 3692,
+    "B2_300": 4,
+    "unbranded_1k": 0,
+    "top3": 0.93
+   },
+   "hair_serum": {
+    "A2": 240900,
+    "B1": 0.278,
+    "n": 36,
+    "B2": 10,
+    "HHI": 1183,
+    "B2_300": 21,
+    "unbranded_1k": 2,
+    "top3": 0.49
+   },
+   "lash_serum": {
+    "A2": 225950,
+    "B1": 0.217,
+    "n": 46,
+    "B2": 10,
+    "HHI": 717,
+    "B2_300": 16,
+    "unbranded_1k": 4,
+    "top3": 0.34
+   },
+   "magnesium_spray": {
+    "A2": 60250,
+    "B1": 0.026,
+    "n": 76,
+    "B2": 2,
+    "HHI": 1031,
+    "B2_300": 6,
+    "unbranded_1k": 2,
+    "top3": 0.49
+   },
+   "neck_cream": {
+    "A2": 103400,
+    "B1": 0.074,
+    "n": 27,
+    "B2": 2,
+    "HHI": 1435,
+    "B2_300": 6,
+    "unbranded_1k": 1,
+    "top3": 0.58
+   },
+   "persimmon_soap": {
+    "A2": 69550,
+    "B1": 0.104,
+    "n": 67,
+    "B2": 7,
+    "HHI": 1730,
+    "B2_300": 19,
+    "unbranded_1k": 3,
+    "top3": 0.62
+   },
+   "pore_patch": {
+    "A2": 50900,
+    "B1": 0.167,
+    "n": 12,
+    "B2": 2,
+    "HHI": 3173,
+    "B2_300": 2,
+    "unbranded_1k": 1,
+    "top3": 0.81
+   },
+   "prewash_oil": {
+    "A2": 203900,
+    "B1": 0.138,
+    "n": 29,
+    "B2": 4,
+    "HHI": 1119,
+    "B2_300": 7,
+    "unbranded_1k": 0,
+    "top3": 0.5
+   },
+   "rosemary_oil": {
+    "A2": 200700,
+    "B1": 0.159,
+    "n": 44,
+    "B2": 7,
+    "HHI": 1217,
+    "B2_300": 16,
+    "unbranded_1k": 1,
+    "top3": 0.53
+   },
+   "scent_diffuser": {
+    "A2": 58000,
+    "B1": 0.077,
+    "n": 78,
+    "B2": 6,
+    "HHI": 892,
+    "B2_300": 27,
+    "unbranded_1k": 2,
+    "top3": 0.46
+   },
+   "shower_filter": {
+    "A2": 103550,
+    "B1": 0.127,
+    "n": 63,
+    "B2": 8,
+    "HHI": 890,
+    "B2_300": 22,
+    "unbranded_1k": 7,
+    "top3": 0.44
+   },
+   "tallow_balm": {
+    "A2": 122850,
+    "B1": 0.134,
+    "n": 142,
+    "B2": 19,
+    "HHI": 727,
+    "B2_300": 43,
+    "unbranded_1k": 8,
+    "top3": 0.41
+   },
+   "turmeric_soap": {
+    "A2": 109800,
+    "B1": 0.087,
+    "n": 92,
+    "B2": 8,
+    "HHI": 2242,
+    "B2_300": 17,
+    "unbranded_1k": 4,
+    "top3": 0.6
+   },
+   "whitening_powder": {
+    "A2": 16750,
+    "B1": 0.091,
+    "n": 22,
+    "B2": 2,
+    "HHI": 1450,
+    "B2_300": 3,
+    "unbranded_1k": 0,
+    "top3": 0.57
+   }
+  },
+  "filt": {
+   "body_oil": {
+    "A2": 51500,
+    "B1": 0.07,
+    "n": 43,
+    "B2": 3,
+    "HHI": 2366,
+    "B2_300": 8,
+    "unbranded_1k": 1,
+    "top3": 0.8
+   },
+   "chin_wrap": {
+    "A2": 42450,
+    "B1": 0.04,
+    "n": 99,
+    "B2": 4,
+    "HHI": 1122,
+    "B2_300": 7,
+    "unbranded_1k": 2,
+    "top3": 0.51
+   },
+   "color_foundation": {
+    "A2": 322950,
+    "B1": 0.271,
+    "n": 48,
+    "B2": 13,
+    "HHI": 2403,
+    "B2_300": 29,
+    "unbranded_1k": 10,
+    "top3": 0.65
+   },
+   "compression_socks": {
+    "A2": 232200,
+    "B1": 0.148,
+    "n": 27,
+    "B2": 4,
+    "HHI": 401,
+    "B2_300": 16,
+    "unbranded_1k": 3,
+    "top3": 0.23
+   },
+   "dog_fountain": {
+    "A2": 208550,
+    "B1": 0.25,
+    "n": 100,
+    "B2": 25,
+    "HHI": 905,
+    "B2_300": 55,
+    "unbranded_1k": 23,
+    "top3": 0.39
+   },
+   "exfoliating_towel": {
+    "A2": 53700,
+    "B1": 0.038,
+    "n": 53,
+    "B2": 2,
+    "HHI": 1011,
+    "B2_300": 10,
+    "unbranded_1k": 2,
+    "top3": 0.46
+   },
+   "hair_removal_cream": {
+    "A2": 108700,
+    "B1": 0.06,
+    "n": 50,
+    "B2": 3,
+    "HHI": 2504,
+    "B2_300": 8,
+    "unbranded_1k": 0,
+    "top3": 0.8
+   },
+   "hair_serum": {
+    "A2": 236000,
+    "B1": 0.286,
+    "n": 35,
+    "B2": 10,
+    "HHI": 1229,
+    "B2_300": 20,
+    "unbranded_1k": 2,
+    "top3": 0.5
+   },
+   "lash_serum": {
+    "A2": 211300,
+    "B1": 0.125,
+    "n": 40,
+    "B2": 5,
+    "HHI": 1025,
+    "B2_300": 11,
+    "unbranded_1k": 2,
+    "top3": 0.46
+   },
+   "magnesium_spray": {
+    "A2": 60250,
+    "B1": 0.026,
+    "n": 76,
+    "B2": 2,
+    "HHI": 1031,
+    "B2_300": 6,
+    "unbranded_1k": 2,
+    "top3": 0.49
+   },
+   "neck_cream": {
+    "A2": 103400,
+    "B1": 0.074,
+    "n": 27,
+    "B2": 2,
+    "HHI": 1435,
+    "B2_300": 6,
+    "unbranded_1k": 1,
+    "top3": 0.58
+   },
+   "persimmon_soap": {
+    "A2": 69550,
+    "B1": 0.104,
+    "n": 67,
+    "B2": 7,
+    "HHI": 1730,
+    "B2_300": 19,
+    "unbranded_1k": 3,
+    "top3": 0.62
+   },
+   "pore_patch": {
+    "A2": 50900,
+    "B1": 0.167,
+    "n": 12,
+    "B2": 2,
+    "HHI": 3173,
+    "B2_300": 2,
+    "unbranded_1k": 1,
+    "top3": 0.81
+   },
+   "prewash_oil": {
+    "A2": 37050,
+    "B1": 0.059,
+    "n": 17,
+    "B2": 1,
+    "HHI": 2099,
+    "B2_300": 3,
+    "unbranded_1k": 0,
+    "top3": 0.78
+   },
+   "rosemary_oil": {
+    "A2": 200700,
+    "B1": 0.159,
+    "n": 44,
+    "B2": 7,
+    "HHI": 1217,
+    "B2_300": 16,
+    "unbranded_1k": 1,
+    "top3": 0.53
+   },
+   "scent_diffuser": {
+    "A2": 58000,
+    "B1": 0.077,
+    "n": 78,
+    "B2": 6,
+    "HHI": 892,
+    "B2_300": 27,
+    "unbranded_1k": 2,
+    "top3": 0.46
+   },
+   "shower_filter": {
+    "A2": 103550,
+    "B1": 0.127,
+    "n": 63,
+    "B2": 8,
+    "HHI": 890,
+    "B2_300": 22,
+    "unbranded_1k": 7,
+    "top3": 0.44
+   },
+   "tallow_balm": {
+    "A2": 122850,
+    "B1": 0.134,
+    "n": 142,
+    "B2": 19,
+    "HHI": 727,
+    "B2_300": 43,
+    "unbranded_1k": 8,
+    "top3": 0.41
+   },
+   "turmeric_soap": {
+    "A2": 109800,
+    "B1": 0.087,
+    "n": 92,
+    "B2": 8,
+    "HHI": 2242,
+    "B2_300": 17,
+    "unbranded_1k": 4,
+    "top3": 0.6
+   },
+   "whitening_powder": {
+    "A2": 16750,
+    "B1": 0.091,
+    "n": 22,
+    "B2": 2,
+    "HHI": 1450,
+    "B2_300": 3,
+    "unbranded_1k": 0,
+    "top3": 0.57
+   }
+  },
+  "full": {
+   "body_oil": {
+    "A2": 51500,
+    "B1": 0.071,
+    "n": 42,
+    "B2": 3,
+    "HHI": 2366,
+    "B2_300": 8,
+    "unbranded_1k": 1,
+    "top3": 0.8
+   },
+   "chin_wrap": {
+    "A2": 42450,
+    "B1": 0.043,
+    "n": 94,
+    "B2": 4,
+    "HHI": 1122,
+    "B2_300": 7,
+    "unbranded_1k": 2,
+    "top3": 0.51
+   },
+   "color_foundation": {
+    "A2": 322950,
+    "B1": 0.25,
+    "n": 32,
+    "B2": 8,
+    "HHI": 2449,
+    "B2_300": 21,
+    "unbranded_1k": 8,
+    "top3": 0.66
+   },
+   "compression_socks": {
+    "A2": 232200,
+    "B1": 0.12,
+    "n": 25,
+    "B2": 3,
+    "HHI": 404,
+    "B2_300": 15,
+    "unbranded_1k": 2,
+    "top3": 0.23
+   },
+   "dog_fountain": {
+    "A2": 208550,
+    "B1": 0.241,
+    "n": 83,
+    "B2": 20,
+    "HHI": 1064,
+    "B2_300": 47,
+    "unbranded_1k": 19,
+    "top3": 0.47
+   },
+   "exfoliating_towel": {
+    "A2": 53700,
+    "B1": 0.04,
+    "n": 50,
+    "B2": 2,
+    "HHI": 1021,
+    "B2_300": 9,
+    "unbranded_1k": 2,
+    "top3": 0.46
+   },
+   "hair_removal_cream": {
+    "A2": 108700,
+    "B1": 0.065,
+    "n": 46,
+    "B2": 3,
+    "HHI": 2504,
+    "B2_300": 9,
+    "unbranded_1k": 0,
+    "top3": 0.8
+   },
+   "hair_serum": {
+    "A2": 236000,
+    "B1": 0.286,
+    "n": 35,
+    "B2": 10,
+    "HHI": 1229,
+    "B2_300": 20,
+    "unbranded_1k": 2,
+    "top3": 0.5
+   },
+   "lash_serum": {
+    "A2": 211300,
+    "B1": 0.135,
+    "n": 37,
+    "B2": 5,
+    "HHI": 1026,
+    "B2_300": 11,
+    "unbranded_1k": 2,
+    "top3": 0.46
+   },
+   "magnesium_spray": {
+    "A2": 60250,
+    "B1": 0.014,
+    "n": 73,
+    "B2": 1,
+    "HHI": 1168,
+    "B2_300": 4,
+    "unbranded_1k": 1,
+    "top3": 0.54
+   },
+   "neck_cream": {
+    "A2": 103400,
+    "B1": 0.038,
+    "n": 26,
+    "B2": 1,
+    "HHI": 1435,
+    "B2_300": 5,
+    "unbranded_1k": 1,
+    "top3": 0.58
+   },
+   "persimmon_soap": {
+    "A2": 69550,
+    "B1": 0.12,
+    "n": 50,
+    "B2": 6,
+    "HHI": 1804,
+    "B2_300": 17,
+    "unbranded_1k": 3,
+    "top3": 0.64
+   },
+   "pore_patch": {
+    "A2": 50900,
+    "B1": 0.167,
+    "n": 12,
+    "B2": 2,
+    "HHI": 3173,
+    "B2_300": 2,
+    "unbranded_1k": 1,
+    "top3": 0.81
+   },
+   "prewash_oil": {
+    "A2": 37050,
+    "B1": 0.0,
+    "n": 16,
+    "B2": 0,
+    "HHI": 2099,
+    "B2_300": 2,
+    "unbranded_1k": 0,
+    "top3": 0.78
+   },
+   "rosemary_oil": {
+    "A2": 200700,
+    "B1": 0.163,
+    "n": 43,
+    "B2": 7,
+    "HHI": 1217,
+    "B2_300": 16,
+    "unbranded_1k": 1,
+    "top3": 0.53
+   },
+   "scent_diffuser": {
+    "A2": 58000,
+    "B1": 0.077,
+    "n": 65,
+    "B2": 5,
+    "HHI": 920,
+    "B2_300": 21,
+    "unbranded_1k": 3,
+    "top3": 0.47
+   },
+   "shower_filter": {
+    "A2": 103550,
+    "B1": 0.12,
+    "n": 50,
+    "B2": 6,
+    "HHI": 906,
+    "B2_300": 16,
+    "unbranded_1k": 6,
+    "top3": 0.44
+   },
+   "tallow_balm": {
+    "A2": 122850,
+    "B1": 0.165,
+    "n": 115,
+    "B2": 19,
+    "HHI": 733,
+    "B2_300": 39,
+    "unbranded_1k": 8,
+    "top3": 0.41
+   },
+   "turmeric_soap": {
+    "A2": 109800,
+    "B1": 0.084,
+    "n": 83,
+    "B2": 7,
+    "HHI": 2258,
+    "B2_300": 16,
+    "unbranded_1k": 3,
+    "top3": 0.6
+   },
+   "whitening_powder": {
+    "A2": 16750,
+    "B1": 0.091,
+    "n": 22,
+    "B2": 2,
+    "HHI": 1458,
+    "B2_300": 4,
+    "unbranded_1k": 0,
+    "top3": 0.57
+   }
+  }
+ },
+ "order": {
+  "v22": [
+   "dog_fountain",
+   "hair_serum",
+   "color_foundation",
+   "lash_serum",
+   "tallow_balm",
+   "rosemary_oil",
+   "shower_filter",
+   "compression_socks",
+   "body_oil",
+   "persimmon_soap",
+   "prewash_oil",
+   "turmeric_soap",
+   "pore_patch",
+   "scent_diffuser",
+   "chin_wrap",
+   "hair_removal_cream",
+   "whitening_powder",
+   "exfoliating_towel",
+   "neck_cream",
+   "magnesium_spray"
+  ],
+  "filt": [
+   "dog_fountain",
+   "hair_serum",
+   "color_foundation",
+   "tallow_balm",
+   "shower_filter",
+   "rosemary_oil",
+   "persimmon_soap",
+   "compression_socks",
+   "turmeric_soap",
+   "lash_serum",
+   "scent_diffuser",
+   "pore_patch",
+   "body_oil",
+   "chin_wrap",
+   "whitening_powder",
+   "hair_removal_cream",
+   "neck_cream",
+   "exfoliating_towel",
+   "magnesium_spray",
+   "prewash_oil"
+  ],
+  "full": [
+   "dog_fountain",
+   "hair_serum",
+   "color_foundation",
+   "tallow_balm",
+   "rosemary_oil",
+   "lash_serum",
+   "persimmon_soap",
+   "shower_filter",
+   "turmeric_soap",
+   "pore_patch",
+   "compression_socks",
+   "scent_diffuser",
+   "body_oil",
+   "chin_wrap",
+   "whitening_powder",
+   "hair_removal_cream",
+   "exfoliating_towel",
+   "magnesium_spray",
+   "neck_cream",
+   "prewash_oil"
+  ]
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "domain": "homuloshop.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-08-12",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://homuloshop.com/?currency=USD",
+  "final": "https://homuloshop.com/?currency=USD",
+  "status": 200,
+  "title": "HomuloShop Official Store – Premium Home & Lifestyle Essentials",
+  "desc": "Shop the Homuloshop Official Store for premium home and lifestyle essentials. Discover trusted quality, exclusive deals, and secure worldwide shipping at Homuloshop.com.",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$45.98",
+   "$45.98",
+   "$45.98",
+   "$45.98",
+   "$45.98",
+   "$45.98",
+   "$45.98",
+   "$45.98"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "ivacy Notice Terms of Use Terms of Purchase Shipping Policy Subscribe to our emails Stay updated on exclusive offers and latest a",
+   "rrivals-subscribe to our newsletter now for special discounts and insider dea"
+  ],
+  "epa": [],
+  "len": 5278
+ },
+ "rdap": "2025-11-26",
+ "wayback": "none",
+ "age_class": "young"
+}

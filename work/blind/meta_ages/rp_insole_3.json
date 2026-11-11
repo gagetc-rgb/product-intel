@@ -1,0 +1,490 @@
+{
+ "phrase": "cushioned insoles",
+ "date": "2026-11-10",
+ "active": 430,
+ "aged30": 190,
+ "aged90": 67,
+ "aged180": 32,
+ "ads": [
+  {
+   "id": "1952752268850674",
+   "page": "Todd Wexler",
+   "start": "2025-10-02",
+   "n": 1,
+   "domain": "toddwexler.com",
+   "window": "180+"
+  },
+  {
+   "id": "1523698862035381",
+   "page": "Todd Wexler",
+   "start": "2025-10-09",
+   "n": 1,
+   "domain": "toddwexler.com",
+   "window": "180+"
+  },
+  {
+   "id": "2224125188092116",
+   "page": "Todd Wexler",
+   "start": "2025-10-09",
+   "n": 1,
+   "domain": "toddwexler.com",
+   "window": "180+"
+  },
+  {
+   "id": "1967246130798067",
+   "page": "Todd Wexler",
+   "start": "2025-10-14",
+   "n": 1,
+   "domain": "toddwexler.com",
+   "window": "180+"
+  },
+  {
+   "id": "844737224768389",
+   "page": "Todd Wexler",
+   "start": "2025-11-13",
+   "n": 1,
+   "domain": "toddwexler.com",
+   "window": "180+"
+  },
+  {
+   "id": "950059777886372",
+   "page": "Foot Care Tips",
+   "start": "2026-04-18",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1892346651496267",
+   "page": "Todd Wexler",
+   "start": "2025-10-01",
+   "n": 1,
+   "domain": "toddwexler.com",
+   "window": "180+"
+  },
+  {
+   "id": "1718062419566495",
+   "page": "Foot Care Tips",
+   "start": "2026-04-18",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1487184956387543",
+   "page": "Foot Care Tips",
+   "start": "2026-04-23",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "964460759333276",
+   "page": "The Xstance",
+   "start": "2026-04-06",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1496361788668792",
+   "page": "Foot Care Tips",
+   "start": "2026-04-23",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1947846389179052",
+   "page": "Foot Care Tips",
+   "start": "2026-04-18",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "1915234589124099",
+   "page": "Foot Care Tips",
+   "start": "2026-04-18",
+   "n": 1,
+   "domain": "getxstance.com",
+   "window": "180+"
+  },
+  {
+   "id": "2047997362739880",
+   "page": "Todd Wexler",
+   "start": "2026-05-11",
+   "n": 1,
+   "domain": "toddwexler.com",
+   "window": "180+"
+  },
+  {
+   "id": "3699964543488828",
+   "page": "Melbob Shop",
+   "start": "2026-03-30",
+   "n": 1,
+   "domain": "melbob.com",
+   "window": "180+"
+  },
+  {
+   "id": "973042982323004",
+   "page": "Todd Wexler",
+   "start": "2026-05-11",
+   "n": 1,
+   "domain": "toddwexler.com",
+   "window": "180+"
+  },
+  {
+   "id": "2410883239308332",
+   "page": "Lennox & Gray",
+   "start": "2025-10-27",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1158207706680156",
+   "page": "Meaboots",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "meaboots.com",
+   "window": "180+"
+  },
+  {
+   "id": "1426775162466848",
+   "page": "Meaboots",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "meaboots.com",
+   "window": "180+"
+  },
+  {
+   "id": "1553811736078578",
+   "page": "PCSsole Insoles",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1867906747220730",
+   "page": "Meaboots",
+   "start": "2026-04-29",
+   "n": 1,
+   "domain": "meaboots.com",
+   "window": "180+"
+  },
+  {
+   "id": "1516885422955474",
+   "page": "Sequoiashoe New",
+   "start": "2025-11-28",
+   "n": 1,
+   "domain": "sequoiashoe.com",
+   "window": "180+"
+  },
+  {
+   "id": "1621488889148954",
+   "page": "Meaboots",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "meaboots.com",
+   "window": "180+"
+  },
+  {
+   "id": "952831434142047",
+   "page": "Meaboots",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "meaboots.com",
+   "window": "180+"
+  },
+  {
+   "id": "1518612129384845",
+   "page": "Lennox & Gray",
+   "start": "2025-10-27",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2180143529432929",
+   "page": "Cosy Island",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "cosyisland.co",
+   "window": "90-180"
+  },
+  {
+   "id": "958869533848451",
+   "page": "Cosy Island",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "cosyisland.co",
+   "window": "90-180"
+  },
+  {
+   "id": "2098870940843823",
+   "page": "Lindsay Veremis with Cosy Island",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "cosyisland.co",
+   "window": "90-180"
+  },
+  {
+   "id": "3301026310072219",
+   "page": "Cosy Island",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "cosyisland.co",
+   "window": "90-180"
+  },
+  {
+   "id": "2836208266746777",
+   "page": "Alanna Fusaro with Viceversa",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "wearviceversa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "984955991027564",
+   "page": "Viceversa",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "wearviceversa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2169434490519796",
+   "page": "Double B Boot Company",
+   "start": "2026-06-11",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1494869222124845",
+   "page": "Project Cloud",
+   "start": "2026-05-19",
+   "n": 1,
+   "domain": "projectcloudshoes.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1336429754623645",
+   "page": "Alanna Fusaro with Viceversa",
+   "start": "2026-06-24",
+   "n": 1,
+   "domain": "wearviceversa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1514049296673391",
+   "page": "Double B Boot Company",
+   "start": "2026-07-28",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "860984349999897",
+   "page": "Alanna Fusaro with Viceversa",
+   "start": "2026-06-24",
+   "n": 1,
+   "domain": "wearviceversa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1140472915825157",
+   "page": "Movara",
+   "start": "2026-07-23",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "90-180"
+  },
+  {
+   "id": "850058277959229",
+   "page": "Viceversa",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "wearviceversa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1513262560159129",
+   "page": "Justleathergr",
+   "start": "2026-05-24",
+   "n": 1,
+   "domain": "etsy.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1424390656380476",
+   "page": "Viceversa",
+   "start": "2026-07-06",
+   "n": 1,
+   "domain": "wearviceversa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1502663691208988",
+   "page": "Justleathergr",
+   "start": "2026-05-24",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1367333712229335",
+   "page": "Cosy Island",
+   "start": "2026-09-09",
+   "n": 1,
+   "domain": "cosyisland.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1079163947955813",
+   "page": "Quince",
+   "start": "2026-08-31",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1602328904623616",
+   "page": "COSY ISLAND",
+   "start": "2026-08-26",
+   "n": 1,
+   "domain": "cosyisland.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1131338562881986",
+   "page": "Movara",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "movaracare.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2340448156491960",
+   "page": "COSY ISLAND",
+   "start": "2026-10-01",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1684330139328145",
+   "page": "frogg toggs",
+   "start": "2026-09-03",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1609810877291494",
+   "page": "Kate Waldron with COSY ISLAND",
+   "start": "2026-10-08",
+   "n": 1,
+   "domain": "cosyisland.co",
+   "window": "30-90"
+  },
+  {
+   "id": "1081865174560830",
+   "page": "COSY ISLAND",
+   "start": "2026-09-23",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1771379963888423",
+   "page": "OneStopPlus",
+   "start": "2026-08-18",
+   "n": 1,
+   "domain": "onestopplus.com",
+   "window": "30-90"
+  },
+  {
+   "id": "29402445412689376",
+   "page": "COSY ISLAND",
+   "start": "2026-09-30",
+   "n": 1,
+   "domain": "cosyisland.co",
+   "window": "30-90"
+  },
+  {
+   "id": "2149908548894768",
+   "page": "COSY ISLAND",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1385861123174262",
+   "page": "Vogany",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "vogany.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1070847072363121",
+   "page": "Vogany",
+   "start": "2026-09-07",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1377409794586431",
+   "page": "Vogany",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "vogany.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28502332649398164",
+   "page": "Vogany",
+   "start": "2026-09-07",
+   "n": 1,
+   "domain": "vogany.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4113826845421032",
+   "page": "VIVAIA",
+   "start": "2026-11-05",
+   "n": 1,
+   "domain": "vivaia.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1119708544128851",
+   "page": "VIVAIA",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "vivaia.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1480903087227751",
+   "page": "Quince",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1459700262931861",
+   "page": "VIVAIA",
+   "start": "2026-11-05",
+   "n": 1,
+   "domain": "vivaia.com",
+   "window": "0-30"
+  }
+ ]
+}

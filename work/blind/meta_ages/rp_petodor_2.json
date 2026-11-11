@@ -1,0 +1,466 @@
+{
+ "phrase": "enzyme cleaner",
+ "date": "2026-11-10",
+ "active": 1200,
+ "aged30": 510,
+ "aged90": 91,
+ "aged180": 35,
+ "ads": [
+  {
+   "id": "1233388672196688",
+   "page": "EcoStrong",
+   "start": "2026-03-15",
+   "n": 1,
+   "domain": "ecostrong.com",
+   "window": "180+"
+  },
+  {
+   "id": "2456572401410737",
+   "page": "EcoStrong",
+   "start": "2025-11-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "955898040666537",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-05-12",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "180+"
+  },
+  {
+   "id": "1503558414705962",
+   "page": "Samantha C",
+   "start": "2026-05-09",
+   "n": 1,
+   "domain": "order.uprootclean.com",
+   "window": "180+"
+  },
+  {
+   "id": "1128195875971076",
+   "page": "EcoStrong",
+   "start": "2025-11-06",
+   "n": 1,
+   "domain": "ecostrong.com",
+   "window": "180+"
+  },
+  {
+   "id": "2514954125603922",
+   "page": "Uproot Clean",
+   "start": "2026-04-28",
+   "n": 1,
+   "domain": "order.uprootclean.com",
+   "window": "180+"
+  },
+  {
+   "id": "1664483334739359",
+   "page": "Funky Monkey",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "funkymonkeystore.com",
+   "window": "180+"
+  },
+  {
+   "id": "870351722100622",
+   "page": "EcoStrong",
+   "start": "2025-11-06",
+   "n": 1,
+   "domain": "ecostrong.com",
+   "window": "180+"
+  },
+  {
+   "id": "1910751506288224",
+   "page": "Uproot Clean",
+   "start": "2026-05-09",
+   "n": 1,
+   "domain": "uprootclean.com",
+   "window": "180+"
+  },
+  {
+   "id": "907633351649760",
+   "page": "EcoStrong",
+   "start": "2026-02-03",
+   "n": 1,
+   "domain": "ecostrong.com",
+   "window": "180+"
+  },
+  {
+   "id": "820918703813024",
+   "page": "EcoStrong",
+   "start": "2025-10-11",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "926553786528563",
+   "page": "Wags & Whiskers",
+   "start": "2026-02-11",
+   "n": 3,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "843066991536170",
+   "page": "Sarah Callahan, DVM",
+   "start": "2026-04-30",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "180+"
+  },
+  {
+   "id": "1675952539840373",
+   "page": "EcoStrong",
+   "start": "2026-01-02",
+   "n": 1,
+   "domain": "ecostrong.com",
+   "window": "180+"
+  },
+  {
+   "id": "1863530450958373",
+   "page": "Wags & Whiskers",
+   "start": "2026-02-11",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "933285019038008",
+   "page": "FurryFreshness",
+   "start": "2026-02-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1684433055554791",
+   "page": "ZeoFill USA",
+   "start": "2025-08-13",
+   "n": 1,
+   "domain": "zeofill.com",
+   "window": "180+"
+  },
+  {
+   "id": "1406598541241654",
+   "page": "FurryFreshness",
+   "start": "2026-02-18",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "934414752809067",
+   "page": "FurryFreshness",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1227846182147363",
+   "page": "FurryFreshness",
+   "start": "2026-02-03",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "26548348081426401",
+   "page": "FurryFreshness",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1241780658062930",
+   "page": "FurryFreshness",
+   "start": "2026-02-12",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "3462601873916547",
+   "page": "FurryFreshness",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1430342955036272",
+   "page": "FurryFreshness",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "737263949247143",
+   "page": "FurryFreshness",
+   "start": "2026-02-12",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2084048095661029",
+   "page": "FurryFreshness",
+   "start": "2026-04-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1134418992004735",
+   "page": "FurryFreshness",
+   "start": "2026-02-12",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1165286685501493",
+   "page": "FurryFreshness",
+   "start": "2026-02-18",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1610750210381318",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-07-11",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2315587365849670",
+   "page": "Cat Health Journal",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1067067238987637",
+   "page": "Stella Lewis",
+   "start": "2026-07-18",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1752546276119087",
+   "page": "Sarah Callahan, DVM",
+   "start": "2026-05-26",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1002516575703305",
+   "page": "EcoStrong",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "ecostrong.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1577503507221626",
+   "page": "Madison Williams",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "mynovapaw.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1951459098861373",
+   "page": "Misti A with Dirty Labs",
+   "start": "2026-07-20",
+   "n": 1,
+   "domain": "dirtylabs.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2101839357086938",
+   "page": "Benchmark Pool Supply",
+   "start": "2026-08-08",
+   "n": 1,
+   "domain": "benchmarkpoolsupply.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1319034769644235",
+   "page": "Joanne Hill",
+   "start": "2026-05-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2519492275157192",
+   "page": "Stella Lewis",
+   "start": "2026-07-18",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "971586669195727",
+   "page": "Madison Williams",
+   "start": "2026-06-30",
+   "n": 1,
+   "domain": "mynovapaw.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1684324392895909",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-07-11",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1356853975775437",
+   "page": "How Things Break",
+   "start": "2026-07-13",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "3133545603513316",
+   "page": "Uproot Clean",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "uprootclean.com",
+   "window": "90-180"
+  },
+  {
+   "id": "968147563014041",
+   "page": "Stella Lewis",
+   "start": "2026-10-05",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1030571986687057",
+   "page": "Lydia Griffin",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "mynovapaw.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2158020871765682",
+   "page": "North Bridge Cat Rescue",
+   "start": "2026-08-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1618020139972333",
+   "page": "Pet Parent Insider",
+   "start": "2026-09-28",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1082992644117027",
+   "page": "North Bridge Cat Rescue",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1073941318570556",
+   "page": "Joanne Hill",
+   "start": "2026-09-27",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1056053993985132",
+   "page": "North Bridge Cat Rescue",
+   "start": "2026-09-08",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1021023140966315",
+   "page": "North Bridge Cat Rescue",
+   "start": "2026-09-14",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1620793362774125",
+   "page": "Kariney shop",
+   "start": "2026-09-03",
+   "n": 1,
+   "domain": "kariney.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4523040617981357",
+   "page": "North Bridge Cat Rescue",
+   "start": "2026-09-21",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2234728730420328",
+   "page": "Vet approved products",
+   "start": "2026-10-27",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1470615854932951",
+   "page": "Fleetistics",
+   "start": "2026-10-19",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2342915956246421",
+   "page": "Fleetistics",
+   "start": "2026-10-21",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "4630626887263440",
+   "page": "Vet approved products",
+   "start": "2026-10-27",
+   "n": 1,
+   "domain": "therapetmd.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1105673155191879",
+   "page": "Cat Behavior Today",
+   "start": "2026-10-19",
+   "n": 1,
+   "domain": "trysnoots.com",
+   "window": "0-30"
+  }
+ ]
+}

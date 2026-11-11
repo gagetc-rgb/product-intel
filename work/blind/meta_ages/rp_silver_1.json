@@ -1,0 +1,402 @@
+{
+ "phrase": "silvervine sticks",
+ "date": "2026-11-10",
+ "active": 300,
+ "aged30": 110,
+ "aged90": 46,
+ "aged180": 24,
+ "ads": [
+  {
+   "id": "1442135477559638",
+   "page": "Purriq",
+   "start": "2026-01-22",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1212098334325862",
+   "page": "Purriq",
+   "start": "2026-02-17",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "930662132837309",
+   "page": "Purriq",
+   "start": "2026-02-19",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "870580445892799",
+   "page": "Purriq",
+   "start": "2026-01-22",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1446117810345756",
+   "page": "Purriq",
+   "start": "2026-03-16",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "2026412277911124",
+   "page": "Cat Wellness Daily",
+   "start": "2026-05-09",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "821953987099514",
+   "page": "Purriq",
+   "start": "2026-04-15",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "941456861652275",
+   "page": "Dr. Mia’s Cat Journal",
+   "start": "2026-02-23",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "992962353242988",
+   "page": "Cat Wellness Daily",
+   "start": "2026-05-07",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1339021494449905",
+   "page": "Purriq",
+   "start": "2025-09-03",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1161130139511602",
+   "page": "Dr. Mia’s Cat Journal",
+   "start": "2025-12-28",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1696684545021941",
+   "page": "Dr. Mia’s Cat Journal",
+   "start": "2026-03-23",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "933691179602262",
+   "page": "Purriq",
+   "start": "2026-03-08",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1614822643018963",
+   "page": "Dr. Mia’s Cat Journal",
+   "start": "2025-12-27",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1186518933342978",
+   "page": "Purriq",
+   "start": "2025-10-30",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1519646932323373",
+   "page": "Purriq",
+   "start": "2025-11-04",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "2939512056243024",
+   "page": "Purriq",
+   "start": "2026-03-24",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "882337804835162",
+   "page": "Cat Wellness Daily",
+   "start": "2026-04-09",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1586459269026677",
+   "page": "Purriq",
+   "start": "2025-12-07",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "939221065147844",
+   "page": "Purriq",
+   "start": "2026-03-06",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "2615141042199779",
+   "page": "Purriq",
+   "start": "2025-11-05",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1725258951504355",
+   "page": "Purriq",
+   "start": "2025-12-09",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "933548205798696",
+   "page": "Purriq",
+   "start": "2026-03-11",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "651739597984123",
+   "page": "Purriq",
+   "start": "2026-01-20",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "180+"
+  },
+  {
+   "id": "1719946349042945",
+   "page": "Purriq",
+   "start": "2026-06-21",
+   "n": 2,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1720974865905227",
+   "page": "Purriq",
+   "start": "2026-07-04",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2675631822833723",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1672493207322965",
+   "page": "Purriq",
+   "start": "2026-06-12",
+   "n": 2,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1428232515840292",
+   "page": "Purriq",
+   "start": "2026-06-25",
+   "n": 2,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1900645097263331",
+   "page": "Purriq",
+   "start": "2026-06-08",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1019584467271084",
+   "page": "Purriq",
+   "start": "2026-06-13",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1707667880420013",
+   "page": "Purriq",
+   "start": "2026-06-19",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "867759395946621",
+   "page": "Purriq",
+   "start": "2026-06-10",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1723587048988767",
+   "page": "Purriq",
+   "start": "2026-06-24",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1206456721613786",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1033410479339436",
+   "page": "Kitty Kazoom",
+   "start": "2026-07-15",
+   "n": 1,
+   "domain": "kittykazoom.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1562554605207866",
+   "page": "Purriq",
+   "start": "2026-06-26",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2567939000327099",
+   "page": "Purriq",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3471244903042427",
+   "page": "Nylatails",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "nylatails.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1756822275534227",
+   "page": "Purriq",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1936210060668992",
+   "page": "Comfora",
+   "start": "2026-08-23",
+   "n": 1,
+   "domain": "heycomfora.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1368404748753913",
+   "page": "Comfora",
+   "start": "2026-08-23",
+   "n": 1,
+   "domain": "heycomfora.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1449220820011191",
+   "page": "Purriq",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "3173779432823677",
+   "page": "Purriq",
+   "start": "2026-09-29",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1106412621842505",
+   "page": "Purriq",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "purriq.com",
+   "window": "30-90"
+  },
+  {
+   "id": "4497105180556041",
+   "page": "Lauren Patterson",
+   "start": "2026-11-06",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1430765658450709",
+   "page": "Lauren Patterson",
+   "start": "2026-10-19",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2232384747622904",
+   "page": "Susan Mitchell",
+   "start": "2026-10-15",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1904666947556562",
+   "page": "Vet Visit Diaries",
+   "start": "2026-11-04",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

@@ -1,0 +1,226 @@
+{
+ "phrase": "work insoles",
+ "date": "2026-11-10",
+ "active": 33,
+ "aged30": 18,
+ "aged90": 5,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1565503681737498",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1496633822508883",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1043294631581322",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1578186624082017",
+   "page": "Superfeet Worldwide",
+   "start": "2026-07-22",
+   "n": 1,
+   "domain": "superfeet.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1148916754460819",
+   "page": "Solbaseco",
+   "start": "2026-10-03",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2352841475514191",
+   "page": "Solbaseco",
+   "start": "2026-10-03",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1586774169252921",
+   "page": "SoleBrace",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1053404853966912",
+   "page": "Airarrows Work Insoles",
+   "start": "2026-09-02",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1399833852276816",
+   "page": "Solbaseco",
+   "start": "2026-10-03",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1661383692369966",
+   "page": "SoleBrace",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "us.solebrace.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1101196042769806",
+   "page": "SoleBrace",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "us.solebrace.com",
+   "window": "30-90"
+  },
+  {
+   "id": "958763220062013",
+   "page": "SoleBrace",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "us.solebrace.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2636733633433906",
+   "page": "SoleBrace",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "us.solebrace.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1869061594399485",
+   "page": "SoleBrace",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "us.solebrace.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1117182771165075",
+   "page": "WildNest",
+   "start": "2026-10-31",
+   "n": 1,
+   "domain": "www.getwildnest.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1780860033190373",
+   "page": "Reecov",
+   "start": "2026-10-22",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1848475946487539",
+   "page": "Reecov",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "937579532534419",
+   "page": "Reecov",
+   "start": "2026-10-21",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1859077902187705",
+   "page": "Resoleved",
+   "start": "2026-11-03",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1628400415727495",
+   "page": "Koprez",
+   "start": "2026-10-19",
+   "n": 1,
+   "domain": "offers.koprez.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2550270922135290",
+   "page": "Reecov",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1825816288717256",
+   "page": "Reecov",
+   "start": "2026-10-28",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "28961187916886183",
+   "page": "Superfeet Worldwide",
+   "start": "2026-11-04",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1769632890816631",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-24",
+   "n": 1,
+   "domain": "www.superfeet.com",
+   "window": "0-30"
+  },
+  {
+   "id": "28700240602979651",
+   "page": "Reecov",
+   "start": "2026-10-21",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2307791436707382",
+   "page": "Superfeet Worldwide",
+   "start": "2026-10-23",
+   "n": 1,
+   "domain": "www.superfeet.com",
+   "window": "0-30"
+  },
+  {
+   "id": "3402264126623796",
+   "page": "Superfeet Worldwide",
+   "start": "2026-11-04",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

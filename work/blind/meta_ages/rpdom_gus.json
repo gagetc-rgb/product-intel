@@ -1,0 +1,162 @@
+{
+ "phrase": "grandpagus.com",
+ "date": "2026-11-10",
+ "active": 340,
+ "aged30": 280,
+ "aged90": 130,
+ "aged180": 0,
+ "ads": [
+  {
+   "id": "1963867604263948",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "grandpagus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1675281153743869",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1489093423247027",
+   "page": "Grandpa Gus's",
+   "start": "2026-08-01",
+   "n": 4,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1339681117822003",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "grandpagus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1358150092918440",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "grandpagus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1770056150848219",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-31",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1561463092180503",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "2015848722470601",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "grandpagus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1055827146952518",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "grandpagus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1791364245203752",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-22",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1138633618682229",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-24",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1260209703140390",
+   "page": "Grandpa Gus's",
+   "start": "2026-10-07",
+   "n": 4,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1615883306583580",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-24",
+   "n": 5,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "4945882725546238",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-25",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2515754102278434",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-25",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2917022405315113",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-25",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28529107133366389",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-22",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1434888018585018",
+   "page": "Grandpa Gus's",
+   "start": "2026-10-07",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "4375556899375230",
+   "page": "Grandpa Gus's",
+   "start": "2026-09-25",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

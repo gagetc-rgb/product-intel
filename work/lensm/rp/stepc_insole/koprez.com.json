@@ -1,0 +1,42 @@
+{
+ "domain": "koprez.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-10-19",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://koprez.com/?currency=USD",
+  "final": "https://koprez.com/?currency=USD",
+  "status": 200,
+  "title": "Koprez®️ - Shop for Premium Sleeves, Wraps & Braces",
+  "desc": "Durable, lightweight compression sleeves for knees, feet, wrists and back.",
+  "kw_hits": [
+   "Shop Foot Sleeve Knee Sleeve About Us FAQs SHOP FOOT SLEEVE INSOLES For those who have to be on their feet all day. Shop Now \" href=\"https://kopre",
+   ";--h:24px;--h-tablet:24px;--h-mobile:24px\" > Koprez® Custom Insoles $79.99 $159.99 svg]:gp-h-full [&>svg]:gp-w-full gp-rotate-180 tablet:gp-rotate",
+   "oot Sleeve $79.99 Koprez® Knee Sleeve $79.99 Koprez® Custom Insoles $79.99 $159.99 Pain Patch (12 pack) $19.99 $29.99 svg]:gp-h-full [&>svg]:gp-w-"
+  ],
+  "kw_n": 3,
+  "prices": [
+   "$60",
+   "$0.00",
+   "$79.99",
+   "$79.99",
+   "$79.99",
+   "$159.99",
+   "$19.99",
+   "$29.99"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 8294
+ },
+ "rdap": "2020-05-19",
+ "wayback": "2021-02-16",
+ "age_class": "old"
+}

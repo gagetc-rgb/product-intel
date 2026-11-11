@@ -1,0 +1,28 @@
+{
+ "urls": [
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=jcsmiracleproducts.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2024-07-16"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=try-kaori.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-03-22"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=hushedsocks.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2025-09-30"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=vueswiss.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-05-15"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=trywhyteproducts.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-07-27"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=goshi.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2024-07-26"
+  },
+  {
+   "url": "https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=sringe.com&search_type=keyword_unordered&media_type=all&start_date[min]=2023-01-01&start_date[max]=2026-04-30"
+  }
+ ],
+ "count": 600,
+ "limitPerSource": 80,
+ "scrapeAdDetails": false
+}

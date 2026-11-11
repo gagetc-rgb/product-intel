@@ -1,0 +1,42 @@
+{
+ "domain": "zeofill.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2025-08-11",
+ "ads": "2",
+ "pages": [],
+ "home": {
+  "url": "https://zeofill.com/?currency=USD",
+  "final": "https://zeofill.com/?currency=USD",
+  "status": 200,
+  "title": "ZeoFill®\n– ZeoFill® Products",
+  "desc": "ZeoFill® is the industry leader in odor treatment and prevention for outdoor spaces. We specialize in products specifically designed to take on all pet waste challenges, ensuring your pet and family spaces are always cool, safe, and clean.",
+  "kw_hits": [
+   "how FREE SHIPPING ON ORDERS OVER $100 - SHOP NOW Close menu Odor Eliminator Turf Infill Deodorizer Bundle & Save Buy in Bulk Log in Free shippin",
+   "ER $100 - SHOP NOW Close menu Odor Eliminator Turf Infill Deodorizer Bundle & Save Buy in Bulk Log in Free shipping on orders over $75 Cart Clos",
+   "trust ZeoFill Your cart is currently empty. Site navigation Odor Eliminator Turf Infill Deodorizer Bundle & Save Buy in Bulk ZeoFill® Products L",
+   "rently empty. Site navigation Odor Eliminator Turf Infill Deodorizer Bundle & Save Buy in Bulk ZeoFill® Products Log in Search Cart 0 Search Sea"
+  ],
+  "kw_n": 25,
+  "prices": [
+   "$100",
+   "$75",
+   "$0.00",
+   "$0.00"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD"
+  ],
+  "bundle": [
+   "Close menu Odor Eliminator Turf Infill Deodorizer Bundle & Save Buy in Bulk Log in Free shipping on orders",
+   "navigation Odor Eliminator Turf Infill Deodorizer Bundle & Save Buy in Bulk ZeoFill® Products Log in Searc",
+   "dly ingredients Loved By Spray & Sprinkle Starter Bundle Shop Spray & Sprinkle Premium Bundle Shop What Cu"
+  ],
+  "sub": [],
+  "epa": [],
+  "len": 3108
+ },
+ "rdap": "2011-07-25",
+ "wayback": "2012-01-26",
+ "age_class": "old"
+}

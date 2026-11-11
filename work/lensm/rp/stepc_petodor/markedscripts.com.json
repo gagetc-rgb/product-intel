@@ -1,0 +1,30 @@
+{
+ "domain": "markedscripts.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-07-07",
+ "ads": "3",
+ "pages": [],
+ "home": {
+  "url": "https://markedscripts.com/?currency=USD",
+  "final": "https://markedscripts.com/?currency=USD",
+  "status": 200,
+  "title": "MarkedScripts.com | Reliable Blogs, Quick Results",
+  "desc": "Explore well-researched and trending articles on a range of topics across top categories like shopping, technology, wellness, travel, beauty, and auto.",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [],
+  "currency_meta": [],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 6577
+ },
+ "landing": {
+  "url": "https://related.markedscripts.com/?currency=USD",
+  "final": "https://related.markedscripts.com/?currency=USD",
+  "status": 200
+ },
+ "rdap": "2025-04-22",
+ "wayback": "2025-07-12",
+ "age_class": "young"
+}

@@ -1,0 +1,346 @@
+{
+ "phrase": "pet odor eliminator",
+ "date": "2026-11-10",
+ "active": 490,
+ "aged30": 53,
+ "aged90": 13,
+ "aged180": 2,
+ "ads": [
+  {
+   "id": "2543462052661912",
+   "page": "ZeoFill USA",
+   "start": "2025-08-11",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "965945732467291",
+   "page": "FunkAway",
+   "start": "2026-04-22",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2058902391360795",
+   "page": "Azuna",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "azunafresh.com",
+   "window": "90-180"
+  },
+  {
+   "id": "761617493608616",
+   "page": "Azuna",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "azunafresh.com",
+   "window": "90-180"
+  },
+  {
+   "id": "24833434106354118",
+   "page": "Azuna",
+   "start": "2026-05-15",
+   "n": 1,
+   "domain": "azunafresh.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1391804352770041",
+   "page": "Azuna",
+   "start": "2026-07-01",
+   "n": 1,
+   "domain": "azunafresh.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1370483648248239",
+   "page": "Azuna",
+   "start": "2026-05-16",
+   "n": 1,
+   "domain": "azunafresh.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4521422024755721",
+   "page": "Petmizer",
+   "start": "2026-06-08",
+   "n": 1,
+   "domain": "petmizer.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1085128000536119",
+   "page": "Flowarmth.LM17",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "www.flowarmth.com",
+   "window": "90-180"
+  },
+  {
+   "id": "4562377767374041",
+   "page": "Curiosity Central",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "related.markedscripts.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1046486721602583",
+   "page": "Forum Deck",
+   "start": "2026-08-10",
+   "n": 1,
+   "domain": "forumdeck.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1014344334719303",
+   "page": "Curiosity Central",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "related.markedscripts.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2059294874698820",
+   "page": "Curiosity Central",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "related.markedscripts.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1959052248101317",
+   "page": "Pourri",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1746371876693801",
+   "page": "Pourri",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28099346633100660",
+   "page": "Azuna Pet with Azuna",
+   "start": "2026-09-30",
+   "n": 1,
+   "domain": "azunafresh.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1720333003265736",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1624677956049742",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1709925670266931",
+   "page": "Pourri",
+   "start": "2026-08-28",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1121442087017320",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1073302135468237",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-09-25",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1644401957281595",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1868238911206926",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-09-26",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1961334971210186",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2429993774437937",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1786312096026139",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1615061813439083",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1633799994865296",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-09",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1495626449293813",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1082640924182070",
+   "page": "Ophelia Barrett",
+   "start": "2026-09-09",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1382061747332480",
+   "page": "Ollie's",
+   "start": "2026-10-28",
+   "n": 7,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1633591191604919",
+   "page": "Azuna",
+   "start": "2026-10-24",
+   "n": 4,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "2024825901562739",
+   "page": "Ollie's",
+   "start": "2026-10-28",
+   "n": 6,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "3008733119486570",
+   "page": "Ollie's",
+   "start": "2026-10-28",
+   "n": 4,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1090163107164737",
+   "page": "Ollie's",
+   "start": "2026-10-28",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1112348481440304",
+   "page": "Azuna",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "azunafresh.com",
+   "window": "0-30"
+  },
+  {
+   "id": "2546459622498308",
+   "page": "Azuna",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "azunafresh.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1406177024827435",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-19",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "0-30"
+  },
+  {
+   "id": "3002438180118103",
+   "page": "POOPH.inc",
+   "start": "2026-11-02",
+   "n": 1,
+   "domain": "amazon.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1857424732119114",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-19",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1192947559738365",
+   "page": "annarusso_ with Azuna",
+   "start": "2026-11-05",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1417309217185131",
+   "page": "CloBombs - #1 Odor Eliminator in Market",
+   "start": "2026-10-29",
+   "n": 1,
+   "domain": "try.clobombs.com",
+   "window": "0-30"
+  }
+ ]
+}

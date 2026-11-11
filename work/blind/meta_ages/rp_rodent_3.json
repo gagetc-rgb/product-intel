@@ -1,0 +1,426 @@
+{
+ "phrase": "rodent repellent",
+ "date": "2026-11-10",
+ "active": 9700,
+ "aged30": 1400,
+ "aged90": 25,
+ "aged180": 2,
+ "ads": [
+  {
+   "id": "1275862457927795",
+   "page": "EarthKind",
+   "start": "2026-02-10",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2043498622923746",
+   "page": "EarthKind",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1361029902119058",
+   "page": "Curauo",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "curauo.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1963867604263948",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-07",
+   "n": 1,
+   "domain": "grandpagus.com",
+   "window": "90-180"
+  },
+  {
+   "id": "963730913406577",
+   "page": "EarthKind",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1343624217930992",
+   "page": "Choosemuc Choose",
+   "start": "2026-08-05",
+   "n": 1,
+   "domain": "choosemuc.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1050216231002881",
+   "page": "EarthKind",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "27533015566368540",
+   "page": "Curauo",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "curauo.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2255219728588448",
+   "page": "Welfareis shop",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "welfareis.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2712784719123297",
+   "page": "Choosemuc Choose",
+   "start": "2026-08-05",
+   "n": 1,
+   "domain": "choosemuc.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2474008613092430",
+   "page": "EarthKind",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "90-180"
+  },
+  {
+   "id": "3076744236023462",
+   "page": "EarthKind",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1319785456933010",
+   "page": "EarthKind",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1017864603950165",
+   "page": "EarthKind",
+   "start": "2026-06-16",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1300070288868328",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-10",
+   "n": 2,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1003390725818389",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1557998335928873",
+   "page": "William Jones",
+   "start": "2026-07-08",
+   "n": 1,
+   "domain": "fluxraa.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1594871572056591",
+   "page": "Grandpa Gus's",
+   "start": "2026-08-01",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1076492064946990",
+   "page": "Grandpa Gus's",
+   "start": "2026-07-31",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1117648287392919",
+   "page": "Sofyre",
+   "start": "2026-10-06",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1119643240402494",
+   "page": "Sofyre",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "sofyre.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1522844926537397",
+   "page": "Sofyre",
+   "start": "2026-10-08",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1958710542044048",
+   "page": "Best Mouse Repellents",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "sofyre.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2475269336333771",
+   "page": "Sofyre",
+   "start": "2026-10-06",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "932407452929259",
+   "page": "Sofyre",
+   "start": "2026-10-06",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2055928091794146",
+   "page": "Sofyre",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "sofyre.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1371432491088754",
+   "page": "Homulo",
+   "start": "2026-08-12",
+   "n": 1,
+   "domain": "homuloshop.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1630586615136870",
+   "page": "Sofyre",
+   "start": "2026-10-10",
+   "n": 1,
+   "domain": "sofyre.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2357721078360826",
+   "page": "Sofyre",
+   "start": "2026-09-16",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1449912240379040",
+   "page": "Sofyre",
+   "start": "2026-09-28",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28828587266767420",
+   "page": "Sofyre",
+   "start": "2026-10-02",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2092726224681175",
+   "page": "Sofyre",
+   "start": "2026-09-18",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1103910629237623",
+   "page": "Sofyre",
+   "start": "2026-09-28",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1113645794435077",
+   "page": "Sofyre",
+   "start": "2026-09-28",
+   "n": 1,
+   "domain": "sofyre.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2569760100194493",
+   "page": "Sofyre",
+   "start": "2026-09-28",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2274707433315449",
+   "page": "Sofyre",
+   "start": "2026-09-28",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1808513540279835",
+   "page": "Sofyre",
+   "start": "2026-10-03",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "3060507224289979",
+   "page": "Sofyre",
+   "start": "2026-10-09",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2196341637895420",
+   "page": "Sofyre",
+   "start": "2026-09-30",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1766475451295517",
+   "page": "Sofyre",
+   "start": "2026-09-18",
+   "n": 1,
+   "domain": "sofyre.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28886037211028263",
+   "page": "Sofyre",
+   "start": "2026-10-07",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1430834288997718",
+   "page": "Sofyre",
+   "start": "2026-10-09",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1828839334774146",
+   "page": "Sofyre",
+   "start": "2026-10-05",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "38791931570421378",
+   "page": "Sofyre",
+   "start": "2026-09-28",
+   "n": 3,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1793848064967301",
+   "page": "EarthKind",
+   "start": "2026-08-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2152871655357316",
+   "page": "Sofyre",
+   "start": "2026-10-20",
+   "n": 7,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1468388158549245",
+   "page": "Sofyre",
+   "start": "2026-10-15",
+   "n": 3,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1741407143598823",
+   "page": "Sofyre",
+   "start": "2026-10-27",
+   "n": 10,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1086089620688905",
+   "page": "Sofyre",
+   "start": "2026-10-18",
+   "n": 4,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1133072449428335",
+   "page": "Vamoose Pro",
+   "start": "2026-10-22",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "1809911200255314",
+   "page": "Sofyre",
+   "start": "2026-10-28",
+   "n": 6,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "965111242878552",
+   "page": "Sofyre",
+   "start": "2026-10-27",
+   "n": 5,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

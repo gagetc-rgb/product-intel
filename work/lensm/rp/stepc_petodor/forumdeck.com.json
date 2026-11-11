@@ -1,0 +1,25 @@
+{
+ "domain": "forumdeck.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-08-10",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://forumdeck.com/?currency=USD",
+  "final": "https://forumdeck.com/?currency=USD",
+  "status": 200,
+  "title": "ForumDeck.com | Information At Your Fingertips",
+  "desc": "Discover expertly curated articles across categories like fashion, technology, automotive, travel, health, shopping, home and garden, finance, and more.",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [],
+  "currency_meta": [],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 11156
+ },
+ "rdap": "2023-12-07",
+ "wayback": "2017-05-20",
+ "age_class": "old"
+}

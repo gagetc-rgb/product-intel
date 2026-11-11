@@ -1,0 +1,41 @@
+{
+ "domain": "fluxraa.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-07-08",
+ "ads": "2",
+ "pages": [],
+ "home": {
+  "url": "https://fluxraa.com/?currency=USD",
+  "final": "https://fluxraa.com/?currency=USD",
+  "status": 200,
+  "title": "Fluxraa",
+  "desc": "",
+  "kw_hits": [
+   "eld Turbo Fan — 5-Speed, 4000mAh, 10H Battery Life · $35.99 Mice in the garage Rodent Repellent Peppermint Oil Control Pest Repellent Pods For V",
+   "peed, 4000mAh, 10H Battery Life · $35.99 Mice in the garage Rodent Repellent Peppermint Oil Control Pest Repellent Pods For Vehicle & Home · $24.9",
+   "000mAh, 10H Battery Life · $35.99 Mice in the garage Rodent Repellent Peppermint Oil Control Pest Repellent Pods For Vehicle & Home · $24.99 Ever",
+   " in the garage Rodent Repellent Peppermint Oil Control Pest Repellent Pods For Vehicle & Home · $24.99 Everything else, by room The full range, s"
+  ],
+  "kw_n": 8,
+  "prices": [
+   "$59",
+   "$59",
+   "$0.00",
+   "$59",
+   "$23.99",
+   "$24.99",
+   "$19.99",
+   "$28.99"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [],
+  "epa": [],
+  "len": 5427
+ },
+ "rdap": "2026-03-03",
+ "wayback": "none",
+ "age_class": "young"
+}

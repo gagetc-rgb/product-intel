@@ -1,0 +1,10 @@
+{
+"earthkind.com":{"sells_product":"yes","reason":"Botanical Rodent Repellent pouches, EPA text","product_name":"Fresh Cab Botanical Rodent Repellent (EarthKind Pouch)","price_as_shown":"$20 (two items)","usd":"yes","bundle_text":"none seen","sub_refill_text":"\"Free Shipping with Subscription\"","epa_text":"\"EPA-Registered Botanical Rodent & Mosquito Repellents\"; \"efficacy studies reviewed and accepted by the EPA\"","dom_pid":"rpdom_earthkind"},
+"grandpagus.com":{"sells_product":"yes","reason":"Mouse Repellent Pouches in menu","product_name":"Mouse Repellent Pouches; Rodent Control Bundle","price_as_shown":"$19.99 (first price on page, not matched to product)","usd":"yes","bundle_text":"Rodent Control Bundle; $103.96 / $84.45 / $93.96 listed (items not matched)","sub_refill_text":"\"This item is a deferred, subscription, or recurring purchase\"","epa_text":"none seen","dom_pid":"rpdom_gus"},
+"fluxraa.com":{"sells_product":"yes","reason":"rodent repellent peppermint pods listed","product_name":"Rodent Repellent Peppermint Oil Control Pest Repellent Pods","price_as_shown":"$24.99","usd":"yes","bundle_text":"none seen","sub_refill_text":"none seen","epa_text":"none seen","dom_pid":"rpdom_fluxraa"},
+"bugmd.com":{"sells_product":"yes","reason":"Vamoose Rodent Repellent Pouches","product_name":"Vamoose! Rodent Repellent Pouches","price_as_shown":"$15 (not matched to product; page also lists many currencies in a selector)","usd":"yes","bundle_text":"none seen","sub_refill_text":"\"Manage Subscriptions\" (nav link)","epa_text":"none seen","dom_pid":"rpdom_bugmd"},
+"curauo.com":{"sells_product":"no","reason":"home office accessories"},
+"welfareis.com":{"sells_product":"no","reason":"general shop, no repellent named"},
+"choosemuc.com":{"sells_product":"no","reason":"general shop, no repellent named"},
+"homuloshop.com":{"sells_product":"no","reason":"general shop, no repellent named"}
+}

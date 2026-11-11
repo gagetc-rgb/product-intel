@@ -1,0 +1,626 @@
+{
+ "model": "Unit economics on Amazon FBA for all 20 categories (2026-11-10): what one sale leaves before advertising.\nSame model for every category; ranges come from the supplier price range only.\n\nbefore_ads = price - referral fee - FBA fulfillment fee (+3.5% surcharge) - storage - returns - landed cost\nlanded     = supplier price x (1 + duty) + freight to the Amazon warehouse + prep/inbound\n\nInputs and where they come from:\n- price: typical Amazon price = median of listings selling 1,000+ a month (amazon_prices.json, saved US scans) ◆\n- referral and FBA fees: Amazon's own pages, 2027 non-peak card (amazon_fees.json, read 2026-11-10) ◆\n- supplier price: Made-in-China.com search pages, 2026-11-10, typical FOB range for the format sold on Amazon ◈\n  (Alibaba showed a bot check and was not used)\n- duty: China = MFN + Section 301 list rate + 12.5% Section 301 forced-labor duty (since 2026-07-24); HTS lines are\n  our reading, not a broker's ruling ◈. Soap 37.5% as in work/full_list_analysis.md.\n- size tier, freight, prep, returns, storage months: our estimates ◈\nVerdict on the middle of the range: 40%+ of price before ads = room for ads and profit; 25-40% = tight; under 25% =\nads will eat it (METRICS.md D5: under 20-25% net is a red flag).",
+ "card": "nonpeak_2027",
+ "cases": {
+  "dog_fountain": {
+   "format": "поилка на 2–3 л со стальной чашей",
+   "price": 29.99,
+   "price_low_q1": 19.99,
+   "supplier": [
+    6.5,
+    12.0
+   ],
+   "duty": 0.4,
+   "fees": {
+    "referral": 4.5,
+    "fba": 7.09,
+    "storage": 0.57,
+    "returns": 1.5
+   },
+   "amazon_take": 11.59,
+   "landed": [
+    11.4,
+    19.1
+   ],
+   "before_ads": [
+    -2.77,
+    4.93
+   ],
+   "before_ads_pct": [
+    -0.09,
+    0.16
+   ],
+   "verdict": "bad",
+   "at_q1_price": -6.92
+  },
+  "color_foundation": {
+   "format": "флакон 30–40 мл в коробке",
+   "price": 27.49,
+   "price_low_q1": 16.65,
+   "supplier": [
+    1.8,
+    3.0
+   ],
+   "duty": 0.2,
+   "fees": {
+    "referral": 4.12,
+    "fba": 3.92,
+    "storage": 0.05,
+    "returns": 0.55
+   },
+   "amazon_take": 8.05,
+   "landed": [
+    2.76,
+    4.2
+   ],
+   "before_ads": [
+    14.65,
+    16.09
+   ],
+   "before_ads_pct": [
+    0.53,
+    0.59
+   ],
+   "verdict": "good",
+   "at_q1_price": 6.37
+  },
+  "lash_serum": {
+   "format": "тюбик 3–6 мл в коробке",
+   "price": 25.24,
+   "price_low_q1": 15.23,
+   "supplier": [
+    1.5,
+    2.8
+   ],
+   "duty": 0.2,
+   "fees": {
+    "referral": 3.79,
+    "fba": 3.92,
+    "storage": 0.02,
+    "returns": 0.5
+   },
+   "amazon_take": 7.71,
+   "landed": [
+    2.3,
+    3.86
+   ],
+   "before_ads": [
+    13.14,
+    14.7
+   ],
+   "before_ads_pct": [
+    0.52,
+    0.58
+   ],
+   "verdict": "good",
+   "at_q1_price": 5.61
+  },
+  "tallow_balm": {
+   "format": "баночка ~60 мл",
+   "price": 19.99,
+   "price_low_q1": 18.24,
+   "supplier": [
+    1.3,
+    2.5
+   ],
+   "duty": 0.2,
+   "fees": {
+    "referral": 3.0,
+    "fba": 4.15,
+    "storage": 0.05,
+    "returns": 0.4
+   },
+   "amazon_take": 7.15,
+   "landed": [
+    2.26,
+    3.7
+   ],
+   "before_ads": [
+    8.69,
+    10.13
+   ],
+   "before_ads_pct": [
+    0.43,
+    0.51
+   ],
+   "verdict": "good",
+   "at_q1_price": 7.96
+  },
+  "shower_filter": {
+   "format": "ручная лейка с фильтром",
+   "price": 26.44,
+   "price_low_q1": 20.74,
+   "supplier": [
+    3.0,
+    6.5
+   ],
+   "duty": 0.4,
+   "fees": {
+    "referral": 3.97,
+    "fba": 5.37,
+    "storage": 0.17,
+    "returns": 1.06
+   },
+   "amazon_take": 9.34,
+   "landed": [
+    5.5,
+    10.4
+   ],
+   "before_ads": [
+    5.48,
+    10.38
+   ],
+   "before_ads_pct": [
+    0.21,
+    0.39
+   ],
+   "verdict": "tight",
+   "at_q1_price": 3.31
+  },
+  "hair_serum": {
+   "format": "флакон или спрей 60–120 мл",
+   "price": 19.99,
+   "price_low_q1": 14.97,
+   "supplier": [
+    1.5,
+    4.0
+   ],
+   "duty": 0.249,
+   "fees": {
+    "referral": 3.0,
+    "fba": 4.15,
+    "storage": 0.05,
+    "returns": 0.4
+   },
+   "amazon_take": 7.15,
+   "landed": [
+    2.57,
+    5.7
+   ],
+   "before_ads": [
+    6.7,
+    9.82
+   ],
+   "before_ads_pct": [
+    0.34,
+    0.49
+   ],
+   "verdict": "good",
+   "at_q1_price": 4.09
+  },
+  "body_oil": {
+   "format": "флакон 150–200 мл",
+   "price": 15.49,
+   "price_low_q1": 9.6,
+   "supplier": [
+    1.0,
+    3.0
+   ],
+   "duty": 0.2,
+   "fees": {
+    "referral": 2.32,
+    "fba": 4.41,
+    "storage": 0.07,
+    "returns": 0.31
+   },
+   "amazon_take": 6.73,
+   "landed": [
+    2.1,
+    4.5
+   ],
+   "before_ads": [
+    3.88,
+    6.28
+   ],
+   "before_ads_pct": [
+    0.25,
+    0.41
+   ],
+   "verdict": "tight",
+   "at_q1_price": 1.77
+  },
+  "persimmon_soap": {
+   "format": "2 бруска по ~100 г",
+   "price": 17.99,
+   "price_low_q1": 9.99,
+   "supplier": [
+    1.3,
+    3.5
+   ],
+   "duty": 0.375,
+   "fees": {
+    "referral": 2.7,
+    "fba": 4.41,
+    "storage": 0.05,
+    "returns": 0.36
+   },
+   "amazon_take": 7.11,
+   "landed": [
+    2.59,
+    5.61
+   ],
+   "before_ads": [
+    4.86,
+    7.89
+   ],
+   "before_ads_pct": [
+    0.27,
+    0.44
+   ],
+   "verdict": "tight",
+   "at_q1_price": 1.35
+  },
+  "compression_socks": {
+   "format": "набор из 3–4 пар",
+   "price": 14.99,
+   "price_low_q1": 9.99,
+   "supplier": [
+    3.5,
+    7.0
+   ],
+   "duty": 0.346,
+   "fees": {
+    "referral": 0.75,
+    "fba": 4.41,
+    "storage": 0.09,
+    "returns": 0.75
+   },
+   "amazon_take": 5.16,
+   "landed": [
+    5.41,
+    10.12
+   ],
+   "before_ads": [
+    -1.13,
+    3.58
+   ],
+   "before_ads_pct": [
+    -0.08,
+    0.24
+   ],
+   "verdict": "bad",
+   "at_q1_price": -2.37
+  },
+  "pore_patch": {
+   "format": "коробка на 10–20 полосок",
+   "price": 14.98,
+   "price_low_q1": 10.15,
+   "supplier": [
+    0.5,
+    1.2
+   ],
+   "duty": 0.2,
+   "fees": {
+    "referral": 2.25,
+    "fba": 3.92,
+    "storage": 0.02,
+    "returns": 0.3
+   },
+   "amazon_take": 6.17,
+   "landed": [
+    1.05,
+    1.89
+   ],
+   "before_ads": [
+    6.6,
+    7.44
+   ],
+   "before_ads_pct": [
+    0.44,
+    0.5
+   ],
+   "verdict": "good",
+   "at_q1_price": 3.01
+  },
+  "rosemary_oil": {
+   "format": "флакон 60–180 мл",
+   "price": 14.99,
+   "price_low_q1": 9.99,
+   "supplier": [
+    1.0,
+    2.5
+   ],
+   "duty": 0.249,
+   "fees": {
+    "referral": 2.25,
+    "fba": 4.15,
+    "storage": 0.05,
+    "returns": 0.3
+   },
+   "amazon_take": 6.4,
+   "landed": [
+    1.95,
+    3.82
+   ],
+   "before_ads": [
+    4.42,
+    6.29
+   ],
+   "before_ads_pct": [
+    0.29,
+    0.42
+   ],
+   "verdict": "tight",
+   "at_q1_price": 2.82
+  },
+  "prewash_oil": {
+   "format": "флакон 60–100 мл",
+   "price": 10.97,
+   "price_low_q1": 9.97,
+   "supplier": [
+    1.0,
+    2.5
+   ],
+   "duty": 0.249,
+   "fees": {
+    "referral": 1.65,
+    "fba": 4.15,
+    "storage": 0.05,
+    "returns": 0.22
+   },
+   "amazon_take": 5.8,
+   "landed": [
+    1.85,
+    3.72
+   ],
+   "before_ads": [
+    1.18,
+    3.06
+   ],
+   "before_ads_pct": [
+    0.11,
+    0.28
+   ],
+   "verdict": "bad",
+   "at_q1_price": 2.9
+  },
+  "whitening_powder": {
+   "format": "баночка 30–60 г",
+   "price": 13.99,
+   "price_low_q1": 9.05,
+   "supplier": [
+    0.6,
+    1.5
+   ],
+   "duty": 0.2,
+   "fees": {
+    "referral": 2.1,
+    "fba": 3.92,
+    "storage": 0.02,
+    "returns": 0.28
+   },
+   "amazon_take": 6.02,
+   "landed": [
+    1.17,
+    2.25
+   ],
+   "before_ads": [
+    5.42,
+    6.5
+   ],
+   "before_ads_pct": [
+    0.39,
+    0.46
+   ],
+   "verdict": "good",
+   "at_q1_price": 3.4
+  },
+  "turmeric_soap": {
+   "format": "2 бруска по ~100 г",
+   "price": 10.99,
+   "price_low_q1": 7.23,
+   "supplier": [
+    1.3,
+    3.3
+   ],
+   "duty": 0.375,
+   "fees": {
+    "referral": 1.65,
+    "fba": 4.41,
+    "storage": 0.05,
+    "returns": 0.22
+   },
+   "amazon_take": 6.06,
+   "landed": [
+    2.59,
+    5.34
+   ],
+   "before_ads": [
+    -0.67,
+    2.08
+   ],
+   "before_ads_pct": [
+    -0.06,
+    0.19
+   ],
+   "verdict": "bad",
+   "at_q1_price": -1.0
+  },
+  "hair_removal_cream": {
+   "format": "тюбик 100–200 мл",
+   "price": 10.47,
+   "price_low_q1": 9.98,
+   "supplier": [
+    0.9,
+    1.7
+   ],
+   "duty": 0.2,
+   "fees": {
+    "referral": 1.57,
+    "fba": 4.41,
+    "storage": 0.05,
+    "returns": 0.31
+   },
+   "amazon_take": 5.98,
+   "landed": [
+    1.98,
+    2.94
+   ],
+   "before_ads": [
+    1.19,
+    2.15
+   ],
+   "before_ads_pct": [
+    0.11,
+    0.21
+   ],
+   "verdict": "bad",
+   "at_q1_price": 2.88
+  },
+  "scent_diffuser": {
+   "format": "безводный диффузор с аккумулятором",
+   "price": 89.99,
+   "price_low_q1": 52.99,
+   "supplier": [
+    15.0,
+    45.0
+   ],
+   "duty": 0.4,
+   "fees": {
+    "referral": 13.5,
+    "fba": 6.51,
+    "storage": 0.31,
+    "returns": 4.5
+   },
+   "amazon_take": 20.01,
+   "landed": [
+    22.5,
+    64.5
+   ],
+   "before_ads": [
+    0.67,
+    42.67
+   ],
+   "before_ads_pct": [
+    0.01,
+    0.47
+   ],
+   "verdict": "bad",
+   "at_q1_price": -7.93
+  },
+  "neck_cream": {
+   "format": "баночка 50 мл",
+   "price": 23.0,
+   "price_low_q1": 14.64,
+   "supplier": [
+    1.5,
+    2.8
+   ],
+   "duty": 0.2,
+   "fees": {
+    "referral": 3.45,
+    "fba": 4.15,
+    "storage": 0.05,
+    "returns": 0.46
+   },
+   "amazon_take": 7.6,
+   "landed": [
+    2.5,
+    4.06
+   ],
+   "before_ads": [
+    10.83,
+    12.39
+   ],
+   "before_ads_pct": [
+    0.47,
+    0.54
+   ],
+   "verdict": "good",
+   "at_q1_price": 4.67
+  },
+  "chin_wrap": {
+   "format": "5–10 масок V-line или бандаж",
+   "price": 19.97,
+   "price_low_q1": 8.99,
+   "supplier": [
+    1.5,
+    4.0
+   ],
+   "duty": 0.25,
+   "fees": {
+    "referral": 3.0,
+    "fba": 3.92,
+    "storage": 0.05,
+    "returns": 0.6
+   },
+   "amazon_take": 6.92,
+   "landed": [
+    2.38,
+    5.5
+   ],
+   "before_ads": [
+    6.91,
+    10.03
+   ],
+   "before_ads_pct": [
+    0.35,
+    0.5
+   ],
+   "verdict": "good",
+   "at_q1_price": 1.0
+  },
+  "exfoliating_towel": {
+   "format": "одно длинное нейлоновое полотенце",
+   "price": 19.49,
+   "price_low_q1": 9.99,
+   "supplier": [
+    0.5,
+    1.0
+   ],
+   "duty": 0.35,
+   "fees": {
+    "referral": 2.92,
+    "fba": 4.15,
+    "storage": 0.07,
+    "returns": 0.58
+   },
+   "amazon_take": 7.07,
+   "landed": [
+    1.28,
+    1.95
+   ],
+   "before_ads": [
+    9.81,
+    10.49
+   ],
+   "before_ads_pct": [
+    0.5,
+    0.54
+   ],
+   "verdict": "good",
+   "at_q1_price": 3.97
+  },
+  "magnesium_spray": {
+   "format": "спрей 240–350 мл",
+   "price": 13.8,
+   "price_low_q1": 12.49,
+   "supplier": [
+    1.2,
+    3.0
+   ],
+   "duty": 0.25,
+   "fees": {
+    "referral": 2.07,
+    "fba": 4.83,
+    "storage": 0.07,
+    "returns": 0.28
+   },
+   "amazon_take": 6.9,
+   "landed": [
+    2.5,
+    4.75
+   ],
+   "before_ads": [
+    1.8,
+    4.05
+   ],
+   "before_ads_pct": [
+    0.13,
+    0.29
+   ],
+   "verdict": "bad",
+   "at_q1_price": 1.84
+  }
+ }
+}

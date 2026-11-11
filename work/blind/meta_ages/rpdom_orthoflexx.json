@@ -1,0 +1,298 @@
+{
+ "phrase": "orthoflexx.com",
+ "date": "2026-11-10",
+ "active": 670,
+ "aged30": 420,
+ "aged90": 290,
+ "aged180": 55,
+ "ads": [
+  {
+   "id": "4216651525235878",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "700755075654412",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "24884026027860602",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1555136532148581",
+   "page": "OrthoFlexx",
+   "start": "2025-10-26",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1421576398931828",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2015263695936236",
+   "page": "OrthoFlexx",
+   "start": "2025-11-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "795216639820094",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2226877121111241",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "3077750779279468",
+   "page": "OrthoFlexx",
+   "start": "2025-12-29",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "674368582397524",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1001375195507298",
+   "page": "OrthoFlexx",
+   "start": "2025-11-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2564707960553869",
+   "page": "OrthoFlexx",
+   "start": "2025-10-15",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1379934610481268",
+   "page": "OrthoFlexx",
+   "start": "2025-10-24",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1463519805476583",
+   "page": "OrthoFlexx",
+   "start": "2026-01-26",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1158998259686960",
+   "page": "OrthoFlexx",
+   "start": "2025-12-05",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "2688999191453756",
+   "page": "OrthoFlexx",
+   "start": "2025-10-07",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1128097382850933",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "25002706132685176",
+   "page": "OrthoFlexx",
+   "start": "2025-11-04",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1266735778545818",
+   "page": "OrthoFlexx",
+   "start": "2025-11-03",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1620754495551466",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1471780697464224",
+   "page": "OrthoFlexx",
+   "start": "2025-10-02",
+   "n": 2,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1317411830319833",
+   "page": "OrthoFlexx",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "850449347821589",
+   "page": "OrthoFlexx",
+   "start": "2026-01-29",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "991015953485591",
+   "page": "OrthoFlexx",
+   "start": "2026-05-01",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "1522271252559526",
+   "page": "OrthoFlexx",
+   "start": "2026-07-30",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "728877443572007",
+   "page": "OrthoFlexx",
+   "start": "2026-07-09",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1361852939461939",
+   "page": "OrthoFlexx",
+   "start": "2026-08-04",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "778520865322478",
+   "page": "OrthoFlexx",
+   "start": "2026-07-13",
+   "n": 1,
+   "domain": "",
+   "window": "90-180"
+  },
+  {
+   "id": "1443598197878897",
+   "page": "OrthoFlexx",
+   "start": "2026-10-06",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1541361267318172",
+   "page": "OrthoFlexx",
+   "start": "2026-09-10",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "28136072049336015",
+   "page": "OrthoFlexx",
+   "start": "2026-09-10",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2227070904812198",
+   "page": "OrthoFlexx",
+   "start": "2026-08-17",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1614260797045818",
+   "page": "OrthoFlexx",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1667727728198383",
+   "page": "OrthoFlexx",
+   "start": "2026-10-07",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2365724103961931",
+   "page": "OrthoFlexx",
+   "start": "2026-09-25",
+   "n": 2,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1474164548024498",
+   "page": "OrthoFlexx",
+   "start": "2026-10-29",
+   "n": 2,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "domain": "kittykazoom.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-07-15",
+ "ads": "3",
+ "pages": [],
+ "home": {
+  "url": "https://kittykazoom.com/?currency=USD",
+  "final": "https://kittykazoom.com/?currency=USD",
+  "status": 200,
+  "title": "Kitty Ka-Zoom",
+  "desc": "Premium organic catnip products, catnip toys and flavored cat treats. Cat accessories, silvervine and valerian root for cats, gifts for cat lovers, cat treats, catnip spray, catnip buds, and products that will make your Kitty go Ka-ZOOM!",
+  "kw_hits": [
+   " & Bubbles Compressed Catnip Compressed Catnip Rollers Pops Silvervine Sticks Shop All About About Blog FAQ Contact Store Locator Log in Shop Catnip T",
+   "Toys Treats Sprays & Bubbles Compressed Catnip Rollers Pops Silvervine Sticks Shop All About Blog FAQ Contact Store Locator Search Log in Cart 🌿 Fresh",
+   "fillable Catnip Toy + Catnip $6.99 Add to cart ZOOM CHEWS - Silvervine Sticks $5.99 Add to cart ZOOMIE SNAKE KICKER - Refillable Cat Toy + Catnip $6.9",
+   "\"catnip gene.\" Those cats often respond to Valerian Root or Silvervine instead. Kittens under six months don't react to catnip. 🌿 Free Shipping on US "
+  ],
+  "kw_n": 7,
+  "prices": [
+   "$0.00",
+   "$19.99",
+   "$19.99",
+   "$19.99",
+   "$19.99",
+   "$19.99",
+   "$5.99",
+   "$5.99"
+  ],
+  "currency_meta": [
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "Subscribe Payment methods © 2026, Kitty Ka-Zoom Powered by Shopify Re"
+  ],
+  "epa": [],
+  "len": 6410
+ },
+ "rdap": "2023-06-01",
+ "wayback": "2023-12-27",
+ "age_class": "old"
+}

@@ -1,0 +1,130 @@
+{
+ "phrase": "earthkind.com",
+ "date": "2026-11-10",
+ "active": 16,
+ "aged30": 12,
+ "aged90": 4,
+ "aged180": 2,
+ "ads": [
+  {
+   "id": "1275862457927795",
+   "page": "EarthKind",
+   "start": "2026-02-10",
+   "n": 1,
+   "domain": "",
+   "window": "180+"
+  },
+  {
+   "id": "963730913406577",
+   "page": "EarthKind",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "90-180"
+  },
+  {
+   "id": "2474008613092430",
+   "page": "EarthKind",
+   "start": "2026-08-07",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "90-180"
+  },
+  {
+   "id": "1793848064967301",
+   "page": "EarthKind",
+   "start": "2026-08-25",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "2497964244029719",
+   "page": "EarthKind",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1606505227819301",
+   "page": "EarthKind",
+   "start": "2026-09-22",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2199157154278513",
+   "page": "EarthKind",
+   "start": "2026-10-02",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1606984527591543",
+   "page": "EarthKind",
+   "start": "2026-09-24",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "30-90"
+  },
+  {
+   "id": "1748605066435372",
+   "page": "EarthKind",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "30-90"
+  },
+  {
+   "id": "28667340269545238",
+   "page": "EarthKind",
+   "start": "2026-10-05",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "30-90"
+  },
+  {
+   "id": "2494945887680439",
+   "page": "EarthKind",
+   "start": "2026-10-03",
+   "n": 1,
+   "domain": "",
+   "window": "30-90"
+  },
+  {
+   "id": "1446756794311860",
+   "page": "EarthKind",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  },
+  {
+   "id": "921579697558789",
+   "page": "EarthKind",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1806499523921301",
+   "page": "EarthKind",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "earthkind.com",
+   "window": "0-30"
+  },
+  {
+   "id": "1144516734901202",
+   "page": "EarthKind",
+   "start": "2026-10-30",
+   "n": 1,
+   "domain": "",
+   "window": "0-30"
+  }
+ ]
+}

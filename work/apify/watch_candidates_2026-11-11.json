@@ -1,0 +1,118 @@
+{
+ "trynova.store": {
+  "ads90": 5,
+  "meta_total": 5,
+  "ours90": 5,
+  "ours180": 0,
+  "oldest": 100,
+  "creatives": 5,
+  "pages": [
+   [
+    "Trending On K-Beauty",
+    5
+   ]
+  ],
+  "links": [
+   [
+    "https://trynova.store/pages/listicle8",
+    5
+   ]
+  ]
+ },
+ "hestiacosmetics.com": {
+  "ads90": 180,
+  "meta_total": 383,
+  "ours90": 180,
+  "ours180": 28,
+  "oldest": 197,
+  "creatives": 173,
+  "pages": [
+   [
+    "Hestia",
+    180
+   ]
+  ],
+  "links": [
+   [
+    "iacosmetics.com/products/color-changing-foundation",
+    179
+   ],
+   [
+    "s://hestiacosmetics.com/pages/beware-of-imitations",
+    1
+   ]
+  ]
+ },
+ "officialyuki.com": {
+  "ads90": 40,
+  "meta_total": 40,
+  "ours90": 40,
+  "ours180": 0,
+  "oldest": 125,
+  "creatives": 40,
+  "pages": [
+   [
+    "Korean Foundation Tips",
+    40
+   ]
+  ],
+  "links": [
+   [
+    "ficialyuki.com/products/changing-foundation-4-in-1",
+    40
+   ]
+  ]
+ },
+ "tryholicow.com": {
+  "ads90": 7,
+  "meta_total": 7,
+  "ours90": 7,
+  "ours180": 0,
+  "oldest": 163,
+  "creatives": 7,
+  "pages": [
+   [
+    "Holicow",
+    5
+   ],
+   [
+    "Rebecca Brown",
+    2
+   ]
+  ],
+  "links": [
+   [
+    "u-whipped-tallow-honey-balm-with-methylene-blue-o3",
+    6
+   ],
+   [
+    "-whipped-tallow-honey-balm-with-methylene-blue-100",
+    1
+   ]
+  ]
+ },
+ "trylumineskin.com": {
+  "ads90": 40,
+  "meta_total": 40,
+  "ours90": 40,
+  "ours180": 32,
+  "oldest": 371,
+  "creatives": 32,
+  "pages": [
+   [
+    "Hestia",
+    26
+   ],
+   [
+    "Lumine Skin",
+    14
+   ]
+  ],
+  "links": [
+   [
+    "ylumineskin.com/products/color-changing-foundation",
+    40
+   ]
+  ]
+ }
+}

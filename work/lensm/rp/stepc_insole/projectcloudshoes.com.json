@@ -1,0 +1,40 @@
+{
+ "domain": "projectcloudshoes.com",
+ "fetched": "2026-11-10",
+ "oldest_ad": "2026-05-19",
+ "ads": "1",
+ "pages": [],
+ "home": {
+  "url": "https://projectcloudshoes.com/?currency=USD",
+  "final": "https://projectcloudshoes.com/?currency=USD",
+  "status": 200,
+  "title": "Comfortable Shoes for Women, Men & Kids",
+  "desc": "Step into cloud-like comfort with Project Cloud Shoes—premium footwear and clogs for men, women, and kids. From cozy slippers to stylish boots and everyday sandals, our shoes combine superior support, timeless style, and unbeatable value. Comforta...",
+  "kw_hits": [],
+  "kw_n": 0,
+  "prices": [
+   "$50",
+   "$69.99",
+   "$69.99",
+   "$44.90",
+   "$44.90",
+   "$49.90",
+   "$49.90",
+   "$64.90"
+  ],
+  "currency_meta": [
+   "USD",
+   "USD",
+   "USD"
+  ],
+  "bundle": [],
+  "sub": [
+   "Step Learn More As Seen On You Follow @ProjectCloudOffical Subscribe to our emails & get 15% Off Discover What’s Next in Comfort"
+  ],
+  "epa": [],
+  "len": 5074
+ },
+ "rdap": "2023-03-14",
+ "wayback": "2024-04-02",
+ "age_class": "old"
+}
